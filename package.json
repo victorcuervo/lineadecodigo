@@ -15,11 +15,13 @@
     "sharp": "^0.34.2",
     "starlight-sidebar-topics": "^0.6.2",
     "starlight-sidebar-topics-dropdown": "^0.5.2",
-    "starlight-ui-tweaks": "^0.1.0",
-    "@notionhq/client": "^1.0.4",
-    "@types/node-fetch": "^2.6.2",
-    "moment": "^2.29.2",
-    "node-fetch": "^2.6.7",
-    "notion-to-md": "^2.5.5"
-  }
+    "starlight-ui-tweaks": "^0.1.0"
+  },
+  "devDependencies": {
+      "@notionhq/client": "^1.0.4",
+      "@types/node-fetch": "^2.6.2",
+      "moment": "^2.29.2",
+      "node-fetch": "^2.6.7",
+      "notion-to-md": "^2.5.5"
+    }
 }
