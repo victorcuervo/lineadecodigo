@@ -28,7 +28,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT }}
         with:
           commit_message: Nuevos Elementos
-          branch: master
+          branch: main
           commit_user_name: importer-bot 🤖
           commit_user_email: actions@github.com
           commit_author: importer-bot 🤖 <actions@github.com>
