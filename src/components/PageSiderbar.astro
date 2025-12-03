@@ -1,0 +1,24 @@
+---
+import Default from '@astrojs/starlight/components/PageSidebar.astro'
+
+const pathname = Astro.url.pathname;
+const category = pathname.split('/')[1];
+---
+
+<Default><slot /></Default>
+
+<div class="hide-mobile">
+    { category }
+
+    Descarga el manual 
+    <img width="100" height="100" src="https://lineadecodigo.com/wp-content/themes/vcptheme/img/tutorials/java.jpeg">
+</div>
+
+<style>
+/* Oculto en pantallas pequeñas */
+@media (max-width: 768px) {
+  .hide-mobile {
+    display: none;
+  }
+}
+</style>

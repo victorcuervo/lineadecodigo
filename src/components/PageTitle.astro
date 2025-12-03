@@ -1,0 +1,9 @@
+---
+import Default from '@astrojs/starlight/components/PageTitle.astro';
+import AuthorCard from './AuthorCard.astro'
+const { entry } = Astro.locals.starlightRoute;
+const author = entry?.rendered?.metadata?.frontmatter?.author;
+---
+
+<Default><slot /></Default>
+{author && author !== undefined && <AuthorCard id={author} />}

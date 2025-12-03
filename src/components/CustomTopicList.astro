@@ -1,0 +1,16 @@
+---
+const { topics } = Astro.locals.starlightSidebarTopics
+---
+
+<nav>
+  {
+    topics.map((topic) => (
+      <>
+        <a href={topic.link} aria-current={topic.isCurrent ? 'page' : false}>
+          {topic.label}
+        </a>
+        <span class="spacer">  a</span>
+      </>
+    ))
+  }
+</nav>
