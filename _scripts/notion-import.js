@@ -72,7 +72,7 @@ async function resolveSyncedBlocks(mdblocks) {
 		let title = ''
 		let ptitle = r.properties?.['Name']?.['title']
 		if (ptitle?.length > 0) {
-			title = ptitle[0]?.['plain_text']
+			title = ptitle[0]?.['plain_text'].replace(/:/g, ' -')
 		}
 		
 		// Excerpt
@@ -102,7 +102,7 @@ async function resolveSyncedBlocks(mdblocks) {
         
 const fm = `---
 title: ${title}
-description: "${excerpt}"
+description: "${excerpt.replace(/"/g, '\\"')}"
 lastUpdated: ${date}
 author: victor_cuervo
 ---
