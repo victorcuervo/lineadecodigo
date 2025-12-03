@@ -92,7 +92,7 @@ async function resolveSyncedBlocks(mdblocks) {
        let psubcats = r.properties?.['Subcategory']?.['multi_select']
        subcat = psubcats[0]?.['name']
 
-       let nav = cat.toLowerCase() + '/' + subcat.toLowerCase();
+		let nav = cat.toLowerCase() + (subcat ? '/' + subcat.toLowerCase() : '');
 
 		// Slug
 		let slug = ''
@@ -117,7 +117,7 @@ author: victor_cuervo
 		console.log(md);
 
         // ensure directory exists
-	    const root = path.join('_posts', nav)
+	    const root = path.join('src/content/docs', nav)
 	    fs.mkdirSync(root, { recursive: true })
 
 		//writing to file
