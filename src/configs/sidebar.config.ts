@@ -29,13 +29,23 @@ export const sidebar = [
         ],
     },
     {
+        label: 'Javascript',
+        link: '/javascript/',
+        icon: 'seti:javascript',
+        items: [
+            {
+            label: 'Reference',
+            autogenerate: { directory: 'javascript' },
+            }],
+    },
+    {
         label: 'MongoDB',
         link: '/mongodb/',
         icon: 'seti:db',
         items: [
             {
-            label: 'Reference',
-            autogenerate: { directory: 'guides' },
+            label: 'Básicos',
+            autogenerate: { directory: 'mongodb/basicos' },
             }],
     },
     {
@@ -49,13 +59,33 @@ export const sidebar = [
             }],
     },
     {
-        label: 'Javascript',
-        link: '/javascript/',
-        icon: 'seti:javascript',
+        label: 'Rust',
+        link: '/rust/',
+        icon: 'seti:rust',
         items: [
             {
-            label: 'Reference',
-            autogenerate: { directory: 'javascript' },
+            label: 'Básicos',
+            autogenerate: { directory: 'rust/basicos' },
+            }],
+    },
+    {
+        label: 'sql',
+        link: '/sql/',
+        icon: 'seti:db',
+        items: [
+            {
+            label: 'Básicos',
+            autogenerate: { directory: 'sql' },
+            }],
+    },
+    {
+        label: 'XML',
+        link: '/xml/',
+        icon: 'seti:xml',
+        items: [
+            {
+            label: 'Básicos',
+            autogenerate: { directory: 'xml' },
             }],
     },
 ]

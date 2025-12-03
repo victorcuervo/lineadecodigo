@@ -98,13 +98,12 @@ async function resolveSyncedBlocks(mdblocks) {
 		let slug = ''
 		let pslug = r.properties?.['Slug']?.['formula']
 		slug = pslug?.['string']
-
 	
         
 const fm = `---
 title: ${title}
 description: "${excerpt}"
-lastupdates: ${date}
+lastUpdated: ${date}
 author: victor_cuervo
 ---
 `
