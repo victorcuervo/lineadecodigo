@@ -1,227 +1,113 @@
 ---
-title: Páginas adaptadas para imprimir con CSS
-description: "Cómo podemos definir estilos para poder crear páginas adaptadas para imprimir con CSS y buenas prácticas a la hora de definir los elementos."
-lastupdates: 2023-10-07
+title: Alto y ancho de una tabla en HTML
+description: "Uso de las propiedades width y height de css sobre un elemento table para poder definir el alto y ancho de una tabla en html."
+lastupdates: 2023-05-18
 author: victor_cuervo
 ---
 
-Normalmente se utiliza el [desarrollo de hojas de estilo CSS](https://lineadecodigo.com/categoria/css/) para poder diseñar las páginas web, pero una cosa que se utiliza menos es poder crear páginas adaptadas para imprimir con [CSS](https://www.manualweb.net/css/).
+Mediante [el lenguaje CSS](https://www.manualweb.net/css/) podemos definir el alto y ancho de una tabla en [HTML](https://www.manualweb.net/html/) de una forma muy sencilla. Lo primero que tenemos que saber es cómo [crear una tabla en HTML](http://lineadecodigo.com/html/crear-una-tabla-en-html/).
 
 
-Y es que igual que utilizamos clases, selectores y propiedades para poder colocar nuestros elementos dentro del [navegador web](https://www.ayudaenlaweb.com/navegadores/que-es-un-navegador/), podemos utilizarlas para colocar los elementos cuando se vayan a imprimir. 
+Al [crear una tabla en HTML](http://lineadecodigo.com/html/crear-una-tabla-en-html/) vemos que el elemento principal [HTML](https://www.manualweb.net/html/) es el elemento [`table`](https://w3api.com/HTML/table/). Así que a la hora de definir el alto y ancho de una tabla en [HTML](https://www.manualweb.net/html/) lo que tenemos que hacer es modificar las propiedades de este elemento [`table`](https://w3api.com/HTML/table/).
 
 
-Pero además podremos ocultar aquellos que no nos interesen o readaptar otros para que se vean mejor una vez que imprimimos la página web por la impresora.
-
-
-### ¿Por qué utilizar CSS para adaptar las páginas en una impresión?
-
-
-Pero, cuál es el motivo por cual nos lleve a imprimir una página web. Pues los motivos pueden ser lo más diversos.
-
-
-Por ejemplo, algunos de los casos por los que tendríamos que crear páginas adaptadas para imprimir con [CSS](https://www.manualweb.net/css/) pueden ser:
-
-- **Páginas que muestran códigos QR u otros códigos de acceso** para eventos, espectáculos o transportes, los cuales necesitan ser impresos para su posterior escaneo en los puntos de control
-- **Documentos administrativos o legales** que requieren ser archivados en formato físico por motivos de cumplimiento normativo o políticas organizacionales
-- **Facturas, recibos y otros documentos contables** que necesitan ser conservados en papel para cumplir con requisitos fiscales o para mantener registros financieros físicos
-- **Páginas con información técnica, guías de referencia o manuales** que se consultan frecuentemente y resulta más práctico tenerlos impresos para su uso cotidiano
-- Páginas con contenido importante que necesitan estar disponibles para su **consulta cuando no se tiene acceso a Internet** o a dispositivos electrónicos
-- Generar **documentos físicos sobre los que necesitamos realizar anotaciones manuales**, subrayados o comentarios durante reuniones o sesiones de trabajo
-
-Y, cuando imprimimos páginas web, frecuentemente nos encontramos con una serie de situaciones problemáticas que seguramente has experimentado en algún momento y que pueden dificultar significativamente la legibilidad y utilidad del documento impreso:
-
-- **Aparecen las imágenes de publicidad de manera intrusiva**, ocupando espacio valioso y consumiendo tinta innecesariamente en el documento final
-- **El texto se muestra en un tamaño demasiado reducido** para una lectura cómoda, lo que puede resultar especialmente problemático para personas con dificultades visuales
-- La distribución del contenido no respeta los límites naturales de las páginas, provocando que **el texto se corte de manera abrupta entre una página y otra**, interrumpiendo la lectura
-- **Persisten elementos de navegación web** como menús, botones y barras laterales que, si bien son esenciales para la experiencia digital, resultan completamente superfluos e incluso molestos en la versión impresa
-- Los enlaces mantienen su formato web tradicional con **colores y subrayados que no aportan valor alguno al documento impreso** y pueden distraer de la lectura del contenido principal
-- **Las imágenes presentan problemas de contraste** significativos que resultan en impresiones demasiado oscuras o poco nítidas, comprometiendo la calidad visual del documento final
-
-Así que en este artículo para crear páginas adaptadas para imprimir con [CSS](https://www.manualweb.net/css/) veremos cómo podemos resolver todos estos handicaps.
-
-
-### Estilos CSS para imprimir páginas
-
-
-Lo primero que tenemos que saber para poder crear páginas adaptadas para imprimir con [CSS](https://www.manualweb.net/css/) es cómo se gestionan los estilos [CSS](https://www.manualweb.net/css/) en para estos casos.
-
-
-Los estilos que se utilizan para imprimir los podemos indicar utilizando la regla [`@media`](https://www.w3api.com/CSS/media/) que es la que nos sirve para [poder definir las media-queries](https://arquitectoit.com/front/layout-adaptable-en-disenos-sensibles/).
-
-
-Básicamente tendremos que decir que el medio para el cual queremos utilizar los estilos es el medio `“print”`.
-
-
-Este medio lo podemos definirlo dentro de un [código CSS](https://lineadecodigo.com/categoria/css/):
-
-
-```css
-@media print {
- /* Estilos CSS para imprimir */
-}
-```
-
-
-O cuando enlacemos una [hoja de estilo CSS](https://www.manualweb.net/css/) mediante el elemento [`link`](https://www.w3api.com/HTML/link/). En concreto con el atributo [`media`](https://www.w3api.com/HTML/link/media/) del elemento [`link`](https://www.w3api.com/HTML/link/).
+La tabla que podemos manejar es una parecida a la siguiente:
 
 
 ```html
-<link rel="stylesheet" media="print" href="imprimir.css">
+<table>
+<tr>
+	<th>País</th>
+	<th>Capital</th>
+	<th>Superficie</th>
+	<th>Habitantes</th>
+</tr>
+<tr>
+	<td>España</td>
+	<td>Madrid</td>
+	<td>504.645 km<sup>2</sup></td>
+	<td>46,6 M</td>
+</tr>
+</table>
 ```
 
 
-De esta manera todos los elementos de asociados a estas hojas de estilo aplicarán cuando vayamos a imprimir la página.
+Hemos utilizado el elemento [`tr`](https://w3api.com/HTML/tr/) para generar las filas, el elemento [`th`](https://w3api.com/HTML/th/) para generar celdas de cabecera y el elemento [`td`](https://w3api.com/HTML/td/) para generar las celdas de contenido.
 
 
-En el caso de que queramos especificar los estilos que van a aplicar cuando se muestre en el [navegador web](https://www.ayudaenlaweb.com/navegadores/que-es-un-navegador/) podemos o bien no especificar tipo de [`@media`](https://www.w3api.com/CSS/media/) para estos estilos.
-
-
-```css
-/* Estilos CSS para el navegador web */
-
-@media print {
- /* Estilos CSS para imprimir */
-}
-```
-
-
-O bien indicar que el tipo de [`@media`](https://www.w3api.com/CSS/media/) es igual a `“screen”`:
-
-
-```css
-@media screeen {
-	/* Estilos CSS para el navegador web */
-}
-
-@media print {
- /* Estilos CSS para imprimir */
-}
-```
-
-
-O enlazándolas por [`link`](https://www.w3api.com/HTML/link/):
+Ahora creamos en la parte superior de nuestra página web un código [CSS](http://www.manualweb.net/css/) donde daremos estilo a nuestra tabla. Para ello deberemos de utilizar el elemento [`style`](https://w3api.com/HTML/style/).
 
 
 ```html
-<link rel="stylesheet" media="screen" href="main.css">
-<link rel="stylesheet" media="print" href="imprimir.css">
+<head>
+  <style>
+  // Estilos CSS
+  </style>
+</head>
 ```
 
 
-### Buenas prácticas de estilo para páginas de impresión
-
-
-A continuación, exploraremos en detalle las mejores prácticas y recomendaciones fundamentales que debemos considerar al momento de definir los elementos y estilos para crear páginas adaptadas para imprimir con [CSS](https://www.manualweb.net/css/).
-
-
-Estas prácticas nos ayudarán a garantizar que nuestros documentos impresos sean profesionales, legibles y útiles para el usuario final.
-
-1. Eliminar elementos no informativos que puedan distraer o consumir recursos innecesarios en la impresión.
-2. Fondo en blanco, texto a 12pt y ajustar márgenes para garantizar una óptima legibilidad y presentación del contenido.
-3. Invertir el color de las imágenes para mejorar su visibilidad y reducir el consumo de tinta en la impresión final.
-4. Añadir contenido antes y/o después de la impresión para proporcionar contexto y metadata relevante al documento.
-5. Controlar los saltos de páginas para mantener la coherencia y estructura lógica del contenido impreso.
-
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/b44a5280-94c4-4879-b28a-2a22c936909b/058f2ff9-8ea3-4552-9c35-e3d018bbfcdc/estilo-print-css.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UV54YQQW%2F20251203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251203T201055Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLXdlc3QtMiJHMEUCIQD%2Bn5zCPWPSf4ntWF4o2EbnVO3wF0l19cfzs5DazTeXxQIgbRug2miqGtHDyEnhdsV5D6cHDjjVN7sP0hKmnB5z2zUq%2FwMINBAAGgw2Mzc0MjMxODM4MDUiDGTYWDOXQurcPAiO3SrcA13JZG6Wh7p3W1qVtsj75kAd3vG7Dy79ZgI5M0XEv27wfOYPuLSYpCufORcCPhiec6gLyIV2X0hEXLLh1X%2BZ4vllzsOuMS1gePg95i%2F9tnhE1YPk0Bz9nwYzNoOkDB8bj4Pbg0SB4BXgN%2BKGOW7UDOL8FkN8OA85BmZUDj%2BcvK%2FScphMt8CeSZhjA34bpnyRu%2FhwI7S8UaIEDI5I4P4aWnDr%2FjqNyf2dIjYEk9MyGbPpOmgj6EO0dcgvIHmjZv%2FMXuSzYXa7WqmXXj5yAXHtKJI%2FFOGtlY5z8X5UJIuCo1DxCuiUG0lop2Mtu7fMv6OaSIQ%2Brn1%2BgDdmry%2Bg1ABplW6ksfHYbOjw4dlyWqHxvPDUS0S4lYn9A6Uz6tD5yCLMD0Et9pSOZ4%2Ftne63KNSRYlUC7c9vR%2BNt6stkuC8gEpZ8%2Bw0PhmkG4FD1RaUk9uf6lQk98swruKAUYSOmIwYfU6uFmSwR96Qx97dfWGIYm0gxMzGEoxx3bkVVIiIkL4MEqgwP%2Fht1PeEuhNfDMYv0OVpu%2FGwUhNT1pRI5vGwRMjKonRszdg1sjcoDTVlct%2FPe4CmcxYP19RE9kgSsHsKDaY7j0Y%2FNh3c3d2vj2ewN14oKznKIDPIecz9YL9jVMIKRwskGOqUBkEecEZZAFj7DKLanoI9VRognWVU01gl%2FcKtSNy98uhHoIoJqW9s80VzdKdgCVmAMyob25dn3KhbUu5xDk%2Fm5WgMjVUIACHbaA4c1YzMtIIWbI1NO76S%2BTFXJmEfylB0eWqiaFml%2BfGJddBQXaFpc1dbgsywbY7y890RxMX04U9yukjkT6ZcQxOmy9mRFh%2B%2Bp3b5VgtKOi59Rw3wFzo3U1Ncma5ns&X-Amz-Signature=f533ef1a9759fc759c71990d840b74cdfb19b37c5c3f313270ad459d1affd4ef&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
-
-
-### Eliminar Elementos No Informativos
-
-
-Existen muchos elementos que están en la web que dentro de la impresión no van a aportar nada, como son los menús, elementos auxiliares, formularios,… por lo que utilizaremos la propiedad [`display`](https://www.w3api.com/CSS/display/) con un valor de `“none”` para que no se muestren.
-
-
-Así que añadiremos el siguiente código:
+Para indicar las propiedades de la tabla utilizamos `table` como **selector**:
 
 
 ```css
-header, footer, aside, nav, form, iframe, .menu, .hero, .adslot {
-    display: none;
+table {
+  ...
 }
 ```
 
 
-### Ajustar el texto, fondo y márgenes
-
-
-En este caso es poner el contenido de texto en un formato que sea legible dentro de una página impresa, por lo que pondremos el fondo en un color blanco mediante la propiedad [`background-color`](https://www.w3api.com/CSS/background-color/), el tamaño del texto en 12pt o 14pt para que sea legible, en este caso utilizamos la propiedad [`font-size`](https://www.w3api.com/CSS/font-size/) y podemos añadir márgenes al folio mediante la propiedad [`margin`](https://www.w3api.com/CSS/margin/).
-
-
-El [código CSS](https://lineadecodigo.com/categoria/css/) que añadiremos para poder ajustar el texto, fondo y márgenes será el siguiente:
+Ahora para definir el alto y ancho de una tabla en [HTML](https://www.manualweb.net/html/) vamos a utilizar las propiedades [`width`](https://w3api.com/CSS/width/) y [`height`](https://w3api.com/CSS/height/). Podemos definir el alto y el ancho mediante unidades fijas o mediante porcentajes. Por ejemplo podríamos definir lo siguiente:
 
 
 ```css
-body {
-    font-size: 14pt;
-    margin: 20px;
-    color: #000;
-    background-color: #fff;
- }
-```
-
-
-### Invertir el color de las imágenes
-
-
-Para mejorar la calidad de impresión y optimizar el consumo de tinta, podemos invertir el color de las imágenes utilizando la propiedad [`filter`](https://www.w3api.com/CSS/filter/). Esto es especialmente útil cuando tenemos imágenes con fondos oscuros que consumirían mucha tinta al imprimirse.
-
-
-El [código CSS](https://lineadecodigo.com/categoria/css/) que utilizaremos para invertir las imágenes será el siguiente:
-
-
-```css
-img {
-    filter: invert(100%);
+table {
+	width: 50%;
+	height: 300px;
 }
 ```
 
 
-### Añadir contenido antes y/o después de la impresión
+En este caso hemos indicado que **el ancho de la tabla es el 50%** del ancho de la página y que **el alto es de 300px**.
 
 
-En este caso se suele utilizar para poder indicar que la página viene una impresión de una web o si queremos añadir contenido de copyright.
+Podríamos utilizar otras unidades, además del porcentaje y los pixels (px), para definir el alto y el ancho de una tabla en HTML como son las relativas al tamaño de la fuente (em).
 
 
-Para añadir este tipo de contenido utilizaremos los pseudo-elementos [`::before`](https://www.w3api.com/CSS/before/) y [`::after`](https://www.w3api.com/CSS/after/) junto con la propiedad [`content`](https://www.w3api.com/CSS/content/). Esto nos permite insertar texto informativo antes o después del contenido principal cuando se imprima.
+Es importante saber que al utilizar el selector `table` el ancho y alto de la tabla se aplicará a todas las tablas que existan dentro de la página. Si por el contrario queremos aplicarlo a una tabla en concreto o a un conjunto de tablas podemos apoyarnos en **clases** o **indicadores.**
 
 
-Por ejemplo, podemos añadir el siguiente [código CSS](https://lineadecodigo.com/categoria/css/):
+Por ejemplo, si queremos hacerlo a una tabla en concreto utilizaremos el identificador. Para ello lo primero será crear un atributo [`id`](https://w3api.com/HTML/id/) dentro de la tabla.
+
+
+```html
+<table id="mitabla">
+<tr>
+	<th>País</th>
+	<th>Capital</th>
+	<th>Superficie</th>
+	<th>Habitantes</th>
+</tr>
+<tr>
+	<td>España</td>
+	<td>Madrid</td>
+	<td>504.645 km<sup>2</sup></td>
+	<td>46,6 M</td>
+</tr>
+</table>
+```
+
+
+Y en este caso el estilo lo asignaremos al nombre del identificador “mitabla” de la siguiente manera:
 
 
 ```css
-body::before {
-    content: "Impreso desde www.lineadecodigo.com";
-    display: block;
-    margin-bottom: 10px;
-}
-
-body::after {
-    content: "© 2025 Línea de Código - Todos los derechos reservados";
-    display: block;
-    margin-top: 10px;
+#mitabla {
+	width: 50%;
+	height: 300px;
 }
 ```
 
 
-### Controlar los saltos de páginas
-
-
-Para que el texto no se nos quede entre dos páginas y no se pueda leer tenemos la propiedad [`page-break-after`](https://www.w3api.com/CSS/page-break-after/) y la propiedad [`page-break-before`](https://www.w3api.com/CSS/page-break-before/) que nos permiten controlar los saltos de página. También podemos utilizar la propiedad [`page-break-inside`](https://www.w3api.com/CSS/page-break-inside/) para evitar que ciertos elementos se dividan entre páginas.
-
-
-Por ejemplo, podemos aplicar el siguiente [código CSS](https://lineadecodigo.com/categoria/css/) para controlar los saltos de página en títulos y elementos importantes:
-
-
-```css
-section {
-    page-break-after: always;
-}
-```
-
-
-En este caso hemos puesto un valor de `"always"`. Este valor indica que siempre debe haber un salto de página después de cada sección.
-
-
-Seguro que ahora ya tienes muchas ideas de qué hacer y cómo resolver para poder crear páginas adaptadas para imprimir con [CSS](https://www.manualweb.net/css/).
+¿Sabrías cómo dar el estilo al ancho y alto de la tabla mediante una clase? Déjanoslo en los comentarios.
 

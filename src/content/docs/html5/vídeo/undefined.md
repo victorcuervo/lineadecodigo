@@ -1,126 +1,85 @@
 ---
-title: Cambios de volumen en vídeos HTML5
-description: "Artículo que nos explica el uso del evento onvolumechange HTML5 para poder controlar cambios de volumen en vídeos HTML5 y así autoajustarlo."
-lastupdates: 2024-01-29
+title: Buscar por un vídeo en HTML5
+description: "Cómo utilizar el evento onseeking para poder controlar el buscar por un vídeo en HTML5 y volcar el segundo al que se ha desplazado el usuario."
+lastupdates: 2024-01-30
 author: victor_cuervo
 ---
 
-En el artículo de hoy vamos a aprender cómo podemos controlar cambios de volumen en vídeos [HTML5](https://www.manualweb.net/html5/). Es decir, saber cuándo se cambia el volumen de un [vídeo HTML5](https://lineadecodigo.com/tag/html5-video/), ya sea para subir el volumen, bajar el volumen o apagarlo.
+Seguimos con artículos que nos explican cómo podemos mejorar la experiencia cuando estemos cargando [vídeos en HTML5](https://lineadecodigo.com/tag/html5-video/) dentro de nuestras páginas web. En este caso vamos a ver cómo podemos buscar por un vídeo en [HTML5](https://www.manualweb.net/html5/). Es decir, cómo podemos controlar que el usuario está buscando algo dentro del contenido del vídeo y, por consiguiente, tomar acciones al respecto.
 
 
-### Por qué controlar cambios de volumen en vídeos HTML5
+### Motivos para controlar el buscar por un vídeo en HTML5
 
 
-Los ejemplos en los que puede ser interesante controlar cambios de volumen en vídeos [HTML5](https://www.manualweb.net/html5/) son aquellos en los que queremos que un usuario no pueda bajar el volumen de un vídeo o mutearlo. Esto puede ser interesante si estás trabajando en una plataforma de elearning en la cual quieres “asegurarte” que el cliente está escuchando el vídeo.
+La pregunta que se nos puede venir a la cabeza cuando analizamos este código es, ¿realmente es necesario que implementemos un código para saber controlar el buscar por un vídeo en [HTML5](https://www.manualweb.net/html5/)? La respuesta es que puede ser conveniente por varios motivos:
+
+- El primero es saber que el usuario **está buscando o desplazándose por el vídeo**. Esto ya nos da pistas del comportamiento y es ideal para ver la analítica del vídeo. A ¿dónde va? ¿Cuánto tiempo pasa en cada parte?
+- La segunda es porque si tenemos un vídeo en HTML5 que estemos controlando de forma externa. **Mediante botones de reproducción, pausa y otros, nos permitirá el poder bloquearlos o ajustarlos** para que no se produzca un escenario de no control en la carga del vídeo.
+- El tercer motivo sería para **poder controlar la carga de la nueva sección del vídeo**, es decir, que cuando se mueve con la barra se producirá una nueva solicitud de datos en la que puede existir [cargas inestables de vídeos en HTML5](https://lineadecodigo.com/html5/cargas-inestables-de-videos-en-html5/) y por lo tanto queramos ponerle un mensaje o algún logo de cargando al usuario.
+- Y la última, y no menos importante es la de poder **indicar al usuario cuando se haya movido a la nueva sección la información que va a ver**, si es que tenemos información contextual del vídeo que mostrar al usuario.
+
+	![](https://prod-files-secure.s3.us-west-2.amazonaws.com/b44a5280-94c4-4879-b28a-2a22c936909b/93005215-7b95-42f5-a813-745e51880cf1/buscar-video-html5.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662SZ2BTWN%2F20251203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251203T201221Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLXdlc3QtMiJGMEQCIAK7v%2BmLeNakudYBH1E4X0j5aVWUyuZ1GWTdwPxLWUiJAiAi80KB7fu3xTcJp7qJzwsH1dVJuchnbabxt2Azpk0Q9Sr%2FAwg0EAAaDDYzNzQyMzE4MzgwNSIMa823AfM6wFFT8cgdKtwD0zQ1liiXD5awJCOTYxBy%2FfihxB9YdyXBXhwP%2FbM2GVKIVimG2BZ%2BfPVnW%2FjIjYEHDXHodLozEuMf3pBp8MO6oem5FPpXQAcPh%2B%2BYU1E%2Fm5GBUHO%2FKYMGk5u3YHk%2BAkJbDAiM3IHIsERKbkJvODTMv8PJhI%2B6oyIRFQp6f7Bad0tOSTb3mMP6REjsAhjpSz%2B%2BkxY58Q2Flmhm3ASt8q1AVWi%2BjqJMcjp7J1JRXHrK5IFf9Fzui8tXQC4Z33Fiy2dXSJCa2R2M2QMJx1aPz6%2BaL1uEhI%2BgCsMb2P5GDlFvssZqLuXt3Q%2F9JoMSDDRK3kaQ%2F5%2B6hpvER%2FTZydQDfNC7uP90whAqPHiVsU4OhBukMZc7ch6cWAwE1A%2Fg1JO1jiD5SQefppg0JEiW9rnjPimgRRazqVbbN5IJPIvAJM6%2Fi2PQLuq2AR0%2FIMU4AqeI5cVV5LwjurFVWoIQ9cOcqq0sR1EUHSI7N5fBWiEKRkNohDpsKLE%2B%2BTfuh1IUYGlP2bmy1mEz2oHgjfR2qmNGAlI5PIIdHm0xw7P75FSVGTM36aiobrLUoZ%2BB2KNeXOyZtQbtelGQfqBqJAZ%2FQtraR9U6%2FM5vIolKBY1CZf1qn7YUD6JIswUqdftnVabB0MswjJHCyQY6pgH244FGSQkzUwCBEMKaFGJaiqzKbk7VOiKY%2B1wiRY%2BezNgHNseB2I4djbGjGOHDrSSLH8INruVp9DSVhFZ7OTjpiR6bZ0DxJvUcgZEcdQh60aVgIcZSpq6YbjLiXCF440rWSgZLR369e2zs%2FjGCrGiC8ifnOhnyQQKSCXYxJHVRJI%2BeROM4ixHDquhZZRmt1uJc3UfDsFr%2FekcmIoot7Sgejk4n5AnF&X-Amz-Signature=5707bdd85c43c3167e2d8aa8bc0a44f7555f3e77314d945cfb3b7db3b93c5af3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 
-Otro ejemplo interesante para controlar cambios de volumen en vídeos [HTML5](https://www.manualweb.net/html5/) es en aquellos escenarios dónde tengamos establecidos unos patrones de volumen bajo, medio y alto. Nos permitirá el ajustar a uno u otro independientemente de que el usuario esté modificando la barra del volumen del sonido.
+### Cargar el vídeo HTML5
 
 
-### Incluir el vídeo dentro de nuestra web
+Ahora que ya hemos visto las ventajas de por qué es interesante controlar el poder buscar por un vídeo en [HTML5](https://www.manualweb.net/html5/) vamos a poner nuestro vídeo dentro de la página.
 
 
-Así que, manos a la obra, vamos a empezar a construir nuestro código para controlar cambios de volumen en vídeos [HTML5](https://www.manualweb.net/html5/). Lo primero será el incluir nuestro elemento [`vídeo`](https://w3api.com/HTML/video/) y el elemento [`source`](https://w3api.com/HTML/source/). El elemento [`vídeo`](https://w3api.com/HTML/video/) nos crea un espacio para poder cargar el elemento multimedia y el elemento [`source`](https://w3api.com/HTML/source/) nos permite indicar el archivo y tipo del archivo que queremos cargar con el vídeo.
+El primer paso consiste en la carga del vídeo en [HTML5](https://www.manualweb.net/html5/), lo cual se implementa mediante los elementos [`video`](https://w3api.com/HTML/video/) y [`source`](https://w3api.com/HTML/source/).
 
 
-```javascript
+```html
 <video id="mivideo" controls>  
-  <source src="http://easyhtml5video.com/images/happyfit2.ogv" type="video/ogg"></source>
+  <source src="<http://easyhtml5video.com/images/happyfit2.ogv>" type="video/ogg"></source>
   Tu navegador no soporta el elemento <code>video</code>.  
 </video> 
 <div id="info"></div>
 ```
 
 
-Para implementar correctamente esta funcionalidad, es crucial prestar atención a los detalles técnicos de la estructura [HTML](https://www.manualweb.net/html/). En primer lugar, debemos asignar un identificador único al elemento [`video`](https://w3api.com/HTML/video/) a través del atributo [`id`](https://w3api.com/HTML/id/). Este identificador actúa como un puente esencial entre la estructura HTML y nuestro [código Javascript](https://lineadecodigo.com/categoria/javascript/), permitiendo una manipulación precisa y eficiente del elemento multimedia.
+Es necesario especificar un identificador único para el elemento [`video`](https://w3api.com/HTML/video/) mediante el atributo [`id`](https://w3api.com/HTML/id/), dado que este será utilizado posteriormente para referenciar el vídeo en el [código Javascript](https://lineadecodigo.com/categoria/javascript/).
 
 
-Luego tenemos  el elemento [`source`](https://w3api.com/HTML/source/). Este elemento es el componente fundamental para la carga del vídeo y requiere dos atributos críticos: la ruta del recurso multimedia y su formato, especificado mediante el atributo [`type`](https://www.w3api.com/HTML/source/type/). En nuestra implementación, hemos optado por utilizar el formato OGV (Ogg Video). Este formato, especificado como `"video/ogg"`, ofrece una excelente relación entre calidad y compatibilidad, siendo especialmente valorado en la comunidad de desarrollo web.
+En cuanto al elemento [`source`](https://w3api.com/HTML/source/), este requiere la especificación de la ubicación del recurso multimedia y su formato mediante el atributo [`type`](https://www.w3api.com/HTML/source/type/). En esta implementación se utiliza un vídeo en formato OGV, un formato de código abierto, especificado mediante el valor `"video/ogg"`.
 
 
-Como complemento a la estructura principal, hemos incorporado un elemento [`div`](https://www.w3api.com/HTML/div/) en nuestro [código HTML](https://lineadecodigo.com/categoria/html/). Este contenedor dinámico actuará como un panel de información en tiempo real, permitiéndonos mostrar de manera elegante y organizada todos los eventos y acciones relacionados con la reproducción del vídeo. Esta implementación no solo mejora la experiencia del usuario, sino que también facilita la depuración durante el desarrollo.
+Además hemos añadido en nuestro [código en HTML](https://lineadecodigo.com/categoria/html/) un elemento [`div`](https://www.w3api.com/HTML/div/) que es una capa sobre la que volcaremos el contenido de las acciones de búsqueda sobre el vídeo.
 
 
-### Controles externos para manipular el sonido del vídeo
+### Evento onseeking para buscar por un vídeo en HTML5
 
 
-Una vez que tenemos nuestro vídeo vamos a añadirle una serie de controles en los que insertaremos un elemento [`range`](https://www.w3api.com/HTML/range/) que nos permitirá gestionar el volumen y un [`input`](https://www.w3api.com/HTML/input/) de tipo checkbox para apagar el volumen.
+Ahora pasamos a controlar el evento [`onseeking`](https://w3api.com/HTML/onseeking/) que es el que nos va a permitir controlar el poder buscar por un vídeo en [HTML5](https://www.manualweb.net/html5/). Para ello lo que haremos será conseguir una referencia al vídeo mediante la función [`getElementById()`](https://w3api.com/DOM/Document/getElementById/) y registrar el evento.
+
+
+A la hora de registrar el evento [`onseeking`](https://w3api.com/HTML/onseeking/) le asignaremos una función en la que vamos a codificar la acción a ejecutar cuando se produzca la búsqueda.
 
 
 ```javascript
-<label for="volumen">Volumen: </label><input type="range" min="0" max="1" value="1" step="0.1" id="volumen">
-<input type="checkbox" id="mute"><label for="mute">Mute</label>
+let mivideo = document.getElementById("mivideo");
+
+mivideo.onseeking = function() { ... };
 ```
 
 
-Estos controles los gestionaremos mediante [código Javascript](https://lineadecodigo.com/categoria/javascript/). Por un lado el elemento [`range`](https://www.w3api.com/HTML/range/) ante un evento de cambio, que se registra con el evento [`onchange`](https://w3api.com/HTML/onchange/), asignará el valor del elemento sobre el volumen del vídeo. Al volumen del vídeo se puede acceder mediante la propiedad [`volume`](https://www.w3api.com/HTMLDOM/HTMLMediaElement/volume/).
-
-
-Por otro mediante el [`input`](https://www.w3api.com/HTML/input/) de tipo checkbox controlaremos si ponemos el volumen a 0, nuevamente mediante su propiedad [`volume`](https://www.w3api.com/HTMLDOM/HTMLMediaElement/volume/) o si, por el contrario, volvemos a poner el volumen que tenía. Para ello guardamos en una variable savevolume el valor actual antes de apagarlo.
+En concreto lo que vamos a hacer cuando se dispare el evento [`onseeking`](https://w3api.com/HTML/onseeking/) será el capturar el minuto de reproducción del vídeo al que nos ha movido la búsqueda y lo vamos a mostrar en pantalla.
 
 
 ```javascript
-let mute = document.getElementById("mute");
-let barra = document.getElementById("volumen");
-let v = document.getElementById("mivideo");
-let savevolume = 1;
+let mivideo = document.getElementById("mivideo");
+let info = document.getElementById("info");
 
-mute.addEventListener("change",function(ev){
-	if (ev.target.checked) {
-		savevolume = v.volume;		
-		v.volume = 0;
-		barra.value = 0;
-	} else {
-		v.volume = savevolume;
-		barra.value = savevolume;
-	}
-},true);
-
-
-barra.addEventListener("change",function(ev){
-	v.volume = ev.target.value;	
-	mute.checked=false;
-},true);
-```
-
-
-### Uso del evento onvolumechange para controlar cambios de volumen en vídeos HTML5
-
-
-A parte de la gestión del evento [`change`](https://w3api.com/HTML/onchange/) tenemos otro evento que es el [`onvolumenchange`](https://www.w3api.com/HTML/onvolumechange/) el cual nos permite controlar cambios de volumen en vídeos [HTML5](https://www.manualweb.net/html5/). Así que volvemos a registrar una función para cuando se produzca el evento [`onvolumenchange`](https://www.w3api.com/HTML/onvolumechange/).
-
-
-```javascript
-mivideo.onvolumechange = function() {
-	info.innerHTML = info.innerHTML + "Volumen cambiado a " + mivideo.volume + "<br>";
-	barra.value = mivideo.volume;
+mivideo.onseeking = function() {
+  let time = mivideo.currentTime;
+  info.innerHTML = info.innerHTML + "Buscando en el segundo " + time + "<br>";    
 };
 ```
 
 
-Lo que hacemos el volcar sobre la capa de información el nuevo valor correspondiente al volumen que nos proporciona la propiedad [`volume`](https://www.w3api.com/HTMLDOM/HTMLMediaElement/volume/). De esta manera sabemos en que posición se ha quedado el volumen. Además actualizamos la barra del elemento [`range`](https://www.w3api.com/HTML/range/) para asignarle el nuevo valor.
+Vemos que el vídeo tiene una propiedad [`currentTime`](https://www.w3api.com/HTMLDOM/HTMLMediaElement/currentTime/) que es la que almacena el tiempo exacto en el que se está reproduciendo el vídeo. Esta propiedad está definida dentro de un [`HTMLMediaElement`](https://www.w3api.com/HTMLDOM/HTMLMediaElement/). Por lo cual es ideal para mostrarlo en pantalla, indicando al usuario el segundo al que se ha desplazado.
 
 
-### Forzar no poder subir el volumen del vídeo HTML5
-
-
-Además de controlar el nuevo valor del volumen del vídeo. En los cambios de volumen en vídeos [HTML5](https://www.manualweb.net/html5/) podemos forzar a que el volumen no pase de un rango o bien a que se quede siempre en el mismo volumen.
-
-
-Es por ello que cuando hemos registrado el evento [`onvolumenchange`](https://www.w3api.com/HTML/onvolumechange/) vamos a añadir también este forzado de volumen. Para ello añadimos la siguiente línea de código:
-
-
-```javascript
-mivideo.onvolumechange = function() {
-	info.innerHTML = info.innerHTML + "Volumen cambiado a " + mivideo.volume + "<br>";
-	// Ajustamos la barra al volumen seleccionado en el vídeo				
-	barra.value = mivideo.volume;
-
-	// Podemos forzar a que no se suba el volumen
-	mivideo.volume = 0.1;
-};
-```
-
-
-Vemos que nuevamente acudimos a la propiedad [`volume`](https://www.w3api.com/HTMLDOM/HTMLMediaElement/volume/) para dicho forzado. De esta forma ya tendremos el código completo para controlar cambios de volumen en vídeos [HTML5](https://www.manualweb.net/html5/).
+Con esto ya tendremos nuestro código para saber controlar el buscar por un vídeo en [HTML5](https://www.manualweb.net/html5/). ¿Se te ocurre alguna otra oportunidad para el manejo del evento [`onseeking`](https://w3api.com/HTML/onseeking/)?
 
