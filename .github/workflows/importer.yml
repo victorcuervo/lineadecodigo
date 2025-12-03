@@ -8,6 +8,7 @@ on:
 jobs:
   importer:
     runs-on: ubuntu-latest
+    if: github.actor != 'importer-bot'
 
     steps:
       - uses: actions/checkout@v3
