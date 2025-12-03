@@ -1,7 +1,7 @@
 ---
 title: Leer XML con Python
 description: "Cómo utilizar el módulo xml.etree.ElementTree para poder parsear un fichero XML y así poder leer XML con Python."
-lastupdates: 2023-05-27
+lastUpdated: 2023-05-27
 author: victor_cuervo
 ---
 

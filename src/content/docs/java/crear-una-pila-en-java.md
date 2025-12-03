@@ -1,7 +1,7 @@
 ---
 title: Crear una pila en Java
 description: "Artículo que nos explica, paso a paso, mediante código, cómo crear una pila en Java. Usando la clase Stack y sus métodos push, pop y empty."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

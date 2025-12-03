@@ -1,7 +1,7 @@
 ---
 title: Crear Promesa en Javascript
 description: "Cómo podemos crear promesa en Javascript para poder gestionar procesos asíncronos y gestionar su aceptación o rechazo."
-lastupdates: 2024-01-26
+lastUpdated: 2024-01-26
 author: victor_cuervo
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Navegación SPA por Hash
 description: "Cómo controlar una navegación SPA por hash suscribiéndonos al evento onhashchange y gestionando su comportamiento asociado."
-lastupdates: 2023-03-19
+lastUpdated: 2023-03-19
 author: victor_cuervo
 ---
 

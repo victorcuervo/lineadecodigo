@@ -1,7 +1,7 @@
 ---
 title: Convertir una cadena en un array de caracteres con Java
 description: "Proceso de convertir una cadena en un array de caracteres con Java explicado paso a paso."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

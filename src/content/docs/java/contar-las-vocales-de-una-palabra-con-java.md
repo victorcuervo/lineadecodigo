@@ -1,7 +1,7 @@
 ---
 title: Contar las vocales de una palabra con Java
 description: "Código fuente que nos ayuda a contar las vocales de una palabra con Java utilizando un bucle for para poder recorrer carácter a carácter."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

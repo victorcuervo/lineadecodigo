@@ -1,7 +1,7 @@
 ---
 title: Protegiendo la página en JavaScript
 description: ""
-lastupdates: 2023-02-06
+lastUpdated: 2023-02-06
 author: victor_cuervo
 ---
 

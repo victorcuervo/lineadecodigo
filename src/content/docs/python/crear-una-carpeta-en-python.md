@@ -1,7 +1,7 @@
 ---
 title: Crear una carpeta en Python
 description: "Uso de la función mkdir y el módulo os.path para crear una carpeta en Python. Cómo controlar la excepción FileExistsError si ya existe la carpeta."
-lastupdates: 2024-01-28
+lastUpdated: 2024-01-28
 author: victor_cuervo
 ---
 

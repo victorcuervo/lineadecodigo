@@ -1,7 +1,7 @@
 ---
 title: Cambios de volumen en vídeos HTML5
 description: "Artículo que nos explica el uso del evento onvolumechange HTML5 para poder controlar cambios de volumen en vídeos HTML5 y así autoajustarlo."
-lastupdates: 2024-01-29
+lastUpdated: 2024-01-29
 author: victor_cuervo
 ---
 

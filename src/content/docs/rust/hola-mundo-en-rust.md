@@ -1,7 +1,7 @@
 ---
 title: Hola Mundo en Rust
 description: "En este artículo vamos a conocer algunos conceptos básicos del lenguaje de programación Rust que nos permitan crear el Hola Mundo en Rust."
-lastupdates: 2025-01-12
+lastUpdated: 2025-01-12
 author: victor_cuervo
 ---
 

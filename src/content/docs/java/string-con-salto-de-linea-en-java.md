@@ -1,7 +1,7 @@
 ---
 title: String con salto de línea en Java
 description: "Para poder crear un String con salto de línea en Java deberemos de utilizar el carácter \n dentro de las cadenas. Aprende a cómo hacerlo."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

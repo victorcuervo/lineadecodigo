@@ -1,7 +1,7 @@
 ---
 title: Factorial Javascript
 description: "Código que nos enseña a calcular un factorial Javascript de dos formas diferentes: mediante un bucle for y de forma recursiva con funciones."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

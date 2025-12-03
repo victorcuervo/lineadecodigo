@@ -1,7 +1,7 @@
 ---
 title: Leer ficheros con Python
 description: "Existen dos formas de poder leer ficheros con Python, bien leyendo el contenido entero del fichero o yendo línea a línea."
-lastupdates: 2023-05-27
+lastUpdated: 2023-05-27
 author: victor_cuervo
 ---
 

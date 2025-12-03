@@ -1,7 +1,7 @@
 ---
 title: Ejecutar cuando pasen X segundos en JavaScript
 description: "Utilización de la función setTimeout para poder ejecutar cuando pasen X segundos en Javascript un código configurado en nuestra página."
-lastupdates: 2023-05-22
+lastUpdated: 2023-05-22
 author: victor_cuervo
 ---
 

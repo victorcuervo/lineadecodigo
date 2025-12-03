@@ -1,7 +1,7 @@
 ---
 title: Imprimir una matriz con Java
 description: "Una matriz es un array bidimensional de datos. En este ejemplo vamos a ver cómo imprimir una matriz con Java mediante bucles for anidados."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

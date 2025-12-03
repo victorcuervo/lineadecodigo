@@ -1,7 +1,7 @@
 ---
 title: Validar que el texto introducido es un número
 description: "Utilización del lenguaje Javascript para validar que el texto introducido es un número. Para ello utilizamos expresiones regulares."
-lastupdates: 2023-05-29
+lastUpdated: 2023-05-29
 author: victor_cuervo
 ---
 

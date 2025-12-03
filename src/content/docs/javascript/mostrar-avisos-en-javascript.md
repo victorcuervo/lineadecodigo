@@ -1,7 +1,7 @@
 ---
 title: Mostrar avisos en Javascript
 description: ""
-lastupdates: 2023-02-07
+lastUpdated: 2023-02-07
 author: victor_cuervo
 ---
 

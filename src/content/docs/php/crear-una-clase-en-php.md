@@ -1,7 +1,7 @@
 ---
 title: Crear una clase en PHP
 description: "El lenguaje de programación PHP es un lenguaje orientado a objetos, así que deberemos aprender a crear una clase en PHP e instanciar un objeto."
-lastupdates: 2024-01-27
+lastUpdated: 2024-01-27
 author: victor_cuervo
 ---
 

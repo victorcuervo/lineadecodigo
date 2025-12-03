@@ -1,7 +1,7 @@
 ---
 title: Clase Anónima en PHP
 description: "Código que nos explica cómo podemos crear una clase anónima en PHP y cómo podemos utilizarla en mocks, interfaces o funciones de callback."
-lastupdates: 2023-10-07
+lastUpdated: 2023-10-07
 author: victor_cuervo
 ---
 

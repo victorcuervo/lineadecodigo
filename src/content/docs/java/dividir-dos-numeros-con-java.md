@@ -1,7 +1,7 @@
 ---
 title: Dividir dos números con Java
 description: "Ejemplo sencillo que nos explica cómo dividir dos números con Java. Para ello los leeremos primero por consola y luego haremos la división."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Recorrer un ArrayList
 description: "Ejemplo que nos muestra cómo podemos recorrer un ArrayList en Java utilizando un bucle for, conociendo su tamaño e iterando por sus elementos."
-lastupdates: 2023-05-20
+lastUpdated: 2023-05-20
 author: victor_cuervo
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Aprende a programar. Episodio I.
 description: "Aprende a programar. Episodio I ofrece una selección de artículos con un enfoque principal en la manipulación de archivos y directorios en Python."
-lastupdates: 2025-01-27
+lastUpdated: 2025-01-27
 author: victor_cuervo
 ---
 

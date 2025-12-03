@@ -1,7 +1,7 @@
 ---
 title: Hola Mundo en HTML
 description: "Descripción de cómo realizar mi primer programa Hola Mundo en HTML detallado paso a paso para poder ser creado en un editor de texto."
-lastupdates: 2023-05-22
+lastUpdated: 2023-05-22
 author: victor_cuervo
 ---
 

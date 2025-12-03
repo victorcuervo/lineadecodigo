@@ -1,7 +1,7 @@
 ---
 title: Formato de Cadenas en Python
 description: "Uso del operador % y del método format como dos alternativas para poder crear un formato de cadenas en Python."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

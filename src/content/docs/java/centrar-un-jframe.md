@@ -1,7 +1,7 @@
 ---
 title: Centrar un JFrame
 description: "Código fuente Java que nos enseña cómo podemos centrar un JFrame de Java Swing en una ventana mediante el método setLocationRelativeTo."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Permitir saltos de línea en palabras con HTML5
 description: "En este artículo se explica cómo permitir saltos de línea en palabras largas con HTML5. El elemento wbr nos ayuda a lograrlo."
-lastupdates: 2024-01-06
+lastUpdated: 2024-01-06
 author: victor_cuervo
 ---
 

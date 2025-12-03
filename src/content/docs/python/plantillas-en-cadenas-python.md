@@ -1,7 +1,7 @@
 ---
 title: Plantillas en Cadenas Python
 description: "Cómo podemos gestionar plantillas en cadenas Python mediante la clase Template para poder modificar los valores de las variables."
-lastupdates: 2023-10-05
+lastUpdated: 2023-10-05
 author: victor_cuervo
 ---
 

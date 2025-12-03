@@ -1,7 +1,7 @@
 ---
 title: Bucle for-each en Java
 description: "El Bucle for-each en Java nos permite recorrer de una forma sencilla un array o una colección de una misma manera."
-lastupdates: 2023-05-14
+lastUpdated: 2023-05-14
 author: victor_cuervo
 ---
 

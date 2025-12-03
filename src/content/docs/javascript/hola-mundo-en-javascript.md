@@ -1,7 +1,7 @@
 ---
 title: Hola Mundo en Javascript
 description: ""
-lastupdates: 2023-01-16
+lastUpdated: 2023-01-16
 author: victor_cuervo
 ---
 

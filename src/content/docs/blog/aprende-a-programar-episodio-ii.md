@@ -1,7 +1,7 @@
 ---
 title: Aprende a Programar. Episodio II.
 description: "Aprende a programar experiencias de vídeos HTML5, trucos con Python para archivos, impresión con CSS y ejemplo de WebSockets en Java EE."
-lastupdates: 2025-02-09
+lastUpdated: 2025-02-09
 author: victor_cuervo
 ---
 

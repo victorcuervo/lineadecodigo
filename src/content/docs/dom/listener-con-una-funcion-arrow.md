@@ -1,7 +1,7 @@
 ---
 title: Listener con una función Arrow
 description: "Artículo que explica los pasos que hay que seguir para poder definir un listener con una función Arrow de una forma sencilla y poco código."
-lastupdates: 2023-01-31
+lastUpdated: 2023-01-31
 author: victor_cuervo
 ---
 

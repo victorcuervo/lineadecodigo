@@ -1,7 +1,7 @@
 ---
 title: Cargar un iframe de forma asíncrona
 description: "Cómo usar el atributo loading y su valor lazy para cargar un iframe de forma asíncrona y optimizar el renderizado de nuestras páginas."
-lastupdates: 2023-03-19
+lastUpdated: 2023-03-19
 author: victor_cuervo
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Números primos en Java
 description: "Código explicado paso a paso para calcular los números primos en Java mediante funciones recursivas y de la forma más óptima."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

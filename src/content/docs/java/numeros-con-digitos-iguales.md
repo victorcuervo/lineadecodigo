@@ -1,7 +1,7 @@
 ---
 title: Números con dígitos iguales
 description: "Utilización de bucles while anidados para poder comprobar si tenemos números con dígitos iguales en cualquiera de sus posiciones."
-lastupdates: 2023-03-19
+lastUpdated: 2023-03-19
 author: victor_cuervo
 ---
 

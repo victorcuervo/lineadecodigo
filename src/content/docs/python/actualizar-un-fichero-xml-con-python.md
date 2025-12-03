@@ -1,7 +1,7 @@
 ---
 title: Actualizar un fichero XML con Python
 description: "El artículo muestra cómo actualizar un fichero XML con Python utilizando el módulo xml.etree.ElementTree y su clase Element."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

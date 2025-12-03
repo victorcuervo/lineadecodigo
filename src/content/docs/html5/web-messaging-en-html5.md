@@ -1,7 +1,7 @@
 ---
 title: Web Messaging en HTML5
 description: "Web Messaging en HTML5 es un API que nos permite establecer un mecanismo de comunicación entre diferentes contextos dentro del navegador."
-lastupdates: 2023-03-19
+lastUpdated: 2023-03-19
 author: victor_cuervo
 ---
 

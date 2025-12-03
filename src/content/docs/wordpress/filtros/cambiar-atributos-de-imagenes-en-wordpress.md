@@ -1,7 +1,7 @@
 ---
 title: Cambiar atributos de imágenes en WordPress
 description: "Uso de los hooks que nos ofrece WordPress, como the_content o get_image_tag_class, para poder cambiar atributos de imágenes en WordPress."
-lastupdates: 2025-02-16
+lastUpdated: 2025-02-16
 author: victor_cuervo
 ---
 

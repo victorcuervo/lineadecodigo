@@ -1,7 +1,7 @@
 ---
 title: Mayor de dos números en Javascript con Math
 description: "Cómo calcular el mayor de dos números en Javascript con Math y así poder evitar el uso de estructuras selectivas if."
-lastupdates: 2023-05-28
+lastUpdated: 2023-05-28
 author: victor_cuervo
 ---
 

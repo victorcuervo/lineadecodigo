@@ -1,7 +1,7 @@
 ---
 title: Crear un fichero en Java
 description: "Pasos que hay que dar para poder crear un fichero en Java. Código explicado de una forma sencilla. Uso de la clase File."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

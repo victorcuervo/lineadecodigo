@@ -1,7 +1,7 @@
 ---
 title: Conectar MySQL Java
 description: "Pasos que tenemos que dar para poder conectar mysql con Java utilizando las librerías de acceso a bases de datos jdbc y su clase Connection."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

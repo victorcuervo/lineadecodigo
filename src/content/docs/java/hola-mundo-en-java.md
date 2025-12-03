@@ -1,7 +1,7 @@
 ---
 title: Hola Mundo en Java
 description: "Ejemplo que nos ayuda con nuestro primer ejemplo de código mediante un Hola Mundo en Java explicado paso a paso. ¡Vamos a ello!"
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

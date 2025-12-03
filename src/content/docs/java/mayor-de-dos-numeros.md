@@ -1,7 +1,7 @@
 ---
 title: Mayor de dos números
 description: "Cómo podemos conocer cuál es el mayor de dos números en Java que le hayamos pedido a un usuario por teclado y compararemos mediante un if."
-lastupdates: 2023-05-15
+lastUpdated: 2023-05-15
 author: victor_cuervo
 ---
 

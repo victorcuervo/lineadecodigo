@@ -1,7 +1,7 @@
 ---
 title: Enlace a una parte concreta de la pagina
 description: "Crear un Enlace a una parte concreta de la página mediante identificadores que generen un ancla y enlaces que accedan a dicho ancla."
-lastupdates: 2023-05-29
+lastUpdated: 2023-05-29
 author: victor_cuervo
 ---
 

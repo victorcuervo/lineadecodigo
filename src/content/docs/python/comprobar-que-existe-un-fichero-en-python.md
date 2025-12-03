@@ -1,7 +1,7 @@
 ---
 title: Comprobar que existe un fichero en Python
 description: "Ejemplo que explica cómo utilizar el módulo os y el objeto path para poder comprobar que existe un fichero en Python mediante el método .exists()."
-lastupdates: 2024-01-28
+lastUpdated: 2024-01-28
 author: victor_cuervo
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Concatenar listas en Python
 description: "Análisis de las dos formas que hay para concatenar listas en Python. Bien utilizando un operador suma o bien mediante el método extend."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

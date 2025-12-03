@@ -1,7 +1,7 @@
 ---
 title: Zoom en imágenes con el ratón en HTML5
 description: "Uso del evento onwheel y la función scale() para poder crear un sistema que nos permita realizar un zoom en imágenes con el ratón en HTML5."
-lastupdates: 2024-01-29
+lastUpdated: 2024-01-29
 author: victor_cuervo
 ---
 

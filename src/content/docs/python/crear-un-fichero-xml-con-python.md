@@ -1,7 +1,7 @@
 ---
 title: Crear un fichero XML con Python
 description: "Crear un fichero XML con Python a partir de una lista de elementos. Ejemplo detallado utilizando el módulo xml.etree.ElementTree."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 

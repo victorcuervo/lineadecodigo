@@ -1,7 +1,7 @@
 ---
 title: Pie de página en HTML5
 description: "El elemento footer nos permite crear un pie de página en HTML5 e incluir contenido como el copyright de la página o enlaces a otras páginas."
-lastupdates: 2023-09-17
+lastUpdated: 2023-09-17
 author: victor_cuervo
 ---
 
