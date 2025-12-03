@@ -1,102 +1,132 @@
 ---
-title: Descargar una imagen de un mapa de imágenes
-description: "Uso de mapas, áreas enlazables y el atributo download en HTML5 para poder descargar una imagen de un mapa de imágenes al pulsar sobre ella."
-lastupdates: 2023-02-14
+title: Zoom en imágenes con el ratón en HTML5
+description: "Uso del evento onwheel y la función scale() para poder crear un sistema que nos permita realizar un zoom en imágenes con el ratón en HTML5."
+lastupdates: 2024-01-29
 author: victor_cuervo
 ---
 
-El uso del elemento [`area`](https://w3api.com/HTML/area/) nos sirve para optimizar la carga y la visualización de imágenes mostrando varias imágenes en una y generando áreas enlazables. En este artículo vamos a ver cómo podemos descargar una imagen de un mapa de imágenes utilizando [código HTML5](https://lineadecodigo.com/categoria/html5/). Es decir, que cuando se pinche sobre un área enlazable se descargue la imagen asociada a dicho área.
+Uno de los elementos que más aparecen en las páginas web son las imágenes. Bien sean decorativas o bien representativas. En el caso de hoy vamos a ver cómo podemos implementar el control de zoom sobre imágenes con el ratón en [HTML5](https://www.manualweb.net/html5/). La idea es que el usuario, cuando se posicione sobre una imagen pueda hacer zoom bien mediante la rueda del ratón o bien utilizando movimientos gestuales sobre un trackpad o una ventana visual.
 
 
-### Caso de uso para descargar una imagen de un mapa de imágenes.
+Esto nos servirá mucho si tenemos algunos casos de uso como:
+
+- **Detalles de productos en aplicaciones de e-commerce,** donde los usuarios necesitan examinar minuciosamente las características y acabados de los artículos antes de realizar una compra.
+- **Galerías de fotografías profesionales o artísticas,** donde es importante apreciar los detalles finos y la composición de cada imagen con precisión.
+- **Herramientas de Mapas interactivos,** que requieren una navegación fluida para explorar diferentes niveles de detalle en la cartografía digital.
+- **Revistas puestas como imágenes,** permitiendo a los lectores examinar el contenido editorial y las ilustraciones con mayor detalle.
+
+### Colocando la imagen dentro de una capa
 
 
-El poder descargar una imagen de un mapa de imágenes utilizando [código HTML5](https://lineadecodigo.com/categoria/html5/) nos va servir para **crear galerías de imágenes** que estén muy optimizadas ya que descargamos una única imagen con todas las imágenes. Esto nos será útil para entornos en los que la descarga de elementos sea un handicap, como puede ser el caso de uso de dispositivos móviles.
-
-
-Pero ahora lo que haremos será el poder descargar de forma individual cada una de esas imágenes una vez que el usuario pulse sobre una imagen en cuestión. Siendo en este momento en el único en el que realmente se descarga la imagen en concreto.
-
-
-De forma visual vamos a recurrir a un mapa de imágenes con los logos de los [navegadores web](https://www.ayudaenlaweb.com/navegadores/que-es-un-navegador/). Esto representará la galería de imágenes:
-
-
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/b44a5280-94c4-4879-b28a-2a22c936909b/191e483d-f785-44a5-99ee-9dd8ea0eca5e/area-con.navegadores.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466RZFTQ4VD%2F20251203%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251203T200907Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGsaCXVzLXdlc3QtMiJIMEYCIQCrL2V1EXfKE3hIlhEzs9zHPnS8qrDge3V0CJxyqRKUgwIhALtHBr%2BwKJFaxzhcW8odbnHc0q0eXW0WtRmyunUdlEWZKv8DCDQQABoMNjM3NDIzMTgzODA1IgyzLiNWsC%2BgfVNs4Dsq3AOUkjz3v11ZUmsp82h5bAHF7btC%2BAY%2B6u7zAZhkCHdccqu06Bquxj0a63L%2BvAfsYbvvREapMCcBQH0h4r89xiucq8G4fp5Cp9lO3FDdkhTpQAcORVzkqHiN6cwf7iaCs2jHRKPCbhNiuMLp61u%2FVzMU9tGMllLyEE7UZk9Uq203BiPj%2BOfheJZHEITQsN4pbIjSwIoeAY9UTwoNctSGb%2FdEFIr71VLGpUxdDXs%2BALbuqaX9SN413yf%2BfJtjySuIfrr4JJR%2B5afk4XcYuRl25OKSkM91mLLUKOo4SxB8V2HHagnzJ58AYVzg3ZjPzKW9a3V9NPMIb7ZBr2tzEk1udP%2FxtuF3MfxGaKe%2FE8HJKOAF9%2BOzpfq96cCO4ZijakiHfjj7PV4smTuTA4SksH9UHMqmIpr2Fx5gxhlTDVW0QL%2BJExl9Vsl5YSKQ1kyBlku9NWyOclfX%2Fh94UzpQKi1hVgJWIrsrjfyQ41mFMfXXjE7ix1iia3PrsWFJN0PujEuxmJwokdRYKXjl3pBzlJuPgetw3IWbg%2Bu85BTyjm79cLfrWVF1h34xyEuB3Pq8wyLGoqo820myldE7L5Z2B%2BqJREcFzuddo2Jz0l2FBRvkr3imzSooeofonBAifIuLojCxkcLJBjqkAeRmFwXlxPwdUyZ6yDNJA%2BQ7TDjUNp5WyE%2FTuBQ4z9%2B94nbDwXNaSRdDoGC2wTh1M6PEc23dBTFnoNdjwnI24KrOId0bMKOoalwBR%2Bbthbqdo1%2BuzmEkVdKqWxyShYnUF%2FEz8bhfloyTSsvalKI4WYHD%2BzJUTuKf68f7bMCn%2BogKyNr9sxxWuj3WdeTvFXmnM9CQvklmM1x6uBUSwcrLEa3TEhId&X-Amz-Signature=21553319c1931b977a552b4fbba09a5d44a6f457575f1453a33166186aebfcbb&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
-
-
-El funcionamiento será el que cuando pulsemos sobre un logo en concreto se descargará dicha imagen.
-
-
-### Creando el mapa con la imagen
-
-
-Lo primero que haremos para poder descargar una imagen de un mapa de imágenes utilizando [código HTML5](https://lineadecodigo.com/categoria/html5/)  será crear un mapa con la imagen en el cual insertemos las partes enlazables. Para ello, lo primero será insertar una imagen con el fichero que contenga todas las imágenes mediante un elemento [`img`](https://www.w3api.com/HTML/img/):
+A la hora de implementar el control de zoom sobre imágenes con el ratón en [HTML5](https://www.manualweb.net/html5/) lo primero que haremos será [poner una imagen dentro de la página web](https://lineadecodigo.com/html/alto-y-ancho-de-una-imagen-con-html/) mediante el elemento [`img`](https://www.w3api.com/HTML/img/). Algo muy sencillo que haremos de la siguiente forma:
 
 
 ```html
-<img src="navegadores.png" alt="Navegadores" usemap="#navegadores" width="821" height="152"  />
+<img id="zoomImage" src="imagen.jpg" style="width: 100%; height: auto;">
 ```
 
 
-Ademas, mediante la propiedad usemap vamos a decirle cual es el id que contiene el mapa de imágenes representado mediante un elemento [`map`](https://www.w3api.com/HTML/map/). Vemos que en este caso el mapa se llama “navegadores”. Así que pasamos a definir el mapa con el elemento [`map`](https://www.w3api.com/HTML/map/).
+Pero, como queremos hacer zoom sobre la imagen y que esta se quede en un recuadro, es decir no queremos que la imagen crezca de forma indiscriminada por la página, lo que haremos será el poner la imagen dentro de un recuadro que representaremos como una capa de un elemento [`div`](https://www.w3api.com/HTML/div/).
 
 
 ```html
-<map id="navegadores" name="navegadores">
-</map> 
+<div class="zoom-container">
+  <img id="zoomImage" src="imagen.jpg" style="width: 100%; height: auto;">
+</div>
 ```
 
 
-El elemento [`map`](https://www.w3api.com/HTML/map/) es muy sencillo y lo que tiene es que tienes que indicar mediante el atributo [`id`](https://www.w3api.com/HTML/id/) cual es el nombre que le damos y que sirve para asociarlo a la imagen anteriormente definida.
+Vamos a ajustar el estilo de esta capa para que tenga un tamaño concreto mediante las propiedades [`width`](https://www.w3api.com/CSS/width/) y [`height`](https://www.w3api.com/CSS/height/) de [CSS](https://www.manualweb.net/css/) y sobre todo vamos a indicar que oculte el desborde de la imagen por la capa, ya que cuando crezca la imagen se producirá un desborde. Esto lo conseguimos mediante la propiedad [`overflow`](https://www.w3api.com/CSS/overflow/).
 
 
-### Definiendo áreas enlazables
-
-
-Siguiendo con el ejemplo de descargar una imagen de un mapa de imágenes utilizando [código HTML5](https://lineadecodigo.com/categoria/html5/) nos tocará definir cuales son las diferentes áreas o partes que nos podemos encontrar en la imagen y que representarán los elementos enlazables. Estas áreas se definen mediante el elemento [`area`](https://w3api.com/HTML/area/).
-
-
-Para ello tenemos que controlar el atributo [`shape`](https://w3api.com/HTML/area/shape/) que indica la forma que tiene el área, ya sea un rectángulo, un círculo o un polígono y el atributo [`coords`](https://w3api.com/HTML/area/coords/) que contiene las coordenadas que forman los vértices del área que hayamos definido.
-
-
-De esta manera si queremos trabajar con áreas que sean rectángulos para marcar las diferentes posiciones de nuestro mapa con logos de navegadores, hará que definamos el siguiente [código en HTML](https://lineadecodigo.con/categoria/html/):
-
-
-```html
-<map id="navegadores" name="navegadores">
-  <area shape="rect" coords="0,0,157,147" alt="Internet Explorer">
-  <area shape="rect" coords="164,0,321,147" alt="Firefox">
-  <area shape="rect" coords="340,0,497,147" alt="Google Chrome">
-  <area shape="rect" coords="507,0,664,147" alt="Safari">
-  <area shape="rect" coords="659,0,816,147" alt="Opera">
-</map> 
+```css
+.zoom-container {
+	width: 300px;
+	height: 300px;
+	overflow: hidden;
+	border: 2px solid #000;
+	position: relative;
+}
 ```
 
 
-Ya tendremos nuestras áreas definidas dentro del mapa asociado a la imagen.
+### Manejar el evento onwheel para controlar el zoom en imágenes con el ratón en HTML5
 
 
-### Código para poder descargar una imagen de un mapa de imágenes 
+Una vez que tenemos la imagen insertada dentro de la página web pasaremos a controlar el evento de zoom. El evento de zoom es el evento [`onwheel`](https://www.w3api.com/HTML/onwheel/) y lo registramos asociado a la imagen.
 
 
-El siguiente paso es el más interesante para nuestro ejemplo, ya que es cuando vamos a añadir el código necesario para poder realizar la descarga de la imagen cuando pulsen sobre el logo. Para ello vamos a añadir dos atributos nuevos, por un lado [`href`](https://w3api.com/HTML/area/href/) que nos servirá para enlazar con el fichero que contenga la imagen en concreto y otro que será [`download`](https://w3api.com/HTML/area/download/). El atributo [`download`](https://w3api.com/HTML/area/download/) nos sirve para indicar que cuando se pulse sobre un enlace lo que se le indique al navegador es que tiene que empezar una descarga del fichero en vez de mostrarlo en pantalla. Dicho atributo puede funcionar solo o asociándolo el nombre que queremos que tenga el fichero que nos vamos a descargar.
+Es por ello que recuperamos un puntero sobre la imagen que hemos insertado utilizando su [`id`](https://www.w3api.com/HTML/id/) y el método [`getElementById()`](https://w3api.com/DOM/Document/getElementById/) .
 
 
-Por consiguiente el código que nos queda para los áreas será el siguiente:
-
-
-```html
-<map id="navegadores" name="navegadores">
-  <area shape="rect" coords="0,0,157,147" href="explorer.png" alt="Internet Explorer" download="internet-explorer.png">
-  <area shape="rect" coords="164,0,321,147" href="firefox.png" alt="Firefox" download="firefox.png">
-  <area shape="rect" coords="340,0,497,147" href="google-chrome.png" alt="Google Chrome" download="google-chrome.png">
-  <area shape="rect" coords="507,0,664,147" href="safari.png" alt="Safari" download="safari.png">                
-  <area shape="rect" coords="659,0,816,147" href="opera.png" alt="Opera" download="opera.png">
-</map> 
+```javascript
+const img = document.getElementById('zoomImage');
+img.onwheel = function(event) { ... };
 ```
 
 
-Hay que tener mucho cuidado ya que si este código lo pones en una página web que cargues dentro de tu [navegador web](https://www.ayudaenlaweb.com/navegadores/que-es-un-navegador/) en local no va a funcionar. Y esto es importante ya que el atributo [`download`](https://w3api.com/HTML/area/download/) solo nos va a funcionar si lo utilizas en una página web que esté disponble a través de un servidor web.
+Ahora pasamos a codificar las acciones con el zoom.
 
 
-De esta manera ya habremos terminado de desarrollar nuestro código para descargar una imagen de un mapa de imágenes utilizando [código HTML5](https://lineadecodigo.com/categoria/html5/), lo que te permitirá realizar diseños mucho más eficientes para la descarga en móviles o entornos de poco caudal de datos.
+### Cambiando el tamaño de la imagen mediante scale
+
+
+Para poder cambiar el tamaño de la imagen y asociarlo al evento tenemos que conocer dos partes. Por un lado el valor del ratón, para ello tenemos el interface [`WheelEvent`](https://www.w3api.com/WebAPI/WheelEvent/) con la propiedad [`deltaY`](https://www.w3api.com/WebAPI/WheelEvent/deltaY/) que ofrece un valor en punto flotante sobre cómo va creciendo o decreciendo el valor. Por otro está la escala de la imagen, es decir, como es el alto y ancho de una imagen, esto lo podemos manipular mediante la propiedad [`transform`](https://www.w3api.com/CSS/transform/) de los estilos y la función [`scale()`](https://www.w3api.com/CSS/scale/).
+
+
+Lo que vamos a definir también es un valor de escala inicial y otro de cambio de escala.
+
+
+```javascript
+let scale = 1;
+const scaleFactor = 0.1;
+```
+
+
+Ahora según vamos recibiendo valores de la propiedad [`deltaY`](https://www.w3api.com/WebAPI/WheelEvent/deltaY/) lo que haremos es, si son negativos aumentar la escala y si son positivos decrementar la escala controlando que no podemos a dejarlo sin visualizarse.
+
+
+```javascript
+if (event.deltaY < 0) {
+  scale += scaleFactor;
+} else {
+  scale -= scaleFactor;
+  if (scale < scaleFactor) {
+    scale = scaleFactor;
+  }
+}
+```
+
+
+El valor final de la escala lo asociamos a la propiedad [`transform`](https://www.w3api.com/CSS/transform/) mediante la función [`scale()`](https://www.w3api.com/CSS/scale/):
+
+
+```javascript
+img.style.transform = `scale(${scale})`;
+```
+
+
+Por lo que el código para hacer el zoom nos quedaría de la siguiente forma:
+
+
+```javascript
+let scale = 1;
+const scaleFactor = 0.1;
+
+img.onwheel = function(event) {
+	event.preventDefault();
+	if (event.deltaY < 0) {
+	  scale += scaleFactor;
+	} else {
+	  scale -= scaleFactor;
+	  if (scale < scaleFactor) {
+	    scale = scaleFactor;
+	  }
+	}
+	img.style.transform = `scale(${scale})`;
+};
+```
+
+
+De esta forma ya habremos conseguido tener nuestro código para implementar el control de zoom sobre imágenes con el ratón en [HTML5](https://www.manualweb.net/html5/).
 
