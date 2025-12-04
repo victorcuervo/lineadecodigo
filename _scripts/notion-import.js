@@ -100,15 +100,15 @@ async function resolveSyncedBlocks(mdblocks) {
 		slug = pslug?.['string']
 	
 		// Path
-		let path = ''
-		let ppath = r.properties?.['Path']?.['formula']
-		path = ppath?.['string']
+		let ruta = ''
+		let pruta = r.properties?.['Path']?.['formula']
+		ruta = pruta?.['string']
         
 const fm = `---
 title: ${title}
 description: "${excerpt.replace(/"/g, '\\"')}"
 lastUpdated: ${date}
-slug: ${path}
+slug: ${ruta}
 author: victor_cuervo
 ---
 `
