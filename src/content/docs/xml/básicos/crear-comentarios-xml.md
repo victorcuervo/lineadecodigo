@@ -35,6 +35,9 @@ Así podremos declarar comentarios [XML](http://www.manualweb.net/xml/) de la si
 Como bien sabemos los comentarios en la mayoría de lenguajes de programación son usados para dejar notas o bien documentar el código al igual en este caso podemos hacer uso de los comentarios para documentar cada uno de los objetos de nuestro documento [XML](http://www.manualweb.net/xml/).
 
 
+## Comentarios XML en varias líneas
+
+
 En este caso vamos a ver que el contenido de los comentarios [XML](http://www.manualweb.net/xml/) pueden ocupar varias líneas:
 
 
