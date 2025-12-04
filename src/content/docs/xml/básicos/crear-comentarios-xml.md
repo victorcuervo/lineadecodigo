@@ -14,6 +14,9 @@ La forma de uso de los comentarios [XML](http://www.manualweb.net/xml/) no dista
 Hay que recordar que todo documento [XML](http://www.manualweb.net/xml/) debe de tener una cabecera que lo identifique. Una vez dentro del documento se podrá proceder a insertar un comentario.
 
 
+## Partes de un comentario XML
+
+
 Los comentarios [XML](http://www.manualweb.net/xml/) contienen tres partes:
 
 - El símbolo de incio `<!--`
