@@ -19,7 +19,7 @@ Hay que recordar que todo documento [XML](http://www.manualweb.net/xml/) debe de
 
 Los comentarios [XML](http://www.manualweb.net/xml/) contienen tres partes:
 
-- El símbolo de incio `<!--`
+- El símbolo de inicio `<!--`
 - El comentario
 - El símbolo de cierre `-->`
 
