@@ -2,6 +2,7 @@
 title: Ejecutar cada X segundos en JavaScript
 description: "Artículo que nos explica cómo montar timers mediante una función como es setInterva() para poder ejecutar cada X segundos en JavaScript."
 lastUpdated: 2023-09-17
+slug: /javascript/ejecutar-cada-x-segundos-en-javascript/
 author: victor_cuervo
 ---
 

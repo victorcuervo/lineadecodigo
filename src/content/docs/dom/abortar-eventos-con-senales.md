@@ -2,6 +2,7 @@
 title: Abortar Eventos con Señales
 description: "Uso del método addEventListener y de un controlador AbortController para poder abortar eventos con señales y parar su ejecución."
 lastUpdated: 2023-01-31
+slug: /dom/abortar-eventos-con-senales/
 author: victor_cuervo
 ---
 

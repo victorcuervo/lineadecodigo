@@ -2,6 +2,7 @@
 title: Hola Mundo en Javascript
 description: ""
 lastUpdated: 2023-01-16
+slug: /javascript/hola-mundo-en-javascript/
 author: victor_cuervo
 ---
 

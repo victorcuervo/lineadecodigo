@@ -2,6 +2,7 @@
 title: Controlar el Inicio de Impresión en HTML5
 description: "Ejemplo de evento onbeforeprint para poder controlar el inicio de impresión en HTML5 y así modificar el contenido antes de ser impresa."
 lastUpdated: 2023-03-19
+slug: /html5/controlar-el-inicio-de-impresion-en-html5/
 author: victor_cuervo
 ---
 

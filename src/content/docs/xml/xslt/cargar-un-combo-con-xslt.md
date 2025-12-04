@@ -2,6 +2,7 @@
 title: Cargar un combo con XSLT
 description: "Ejemplo que muestra cómo cargar un combo con XSLT usando datos de un XML de libros."
 lastUpdated: 2025-12-04
+slug: /xml/cargar-un-combo-con-xslt/
 author: victor_cuervo
 ---
 

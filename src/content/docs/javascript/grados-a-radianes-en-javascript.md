@@ -2,6 +2,7 @@
 title: Grados a Radianes en Javascript
 description: "Uso de la clase Math para poder crear una función que nos permita realizar la conversión de grados a radianes en Javascript."
 lastUpdated: 2023-03-17
+slug: /javascript/grados-a-radianes-en-javascript/
 author: victor_cuervo
 ---
 

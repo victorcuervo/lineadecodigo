@@ -2,6 +2,7 @@
 title: Formulario en Ventana Dialogo con HTML5
 description: "Uso del elemento dialog para poder mostrar un formulario en ventana dialogo con HTML5 y cómo recuperar la información introducida."
 lastUpdated: 2023-01-28
+slug: /html5/formulario-en-ventana-dialogo-con-html5/
 author: victor_cuervo
 ---
 

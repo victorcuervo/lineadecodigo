@@ -2,6 +2,7 @@
 title: Crear una matriz en Java
 description: "Código fuente que nos explica cómo podemos crear una matriz en Java, las diferentes formas de insertar datos y como listar su contenido."
 lastUpdated: 2023-09-17
+slug: /java/crear-una-matriz-en-java/
 author: victor_cuervo
 ---
 

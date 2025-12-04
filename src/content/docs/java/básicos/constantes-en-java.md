@@ -2,6 +2,7 @@
 title: Constantes en Java
 description: "Artículo que nos explica qué son las constantes en Java. Adjunta varios ejemplos para poder definir las constantes en Java."
 lastUpdated: 2023-09-17
+slug: /java/constantes-en-java/
 author: victor_cuervo
 ---
 

@@ -2,6 +2,7 @@
 title: Sumar dos números con Java
 description: "Ejemplo básico que nos explica paso a paso como sumar dos números con Java los cuales habremos solicitado por consola."
 lastUpdated: 2023-09-17
+slug: /java/sumar-dos-numeros-con-java/
 author: victor_cuervo
 ---
 

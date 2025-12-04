@@ -2,6 +2,7 @@
 title: Validar si un dato es numérico en Java
 description: "Uso de Apache Commons para poder validar si un dato es numérico en Java y ver cómo podemos implementarla directamente nosotros."
 lastUpdated: 2023-05-29
+slug: /java/validar-si-un-dato-es-numerico-en-java/
 author: victor_cuervo
 ---
 

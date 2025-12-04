@@ -2,6 +2,7 @@
 title: Protegiendo la página en JavaScript
 description: ""
 lastUpdated: 2023-02-06
+slug: /javascript/protegiendo-la-pagina-en-javascript/
 author: victor_cuervo
 ---
 

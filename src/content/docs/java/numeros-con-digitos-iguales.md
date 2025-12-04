@@ -2,6 +2,7 @@
 title: Números con dígitos iguales
 description: "Utilización de bucles while anidados para poder comprobar si tenemos números con dígitos iguales en cualquiera de sus posiciones."
 lastUpdated: 2023-03-19
+slug: /java/numeros-con-digitos-iguales/
 author: victor_cuervo
 ---
 

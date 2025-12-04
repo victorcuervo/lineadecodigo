@@ -2,6 +2,7 @@
 title: Obtener un carácter de una cadena con Java
 description: "Ejemplo que nos explica, mediante el código fuente, cómo poder obtener un carácter de una cadena con Java, indicando una posición de la misma."
 lastUpdated: 2023-09-17
+slug: /java/obtener-un-caracter-de-una-cadena-con-java/
 author: victor_cuervo
 ---
 

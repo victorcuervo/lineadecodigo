@@ -2,6 +2,7 @@
 title: Reemplazar texto con Python
 description: "Uso del método .replace() para reemplazar texto con Pyhton. Ya sea una ocurrencia o todas las ocurrencias que aparezcan en el texto."
 lastUpdated: 2023-05-27
+slug: /python/reemplazar-texto-con-python/
 author: victor_cuervo
 ---
 

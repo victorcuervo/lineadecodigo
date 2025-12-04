@@ -2,6 +2,7 @@
 title: Eliminar espacios en blanco con Python
 description: "Artículo que nos explica en detalle tres formas diferentes de eliminar espacios en blanco con Python mediante strip, replace y splict/join."
 lastUpdated: 2023-09-17
+slug: /python/eliminar-espacios-en-blanco-con-python/
 author: victor_cuervo
 ---
 

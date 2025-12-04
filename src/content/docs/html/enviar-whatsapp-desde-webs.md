@@ -2,6 +2,7 @@
 title: Enviar whatsapp desde webs
 description: "Cómo podemos enviar WhatsApp desde Webs utilizando un API para envío de mensajes. Añade tu enlace para enviar mensajes por WhatsApp."
 lastUpdated: 2023-05-29
+slug: /html/enviar-whatsapp-desde-webs/
 author: victor_cuervo
 ---
 

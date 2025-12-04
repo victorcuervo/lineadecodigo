@@ -2,6 +2,7 @@
 title: Saltos de línea en PHP
 description: "Si estás dando tus primeros pasos con le lenguaje de programación PHP una de las dudas que te asaltara será como poner saltos de línea en PHP"
 lastUpdated: 2023-09-17
+slug: /php/saltos-de-linea-en-php/
 author: victor_cuervo
 ---
 

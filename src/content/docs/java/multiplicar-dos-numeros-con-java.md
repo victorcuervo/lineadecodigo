@@ -2,6 +2,7 @@
 title: Multiplicar dos números con Java
 description: "Ejemplo que nos explica cómo podemos llegar a multiplicar dos números con Java que hayan sido introducidos por el usuario en consola."
 lastUpdated: 2023-09-17
+slug: /java/multiplicar-dos-numeros-con-java/
 author: victor_cuervo
 ---
 

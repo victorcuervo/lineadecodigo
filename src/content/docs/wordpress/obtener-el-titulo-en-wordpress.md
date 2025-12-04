@@ -2,6 +2,7 @@
 title: Obtener el título en WordPress
 description: "Cómo manejar la función wp_title para obtener el título en WordPress de cualquier contenido y volcarlo sobre el elemento title de la página web."
 lastUpdated: 2023-09-17
+slug: /wordpress/obtener-el-titulo-en-wordpress/
 author: victor_cuervo
 ---
 

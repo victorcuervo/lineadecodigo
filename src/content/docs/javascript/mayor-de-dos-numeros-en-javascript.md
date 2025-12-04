@@ -2,6 +2,7 @@
 title: Mayor de dos números en Javascript
 description: "Uso de estructuras selectivas if-then-else para poder calcular cual es el mayor de dos números en Javascript."
 lastUpdated: 2023-05-15
+slug: /javascript/mayor-de-dos-numeros-en-javascript/
 author: victor_cuervo
 ---
 

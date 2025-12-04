@@ -2,6 +2,7 @@
 title: Borrar una carpeta en Python
 description: "Utilización del módulo os y de sus funciones remove, listdir y rmdir para poder borrar una carpeta en Python que no contenga otras carpetas dentro."
 lastUpdated: 2024-01-28
+slug: /python/borrar-una-carpeta-en-python/
 author: victor_cuervo
 ---
 

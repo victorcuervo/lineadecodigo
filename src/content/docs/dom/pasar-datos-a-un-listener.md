@@ -2,6 +2,7 @@
 title: Pasar datos a un listener
 description: "Cómo podemos utilizar el método bind sobre nuestro registro de eventos addEventListener para poder pasar datos a un listener."
 lastUpdated: 2023-01-31
+slug: /dom/pasar-datos-a-un-listener/
 author: victor_cuervo
 ---
 

@@ -2,6 +2,7 @@
 title: Eliminar etiquetas HTML con Python
 description: "Utilización del módulo re y su método sub para poder eliminar etiquetas HTML con Python de una cadena de texto."
 lastUpdated: 2023-09-17
+slug: /python/eliminar-etiquetas-html-con-python/
 author: victor_cuervo
 ---
 

@@ -2,6 +2,7 @@
 title: Añadir contenido a un fichero con Python
 description: "Ejemplo que nos muestra cómo añadir contenido a un fichero con Python gestionando su modo de apertura e insertando texto."
 lastUpdated: 2024-01-28
+slug: /python/anadir-contenido-a-un-fichero-con-python/
 author: victor_cuervo
 ---
 

@@ -2,6 +2,7 @@
 title: Definir el tamaño de una imagen con CSS
 description: "Código que explica cómo definir el tamaño de una imagen con CSS utilizando las propiedades width y height en una clase que usaremos en HTML."
 lastUpdated: 2023-09-17
+slug: /css/definir-el-tamano-de-una-imagen-con-css/
 author: victor_cuervo
 ---
 

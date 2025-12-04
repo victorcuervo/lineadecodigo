@@ -2,6 +2,7 @@
 title: Insertar elementos en un ArrayList
 description: "Cómo utilizar el método .add() para insertar elementos en un ArrayList de Java de forma unitaria, pasando el elemento como parámetro del método."
 lastUpdated: 2023-09-17
+slug: /java/insertar-elementos-en-un-arraylist/
 author: victor_cuervo
 ---
 

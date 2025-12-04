@@ -2,6 +2,7 @@
 title: Hacer foco en un elemento sin scroll
 description: "Uso del método focus y la propiedad preventScroll para poder hacer foco en un elemento sin scroll mediante Javascript y los métodos del DOM."
 lastUpdated: 2023-01-31
+slug: /dom/hacer-foco-en-un-elemento-sin-scroll/
 author: victor_cuervo
 ---
 

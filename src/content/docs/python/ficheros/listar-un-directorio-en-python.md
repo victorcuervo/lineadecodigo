@@ -2,6 +2,7 @@
 title: Listar un Directorio en Python
 description: "Para poder listar un directorio en Python deberemos comprobar que este existe mediante una función exists y listarlo con la función listdir."
 lastUpdated: 2024-01-28
+slug: /python/listar-un-directorio-en-python/
 author: victor_cuervo
 ---
 

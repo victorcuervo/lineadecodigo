@@ -2,6 +2,7 @@
 title: Eliminar un elemento de un ArrayList
 description: "El ejemplo nos explica el uso del método remove() para eliminar un elemento de un ArrayList indicando la posición que ocupa dicho elemento."
 lastUpdated: 2023-09-17
+slug: /java/eliminar-un-elemento-de-un-arraylist/
 author: victor_cuervo
 ---
 

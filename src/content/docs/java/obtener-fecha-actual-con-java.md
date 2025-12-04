@@ -2,6 +2,7 @@
 title: Obtener fecha actual con Java
 description: "Cómo obtener fecha actual con Java utilizando la clase Calendar y sus propiedades como Calendar.DATE, Calendar.MONTH, Calendar.YEAR,…"
 lastUpdated: 2023-09-17
+slug: /java/obtener-fecha-actual-con-java/
 author: victor_cuervo
 ---
 
