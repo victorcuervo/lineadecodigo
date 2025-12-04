@@ -1,6 +1,6 @@
 ---
 title: Crear una tabla a partir de datos XML
-description: ""
+description: "Artículo explica cómo crear una tabla a partir de datos XML utilizando XSLT para presentar información de libros."
 lastUpdated: 2025-12-04
 author: victor_cuervo
 ---
