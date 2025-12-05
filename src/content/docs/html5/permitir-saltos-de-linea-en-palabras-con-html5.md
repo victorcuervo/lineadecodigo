@@ -62,8 +62,3 @@ Aunque, no nos vamos a engañar, el elemento [`wbr`](https://www.w3api.com/HTML/
 
 > Supercalifragilisticoespialidoso, aunque suene extravagante, ¡raro y espantoso!
 
-
-	Si lo dice con soltura sonará harmonioso, supercalifragilisticoespialidoso.
-	
-	Mary Poppins
-
