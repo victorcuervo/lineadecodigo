@@ -6,7 +6,10 @@ slug: html/formulario-para-pedir-passwords
 author: victor_cuervo
 ---
 
-Si estamos con construyendo un [formulario HTML](http://www.manualweb.net/html/formularios-html/), bien para dar un alta de un usuario o bien para autentificarle en un proceso de login, vamos a **necesitar el utilizar campos de entrada donde no se pueda leer lo que se escribe**. Para ello vamos a ver cómo se construye un formulario para pedir passwords. > Puedes consultar [todos los ejemplos que tiene Línea de Código para la construcción de elementos de formulario](http://lineadecodigo.com/tag/html-form/) y así aprovechar al máximo las capacidades que este elemento de [HTML](http://www.manualweb.net/html) nos ofrece.
+Si estamos con construyendo un [formulario HTML](http://www.manualweb.net/html/formularios-html/), bien para dar un alta de un usuario o bien para autentificarle en un proceso de login, vamos a **necesitar el utilizar campos de entrada donde no se pueda leer lo que se escribe**. Para ello vamos a ver cómo se construye un formulario para pedir passwords.
+
+
+> Puedes consultar [todos los ejemplos que tiene Línea de Código para la construcción de elementos de formulario](http://lineadecodigo.com/tag/html-form/) y así aprovechar al máximo las capacidades que este elemento de [HTML](http://www.manualweb.net/html) nos ofrece.
 
 
 Y es que cuando un usuario escribe su contraseña no es muy recomendable que sea legible. Ya que quien no nos dice que tenga a alguien detrás leyendo lo que está escribiendo y pueda comprometer la integridad de esa contraseña. Lo primero que tendremos que hacer es definir nuestro formulario. Para ello vamos a utilizar el elemento [`form`](http://www.w3api.com/wiki/HTML:FORM) de [HTML](http://www.manualweb.net/html). Los elementos del formulario irán siempre dentro de este elemento y podremos situarlos en la parte de nuestra página web que queramos.
