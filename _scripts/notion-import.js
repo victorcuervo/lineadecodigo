@@ -50,10 +50,20 @@ async function resolveSyncedBlocks(mdblocks) {
 	const response = await notion.databases.query({
 		database_id: databaseId,
 		filter: {
-			property: "Status",
-			status: {
-				equals: "Published"
-			}
+			and: [
+				{
+					property: "Status",
+					status: {
+						equals: "Published"
+					}
+				},
+				{
+					property: "LastUpdated Date",
+					date: {
+						equals: moment().format("YYYY-MM-DD")
+					}
+				}
+			]
 		}
 	})
 	for (const r of response.results) {
