@@ -1,8 +1,8 @@
 ---
 title: Número de elementos de un fichero XML
 description: "Ejemplo que explica cómo contar el número de elementos de un fichero XML utilizando XSLT y la función count."
-lastUpdated: 2025-12-05
-slug: /xml/numero-de-elementos-de-un-fichero-xml/
+lastUpdated: 2025-12-09
+slug: xml/numero-de-elementos-de-un-fichero-xml
 author: victor_cuervo
 ---
 

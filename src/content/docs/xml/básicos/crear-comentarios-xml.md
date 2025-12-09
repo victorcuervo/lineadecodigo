@@ -1,8 +1,8 @@
 ---
 title: Crear Comentarios XML
 description: "Artículo que nos muestra como podemos crear comentarios XML dentro de los documentos XML para adjuntar una buena documentación."
-lastUpdated: 2025-12-04
-slug: /xml/crear-comentarios-xml/
+lastUpdated: 2025-12-09
+slug: xml/crear-comentarios-xml
 author: victor_cuervo
 ---
 

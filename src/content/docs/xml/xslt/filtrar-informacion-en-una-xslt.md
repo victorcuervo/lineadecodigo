@@ -1,8 +1,8 @@
 ---
 title: Filtrar información en una XSLT
 description: "Artículo que explica cómo filtrar información en una XSLT utilizando estructuras como xsl:if y xsl:for-each."
-lastUpdated: 2025-12-04
-slug: /xml/filtrar-informacion-en-una-xslt/
+lastUpdated: 2025-12-09
+slug: xml/filtrar-informacion-en-una-xslt
 author: victor_cuervo
 ---
 
