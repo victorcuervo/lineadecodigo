@@ -6,7 +6,10 @@ slug: javaee/crear-un-mapping-a-un-servlet
 author: victor_cuervo
 ---
 
-El proceso de puesta en servicio de un [servlet](http://www.manualweb.net/javaee/introduccion-servlets/) podríamos resumirlo en dos pasos. Por un lado crear el [servlet](http://www.manualweb.net/javaee/introduccion-servlets/) y por otro crear un mapping a un [servlet](http://www.manualweb.net/javaee/introduccion-servlets/) para que pueda estar accesible a ser invocado. > Pues echarle un ojo a todos los [ejemplos que tenemos en Línea de Código sobre el uso de servlets](http://lineadecodigo.com/tag/java-servlet/).
+El proceso de puesta en servicio de un [servlet](http://www.manualweb.net/javaee/introduccion-servlets/) podríamos resumirlo en dos pasos. Por un lado crear el [servlet](http://www.manualweb.net/javaee/introduccion-servlets/) y por otro crear un mapping a un [servlet](http://www.manualweb.net/javaee/introduccion-servlets/) para que pueda estar accesible a ser invocado.
+
+
+> Pues echarle un ojo a todos los [ejemplos que tenemos en Línea de Código sobre el uso de servlets](http://lineadecodigo.com/tag/java-servlet/).
 
 
 Como decíamos el primero de ellos es crear el [servlet](http://www.manualweb.net/javaee/introduccion-servlets/). Para ello implementaremos una clase java que extienda de [`HttpServlet`](http://w3api.com/wiki/Java:HttpServlet), la cual implementará la funcionalidad de negocio que estemos resolviendo.
