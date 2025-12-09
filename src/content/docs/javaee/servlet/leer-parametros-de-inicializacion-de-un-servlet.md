@@ -6,11 +6,12 @@ slug: javaee/leer-parametros-de-inicializacion-de-un-servlet
 author: victor_cuervo
 ---
 
-En la vida de ejecución de un [servlet](http://www.manualweb.net/javaee/introduccion-servlets/), este, recuperará información de múltiples sitios. Por ejemplo recibirá en la petición información vía parámetros, recuperará datos de múltiples orígenes: bases de datos, ficheros,… Es por ello que es importante saber **leer parámetros de inicialización de un servlet**. Uno de los sitios de donde podrá recuperar información son los **parámetros de inicialización del servlet**. Cuando creamos un [servlet](http://www.manualweb.net/javaee/introduccion-servlets/) y lo definimos en el descriptor de despliegue, podemos indicarle que el [servlet](http://www.manualweb.net/javaee/introduccion-servlets/) lleva asociado [parámetros de inicialización](http://lineadecodigo.com/tag/java-servlet-init/) y los valores de dichos parámetros. El uso de estos parámetros es muy potente, ya que se pueden modificar sus valores, con el fin de obtener un comportamiento diferente del [servlet](http://www.manualweb.net/javaee/introduccion-servlets/), sin necesidad de recompilar este. Algunos de los usos de los [parámetros de inicialización](http://lineadecodigo.com/tag/java-servlet-init/) podrían ser: - Tiempos de control de peticiones
-- Nombres de recursos externos a los que acceder: ficheros, bases de datos,…
-- Nivel de log que se quiere aplicar al programa.
-- …
+En la vida de ejecución de un [servlet](http://www.manualweb.net/javaee/introduccion-servlets/), este, recuperará información de múltiples sitios. Por ejemplo recibirá en la petición información vía parámetros, recuperará datos de múltiples orígenes: bases de datos, ficheros,… Es por ello que es importante saber **leer parámetros de inicialización de un servlet**. Uno de los sitios de donde podrá recuperar información son los **parámetros de inicialización del servlet**. Cuando creamos un [servlet](http://www.manualweb.net/javaee/introduccion-servlets/) y lo definimos en el descriptor de despliegue, podemos indicarle que el [servlet](http://www.manualweb.net/javaee/introduccion-servlets/) lleva asociado [parámetros de inicialización](http://lineadecodigo.com/tag/java-servlet-init/) y los valores de dichos parámetros. El uso de estos parámetros es muy potente, ya que se pueden modificar sus valores, con el fin de obtener un comportamiento diferente del [servlet](http://www.manualweb.net/javaee/introduccion-servlets/), sin necesidad de recompilar este. Algunos de los usos de los [parámetros de inicialización](http://lineadecodigo.com/tag/java-servlet-init/) podrían ser:
 
+- Tiempos de control de peticiones
+- Nombres de recursos externos a los que acceder: ficheros, bases de datos,…
+- Nivel de log que se quiere aplicar al programa
+- …
 
 Siempre suelen ser cosas relativas a la configuración del [servlet](http://www.manualweb.net/javaee/introduccion-servlets/). Lo primero que tenemos que hacer es definir en el descriptor de despliegue (`/WEB-INF/web.xml`) del [servlet](http://www.manualweb.net/javaee/introduccion-servlets/):
 
