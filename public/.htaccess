@@ -1,0 +1,21 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Categorias
+RedirectMatch 301 /categoria/xslt/ /category/xml/
+RedirectMatch 301 /xslt/ /xml/
+
+
+
+
+# XSLT Que los he movido a XML
+RedirectMatch 301 /xslt/mi-primer-xslt/ /xml/mi-primer-xslt/
+RedirectMatch 301 /xslt/crear-una-tabla-a-partir-de-datos-xml/ /xml/crear-una-tabla-a-partir-de-datos-xml/
+RedirectMatch 301 /xslt/cargar-un-combo-con-xslt/ /xml/cargar-un-combo-con-xslt/
+RedirectMatch 301 /xslt/filtrar-informacion-en-una-xslt/ /xml/filtrar-informacion-en-una-xslt/
+RedirectMatch 301 /xslt/ordenando-un-fichero-xml/ /xml/ordenando-un-fichero-xml/
+RedirectMatch 301 /xslt/numero-de-elementos-de-un-fichero-xml/ /xml/numero-de-elementos-de-un-fichero-xml/
+
+
+</IfModule>
+

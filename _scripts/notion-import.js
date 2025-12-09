@@ -113,13 +113,18 @@ async function resolveSyncedBlocks(mdblocks) {
 		let ruta = ''
 		let pruta = r.properties?.['Path']?.['formula']
 		ruta = pruta?.['string']
+
+		// Author
+		let author = ''
+		let pauthor = r.properties?.['Author']?.['multi_select']?.[0]?.['name']
+		author = pauthor || 'victor_cuervo'
         
 const fm = `---
 title: ${title}
 description: "${excerpt.replace(/"/g, '\\"')}"
 lastUpdated: ${date}
 slug: ${ruta}
-author: victor_cuervo
+author: ${author}
 ---
 `
 

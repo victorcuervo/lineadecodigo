@@ -7,11 +7,16 @@ const category = pathname.split('/')[1];
 
 <Default><slot /></Default>
 
-<div class="hide-mobile">
-    { category }
 
+<div class="hide-mobile">
+
+  <div class="right-sidebar-panel sl-hidden lg:sl-block astro-pb3aqygn">
+
+    <h3>Manual {category ? category.charAt(0).toUpperCase() + category.slice(1) : ''}</h3>
+    Puedes descargarte el manual sobre { category }.<br>
     Descarga el manual 
     <img width="100" height="100" src="https://lineadecodigo.com/wp-content/themes/vcptheme/img/tutorials/java.jpeg">
+    </div>
 </div>
 
 <style>
