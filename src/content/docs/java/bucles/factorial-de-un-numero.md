@@ -14,7 +14,7 @@ n! = 1 x 2 x 3 x 4 x 5 x ... x (n-1) x n.
 ```
 
 
-### Factorial mediante bucles while
+## Factorial mediante bucles while
 
 
 Siguiendo esta simple expresión podríamos codificarlo en [Java](https://www.manualweb.net/java/) de una forma sencilla utilizando un [bucle while](https://manualweb.net/java/sentencias-bucle-java/#while) que nos permita realizar el decremento de valores.
@@ -49,7 +49,7 @@ System.out.println(factorial);
 ```
 
 
-### Factorial de forma recursiva
+## Factorial de forma recursiva
 
 
 El uso de un [bucle while](https://manualweb.net/java/sentencias-bucle-java/#while) es una forma muy sencilla de implementar el factorial. Si bien, tenemos otra forma de implementarlo. En este caso el factorial se define de una forma recursiva. Esta [definición fue realizada por el matemático frances Christian Kramp](http://es.wikipedia.org/wiki/Factorial).
