@@ -1,7 +1,7 @@
 ---
-title: 
+title: Enviar correo en copia oculta con JavaMail
 description: "El artículo explica cómo enviar correos en copia oculta utilizando JavaMail, permitiendo que ciertos destinatarios reciban el mensaje sin ser visibles."
-lastUpdated: 2025-12-13
+lastUpdated: 2025-12-15
 slug: java/enviar-correo-en-copia-oculta-con-javamail
 author: victor_cuervo
 ---
