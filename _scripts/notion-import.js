@@ -80,7 +80,7 @@ async function resolveSyncedBlocks(mdblocks) {
         
 		// Title
 		let title = ''
-		let ptitle = r.properties?.['Name']?.['title']
+		let ptitle = r.properties?.['Title']?.['title']
 		if (ptitle?.length > 0) {
 			title = ptitle[0]?.['plain_text'].replace(/:/g, ' -')
 		}
