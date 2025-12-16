@@ -159,6 +159,7 @@ author: ${author}
 
 			// Download image
 			const res = await fetch(imageUrl);
+			console.log(`Downloading image: ${imageUrl}`);
 			if (res.ok) {
 				const buffer = Buffer.from(await res.arrayBuffer());
 				fs.writeFileSync(imagePath, buffer);
