@@ -144,6 +144,9 @@ author: ${author}
 			images.push(match[1]);
 		}
 
+		console.log('Images found:');
+		console.log(images);
+
 		// ensure directory exists
 	    const root = path.join('src/content/docs', nav)
 	    fs.mkdirSync(root, { recursive: true })
@@ -158,8 +161,7 @@ author: ${author}
 			fs.mkdirSync(imageDir, { recursive: true });
 
 			// Download image
-			const res = await fetch(imageUrl);
-			console.log(`Downloading image: ${imageUrl}`);
+			const res = await fetch(imageUrl);		
 			if (res.ok) {
 				const buffer = Buffer.from(await res.arrayBuffer());
 				fs.writeFileSync(imagePath, buffer);
