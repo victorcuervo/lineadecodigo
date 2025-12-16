@@ -135,9 +135,37 @@ author: ${author}
 
 		console.log(md);
 
-        // ensure directory exists
+		// extract images and download locally
+		const imageRegex = /!\[.*?\]\((https:\/\/[^)]+)\)/g;
+		const images = [];
+		let match;
+		while ((match = imageRegex.exec(md)) !== null) {
+			images.push(match[1]);
+		}
+
+		// ensure directory exists
 	    const root = path.join('src/content/docs', nav)
 	    fs.mkdirSync(root, { recursive: true })
+
+		for (const imageUrl of images) {
+			const urlObj = new URL(imageUrl);
+			const imageName = path.basename(urlObj.pathname.split('?')[0]);
+			const imageDir = path.join(root, 'images');
+			const imagePath = path.join(imageDir, imageName);
+
+			// Ensure images directory exists
+			fs.mkdirSync(imageDir, { recursive: true });
+
+			// Download image
+			const res = await fetch(imageUrl);
+			if (res.ok) {
+				const buffer = Buffer.from(await res.arrayBuffer());
+				fs.writeFileSync(imagePath, buffer);
+				// Replace image URL in markdown with local path
+				md = md.replace(imageUrl, `./images/${imageName}`);
+			}
+		}
+		
 
 		//writing to file
 		const ftitle = `${slug}.md`
