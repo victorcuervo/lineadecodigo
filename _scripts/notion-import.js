@@ -137,8 +137,10 @@ author: ${author}
 
 		// extract images and download locally
 		
-		const imageRegex = /!\[([^\]]*)\]\((https?:\/\/[^)]+)\)/g;							 
+		const imageRegex = /!\[(.*?)\]\((https?:\/\/[^)]+)\)/g;							 
 		// const imageRegex = /!\[.*?\]\((https?:\/\/[^)]+)\)/g;
+							  
+		
 
 		const images = [];
 		let match;
@@ -149,6 +151,7 @@ author: ${author}
 		console.log('Images found:');
 		console.log(images);
 
+		/*
 		// ensure directory exists
 	    const root = path.join('src/content/docs', nav)
 	    fs.mkdirSync(root, { recursive: true })
@@ -171,6 +174,7 @@ author: ${author}
 				md = md.replace(imageUrl, `./images/${imageName}`);
 			}
 		}
+		*/
 		
 
 		//writing to file
