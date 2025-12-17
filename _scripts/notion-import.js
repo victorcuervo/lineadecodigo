@@ -137,7 +137,7 @@ author: ${author}
 
 		// extract images and download locally
 		
-		const imageRegex = /!\[[^\]]*?\]\((https?:\/\/[^)]+)\)/g;
+		const imageRegex = /!\[([^\]]*)\]\((https?:\/\/[^)]+)\)/g;							 
 		// const imageRegex = /!\[.*?\]\((https?:\/\/[^)]+)\)/g;
 
 		const images = [];
