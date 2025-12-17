@@ -1,7 +1,7 @@
 ---
 title: Imágenes con sombra en CSS
 description: "Ejemplo que nos enseña a como definir un estilo para poder tener imágenes con sombra en CSS utilizando una capa y una imagen."
-lastUpdated: 2025-12-16
+lastUpdated: 2025-12-17
 slug: css/imagenes-con-sombra-en-css
 author: victor_cuervo
 ---
