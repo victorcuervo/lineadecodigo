@@ -1,8 +1,8 @@
 ---
-title: Área de un círculo en Java
+title: "Área de un círculo en Java"
 description: "Utilizando la clase Java Math, su método Math.pow() y su constante Math.PI podremos calcular el área de un circulo en Java de forma sencilla."
-lastUpdated: 2023-09-17
-slug: /java/area-de-un-circulo-en-java/
+lastUpdated: 2025-12-18
+slug: java/area-de-un-circulo-en-java
 author: victor_cuervo
 ---
 
@@ -15,7 +15,7 @@ En Java podemos encontrar [la librería Java Math](http://lineadecodigo.com/tag/
 Lo primero, por si hay algún despistado, será saber **qué es el área de un círculo**. El área de un círculo es la región delimitada por una circunferencia.
 
 
-![Área de una circunferencia](https://prod-files-secure.s3.us-west-2.amazonaws.com/b44a5280-94c4-4879-b28a-2a22c936909b/16fb8842-6c2b-4aeb-a5e7-3cf73a601256/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XC4IRVLP%2F20251209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251209T101438Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDjU05duCP3Md4GrsYcQsU%2Fj2IEQ%2FleuYVNPtiG9iL2%2FwIhAJ4YAl8%2FlBpR4iABjO0S1HLCCEEe5S%2B8UxceEfxCzEfVKogECLr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgwWGfhHlBP18Xu4YNQq3ANXl%2FgEK%2FIjoYVCdw8GLeErjn%2FQue9wt%2Bj4dGheu8IctmoIMhtt1y5cnbXVMl0bmJNUF%2FKhV%2FTANm0hu3SXLxhDrdHKwrJYkbQeut9lwgWpF%2BaPnUEAw3i21goRtXFQpWBGfWSBGN%2F8ZVt8iKwfRoVONFeYFzOrEZxzopqwgIQXoR3xe39pH44kt7K21lxms0KY5NWhMxLvMXqOqBZTi7sh9LHX7iR39os9nMD%2BzilX7haASj2K7J2d9Zln36PqrLgd%2Fr6E4G4%2FoamVNqF9my4vyaMJNEgW2ZObj0TzxdQrXdF50ToK9lZeu8JZYH2BnhTOJ717oK5m2m4VYMBQPuahYfkJWiJ3ycGXpA7HLNXRaIQR9qrj6Kw%2BZZF5AyWfbeebF2sIlM71TuhKqUUAw6kRjqyO%2FzWgU3fpIxvwnlYzpTOIHTD%2BvHrAn6LVxGxs%2FoE%2F1WT3mOTWwBvHVCDypNEFLI42JOqOUD40sgpoGIX9bz1pUfHYldUp4QidIG62KUEveEQxQRx6%2By7oLDdeORsKXII8HcGSLKVT4HF5NT9lBGnYk9MZttgqR9FWRl%2FHCTIxde6adQZ3I0PItcx5XgrzlP0KNmVXQVCAVTk5ffJom02g%2Bdb8%2FlUgl4JdvTCzxN%2FJBjqkAfOX6z3p3yBjp12Coa0CiTrx17g3A9GvNI8xroFdAceRf%2BO6T3C1%2Fu1a1MyMtm%2FTGp%2FxYlQDZmFQMVnoO4Y2IZI0fxrQo63JWB4aJdf%2F9A75Td1xr932LGOPship%2BkjdkGyOfSVPt4eQEOX6iY2OCWgHVZMxWB6TPf2gKYckr2sBsB82t%2FGmmwRotXMWMcR8iAi22Ng13%2FeWXowDe%2FGpv0pZUcuQ&X-Amz-Signature=4bba607b0f3d1b38e0ea05766e39dcbd6efbdf22d4052d062f71e939bc2a5df3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![](../../../../assets/java/images/area_java.png)
 
 
 Además tenemos que saber qué es el radio, **el radio es la distancia desde el centro del círculo hasta el borde del círculo**.
