@@ -1,7 +1,7 @@
 ---
-title: Redondear bordes con CSS
+title: "Redondear bordes con CSS"
 description: "Ejemplo que nos explica cómo podemos redondear bordes con CSS mediante la propiedad border-radius y sus valores el longitud o porcentaje."
-lastUpdated: 2025-12-17
+lastUpdated: 2025-12-18
 slug: css/redondear-bordes-con-css
 author: victor_cuervo
 ---
@@ -31,7 +31,7 @@ border-radius: 15px;
 Veremos el siguiente resultado:
 
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/b44a5280-94c4-4879-b28a-2a22c936909b/850d7b78-c18d-4936-afa4-b133940116f2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YMLJCDTH%2F20251217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251217T215223Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEL3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCICfwvGV8pL6aPtX%2FGmkf0OvvOKIOKV7QD1nu6dtntwUIAiBU1umDQJPzYp7dO%2B1kCyP%2FiAzgHN3Q7MjtyZ2NsSpBhiqIBAiG%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMvtv5QjAbKVgg%2F0DlKtwD8OVjjsAufc9yi5MlE0hldMfuDy%2FY9rHfIDLqDMkSGqBwUi%2FfIQihS9OIj0I5X%2B2P8OKtOpQ3xUzqO%2FtpeLNgOXabtjOKdpyk1gIlM%2FL4RRhX%2FCBCZjPkCYFVdDSDchpSJN%2BKP%2B3avOxNQsdtsCOaKK7XxD1LIKO3s5Htz5oFdv6h7TBCaiAkU%2FEGM2dNnAJGztWXyxzB3DjDRn8OUV1%2BLkY6JvkNzMe22nBnbpVGI2XCTlXkbOGkv7layK9PRBFAwWmJw1DSsajfMB%2BJ8uLDdU0bU%2FWeMf%2FbmM16RVoYxCEy5z%2BqtORAOEra%2FY0Wfk9d6u7YAPq5i5%2B8%2F1Qa5lDCFhOuGvfe5XQ9UIFvOACzdCBQAfvMZyWGYO1AJBsmaqjc2tCZfdlmvQ1hjet0ocBflFs3DdrRzoIvo2csU1YtEObMqfgR%2BElVU03wBPa7B4lvW5Ttm4fnAPhRlyxhUZ9CXY6Nns2sA%2FmSstc%2FIQ2esLMky2HJ9vUJkBhpHRxCUXDTkXMRT%2BEi17095YcBMhY4SxX2oTTkQIGS2wx7%2BjVC1YL82vC65PsnYyCz6zKm66Eg54QsU1jy9aqaWX87UGmW%2B4R%2FnCo6tKWXWLYGsr3%2Bb55%2Fa8JgLpeDqT6e9igw%2Ba2MygY6pgE1lIqqhrJrB6UwcDQiFyxIwp1n4Xo5RV6X1OjPQwndCQxIrLf77GQhTwwewKUFQ9SmMQFlePRlGa%2F0RPbfGIDAgylfdAlIA2sg7Z0zkJJ1JsuY1%2F9zEBPpxdZjPH66Q%2BAfOjhskQ%2F8LAaBpvNV8WWYr1FVxHJYmKBwE%2FFbcsiOtrZBm40EKyCRCKf1TdUM9103XDa5ky0Cp%2FZHQg%2BD3OZ7H6wVPPUY&X-Amz-Signature=7bd011b83c8341ac2729b110520905f72ddc22ae491e1b99f12c2feda2ab0706&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![](../../../../assets/css/images/bordes-redondeados.png)
 
 
 Podemos especificar un radio para cada una de las esquinas. En este caso se aplicará el orden de las agujas del reloj, empezado por la esquina superior izquierda, siguiendo por la esquina superior derecha, esquina inferior derecha y esquina inferior izquierda.
@@ -64,7 +64,7 @@ border-top-left-radius: 400px 200px;
 Y obtendremos el siguiente resultado:
 
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/b44a5280-94c4-4879-b28a-2a22c936909b/15c6991a-0bf2-42db-8b7b-95ae526de206/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YMLJCDTH%2F20251217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251217T215223Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEL3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCICfwvGV8pL6aPtX%2FGmkf0OvvOKIOKV7QD1nu6dtntwUIAiBU1umDQJPzYp7dO%2B1kCyP%2FiAzgHN3Q7MjtyZ2NsSpBhiqIBAiG%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMvtv5QjAbKVgg%2F0DlKtwD8OVjjsAufc9yi5MlE0hldMfuDy%2FY9rHfIDLqDMkSGqBwUi%2FfIQihS9OIj0I5X%2B2P8OKtOpQ3xUzqO%2FtpeLNgOXabtjOKdpyk1gIlM%2FL4RRhX%2FCBCZjPkCYFVdDSDchpSJN%2BKP%2B3avOxNQsdtsCOaKK7XxD1LIKO3s5Htz5oFdv6h7TBCaiAkU%2FEGM2dNnAJGztWXyxzB3DjDRn8OUV1%2BLkY6JvkNzMe22nBnbpVGI2XCTlXkbOGkv7layK9PRBFAwWmJw1DSsajfMB%2BJ8uLDdU0bU%2FWeMf%2FbmM16RVoYxCEy5z%2BqtORAOEra%2FY0Wfk9d6u7YAPq5i5%2B8%2F1Qa5lDCFhOuGvfe5XQ9UIFvOACzdCBQAfvMZyWGYO1AJBsmaqjc2tCZfdlmvQ1hjet0ocBflFs3DdrRzoIvo2csU1YtEObMqfgR%2BElVU03wBPa7B4lvW5Ttm4fnAPhRlyxhUZ9CXY6Nns2sA%2FmSstc%2FIQ2esLMky2HJ9vUJkBhpHRxCUXDTkXMRT%2BEi17095YcBMhY4SxX2oTTkQIGS2wx7%2BjVC1YL82vC65PsnYyCz6zKm66Eg54QsU1jy9aqaWX87UGmW%2B4R%2FnCo6tKWXWLYGsr3%2Bb55%2Fa8JgLpeDqT6e9igw%2Ba2MygY6pgE1lIqqhrJrB6UwcDQiFyxIwp1n4Xo5RV6X1OjPQwndCQxIrLf77GQhTwwewKUFQ9SmMQFlePRlGa%2F0RPbfGIDAgylfdAlIA2sg7Z0zkJJ1JsuY1%2F9zEBPpxdZjPH66Q%2BAfOjhskQ%2F8LAaBpvNV8WWYr1FVxHJYmKBwE%2FFbcsiOtrZBm40EKyCRCKf1TdUM9103XDa5ky0Cp%2FZHQg%2BD3OZ7H6wVPPUY&X-Amz-Signature=a50746e755c6d5a38d0e70c5acc6c07bbe0dbca123bc2bb5348b2fe95ba15052&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![](../../../../assets/css/images/bordes-redondeados-2.png)
 
 
 Si queremos modificar los dos radios de todas las esquinas podemos utilizar la versión reducida de [`border-radius`](https://w3api.com/CSS/border-radius/):

@@ -1,7 +1,7 @@
 ---
-title: Imágenes con sombra en CSS
+title: "Imágenes con sombra en CSS"
 description: "Ejemplo que nos enseña a como definir un estilo para poder tener imágenes con sombra en CSS utilizando una capa y una imagen."
-lastUpdated: 2025-12-17
+lastUpdated: 2025-12-18
 slug: css/imagenes-con-sombra-en-css
 author: victor_cuervo
 ---
@@ -59,7 +59,7 @@ Utilizamos [el atributo ](http://w3api.com/CSS/background-color/)[`background-co
 El efecto será el siguiente: <div style="float: left; background-color: #a7a7a7; margin: 10px 0 0 5px;"></div> La página [HTML](https://www.manualweb.net/html/) en la que tenemos imágenes con sombra en [CSS](http://www.manualweb.net/css/) sería:
 
 
-![](http://lineadecodigo.com/wp-content/uploads/2006/12/lineadecodigo.miniatura.jpg)
+![](../../../../assets/css/images/lineadecodigo.miniatura.jpg)
 
 
 ```html
