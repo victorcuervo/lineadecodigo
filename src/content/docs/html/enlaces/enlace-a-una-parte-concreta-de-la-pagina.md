@@ -1,8 +1,8 @@
 ---
-title: Enlace a una parte concreta de la pagina
+title: "Enlace a una parte concreta de la pagina"
 description: "Crear un Enlace a una parte concreta de la página mediante identificadores que generen un ancla y enlaces que accedan a dicho ancla."
-lastUpdated: 2023-05-29
-slug: /html/enlace-a-una-parte-concreta-de-la-pagina/
+lastUpdated: 2025-12-18
+slug: html/enlace-a-una-parte-concreta-de-la-pagina
 author: victor_cuervo
 ---
 
@@ -46,7 +46,7 @@ Para crear un enlace al ancla, el valor del atributo href será el nombre de la 
 De esta manera el enlace al "Tema 1" será de la siguiente forma:
 
 
-```text
+```html
 <a href="#tema1">Enlace al Tema 1</a>
 ```
 
@@ -54,7 +54,7 @@ De esta manera el enlace al "Tema 1" será de la siguiente forma:
 En este caso, antes de la almohadilla no hemos puesto ningún nombre de página. Ya que hemos asumido que el enlace y el ancla se encuentran dentro de la misma página. Si, por ejemplo, el ancla estuviese dentro de la página "historia.html", nuestro enlace a la parte concreta de la página quedaría de la siguiente forma:
 
 
-```text
+```html
 <a href="historia.html#tema1">Enlace al Tema 1</a>
 ```
 
