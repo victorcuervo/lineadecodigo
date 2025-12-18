@@ -1,8 +1,8 @@
 ---
-title: Hola Mundo en Java
+title: "Hola Mundo en Java"
 description: "Ejemplo que nos ayuda con nuestro primer ejemplo de código mediante un Hola Mundo en Java explicado paso a paso. ¡Vamos a ello!"
-lastUpdated: 2023-09-17
-slug: /java/hola-mundo-en-java/
+lastUpdated: 2025-12-18
+slug: java/hola-mundo-en-java
 author: victor_cuervo
 ---
 
