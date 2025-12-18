@@ -45,6 +45,7 @@ async function resolveSyncedBlocks(mdblocks) {
 
 (async () => {
 
+	
 	const databaseId = process.env.DATABASE_ID;
 	// TODO has_more
 	const response = await notion.databases.query({
@@ -67,7 +68,6 @@ async function resolveSyncedBlocks(mdblocks) {
 		}
 	})
 	for (const r of response.results) {
-		console.log(r)
 		const id = r.id
 
 		// date
@@ -75,9 +75,9 @@ async function resolveSyncedBlocks(mdblocks) {
 		let pdate = r.properties?.['LastUpdated Date']?.['date']?.['start']
 		if (pdate) {
 			date = moment(pdate).format('YYYY-MM-DD')
-        }
-        
-        
+		}
+		
+		
 		// Title
 		let title = ''
 		let ptitle = r.properties?.['Title']?.['title']
@@ -92,15 +92,15 @@ async function resolveSyncedBlocks(mdblocks) {
 			excerpt = pexcerpt.map(text => text?.['plain_text']).join('')
 		}
 
-        // Category
-       let cat = ''
-       let pcats = r.properties?.['Category']?.['multi_select']
-       cat = pcats[0]?.['name']
+		// Category
+	   let cat = ''
+	   let pcats = r.properties?.['Category']?.['multi_select']
+	   cat = pcats[0]?.['name']
 
 	   // SubCategory
-       let subcat = ''
-       let psubcats = r.properties?.['Subcategory']?.['multi_select']
-       subcat = psubcats[0]?.['name']
+	   let subcat = ''
+	   let psubcats = r.properties?.['Subcategory']?.['multi_select']
+	   subcat = psubcats[0]?.['name']
 
 		let nav = cat.toLowerCase() + (subcat ? '/' + subcat.toLowerCase() : '');
 
@@ -118,9 +118,9 @@ async function resolveSyncedBlocks(mdblocks) {
 		let author = ''
 		let pauthor = r.properties?.['Author']?.['multi_select']?.[0]?.['name']
 		author = pauthor || 'victor_cuervo'
-        
+		
 const fm = `---
-title: ${title}
+title: "${title}"
 description: "${excerpt.replace(/"/g, '\\"')}"
 lastUpdated: ${date}
 slug: ${ruta}
@@ -131,35 +131,32 @@ author: ${author}
 		const mdblocks = await n2m.pageToMarkdown(id);
 		// const md = n2m.toMarkdownString(mdblocks);
 		const fullMdBlocks = await resolveSyncedBlocks(mdblocks);
-  		const md = n2m.toMarkdownString(fullMdBlocks);
-
-		console.log(md);
-
+		const md = n2m.toMarkdownString(fullMdBlocks);
+		let contenido = md.parent;
+		
 		// extract images and download locally
-		
-		const imageRegex = /!\[(.*?)\]\((https?:\/\/[^)]+)\)/g;							 
-		// const imageRegex = /!\[.*?\]\((https?:\/\/[^)]+)\)/g;
-							  
-		
+		// De la cadena que hay en md, que es markdowrn, extraer las URLs de las imágenes
 
-		const images = [];
-		let match;
-		while ((match = imageRegex.exec(md)) !== null) {
-			images.push(match[1]);
+		const imageRegex = /!\[(.*?)\]\((https?:\/\/[^\s)]+)\)/g;
+
+		const imageUrls = [];
+		let imgMatch;
+		while ((imgMatch = imageRegex.exec(md.parent)) !== null) {
+			imageUrls.push(imgMatch[2]);			
 		}
 
-		console.log('Images found:');
-		console.log(images);
-
-		/*
+	
 		// ensure directory exists
-	    const root = path.join('src/content/docs', nav)
-	    fs.mkdirSync(root, { recursive: true })
+		const root = path.join('src/content/docs', nav)
+		const assets = path.join('src/assets', cat.toLowerCase())
 
-		for (const imageUrl of images) {
+		fs.mkdirSync(root, { recursive: true })
+		fs.mkdirSync(assets, { recursive: true })
+
+		for (const imageUrl of imageUrls) {
 			const urlObj = new URL(imageUrl);
 			const imageName = path.basename(urlObj.pathname.split('?')[0]);
-			const imageDir = path.join(root, 'images');
+			const imageDir = path.join(assets, 'images');
 			const imagePath = path.join(imageDir, imageName);
 
 			// Ensure images directory exists
@@ -171,19 +168,21 @@ author: ${author}
 				const buffer = Buffer.from(await res.arrayBuffer());
 				fs.writeFileSync(imagePath, buffer);
 				// Replace image URL in markdown with local path
-				md = md.replace(imageUrl, `./images/${imageName}`);
+				contenido = contenido.replace(imageUrl, `../../../../assets/${cat.toLowerCase()}/images/${imageName}`);
 			}
 		}
-		*/
+		
 		
 
 		//writing to file
 		const ftitle = `${slug}.md`
-		fs.writeFile(path.join(root, ftitle), fm + md.parent, (err) => {
+		fs.writeFile(path.join(root, ftitle), fm + contenido, (err) => {
 			if (err) {
 				console.log(err);
 			}
 		});
+
+		
 	
 	}
 })();
