@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.PAT }}
       - uses: actions/setup-node@v3
         with:
-          node-version: "17"
+          node-version: "20"
       - run: npm install
 
       - run: node _scripts/notion-import.js
