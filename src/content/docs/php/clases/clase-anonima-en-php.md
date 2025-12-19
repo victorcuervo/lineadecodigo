@@ -1,8 +1,8 @@
 ---
-title: Clase Anónima en PHP
+title: "Clase Anónima en PHP"
 description: "Código que nos explica cómo podemos crear una clase anónima en PHP y cómo podemos utilizarla en mocks, interfaces o funciones de callback."
-lastUpdated: 2023-10-07
-slug: /php/clase-anonima-en-php/
+lastUpdated: 2025-12-19
+slug: php/clase-anonima-en-php
 author: victor_cuervo
 ---
 
@@ -22,7 +22,7 @@ class nombreclase {
 Si bien, vamos a ver que no siempre es necesario crear la clase con un nombre, sobre todo si no vamos a crear múltiples objetos de dicha clase. En este caso podemos crear una clase que sea anónima en [PHP](https://www.manualweb.net/php/).
 
 
-### ¿Qué es una clase anónima en PHP?
+## ¿Qué es una clase anónima en PHP?
 
 
 Pero lo primero es saber, ¿qué es una clase anónima en [PHP](https://www.manualweb.net/php/)? Una clase anónima en [PHP](https://www.manualweb.net/php/) es aquella a la que no hay que dar un nombre específico, ya que vamos a utilizarla de forma inmediata, normalmente para crear un único objeto o implementar un interface.
@@ -58,13 +58,13 @@ $objeto = new class {
 Como podemos ver en el ejemplo, la clase anónima se define directamente al crear el objeto, utilizando el operador `new class`. Esta clase puede contener todos los elementos que tendría una clase normal: atributos, constructor, métodos, etc.
 
 
-### Casos de uso de una clase anónima en PHP
+## Casos de uso de una clase anónima en PHP
 
 
 Las clases anónimas en [PHP](https://www.manualweb.net/php/) pueden resultar útiles en los siguientes escenarios:
 
 
-**Creación de objetos mock para testing**
+### **Creación de objetos mock para testing**
 
 
 Dónde queremos simular un comportamiento específico de forma rápida y aislada, sin afectar al resto del código.
@@ -90,7 +90,7 @@ $mockUsuario = new class {
 En este ejemplo, hemos creado una **clase anónima que simula un objeto de usuario para testing**, implementando solo los métodos necesarios para nuestra prueba específica.
 
 
-**Implementación de interfaces simples**
+### **Implementación de interfaces simples**
 
 
 Cuando necesitamos crear una implementación rápida de una interfaz que solo se utilizará una vez en nuestro código, sin necesidad de crear una clase completa con nombre.
@@ -117,7 +117,7 @@ $logger = new class implements Logger {
 En este ejemplo, hemos creado una implementación anónima de la interfaz `Logger`, que define un método simple para registrar mensajes. Esta implementación se utilizará solo en este contexto específico.
 
 
-**Definición de callbacks personalizados**
+### **Definición de callbacks personalizados**
 
 
 En situaciones donde necesitamos **pasar un objeto como parámetro a una función**, y queremos definir un comportamiento específico de manera concisa.
