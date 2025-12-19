@@ -1,7 +1,8 @@
 ---
-title: Bucle for-each en Java
+title: "Bucle for-each en Java"
 description: "El Bucle for-each en Java nos permite recorrer de una forma sencilla un array o una colección de una misma manera."
-lastUpdated: 2023-05-14
+lastUpdated: 2025-12-19
+slug: java/bucle-for-each-en-java
 author: victor_cuervo
 ---
 
@@ -16,7 +17,6 @@ String a[] = {"Avila", "Burgos", "León", "Palencia", "Salamanca", "Segovia", "S
 
 for (int x=0;x<a.length;x++)
  System.out.println(a[x]);
-
 ```
 
 
@@ -34,7 +34,7 @@ List list = new ArrayList();
 
 // Añadimos elementos
 list.add("Victor");
-list.add("Amaya");
+list.add("Marta");
 list.add("Julio");
 
 // Obtenemos un Iterador y recorremos la lista.
@@ -78,7 +78,7 @@ List list = new ArrayList();
 
 // Añadimos elementos
 list.add("Victor");
-list.add("Amaya");
+list.add("Marta");
 list.add("Julio");
 
 for (String nombre: list)
