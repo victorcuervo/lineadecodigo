@@ -6,7 +6,10 @@ slug: php/crear-un-metodo-en-php
 author: xhrist14n
 ---
 
-Los métodos en [PHP](http://www.manualweb.net/php/) son bastante útiles para poder encapsular una funcionalidad especifica en un solo lugar y poder reutilizar ese código muchas veces. Es por ello que vamos a ver como podemos crear un método en [PHP](http://www.manualweb.net/php/). ### Definir el método en PHP
+Los métodos en [PHP](http://www.manualweb.net/php/) son bastante útiles para poder encapsular una funcionalidad especifica en un solo lugar y poder reutilizar ese código muchas veces. Es por ello que vamos a ver como podemos crear un método en [PHP](http://www.manualweb.net/php/). 
+
+
+## Definir el método en PHP
 
 
 Para crear un método en [PHP](http://www.manualweb.net/php/) hacemos uso de la palabra reservada **function** seguido del nombre del método, los paréntesis con o sin parámetros del método entre los paréntesis. La sintaxis de un método en [PHP](http://www.manualweb.net/php/) sería la siguiente:
