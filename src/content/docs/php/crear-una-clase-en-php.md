@@ -1,15 +1,15 @@
 ---
-title: Crear una clase en PHP
+title: "Crear una clase en PHP"
 description: "El lenguaje de programación PHP es un lenguaje orientado a objetos, así que deberemos aprender a crear una clase en PHP e instanciar un objeto."
-lastUpdated: 2024-01-27
-slug: /php/crear-una-clase-en-php/
+lastUpdated: 2025-12-19
+slug: php/crear-una-clase-en-php
 author: victor_cuervo
 ---
 
 El [lenguaje de programación PHP](https://lineadecodigo.com/categoria/php/) es un **lenguaje orientado a objetos**, por lo que una de las cosas que deberemos de aprender es crear [una clase en PHP](https://manualweb.net/php/clases-y-objetos-en-php/). Y es que, crear [una clase en PHP](https://manualweb.net/php/clases-y-objetos-en-php/), nos puede servir para encapsular una cierta funcionalidad, la cual podremos instanciar con diferentes valores en tantos objetos como necesitemos.
 
 
-### Definir una clase en PHP
+## Definir una clase en PHP
 
 
 El primer paso que deberemos  dar a la hora de crear [una clase en PHP](https://manualweb.net/php/clases-y-objetos-en-php/) es el de definir la clase. El nombre de la clase debe  ser un nombre genérico que represente la funcionalidad que queremos encapsular dentro de la clase.
@@ -34,14 +34,14 @@ En nuestro caso, vamos a declarar una clase que contenga la información asociad
 Es por ello que definiremos nuestra clase libro en [PHP](https://www.manualweb.net/php/) de la siguiente forma:
 
 
-```text
+```php
 class Libro {
   // Contenido de la clase
 }
 ```
 
 
-### Atributos de una clase PHP
+## Atributos de una clase PHP
 
 
 Lo siguiente en nuestro proceso de crear [una clase en PHP](https://manualweb.net/php/clases-y-objetos-en-php/) será trabajar los atributos. Una vez que tenemos definida la [clase en PHP](https://manualweb.net/php/clases-y-objetos-en-php/), vamos a añadir dentro de ella los atributos. Los atributos son la variables que almacenarán la información dentro de [la clase PHP](https://manualweb.net/php/clases-y-objetos-en-php/).
@@ -91,7 +91,7 @@ class Libro {
 ```
 
 
-### Constructor de la clase PHP
+## Constructor de la clase PHP
 
 
 Ahora que, en el proceso de crear [una clase en PHP](https://manualweb.net/php/clases-y-objetos-en-php/), ya tenemos definida la clase y los atributos que conforman dicha clase, vamos a dar el siguiente paso. Este será el crear el constructor de [la clase PHP](https://manualweb.net/php/clases-y-objetos-en-php/).
@@ -142,7 +142,7 @@ $this->titulo = $titulo;
 Lo que estamos diciendo es que el valor del parámetro `$titulo` se almacenará en la propiedad `$titulo` a la que hacemos referencia mediante el objeto `$this` como `$this->titulo`.
 
 
-### Getters & Setters de una clase PHP
+## Getters & Setters de una clase PHP
 
 
 Sigamos el proceso de crear [una clase en PHP](https://manualweb.net/php/clases-y-objetos-en-php/). Ya tenemos la clase, los atributos y el método constructor que inicializa los valores. El siguiente paso es definir los métodos o funciones llamados getters & setters de [una clase en PHP](https://manualweb.net/php/clases-y-objetos-en-php/). Estas funciones son aquellas que nos permiten, por un lado, obtener el valor de una propiedad, que serían los getters. Y por otro lado, asignar un valor a una propiedad, que serían los setters.
@@ -194,7 +194,7 @@ public function setTitulo($titulo) {
 ```
 
 
-### Definición entera para crear una clase en PHP que defina un Libro
+## Definición entera para crear una clase en PHP que defina un Libro
 
 
 Ahora ya tenemos lo suficiente definida nuestra clase para poder instanciarla y empezar a utilizar objetos sobre ella.
@@ -226,7 +226,7 @@ class Libro {
 ```
 
 
-### Instanciar una clase PHP
+## Instanciar una clase PHP
 
 
 Una vez creada la clase, veremos que el siguiente paso es [instanciar una clase en PHP](https://manualweb.net/php/clases-y-objetos-en-php/). Es decir, vamos a crear un objeto que utilice la clase para poder [crear una instancia de dicha clase](https://manualweb.net/php/clases-y-objetos-en-php/). En nuestro caso de los libros, hablaríamos de instancias como los diferentes libros con su correspondiente título y autor que queramos crear.
