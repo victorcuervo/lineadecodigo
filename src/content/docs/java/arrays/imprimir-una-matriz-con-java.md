@@ -1,8 +1,8 @@
 ---
-title: Imprimir una matriz con Java
+title: "Imprimir una matriz con Java"
 description: "Una matriz es un array bidimensional de datos. En este ejemplo vamos a ver cómo imprimir una matriz con Java mediante bucles for anidados."
-lastUpdated: 2023-09-17
-slug: /java/imprimir-una-matriz-con-java/
+lastUpdated: 2025-12-20
+slug: java/imprimir-una-matriz-con-java
 author: victor_cuervo
 ---
 
@@ -12,10 +12,10 @@ En [uno de los comentarios](http://lineadecodigo.com/java/cargar-una-matriz-por-
 Y es que en el artículo sobre [cargar una matriz por teclado en Java](http://lineadecodigo.com/java/cargar-una-matriz-por-teclado-en-java/) lo que hacíamos era mostrar la matriz por posiciones. Ahora la idea es imprimirla de una forma más matemática. Algo parecido a:
 
 
-![](http://lineadecodigo.com/wp-content/uploads/2012/12/matriz.png)
+![](../../../../assets/java/images/matriz.png)
 
 
-### Definir una matriz en Java
+## Definir una matriz en Java
 
 
 Así que vamos con la tarea de imprimir una matriz con [Java](https://www.manualweb.net/java/). Lo primero será [cargar la matriz](http://lineadecodigo.com/java/cargar-una-matriz-por-teclado-en-java/). No nos vamos a complicar mucho y lo que vamos a hacer es cargarla directamente.
@@ -38,7 +38,7 @@ matriz[2][2] = 1;
 > Recuerda que las matrices en Java son [arrays](https://manualweb.net/java/arrays-java/) bidimensionales. Es por ello que la definición tienen dos dimensiones.
 
 
-### Imprimir una matriz con Java por consola
+## Imprimir una matriz con Java por consola
 
 
 Ahora pasaremos a imprimirla. Para ello utilizamos dos [estructuras for](https://manualweb.net/java/sentencias-bucle-java/#for) anidadas. La primera irá incrementando las filas, es decir, el valor de la X y la segunda incrementará por cada fila el valor de las columnas, es decir, la Y.
