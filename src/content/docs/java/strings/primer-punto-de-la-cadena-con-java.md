@@ -1,0 +1,60 @@
+---
+title: "Primer punto de la cadena con Java"
+description: "Uso del método indexOf para poder localizar el primer punto de la cadena con Java"
+lastUpdated: 2025-12-20
+slug: java/primer-punto-de-la-cadena-con-java
+author: Víctor Cuervo
+---
+
+Nos solicitaban [en los comentarios de la web como podíamos localizar el primer punto de la cadena con Java](http://lineadecodigo.com/java/string-cortar-cadena-por-puntos/#comment-100959). Y sobre si era aconsejable utilizar un [StrintTokenizer](https://www.w3api.com/Java/StringTokenizer/) al respecto. La verdad que localizar el primer punto de la cadena con Java es algo relativamente sencillo. Para ello lo que debemos de hacer es utilizar [el método indexOf](https://www.w3api.com/Java/String/.indexOf()). Mediante [el método indexOf](https://www.w3api.com/Java/String/.indexOf()) obtendremos la posición en la cual se encuentra el carácter buscado. En nuestro caso un punto. Pero lo primero será definir nuestra cadena.
+
+
+```java
+String sCadena = "www.lineadecodigo.com";
+```
+
+
+Ahora vamos a buscar la posición del primer punto.
+
+
+```text
+int posicionPunto = sCadena.indexOf('.');
+```
+
+
+Ahora que ya tenemos la posición solo tendremos que cortar desde el principio de la cadena hasta la posición del punto
+
+
+```java
+String sHastaPrimerPunto = sCadena.substring(0,posicionPunto);
+```
+
+
+Y desde la posición del punto + 1 hasta el final de la cadena. El final de la cadena lo podemos conseguir mediante [el método length](https://www.w3api.com/Java/String/.length()).
+
+
+```java
+String sDesdePrimerPunto = sCadena.substring(posicionPunto+1,sCadena.length());
+```
+
+
+Ya solo tendremos que volcar estas cadenas por consola.
+
+
+```java
+System.out.println(sHastaPrimerPunto);
+System.out.println(sDesdePrimerPunto);
+```
+
+
+Y lo que veremos será algo parecido a:
+
+
+```text
+www
+lineadecodigo.com
+```
+
+
+Como se puede observar es muy sencillo el obtener el primer punto de la cadena con [Java](https://www.manualweb.net/java/).
+
