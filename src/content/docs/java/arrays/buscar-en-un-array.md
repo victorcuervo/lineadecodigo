@@ -1,12 +1,15 @@
 ---
 title: "Buscar en un Array"
 description: "Explicación del código que nos permite buscar en un Array con Java convirtiendolo en una lista y utilizando el método .contains() para encontrar el valor."
-lastUpdated: 2025-12-22
+lastUpdated: 2025-12-24
 slug: java/buscar-en-un-array
-author: Víctor Cuervo
+author: victor_cuervo
 ---
 
-En este artículo vamos a ver cómo podemos implementar buscar en un array con [Java](http://www.manualweb.net/java). La idea es cargar una serie de elementos, en este caso cadenas de texto, dentro de un array y luego buscar si hay uno de ellos presente dentro de dicho array o en caso contrario si no se encuentra dentro de la lista de elementos de array. > Si estás interesado en tipos de búsquedas en arrays puedes echar un ojo a [cómo realizar una búsqueda binaria](http://lineadecodigo.com/java/busqueda-binaria-con-java/) que es otro tipo de búsqueda mas avanzada, incluso [llegar a implementar una búsqueda binaria](http://lineadecodigo.com/java/implementar-una-busqueda-binaria-con-java/).
+En este artículo vamos a ver cómo podemos implementar buscar en un array con [Java](http://www.manualweb.net/java). La idea es cargar una serie de elementos, en este caso cadenas de texto, dentro de un array y luego buscar si hay uno de ellos presente dentro de dicho array o en caso contrario si no se encuentra dentro de la lista de elementos de array.
+
+
+> Si estás interesado en tipos de búsquedas en arrays puedes echar un ojo a [cómo realizar una búsqueda binaria](http://lineadecodigo.com/java/busqueda-binaria-con-java/) que es otro tipo de búsqueda mas avanzada, incluso [llegar a implementar una búsqueda binaria](http://lineadecodigo.com/java/implementar-una-busqueda-binaria-con-java/).
 
 
 Lo primero será crear un array [Java](http://www.manualweb.net/java) con elementos. En este caso vamos a crear un array de cadenas o [`String`](https://www.w3api.com/Java/String/). La forma de instanciar el array será la siguiente:
