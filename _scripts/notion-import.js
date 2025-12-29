@@ -59,7 +59,7 @@ async function resolveSyncedBlocks(mdblocks) {
 					}
 				},
 				{
-					property: "LastUpdated Date",
+					property: "Updated Date",
 					date: {
 						equals: moment().format("YYYY-MM-DD")
 					}
