@@ -70,13 +70,19 @@ async function resolveSyncedBlocks(mdblocks) {
 	for (const r of response.results) {
 		const id = r.id
 
-		// date
-		let date = moment(r.created_time).format("YYYY-MM-DD")
-		let pdate = r.properties?.['LastUpdated Date']?.['date']?.['start']
-		if (pdate) {
-			date = moment(pdate).format('YYYY-MM-DD')
+		// publish date
+		let publishdate = moment(r.created_time).format("YYYY-MM-DD")
+		let ppublishdate = r.properties?.['Publish Date']?.['date']?.['start']
+		if (ppublishdate) {
+			publishdate = moment(ppublishdate).format('YYYY-MM-DD')
 		}
-		
+
+		// updated date
+		let updateddate = moment(r.created_time).format("YYYY-MM-DD")
+		let pupdateddate = r.properties?.['Updated Date']?.['date']?.['start']
+		if (pupdateddate) {
+			updateddate = moment(pupdateddate).format('YYYY-MM-DD')
+		}
 		
 		// Title
 		let title = ''
@@ -118,13 +124,31 @@ async function resolveSyncedBlocks(mdblocks) {
 		let author = ''
 		let pauthor = r.properties?.['Author']?.['multi_select']?.[0]?.['name']
 		author = pauthor || 'victor_cuervo'
+
+		// Tags
+		let tags = []
+		let ptags = r.properties?.['Tags']?.['multi_select']
+		if (ptags?.length > 0) {
+			tags = ptags.map(tag => tag?.['name'])
+		}
+
+		// Download
+		let download = ''
+		let pdownload = r.properties?.['Download']?.['url']
+		if (pdownload) {
+			download = pdownload
+		}
 		
 const fm = `---
 title: "${title}"
 description: "${excerpt.replace(/"/g, '\\"')}"
-lastUpdated: ${date}
+publishDate: ${publishdatedate}
+updatedDate: ${updateddatedate}
+tags: ${JSON.stringify(tags)}
 slug: ${ruta}
 author: ${author}
+type: doc
+download: ${download}
 ---
 `
 
@@ -172,8 +196,6 @@ author: ${author}
 			}
 		}
 		
-		
-
 		//writing to file
 		const ftitle = `${slug}.md`
 		fs.writeFile(path.join(root, ftitle), fm + contenido, (err) => {
