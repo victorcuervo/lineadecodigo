@@ -142,8 +142,8 @@ async function resolveSyncedBlocks(mdblocks) {
 const fm = `---
 title: "${title}"
 description: "${excerpt.replace(/"/g, '\\"')}"
-publishDate: ${publishdatedate}
-updatedDate: ${updateddatedate}
+publishDate: ${publishdate}
+updatedDate: ${updateddate}
 tags: ${JSON.stringify(tags)}
 slug: ${ruta}
 author: ${author}
