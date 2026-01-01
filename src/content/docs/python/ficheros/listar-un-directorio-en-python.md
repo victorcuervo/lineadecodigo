@@ -1,15 +1,19 @@
 ---
-title: Listar un Directorio en Python
+title: "Listar un Directorio en Python"
 description: "Para poder listar un directorio en Python deberemos comprobar que este existe mediante una función exists y listarlo con la función listdir."
-lastUpdated: 2024-01-28
-slug: /python/listar-un-directorio-en-python/
+publishDate: 2025-01-22
+updatedDate: 2026-01-01
+tags: ["ficheros","os","listdir","exists"]
+slug: python/listar-un-directorio-en-python
 author: victor_cuervo
+type: doc
+download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/listar-directorio.py
 ---
 
 En el artículo de hoy vamos a ver cómo podemos listar un directorio en [Python](https://www.manualweb.net/python/) para poder comprobar cual es el contenido del mismo. Y es que la sencillez que nos ofrece el [lenguaje de programación Python](https://lineadecodigo.com/categoria/python/) lo hace realmente útil para poder desarrollar utilidades de gestión de fichero ya sea en máquinas locales o en servidores.
 
 
-### Uso del módulo os
+## Uso del módulo os
 
 
 Cómo hemos visto en anteriores artículos como el de [comprobar que existe un fichero en Python](https://lineadecodigo.com/python/comprobar-que-existe-un-fichero-en-python/), el módulo [`os`](https://www.w3api.com/Python/os/) se convierte en relevante para poder operar dentro de nuestro sistema operativo. 
@@ -26,7 +30,7 @@ from os import listdir, path
 Si bien no vamos a importar todo el módulo, si no aquellos objetos que nos vayan a a ayudar para poder realizar nuestra tarea de listar un directorio en [Python](https://www.manualweb.net/python/). Así que importaremos el módulo [`os.path`](https://www.w3api.com/Python/os-path/) para poder comprobar que existe el directorio que queremos listar y la función [`listdir()`](https://www.w3api.com/Python/os/listdir/) para poder realizar el listado del directorio.
 
 
-### Comprobar si existe el directorio 
+## Comprobar si existe el directorio 
 
 
 Pero, vayamos por pasos, lo primero será comprobar que existe el directorio. Para ello nos podemos apoyar en lo que explicamos en el artículo [comprobar que existe un fichero en Python](https://lineadecodigo.com/python/comprobar-que-existe-un-fichero-en-python/) ya que la validación es la misma ya sea un fichero o un directorio.
@@ -53,7 +57,7 @@ else:
 ```
 
 
-### Uso de la función listdir para listar un Directorio en Python
+## Uso de la función listdir para listar un Directorio en Python
 
 
 Una vez que hemos comprobado que existe el directorio del que queremos listar los ficheros pasaremos a focalizarnos en la función [`listdir()`](https://www.w3api.com/Python/os/listdir/) que nos ayudará para extraer los ficheros.

@@ -1,15 +1,19 @@
 ---
-title: Borrar carpetas de forma recursiva en Python
+title: "Borrar carpetas de forma recursiva en Python"
 description: "Cómo utilizar los módulos os y shutil para poder tener diferentes formas de borrar carpetas de forma recursiva en Python para directorios no vacíos."
-lastUpdated: 2024-01-28
-slug: /python/borrar-carpetas-de-forma-recursiva-en-python/
+publishDate: 2025-01-25
+updatedDate: 2026-01-01
+tags: ["rmdir","listdir","os","remove","shutil","rmtree","join","isdir"]
+slug: python/borrar-carpetas-de-forma-recursiva-en-python
 author: victor_cuervo
+type: doc
+download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/borrar-carpeta-recursiva.py
 ---
 
 El proceso de borrar una carpeta cuando [aprendes a programar en diferentes lenguajes de programación](http://lineadecodigo.com/), siempre tiene un denominador común que son las carpetas con contenido en ellas. Es por ello que hoy vamos a ver cómo podemos borrar carpetas de forma recursiva en [Python](https://www.manualweb.net/python/).
 
 
-### Borrar una carpeta en Python
+## Borrar una carpeta en Python
 
 
 Pero, lo primero, es saber lo más sencillo, ¿cómo borro una carpeta en [Python](https://www.manualweb.net/python/)? Pues para ello vamos a recurrir al [módulo ](https://www.w3api.com/Python/os/)[`os`](https://www.w3api.com/Python/os/), sí, ese que tiene las funciones que nos permiten manejar el sistema operativo y los ficheros que lo componen. Por ejemplo tenemos borrado de ficheros, borrado de directorios, listar directorios,…
@@ -40,7 +44,7 @@ OSError: [Errno 66] Directory not empty: 'directorio/borrar'
 ```
 
 
-### Eliminar el contenido de una carpeta antes de borrarla
+## Eliminar el contenido de una carpeta antes de borrarla
 
 
 Visto lo visto tendremos que eliminar el contenido de la carpeta antes de poder borrarla. Así que deberemos de listar el contenido de la carpeta mediante la función [`listdir()`](https://www.w3api.com/Python/os/listdir/) del módulo [`os`](https://www.w3api.com/Python/os/).
@@ -84,7 +88,7 @@ Nos vamos a apoyar en la función [`isdir()`](https://www.w3api.com/Python/os-pa
 Además hemos visto que utilizamos otra función del módulo [`os.path`](https://www.w3api.com/Python/os-path/) que es [`.join()`](https://www.w3api.com/Python/os-path/join/). La función [`.join()`](https://www.w3api.com/Python/os-path/join/) nos permite crear el path completo entre el nombre de la carpeta o path y el nombre del fichero que estamos listando.
 
 
-### Función para borrar carpetas de forma recursiva en Python.
+## Función para borrar carpetas de forma recursiva en Python.
 
 
 Ahora ya nos centramos en la función para borrar carpetas de forma recursiva en [Python](https://www.manualweb.net/python/). Que es esa que hemos visto en el código que hemos llamado `borrar_carpeta()`.
@@ -122,7 +126,7 @@ borrar_carpeta(carpeta)
 Ya habremos conseguido tener por completo nuestro código sobre borrar carpetas de forma recursiva en [Python](https://www.manualweb.net/python/).
 
 
-### Borrar carpetas de forma recursiva en Python con el módulo shutil
+## Borrar carpetas de forma recursiva en Python con el módulo shutil
 
 
 Hay que decir que este código es muy útil para realizar un proceso para borrar carpetas de forma recursiva en [Python](https://www.manualweb.net/python/). Pero a la hora de la verdad no tiene sentido que metamos este [código en Python](https://lineadecodigo.com/categoria/python/) dentro de nuestro programa, sobre todo porque ya hay módulos que lo tienen implementado internamente.

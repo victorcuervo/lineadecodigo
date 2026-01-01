@@ -1,9 +1,13 @@
 ---
-title: Borrar una carpeta en Python
+title: "Borrar una carpeta en Python"
 description: "Utilización del módulo os y de sus funciones remove, listdir y rmdir para poder borrar una carpeta en Python que no contenga otras carpetas dentro."
-lastUpdated: 2024-01-28
-slug: /python/borrar-una-carpeta-en-python/
+publishDate: 2025-01-25
+updatedDate: 2026-01-01
+tags: ["remove","rmdir","exists","listdir","join","os","path"]
+slug: python/borrar-una-carpeta-en-python
 author: victor_cuervo
+type: doc
+download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/borrar-carpeta.py
 ---
 
 Para poder borrar una carpeta en [Python](https://www.manualweb.net/python/) deberemos de asegurarnos que la carpeta está vacía antes de proceder a su borrado. Es por ello que vamos a ver en este artículo el proceso que deberemos de seguir para poder conseguirlo.
@@ -17,7 +21,7 @@ carpeta = "temp/borrar"
 ```
 
 
-### Validar si existe el directorio a borrar
+## Validar si existe el directorio a borrar
 
 
 Es una buena práctica el poder validar que el directorio existe para poder iniciar el borrado. Ya que si intentamos borrar un directorio que no existe nos dará error.
@@ -31,7 +35,7 @@ if (path.exists(carpeta)):
 ```
 
 
-### Listar el contenido del directorio a borrar
+## Listar el contenido del directorio a borrar
 
 
 Ahora pasaremos a ver si la carpeta está vacía o contiene ficheros. Para ello tenemos que recorrer su contenido utilizando la función [`listdir()`](https://www.w3api.com/Python/os/listdir/) del módulo [`os`](https://www.w3api.com/Python/os/).
@@ -50,7 +54,7 @@ Cuando vamos recorriendo el directorio iremos obteniendo los nombres de los fich
 Esto es lo que hemos añadido dentro del bucle for que hemos creado para recorrer los ficheros.
 
 
-### Función remove para borrar ficheros
+## Función remove para borrar ficheros
 
 
 Una vez que tenemos claros los ficheros que hay dentro del directorio lo que haremos será borrarlo. Para ello nos apoyamos en la función [`remove()`](https://www.w3api.com/Python/os/remove/).
@@ -64,7 +68,7 @@ for fichero in listdir(carpeta):
 ```
 
 
-### Función rmdir para borrar una carpeta en Python
+## Función rmdir para borrar una carpeta en Python
 
 
 Ya vaciado el directorio podremos pasar a eliminar el directorio. Si para los ficheros utilizábamos la función [`remove()`](https://www.w3api.com/Python/os/remove/) para borrar el directorio utilizamos la función [`rmdir()`](https://www.w3api.com/Python/os/rmdir/).
@@ -79,5 +83,5 @@ print (f"Borrada la carpeta {carpeta}")
 Con esto ya habremos conseguido borrar una carpeta en [Python](https://www.manualweb.net/python/). Si es verdad que estamos asumiendo que en la carpeta que queremos borrar no hay más directorios, solo contiene ficheros.
 
 
-En el caso de que contenga más directorios habrá que hacerlo de forma recursiva. Nos puedes contar en comentarios como lo resolverías ya que tenemos diferentes formas y utilidades para poder hacerlo. Y en los [artículos sobre programación en Pyhton de Línea de Código](https://lineadecodigo.com/categoria/python/) lo publicaremos a no mucho tardar.
+En el caso de que contenga más directorios habrá que hacerlo de forma recursiva. Nos puedes contar en comentarios como lo resolverías ya que tenemos diferentes formas y utilidades para poder hacerlo. Y en los [artículos sobre programación en Pyhton de Línea de Código](https://lineadecodigo.com/python/) lo publicaremos a no mucho tardar.
 

@@ -1,14 +1,19 @@
 ---
-title: Crear un fichero en Python
+title: "Crear un fichero en Python"
 description: "Explicación de las formas que tenemos para crear un fichero en Python y análisis de los beneficios de utilizar una estructura with en el proceso."
-lastUpdated: 2024-01-28
+publishDate: 2025-01-23
+updatedDate: 2026-01-01
+tags: ["ficheros","open","write","with","close"]
+slug: python/crear-un-fichero-en-python
 author: victor_cuervo
+type: doc
+download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/crear-fichero.py
 ---
 
 En este artículo vamos a ver lo sencillo que es crear un fichero en [Python](https://www.manualweb.net/python/) sobre el que volcaremos un contenido. Para ello vamos a analizar que estructuras de control y que funciones de Python vamos a necesitar para llevar a cabo la tarea.
 
 
-### Lo primero, crear un fichero en Python
+## Lo primero, crear un fichero en Python
 
 
 Lo primero que haremos será crear un fichero en [Python](https://www.manualweb.net/python/). Para crear el fichero en [Python](https://www.manualweb.net/python/), lo primero que tendremos que hacer es abrirlo mediante la función [`open()`](https://www.w3api.com/Python/open/). Pero, ¿cómo que abrir el fichero si este no existe y lo queremos crear?
@@ -49,7 +54,7 @@ fichero = open("mifichero.txt","w")
 Vemos que aquí, exista o no un fichero se crea un fichero que se llama mifichero.txt.
 
 
-### Incluir contenido en el fichero
+## Incluir contenido en el fichero
 
 
 Una vez que tenemos creado el fichero en [Python](https://www.manualweb.net/python/), lo siguiente que haremos será incluir contenido en él. Para ello podemos hacerlo de dos formas: incluyendo contenido directamente sobre el fichero o utilizando la estructura `with`. Vamos a analizar cada una de las alternativas
@@ -82,7 +87,7 @@ fichero.close()
 ```
 
 
-**Utilizar la estructura with**
+## **Utilizar la estructura with**
 
 
 Pero la forma más general y extendida de utilización de ficheros es mediante el uso de la estructura `with`. La sintaxis de la estructura `with` es la siguiente:

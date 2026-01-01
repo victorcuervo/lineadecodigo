@@ -1,9 +1,13 @@
 ---
-title: Leer ficheros con Python
+title: "Leer ficheros con Python"
 description: "Existen dos formas de poder leer ficheros con Python, bien leyendo el contenido entero del fichero o yendo línea a línea."
-lastUpdated: 2023-05-27
-slug: /python/leer-ficheros-con-python/
+publishDate: 2024-02-12
+updatedDate: 2026-01-01
+tags: ["open","for","print","os","exists","with","iobase","textiobase","rawiobase"]
+slug: python/leer-ficheros-con-python
 author: victor_cuervo
+type: doc
+download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/leer-fichero.py
 ---
 
 En el artículo de hoy vamos a ver cómo podemos leer ficheros con [Python](https://www.manualweb.net/python/). Analizaremos las dos formas en las que podemos leer su contenido, bien sea de forma completa o línea por línea.
@@ -47,7 +51,7 @@ Como podemos ver, utilizamos la estructura `with` para abrir el fichero. La estr
 Lo siguiente será realizar la lectura, bien sea de forma completa o línea a línea.
 
 
-### Lectura de ficheros de forma completa
+## Lectura de ficheros de forma completa
 
 
 Para realizar una lectura completa de un fichero con [Python](https://www.manualweb.nte/python/) lo que haremos será utilizar el método [`.read()`](https://www.w3api.com/Python/io/TextIOBase/read/) sobre el fichero. Esta lectura dejará todo el contenido en una variable. en nuestro caso lo que hacemos es mostrarla por consola.
@@ -62,7 +66,7 @@ with open(nombre_fichero,"r") as fichero:
 > El interface base que define el acceso a ficheros es [`IOBase`](https://www.w3api.com/Python/io/IOBase/), en dicha clase puedes ver todos los métodos que nos permiten manejar un fichero para su lectura, escritura, búsqueda, truncado,… Aunque luego tienes clases especializadas como [`TextIOBase`](https://www.w3api.com/Python/io/TextIOBase/) especializados para lectura de texto o [`RawIOBase`](https://www.w3api.com/Python/io/RawIOBase/) para lecturas “en crudo” del fichero.
 
 
-### Leer ficheros por líneas
+## Leer ficheros por líneas
 
 
 En este otro caso vamos a realizar la lectura por líneas del fichero. Para ello tenemos que saber que la operación [`.open()`](https://www.w3api.com/Python/open/) nos ha dejado un puntero a las líneas del fichero en una lista que podemos recorrer. Por lo que podemos utilizar una estructura `for` para recorrer cada una de las líneas.
