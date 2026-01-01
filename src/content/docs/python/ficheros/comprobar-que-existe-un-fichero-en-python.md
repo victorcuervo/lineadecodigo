@@ -1,15 +1,19 @@
 ---
-title: Comprobar que existe un fichero en Python
+title: "Comprobar que existe un fichero en Python"
 description: "Ejemplo que explica cómo utilizar el módulo os y el objeto path para poder comprobar que existe un fichero en Python mediante el método .exists()."
-lastUpdated: 2024-01-28
-slug: /python/comprobar-que-existe-un-fichero-en-python/
+publishDate: 2025-01-21
+updatedDate: 2026-01-01
+tags: ["ficheros","os","path","exists"]
+slug: python/comprobar-que-existe-un-fichero-en-python
 author: victor_cuervo
+type: doc
+download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/validar-existe-fichero.py
 ---
 
 Ejemplo sencillo, pero muy útil, en el que vamos a ver cómo podemos comprobar que existe un fichero en [Python](https://www.manualweb.net/python/) previo a poder manipularlo.
 
 
-### Módulo os y objeto path
+## Módulo os y objeto path
 
 
 Para poder realizar la validación de la existencia de ficheros en Python, necesitamos utilizar el módulo [`os`](https://www.w3api.com/Python/tag/os/) y específicamente el objeto [`path`](https://www.w3api.com/Python/tag/os-path/). El módulo [`os`](https://www.w3api.com/Python/tag/os/) es una parte fundamental del ecosistema [Pyhton](https://www.manualweb.net/python/) que nos proporciona múltiples funcionalidades para interactuar con el sistema operativo y gestionar rutas de archivos de manera eficiente.
@@ -27,7 +31,7 @@ from os import path
 ```
 
 
-### Comprobar que existe un fichero en Python mediante el método exists
+## Comprobar que existe un fichero en Python mediante el método exists
 
 
 Para poder comprobar que existe un fichero en [Python](https://www.manualweb.net/python/) lo primero que haremos será definir en una variable la ruta del fichero:

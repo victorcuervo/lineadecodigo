@@ -1,15 +1,19 @@
 ---
-title: 10 primeros números impares en Python
+title: "10 primeros números impares en Python"
 description: "Ejemplo de código que nos explica cómo utilizar la función range y su parámetro step para poder listar los primeros 10 números impares en Python."
-lastUpdated: 2024-02-10
-slug: /python/10-primeros-numeros-impares-en-python/
+publishDate: 2025-02-06
+updatedDate: 2026-01-01
+tags: ["bucles","for","range","step"]
+slug: python/10-primeros-numeros-impares-en-python
 author: victor_cuervo
+type: doc
+download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/listar-numeros-impares.py
 ---
 
 En nuestros [ejemplos básicos para aprender a programar en Python](https://lineadecodigo.com/categoria/python/) hemos visto ya cómo utilizar bucles para poder listar los números del 1 al 10, en este caso vamos a ver cómo podemos listar los 10 primeros números impares en [Python](https://www.manualweb.net/python/).
 
 
-### Uso de bucles para listar números
+## Uso de bucles para listar números
 
 
 Lo primero para poder listar los 10 primeros números impares en [Python](https://www.manualweb.net/python/) es conocer el manejo de los bucles en Python. En concreto vamos a ver cómo se maneja el bucle `for`. El bucle en `for` en [Python](https://www.manualweb.net/python/) tiene la siguiente estructura:
@@ -61,13 +65,13 @@ for numero in range(1,21):
 ```
 
 
-### Clase range con step
+## Clase range con step
 
 
 Además del código calculando el número impar mediante el resto de una operación de división por dos, vamos a ver que podemos listar los 10 primeros números impares en [Python](https://www.manualweb.net/python/) utilizando solo la clase [`range()`](https://www.w3api.com/Python/range/range/).
 
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/b44a5280-94c4-4879-b28a-2a22c936909b/1734baf4-9c36-4317-a67f-82a46bfaf069/range-python.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UC36N7AB%2F20251209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251209T101337Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJGMEQCIA81ckBTdG%2BkOEj3xRte5nyF%2FyBATuTDBs7Z4ff8e28tAiBwsjohksvmBMs%2FcRTAIiX8DnDOvuGKoTWh9kTt0XtHLSqIBAi6%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMidgTAOWN9GRqWCSBKtwDanXjYG8J2rIgr2a3%2FLHn6W1YOQYyxNDpu%2FULx45NVOHZEV4BEg4wPYRQ1wplrk3HSeEP93wrCLc9nRA8VOYAVrTfHkl5h4AGwZ77F%2Ff1msmqUNmqMfJ6ta28cdqhrbgt1%2F03FkDXnhq205qezCfU26SdmZgwpgMg5QB5t%2FUDYGl02Qp2%2BkaDu9R%2FlrSRowPgcpDtQtoSaaECoy02DCaT7pPPIvWHQmyG8DUiHu8p8g7IYDD5uetyEEHHOKf0Oam7nhFH9p5ZW%2FsncE%2BQWheMzDeUzFAHElLZT6e0zIVFqbyp58EnSoO%2FOkzchy4Nc75bBqnpvaq5DW5twHUBIPdXWFQr6vYA7RPB%2BKAp16svEr1SWpLXODoRbTfhidrwUaI2jASahBREYHKHkSmCHz6mPEWS1Tlll%2Bis4IsA%2ByaILc69lfbyq%2Ftby2cUu1K2fk9y24y8ULN6CnzPIXAiIGZCT0TTUMdgnp24k68pvk7dGK2LNCBgsMpx4unSoV6YSW1Q%2FDX41A6NLQ6K8KHuqTrlIB4WNRiyt0FC3WVJW7FE0Gsh63WbHXiFZ5w9OwJVb8tdJMwdW30JtjkgqBR0ZKKArxegzlO0rw4rSXpv%2FchoF27xfNwqSWVD0A4EVt0w%2FMPfyQY6pgHiH1AexDWq5QPhFTD1h9SoT0W9QKQ1mO%2FblzbIB9fm3ng%2BWaHr0HIPwlsxgZ4l0EWsBtY%2By8r95%2BBz%2F1XpTT59NcDEBXbxzTGYThQ1q5FJ94tcAG1TbzP9HWZgxytWI%2F3xwkZ%2FcXP%2BC8dUSGS4lJwyeiDRFkoN5nDlAT%2BvZ7a9Ut7VR%2BhcUHshGvpSDAVFXHyh4j2yiynjosRFvxuuUHDVuhqRqKce&X-Amz-Signature=59a2edd175d7a64d6e21d68b09c9abfe78b4f4660b646db717b183e660fd9463&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![](../../../../assets/python/images/range-python.webp)
 
 
 Mirando un poco más en detalle los parámetros de la sintaxis de [`range()`](https://www.w3api.com/Python/range/range/) vemos que hay uno que es `step`. Este parámetro nos permite el generar una lista de números con valores de separación entre ellos.
@@ -111,7 +115,7 @@ Veremos que los números están separados de 3 en 3.
 ```
 
 
-### Código para listar los 10 primeros números impares en Python
+## Código para listar los 10 primeros números impares en Python
 
 
 Así que podemos utilizar la clase [`range()`](https://www.w3api.com/Python/range/range/) con el parámetro `step` para poder listar los 10 primeros números impares en [Python](https://www.manualweb.net/python/).

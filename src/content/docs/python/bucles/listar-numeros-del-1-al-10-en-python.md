@@ -1,9 +1,13 @@
 ---
-title: Listar números del 1 al 10 en Python
+title: "Listar números del 1 al 10 en Python"
 description: "Ejemplo sencillo, paso a paso, que nos explica cómo utilizar la clase range y el bucle for para poder listar números del 1 al 10 en Python."
-lastUpdated: 2024-02-10
-slug: /python/listar-numeros-del-1-al-10-en-python/
+publishDate: 2025-02-05
+updatedDate: 2026-01-01
+tags: ["bucles","while","for","range"]
+slug: python/listar-numeros-del-1-al-10-en-python
 author: victor_cuervo
+type: doc
+download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/recorrer-numeros.py
 ---
 
 Hoy vamos a revisar un ejemplo sencillo a dar cuando empecemos a [aprender a desarrollar en Python](https://lineadecodigo.com/categoria/python/) y es cómo listar números del 1 al 10 en [Python](https://www.manualweb.net/python/).
@@ -12,7 +16,7 @@ Hoy vamos a revisar un ejemplo sencillo a dar cuando empecemos a [aprender a des
 Para ello vamos a revisar qué tipos de bucles tenemos en [Python](https://www.manualweb.net/python/) y cómo utilizaremos el bucle for para poder generar la lista de números. Además, aprenderemos un poco más sobre la clase [`range()`](https://www.w3api.com/Python/range/) y qué papel juega dentro del uso del bucle.
 
 
-### Bucles en Python
+## Bucles en Python
 
 
 Lo primero que tenemos que saber para poder listar números del 1 al 10 en [Python](https://www.manualweb.net/python/) es que tenemos que utilizar un bucle en [Python](https://www.manualweb.net/python/) que nos permita recorrer los números. Dentro de los bucles en [Python](https://www.manualweb.net/python/) encontramos de dos tipos:
@@ -54,7 +58,7 @@ for numero in lista:
 Podemos observar que hemos creado una lista del 1 al 10 con los números y mediante nuestro bucle for recorremos dicha lista para acabar mostrándolos por pantalla mediante la función [`print()`](https://www.w3api.com/Python/print/).
 
 
-### Elemento range
+## Elemento range
 
 
 Pero la verdad que es un poco tedioso crear la lista de números, y quizás sea algo realmente complicado si en vez de querer listar números del 1 al 10 en [Python](https://www.manualweb.net/python/) nos proponemos listar, ¿2000 números? En este caso generar una lista sería algo poco viable.
@@ -83,7 +87,7 @@ range(1,11)
 ```
 
 
-### Bucle para poder listar números del 1 al 10 en Python.
+## Bucle para poder listar números del 1 al 10 en Python.
 
 
 Ya solo nos quedará utilizar la estructura [`range()`](https://www.w3api.com/Python/range/) dentro de nuestro bucle for en [Python](https://www.manualweb.net/python/). En este caso la secuencia es la clase [`range()`](https://www.w3api.com/Python/range/) con los valores del 1 al 11.
@@ -101,7 +105,7 @@ for numero in range(1,11):
 La estructura de nuestro código quedará tal y como muestra la imagen:
 
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/b44a5280-94c4-4879-b28a-2a22c936909b/ab3864da-68c7-4e72-a287-5481e2b9c1cb/listar-numeros-1-10.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QPROOSMU%2F20251209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20251209T101329Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQDEG%2FZnIuKio8w6%2B5cBQKwnYTmEuoESGeNsPj1Fgcai7wIhAJdneWjFl4OcM1LVQwGvlpeszdtOxo7Dyut87caw8azlKogECLr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgyJL3V1SfGOASUTSwAq3AMPud5HDPJtyFUcOTjyHV5C5SqYOhc%2FUSdjvZY7By%2BloERQNRP3EiIJfmBFW3DegUg14d%2FuLBgi6q1f%2FoPBFcsLdDoWONePvxeHhEzZ8Oefl29CAzI%2FCcpf%2B05bYqWAWc8mtLWNNAmcv1G%2FvP9RFgVoOf23fRvcS%2BDtAkvFDDH2beHgK%2BLQVrHUENBASFmTqRtd5wTkwk1p%2FBkrEeJkeQG8XinW7FlgcaQM94SMPP84M%2F9Ev%2BTcYKGduDE3OO2JONVTwjEBdu4t0DgU9TPd8P9gNc0RanMKeck9wbyZmNtUj60AKCTNJIRoNprVVdEZ1I5RF3a1MVaFIdfhHc76Ar9eRUujpa1ttSy2mxMpyARHpl8Bi4tLISJhpKvTSE5xdcnDmGRfbpw94rJCncFDhLtMkLbF2dvp%2FLY4dWkp%2FRXfTp0MkpBoR7rq75DMD0TlOW%2BSS%2BGfsaBNmnWKiCqJUEuGXJrih%2Bhp0nmN0dMET%2BxTEx5rbcRx55yHFM1SumpoDSOEiWBsjZJvPIx0%2FhtavRLqIkpH0Oux3Q4H1pTwt5UG82JpI61IDjpBUvA%2FcEIccy%2Fmf2i4RPc1WxCBeAwTT6Z%2BqEkVAftLjkH5XHzE3AEjI6AzChIJnuYN8ODOATCpw9%2FJBjqkAbggOy%2FwhNVTDKFSgnRAvhJGleQGfqfRMuY61cOTJn2AR0Xw%2F2blq5NNJMn6klnC2FOkrE6MC%2F8KWn8cABZNc%2FjPKOYRLn6BBlIoBgv27ci1bZgIsQg%2BkbA4ovpeUUXZ3wJN1n3WrisypW4BcV7JQdcXR5bMJAn%2FBLOktUeZV9p25fFTe6BnNY%2BLQPgfh2wDkuDQE3Ct033jJGe6RbAhExDFwE%2BY&X-Amz-Signature=d8a0be5dfbfa6081fc37e8b2be841ebcfd0e7fc0bd924b0d8389df6b6acf0c35&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+![](../../../../assets/python/images/listar-numeros-1-10.webp)
 
 
 Espero que os haya gustado este sencillo ejemplo para listar números del 1 al 10 en [Python](https://www.manualweb.net/python/) y que os anime a seguir [aprendiendo a programar en Python](https://lineadecodigo.com/categoria/python/).
