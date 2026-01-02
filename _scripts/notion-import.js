@@ -70,9 +70,9 @@ async function resolveSyncedBlocks(mdblocks) {
 	for (const r of response.results) {
 		const id = r.id
 
-		// publish date
+		// date
 		let publishdate = moment(r.created_time).format("YYYY-MM-DD")
-		let ppublishdate = r.properties?.['Publish Date']?.['date']?.['start']
+		let ppublishdate = r.properties?.['Date']?.['date']?.['start']
 		if (ppublishdate) {
 			publishdate = moment(ppublishdate).format('YYYY-MM-DD')
 		}
@@ -142,7 +142,7 @@ async function resolveSyncedBlocks(mdblocks) {
 const fm = `---
 title: "${title}"
 description: "${excerpt.replace(/"/g, '\\"')}"
-publishDate: ${publishdate}
+date: ${publishdate}
 updatedDate: ${updateddate}
 tags: ${JSON.stringify(tags)}
 slug: ${ruta}
