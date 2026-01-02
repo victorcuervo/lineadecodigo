@@ -1,7 +1,7 @@
 ---
 title: "First European e-Accessibility Forum"
 description: "El First European e-Accessibility Forum en París abordará temas de accesibilidad en línea y su impacto en la sociedad."
-publishDate: 2007-01-12
+date: 2007-01-12
 updatedDate: 2026-01-02
 tags: ["eventos"]
 slug: blog/first-european-e-accessibility-forum

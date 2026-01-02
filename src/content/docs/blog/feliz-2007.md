@@ -1,7 +1,7 @@
 ---
 title: "Feliz 2007"
 description: "Feliz 2007 y nuevos propósitos para Linea de Codigo, como publicar más artículos y crear tutoriales."
-publishDate: 2006-12-31
+date: 2006-12-31
 updatedDate: 2026-01-02
 tags: ["felicitacion"]
 slug: blog/feliz-2007

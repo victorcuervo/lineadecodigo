@@ -1,7 +1,7 @@
 ---
 title: "Línea de Código en X Premios AUI"
 description: ""
-publishDate: 2006-12-28
+date: 2006-12-28
 updatedDate: 2026-01-02
 tags: ["premios"]
 slug: blog/linea-de-codigo-en-x-premios-aui
