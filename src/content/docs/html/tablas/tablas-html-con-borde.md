@@ -1,9 +1,13 @@
 ---
-title: Tablas HTML con borde
+title: "Tablas HTML con borde"
 description: "Pasos a realizar para poder tener Tablas HTML con borde en nuestra página web mediante el atributo border de Cascading Style Sheets (CSS)."
-lastUpdated: 2023-09-17
-slug: /html/tablas-html-con-borde/
+date: 2012-05-24
+updatedDate: 2026-01-03
+tags: ["table","td","border","css"]
+slug: html/tablas-html-con-borde
 author: victor_cuervo
+type: doc
+download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/tabla-con-borde-en-html.html
 ---
 
 Si estás pensando cómo diseñar tablas [HTML](https://www.manualweb.net/html/) con borde y si ya has hecho el ejemplo de [Crear una tabla con HTML](http://lineadecodigo.com/html/crear-una-tabla-en-html/) habrás visto que el resultado de tu código no es parecido al esperado y que no hay ninguna línea que delimite la tabla. Esto es debido a que las tablas [HTML](https://www.manualweb.net/html/) por defecto no aparecen con borde.

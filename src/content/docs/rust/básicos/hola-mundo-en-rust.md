@@ -1,9 +1,13 @@
 ---
-title: Hola Mundo en Rust
+title: "Hola Mundo en Rust"
 description: "En este artículo vamos a conocer algunos conceptos básicos del lenguaje de programación Rust que nos permitan crear el Hola Mundo en Rust."
-lastUpdated: 2025-01-12
-slug: /rust/hola-mundo-en-rust/
+date: 2025-01-12
+updatedDate: 2026-01-03
+tags: ["hola-mundo","main","println"]
+slug: rust/hola-mundo-en-rust
 author: victor_cuervo
+type: doc
+download: https://github.com/victorcuervo/lineadecodigo_rust/blob/main/src/basicos/hola_mundo.rs
 ---
 
 En este artículo vamos a conocer algunos conceptos básicos del lenguaje de programación Rust que nos permitan crear nuestro primer programa, siendo este el Hola Mundo en Rust.
@@ -15,7 +19,7 @@ Como [todos nuestros ejemplos de Hola Mundo en Línea de Código](https://linead
 Así que, manos a la obra.
 
 
-### ¿Qué es Rust y por qué deberíamos utilizarlo?
+## ¿Qué es Rust y por qué deberíamos utilizarlo?
 
 
 Pero antes de empezar con nuestro programa de Hola Mundo en Rust deberemos de conocer qué es el lenguaje de programación Rust y por qué deberíamos de aprenderlo y utilizarlo.
@@ -32,7 +36,7 @@ Algunas de las características más destacadas de Rust son:
 - **Alto rendimiento:** Ofrece un rendimiento comparable a C++ sin sacrificar la seguridad del código.
 - **Interoperabilidad:** Facilita la integración con código C existente y otros lenguajes de bajo nivel.
 
-### Preparar el entorno de trabajo para Rust.
+## Preparar el entorno de trabajo para Rust.
 
 
 Ahora que tenemos unas nociones básicas sobre lo que es Rust, vamos a preparar nuestro entorno de trabajo para poder desarrollar nuestro primer programa en Rust.
@@ -63,19 +67,19 @@ Rust is installed now. Great!
 > Para algunos casos de uso de Rust, necesitas tener un compilador C instalado en el sistema operativo.
 
 
-**Instalar Rust para Windows**
+### **Instalar Rust para Windows**
 
 
 En el caso de que tu sistema operativo sea Windows, simplemente tienes que ir a la web [https://www.rust-lang.org/tools/install,](https://www.rust-lang.org/tools/install) en la que se encuentra el instalador de Rust para Windows.
 
 
-**Editor de código para Rust**
+### **Editor de código para Rust**
 
 
 Aunque podemos compilar Rust directamente desde nuestra consola, es recomendable que te instales un [editor de código,](https://code.visualstudio.com/) como puede ser Visual Studio Code. En este caso tienes algunas [extensiones como rust-analyzer para Visual Studio Code](https://code.visualstudio.com/docs/languages/rust) que pueden ayudarte en la codificación dentro del editor.
 
 
-### Crear mi primer Hola Mundo en Rust
+## Crear mi primer Hola Mundo en Rust
 
 
 Ahora sí que nos ponemos a codificar en Rust. Lo primero que haremos para crear nuestro primer Hola Mundo en Rust es **crear un fichero con extensión .rs que llamaremos hola_mundo.rs o** [**main.rs**](http://main.rs/)
@@ -119,7 +123,7 @@ La sentencia siempre acaba con un punto y coma (;) para delimitar el final de la
 > Es importante saber que Rust trabaja de forma indentada, como sucede en otros lenguajes como Python, y la separación es de 4 espacios; no se utiliza tabulador.
 
 
-### Ejecutar el código del Hola Mundo en Rust.
+## Ejecutar el código del Hola Mundo en Rust.
 
 
 Una vez que hayamos codificado nuestro fichero con el Hola Mundo en Rust, deberemos guardar su contenido y dirigirnos a la consola en el directorio en el que se encuentre el fichero.
@@ -169,5 +173,5 @@ Hola, Mundo!
 De esta manera acabaremos viendo en consola la frase “Hola, Mundo!”.
 
 
-Y con esto ya hemos visto qué sencillo es construir nuestro primer Hola Mundo en Rust.
+Y con esto ya hemos visto qué sencillo es construir nuestro primer **Hola Mundo en Rust.**
 
