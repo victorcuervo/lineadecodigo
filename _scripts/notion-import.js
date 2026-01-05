@@ -161,7 +161,7 @@ slug: ${ruta}
 author: ${author}
 type: ${type}
 ${download ? `download: ${download}` : ''}
-${type === 'category' ? `topic: ${cat.toLowerCase()}` : ''}
+topic: ${cat.toLowerCase()}
 ---
 `
 
