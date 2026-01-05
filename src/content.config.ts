@@ -1,7 +1,18 @@
-import { defineCollection } from 'astro:content';
-import { docsLoader } from '@astrojs/starlight/loaders';
-import { docsSchema } from '@astrojs/starlight/schema';
+import { defineCollection,z } from 'astro:content';
+import { docsLoader, i18nLoader } from '@astrojs/starlight/loaders';
+import { docsSchema, i18nSchema } from '@astrojs/starlight/schema';
+import { blogSchema } from 'starlight-blog/schema'
+import { topicSchema } from 'starlight-sidebar-topics/schema'
+
 
 export const collections = {
-	docs: defineCollection({ loader: docsLoader(), schema: docsSchema() }),
+  docs: defineCollection({
+    loader: docsLoader(),
+    schema: docsSchema({
+      extend: (context) => blogSchema(context).extend({
+        type: z.string().optional(),
+      }).merge(topicSchema)
+    })
+  }),
+  i18n: defineCollection({ loader: i18nLoader(), schema: i18nSchema() }),
 };

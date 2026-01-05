@@ -12,16 +12,20 @@
   "dependencies": {
     "@astrojs/starlight": "^0.37.0",
     "astro": "^5.6.1",
+    "astro-breadcrumbs": "^3.3.3",
+    "astro-seo-schema": "^5.1.0",
+    "schema-dts": "^1.1.5",
     "sharp": "^0.34.2",
+    "starlight-blog": "^0.25.2",
     "starlight-sidebar-topics": "^0.6.2",
     "starlight-sidebar-topics-dropdown": "^0.5.2",
     "starlight-ui-tweaks": "^0.1.0"
   },
   "devDependencies": {
-      "@notionhq/client": "^1.0.4",
-      "@types/node-fetch": "^2.6.2",
-      "moment": "^2.29.2",
-      "node-fetch": "^2.6.7",
-      "notion-to-md": "^2.5.5"
-    }
+    "@notionhq/client": "^1.0.4",
+    "@types/node-fetch": "^2.6.2",
+    "moment": "^2.29.2",
+    "node-fetch": "^2.6.7",
+    "notion-to-md": "^2.5.5"
+  }
 }
