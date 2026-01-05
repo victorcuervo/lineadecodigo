@@ -67,144 +67,156 @@ async function resolveSyncedBlocks(mdblocks) {
 			]
 		}
 	})
-	for (const r of response.results) {
-		const id = r.id
 
-		// date
-		let publishdate = moment(r.created_time).format("YYYY-MM-DD")
-		let ppublishdate = r.properties?.['Date']?.['date']?.['start']
-		if (ppublishdate) {
-			publishdate = moment(ppublishdate).format('YYYY-MM-DD')
-		}
-
-		// updated date
-		let updateddate = moment(r.created_time).format("YYYY-MM-DD")
-		let pupdateddate = r.properties?.['Updated Date']?.['date']?.['start']
-		if (pupdateddate) {
-			updateddate = moment(pupdateddate).format('YYYY-MM-DD')
-		}
-		
-		// Title
-		let title = ''
-		let ptitle = r.properties?.['Title']?.['title']
-		if (ptitle?.length > 0) {
-			title = ptitle[0]?.['plain_text'].replace(/:/g, ' -')
-		}
-		
-		// Excerpt
-		let excerpt = ''
-		let pexcerpt = r.properties?.['Excerpt']?.['rich_text']
-		if (pexcerpt?.length > 0) {
-			excerpt = pexcerpt.map(text => text?.['plain_text']).join('')
-		}
-
-		// Category
-	   let cat = ''
-	   let pcats = r.properties?.['Category']?.['multi_select']
-	   cat = pcats[0]?.['name']
-
-	   // SubCategory
-	   let subcat = ''
-	   let psubcats = r.properties?.['Subcategory']?.['multi_select']
-	   subcat = psubcats[0]?.['name']
-
-		let nav = cat.toLowerCase() + (subcat ? '/' + subcat.toLowerCase() : '');
-
-		// Slug
-		let slug = ''
-		let pslug = r.properties?.['Slug']?.['formula']
-		slug = pslug?.['string']
+		for (const r of response.results) {
+			const id = r.id
 	
-		// Path
-		let ruta = ''
-		let pruta = r.properties?.['Path']?.['formula']
-		ruta = pruta?.['string']
-
-		// Author
-		let author = ''
-		let pauthor = r.properties?.['Author']?.['multi_select']?.[0]?.['name']
-		author = pauthor || 'victor_cuervo'
-
-		// Tags
-		let tags = []
-		let ptags = r.properties?.['Tags']?.['multi_select']
-		if (ptags?.length > 0) {
-			tags = ptags.map(tag => tag?.['name'])
-		}
-
-		// Download
-		let download = ''
-		let pdownload = r.properties?.['Download']?.['url']
-		if (pdownload) {
-			download = pdownload
-		}
-		
-const fm = `---
-title: "${title}"
-description: "${excerpt.replace(/"/g, '\\"')}"
-date: ${publishdate}
-updatedDate: ${updateddate}
-tags: ${JSON.stringify(tags)}
-slug: ${ruta}
-author: ${author}
-type: doc
-download: ${download}
----
-`
-
-		const mdblocks = await n2m.pageToMarkdown(id);
-		// const md = n2m.toMarkdownString(mdblocks);
-		const fullMdBlocks = await resolveSyncedBlocks(mdblocks);
-		const md = n2m.toMarkdownString(fullMdBlocks);
-		let contenido = md.parent;
-		
-		// extract images and download locally
-		// De la cadena que hay en md, que es markdowrn, extraer las URLs de las imágenes
-
-		const imageRegex = /!\[(.*?)\]\((https?:\/\/[^\s)]+)\)/g;
-
-		const imageUrls = [];
-		let imgMatch;
-		while ((imgMatch = imageRegex.exec(md.parent)) !== null) {
-			imageUrls.push(imgMatch[2]);			
-		}
-
+			// Type
+			let type = ''
+			let ptype = r.properties?.['Type']?.['multi_select']?.[0]?.['name']
+			type = ptype || 'doc'
 	
-		// ensure directory exists
-		const root = path.join('src/content/docs', nav)
-		const assets = path.join('src/assets', cat.toLowerCase())
-
-		fs.mkdirSync(root, { recursive: true })
-		fs.mkdirSync(assets, { recursive: true })
-
-		for (const imageUrl of imageUrls) {
-			const urlObj = new URL(imageUrl);
-			const imageName = path.basename(urlObj.pathname.split('?')[0]);
-			const imageDir = path.join(assets, 'images');
-			const imagePath = path.join(imageDir, imageName);
-
-			// Ensure images directory exists
-			fs.mkdirSync(imageDir, { recursive: true });
-
-			// Download image
-			const res = await fetch(imageUrl);		
-			if (res.ok) {
-				const buffer = Buffer.from(await res.arrayBuffer());
-				fs.writeFileSync(imagePath, buffer);
-				// Replace image URL in markdown with local path
-				contenido = contenido.replace(imageUrl, `../../../../assets/${cat.toLowerCase()}/images/${imageName}`);
+			// date
+			let publishdate = moment(r.created_time).format("YYYY-MM-DD")
+			let ppublishdate = r.properties?.['Date']?.['date']?.['start']
+			if (ppublishdate) {
+				publishdate = moment(ppublishdate).format('YYYY-MM-DD')
 			}
-		}
-		
-		//writing to file
-		const ftitle = `${slug}.md`
-		fs.writeFile(path.join(root, ftitle), fm + contenido, (err) => {
-			if (err) {
-				console.log(err);
-			}
-		});
-
-		
 	
-	}
-})();
+			// updated date
+			let updateddate = moment(r.created_time).format("YYYY-MM-DD")
+			let pupdateddate = r.properties?.['Updated Date']?.['date']?.['start']
+			if (pupdateddate) {
+				updateddate = moment(pupdateddate).format('YYYY-MM-DD')
+			}
+			
+			// Title
+			let title = ''
+			let ptitle = r.properties?.['Title']?.['title']
+			if (ptitle?.length > 0) {
+				title = ptitle[0]?.['plain_text'].replace(/:/g, ' -')
+			}
+			
+			// Excerpt
+			let excerpt = ''
+			let pexcerpt = r.properties?.['Excerpt']?.['rich_text']
+			if (pexcerpt?.length > 0) {
+				excerpt = pexcerpt.map(text => text?.['plain_text']).join('')
+			}
+	
+			// Category
+		   let cat = ''
+		   let pcats = r.properties?.['Category']?.['multi_select']
+		   cat = pcats[0]?.['name']
+	
+		   // SubCategory
+		   let subcat = ''
+		   let psubcats = r.properties?.['Subcategory']?.['multi_select']
+		   subcat = psubcats[0]?.['name']
+	
+			let nav = cat.toLowerCase() + (subcat ? '/' + subcat.toLowerCase() : '');
+	
+			// Slug
+			let slug = ''
+			let pslug = r.properties?.['Slug']?.['formula']
+			slug = pslug?.['string']
+		
+			// Path compuesto de la categoría y el slug
+			let ruta = ''
+			let pruta = r.properties?.['Path']?.['formula']
+			ruta = pruta?.['string']
+	
+			// Para los índices de la categoría el path es solo el slug
+			// El títlo y categoría deben coincidir
+			if ((type === 'category') && (title.toLowerCase() === cat.toLowerCase())) {
+				ruta = slug;
+			}
+	
+			// Author
+			let author = ''
+			let pauthor = r.properties?.['Author']?.['multi_select']?.[0]?.['name']
+			author = pauthor || 'victor_cuervo'
+	
+			// Tags
+			let tags = []
+			let ptags = r.properties?.['Tags']?.['multi_select']
+			if (ptags?.length > 0) {
+				tags = ptags.map(tag => tag?.['name'])
+			}
+	
+			// Download
+			let download = ''
+			let pdownload = r.properties?.['Download']?.['url']
+			if (pdownload) {
+				download = pdownload
+			}
+			
+	const fm = `---
+	title: "${title}"
+	description: "${excerpt.replace(/"/g, '\\"')}"
+	date: ${publishdate}
+	updatedDate: ${updateddate}
+	tags: ${JSON.stringify(tags)}
+	slug: ${ruta}
+	author: ${author}
+	type: ${type}
+	${download ? `download: ${download}` : ''}
+	${type === 'category' ? `topic: ${cat.toLowerCase()}` : ''}
+	---
+	`
+	
+			const mdblocks = await n2m.pageToMarkdown(id);
+			const fullMdBlocks = await resolveSyncedBlocks(mdblocks);
+			const md = n2m.toMarkdownString(fullMdBlocks);
+			let contenido = md.parent;
+			
+			// extract images and download locally
+			// De la cadena que hay en md, que es markdowrn, extraer las URLs de las imágenes
+	
+			const imageRegex = /!\[(.*?)\]\((https?:\/\/[^\s)]+)\)/g;
+	
+			const imageUrls = [];
+			let imgMatch;
+			while ((imgMatch = imageRegex.exec(md.parent)) !== null) {
+				imageUrls.push(imgMatch[2]);			
+			}
+	
+		
+			// ensure directory exists
+			const root = path.join('src/content/docs', nav)
+			const assets = path.join('src/assets', cat.toLowerCase())
+	
+			fs.mkdirSync(root, { recursive: true })
+			fs.mkdirSync(assets, { recursive: true })
+	
+			for (const imageUrl of imageUrls) {
+				const urlObj = new URL(imageUrl);
+				const imageName = path.basename(urlObj.pathname.split('?')[0]);
+				const imageDir = path.join(assets, 'images');
+				const imagePath = path.join(imageDir, imageName);
+	
+				// Ensure images directory exists
+				fs.mkdirSync(imageDir, { recursive: true });
+	
+				// Download image
+				const res = await fetch(imageUrl);		
+				if (res.ok) {
+					const buffer = Buffer.from(await res.arrayBuffer());
+					fs.writeFileSync(imagePath, buffer);
+					// Replace image URL in markdown with local path
+					contenido = contenido.replace(imageUrl, `../../../../assets/${cat.toLowerCase()}/images/${imageName}`);
+				}
+			}
+			
+			//writing to file
+			const ftitle = `${slug}.md`
+			fs.writeFile(path.join(root, ftitle), fm + contenido, (err) => {
+				if (err) {
+					console.log(err);
+				}
+			});
+	
+			
+		
+		}
+	})();
