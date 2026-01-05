@@ -1,16 +1,16 @@
 ---
-	title: "Arrays"
-	description: "Un array en Java es una estructura de datos que permite almacenar elementos del mismo tipo y facilita su manipulación."
-	date: 2026-01-04
-	updatedDate: 2026-01-05
-	tags: []
-	slug: java/arrays
-	author: victor_cuervo
-	type: category
-	
-	topic: java
-	---
-	
+title: "Arrays"
+description: "Un array en Java es una estructura de datos que permite almacenar elementos del mismo tipo y facilita su manipulación."
+date: 2026-01-04
+updatedDate: 2026-01-05
+tags: []
+slug: java/arrays
+author: victor_cuervo
+type: category
+
+topic: java
+---
+
 ## ¿Qué es un Array en Java?
 
 
