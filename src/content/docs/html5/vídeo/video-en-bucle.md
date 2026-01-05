@@ -8,7 +8,7 @@ slug: html5/video/video-en-bucle
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/video-en-bucle.html
-
+topic: html5
 ---
 
 Un vídeo en bucle es aquel que cuando llega al final del vídeo vuelve al principio y se continua reproduciendo de forma infinita, o hasta que el usuario lo pare o se salga de la página web

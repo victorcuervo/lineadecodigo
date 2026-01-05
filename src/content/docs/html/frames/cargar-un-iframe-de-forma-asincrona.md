@@ -8,7 +8,7 @@ slug: html/frames/cargar-un-iframe-de-forma-asincrona
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/IFrame/cargar-iframe-diferido.html
-
+topic: html
 ---
 
 Una buena pregunta para hacernos es por qué deberíamos de cargar un iframe de forma asíncrona dentro de nuestras páginas. El beneficio principal es que utilizar una carga diferida de los iframe nos permite evitar la descarga de un contenido a no ser que sea estrictamente necesario.

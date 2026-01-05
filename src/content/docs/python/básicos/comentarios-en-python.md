@@ -8,7 +8,7 @@ slug: python/basicos/comentarios-en-python
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/comentarios.py
-
+topic: python
 ---
 
 Veamos las diferentes formas que hay para poner comentarios en [Python](http://www.manualweb.net/python/). Tenemos tres formas de manejar los comentarios en [Python](http://www.manualweb.net/python/). La primera será tener una línea con el comentario. Para ello lo que hacemos es anteponer el símbolo de la almohadilla al principio de la línea.

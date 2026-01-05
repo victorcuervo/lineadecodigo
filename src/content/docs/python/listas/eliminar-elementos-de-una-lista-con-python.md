@@ -8,7 +8,7 @@ slug: python/listas/eliminar-elementos-de-una-lista-con-python
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/eliminar-elemento-lista.py
-
+topic: python
 ---
 
 En un anterior artículo vimos como podíamos añadir elementos a una lista en [Python](https://www.manualweb.net/python/), ahora vamos a ver lo complementario y aprenderemos a eliminar elementos de una lista con [Python](https://www.manualweb.net/python/). Para ello lo primero que haremos será crear una lista de elementos, en este caso una sencilla lista con números.

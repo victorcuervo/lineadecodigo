@@ -8,7 +8,7 @@ slug: javascript/estructuras-selectivas/mayor-de-dos-numeros-en-javascript
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/mayor-de-dos-numeros.js
-
+topic: javascript
 ---
 
 Vamos a ver lo sencillo que es saber cuál es el  mayor de dos números en [Javascript](https://manualweb.net/javascript/) mediante una secuencia de [estructuras selectivas](https://manualweb.net/javascript/estructuras-selectivas-javascript/). Seguro que este es uno de los primeros códigos a los que te tienes que enfrentar ahora que empiezas a trabajar con código en [Javascript](https://manualweb.net/javascript/).

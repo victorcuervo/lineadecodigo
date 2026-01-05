@@ -8,7 +8,7 @@ slug: python/ficheros/crear-un-fichero-en-python
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/crear-fichero.py
-
+topic: python
 ---
 
 En este artículo vamos a ver lo sencillo que es crear un fichero en [Python](https://www.manualweb.net/python/) sobre el que volcaremos un contenido. Para ello vamos a analizar que estructuras de control y que funciones de Python vamos a necesitar para llevar a cabo la tarea.

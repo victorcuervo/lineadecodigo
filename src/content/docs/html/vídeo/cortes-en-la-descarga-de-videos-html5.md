@@ -8,7 +8,7 @@ slug: html/video/cortes-en-la-descarga-de-videos-html5
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/controlar-error-carga-video.html
-
+topic: html
 ---
 
 Otro ejemplo para tener un control mayor sobre la descarga y visualización de los videos. En este caso vamos a ver cómo podemos controlar cortes en la descarga de vídeos [HTML5](https://www.manualweb.net/html/).

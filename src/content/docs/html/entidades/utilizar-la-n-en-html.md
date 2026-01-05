@@ -8,7 +8,7 @@ slug: html/entidades/utilizar-la--en-html
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/n-en-html.html
-
+topic: html
 ---
 
 Es posible que te hayas encontrado en un caso en el que has creado alguna página web en la que has querido utilizar la ñ en [HTML](https://www.manualweb.net/html/) y cuando la has ido a visualizar en algún navegador en concreto no se visualizaba de la forma correcta, mostrando un carácter raro.

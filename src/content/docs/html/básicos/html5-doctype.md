@@ -8,7 +8,7 @@ slug: html/basicos/html5-doctype
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/doctype.html
-
+topic: html
 ---
 
 Una de las preguntas que me hace la gente cuando realiza desarrollo web es relativa al HTML5 doctype y los doctypes existentes. Preguntas, por ejemplo, sobre ¿cuál es el doctype en [HTML5](https://www.manualweb.net/html5/)? ¿Para qué sirve el doctype? ¿qué usos se hace el [navegador web](https://www.ayudaenlaweb.com/navegadores/que-es-un-navegador/) sobre el doctype?

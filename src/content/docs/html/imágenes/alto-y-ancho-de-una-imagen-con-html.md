@@ -8,7 +8,7 @@ slug: html/imagenes/alto-y-ancho-de-una-imagen-con-html
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/imagenes/alto-ancho-imagen.html
-
+topic: html
 ---
 
 Cuando aprendemos a escribir lenguaje [HTML](https://www.manualweb.net/html/) para crear nuestras páginas web aguantaremos poco creando páginas web con solo texto y estaremos deseosos de insertarle alguna imagen para darlas colorido.

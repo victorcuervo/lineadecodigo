@@ -8,7 +8,7 @@ slug: python/ficheros/aadir-contenido-a-un-fichero-con-python
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/a%C3%B1adir-contenido-fichero.py
-
+topic: python
 ---
 
 En este ejemplo vamos a ver cómo podemos añadir contenido a un fichero con [Python](https://www.manualweb.net/python/). La idea es partir de un fichero existente que ya tenga contenido y añadirle más contenido.

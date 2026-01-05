@@ -8,7 +8,7 @@ slug: javascript/operadores/operador-ternario-en-javascript
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/operador-ternario-en-javascript.html
-
+topic: javascript
 ---
 
 ## ¿Qué son los operadores ternarios en JavaScript?

@@ -8,7 +8,7 @@ slug: html5/video/buscar-por-un-video-en-html5
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/buscar-por-video.html
-
+topic: html5
 ---
 
 Seguimos con artículos que nos explican cómo podemos mejorar la experiencia cuando estemos cargando [vídeos en HTML5](https://lineadecodigo.com/tag/html5-video/) dentro de nuestras páginas web. En este caso vamos a ver cómo podemos buscar por un vídeo en [HTML5](https://www.manualweb.net/html5/). Es decir, cómo podemos controlar que el usuario está buscando algo dentro del contenido del vídeo y, por consiguiente, tomar acciones al respecto.

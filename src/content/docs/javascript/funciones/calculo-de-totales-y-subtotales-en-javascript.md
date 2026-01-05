@@ -8,7 +8,7 @@ slug: javascript/funciones/calculo-de-totales-y-subtotales-en-javascript
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/calculo-totales-subtotales.html
-
+topic: javascript
 ---
 
 Hace unos días publicábamos el artículo [Formulario que multiplica números en JavaScript](https://lineadecodigo.com/javascript/formulario-que-multiplica-numeros-en-javascript/). [Uno de los comentarios](https://lineadecodigo.com/javascript/formulario-que-multiplica-numeros-en-javascript/#comments), preguntaba que cómo se podría ampliar el ejemplo para gestionar un catalogo de productos y realizar un cálculo de totales y subtotales en [JavaScript](https://www.manualweb.net/javascript/). La verdad es que me pareció un ejemplo muy útil y he decidido el explicarlo.

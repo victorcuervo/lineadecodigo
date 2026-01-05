@@ -8,7 +8,7 @@ slug: python/ficheros/borrar-una-carpeta-en-python
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/borrar-carpeta.py
-
+topic: python
 ---
 
 Para poder borrar una carpeta en [Python](https://www.manualweb.net/python/) deberemos de asegurarnos que la carpeta está vacía antes de proceder a su borrado. Es por ello que vamos a ver en este artículo el proceso que deberemos de seguir para poder conseguirlo.

@@ -8,7 +8,7 @@ slug: javascript/arrays/recorrer-un-array-en-javascript
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/recorrer-array.js
-
+topic: javascript
 ---
 
 Ayer veíamos [cómo volcar el contenido de un array en jQuery](http://lineadecodigo.com/jquery/volcar-el-contenido-de-un-array-con-jquery/). Hoy vamos a ver algo más sencillo que es cómo recorrer un array en [Javascript](https://www.manualweb.net/javascript/). Este es un ejemplo muy sencillo y que te vendrá muy bien si estás aprendiendo a programar en [Javascript](https://www.manualweb.net/javascript/).

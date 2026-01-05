@@ -8,7 +8,7 @@ slug: javascript/numeros/numero-mayor-en-un-array
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/numeros/mayor-numeros-array.js
-
+topic: javascript
 ---
 
 Seguro que alguna vez te has enfrentado al problema de tener que sacar el número mayor en un array. Y esto sucede en diferentes situaciones y en múltiples lenguajes de programación. En el caso de este artículo vamos a ver cómo podemos identificar el número mayor en un array con [Javascript](https://www.manualweb.net/javascript/). Vamos a ello.

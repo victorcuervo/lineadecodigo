@@ -8,7 +8,7 @@ slug: python/listas/iterar-una-lista-en-python-con-indices
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/iterar_lista_indice.py
-
+topic: python
 ---
 
 Podríamos preguntarnos por qué necesitamos iterar una lista en [Python](https://www.manualweb.net/python/) con índices si ya vimos en el ejemplo de [iterar una lista en Python](https://lineadecodigo.com/python/iterar-una-lista-en-python/) veíamos lo sencillo que es iterar una lista de elementos en [Python](https://www.manualweb.net/pyhton/) mediante un bucle `for-each`. En ese caso, cada iteración del bucle nos dejaba el elemento iterado en una variable, facilitando mucho su manipulación.

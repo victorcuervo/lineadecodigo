@@ -8,7 +8,7 @@ slug: python/xml/crear-un-fichero-xml-con-python
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/xml/crear-xml.py
-
+topic: python
 ---
 
 En este ejemplo detallado de crear un fichero [XML](https://www.manualweb.net/xml/) con [Python](https://www.manualweb.net/python/), vamos a explorar de forma exhaustiva cómo podemos generar y crear un fichero en formato [XML](https://www.manualweb.net/xml/), un lenguaje de marcado de uso extendido en la web, utilizando el poderoso y versátil lenguaje de programación [Python](https://www.manualweb.net/python/). Lo haremos a partir de una lista preestablecida de elementos que se nos han proporcionado previamente. Esta lista de elementos será la base sobre la cual construiremos nuestro fichero [XML](https://www.manualweb.net/xml/).

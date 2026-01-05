@@ -8,7 +8,7 @@ slug: javascript/basicos/hola-mundo-en-javascript
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/hola-mundo-javascript.html
-
+topic: javascript
 ---
 
 Lo que todo el mundo hace [cuando está aprendiendo a desarrollar es el típico programa de “Hola Mundo”](http://lineadecodigo.com/tag/concepto-holamundo/). Así que vamos a ver cómo podemos hacer un Hola Mundo en [JavaScript](http://www.manualweb.net/javascript/).

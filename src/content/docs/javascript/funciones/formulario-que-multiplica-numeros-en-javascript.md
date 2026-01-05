@@ -8,7 +8,7 @@ slug: javascript/funciones/formulario-que-multiplica-numeros-en-javascript
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/multiplicar-numeros.html
-
+topic: javascript
 ---
 
 Cuando hablamos de un formulario que multiplica números en [JavaScript](https://www.manualweb.net/javascript/) es debido a que una de las cosas para las que se ha usado [JavaScript](https://www.manualweb.net/javascript/) en los formularios [HTML](https://www.manualweb.net/html/) es para operar entre valores introducidos en los campos del formulario, por ejemplo para multiplicar valores. Aunque nos facilita una funcionalidad hace que por desgracia nos aparezca mucho código [JavaScript](https://www.manualweb.net/javascript/). Y digo por desgracia ya que creo que no hay cosa más tediosa y complicada que el mantenimiento de [JavaScript](https://www.manualweb.net/javascript/).

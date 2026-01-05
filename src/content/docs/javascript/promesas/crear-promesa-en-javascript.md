@@ -8,7 +8,7 @@ slug: javascript/promesas/crear-promesa-en-javascript
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/promesas/crear-promesa.js
-
+topic: javascript
 ---
 
 En este ejemplo vamos a ver cómo podemos crear una promesa en [Javascript](https://www.manualweb.net/javascript/) para poder gestionar un proceso asíncrono. Pero lo primero que tenemos que ver es, [¿qué es es una promesa en Javascript?](https://manualweb.net/javascript/promesas-en-javascript/)

@@ -8,7 +8,7 @@ slug: html/enlaces/abrir-enlace-en-una-nueva-ventana
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/abrir-enlace-en-una-nueva-ventana.html
-
+topic: html
 ---
 
 Lo primero que tenemos que saber si pensamos en abrir enlace en una nueva ventana es que es una opción configurable por los navegadores en su comportamiento por defecto y que lo más normal es que los enlaces de una página [HTML](https://www.manualweb.net/html/) se habrán en la misma página que los contiene. Pero puede darse el caso que esto no sea lo que más nos interese y queramos cambiar su comportamiento.
