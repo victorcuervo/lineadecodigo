@@ -2,9 +2,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import starlightSidebarTopics from 'starlight-sidebar-topics';
-import starlightUiTweaks from 'starlight-ui-tweaks'
 import { sidebar as sidebarConfig } from './src/configs/sidebar.config'
-import { menu as menuConfig } from './src/configs/menu.config';
 import starlightBlog from 'starlight-blog'
 
 // https://astro.build/config
@@ -13,7 +11,6 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			plugins: [
-				//starlightUiTweaks(menuConfig),
 				starlightSidebarTopics(sidebarConfig,{exclude: ['/blog','/blog/*','/blog/tags','/blog/tags/*','/blog/authors','/blog/authors/*']}),
 				starlightBlog(
 					{
