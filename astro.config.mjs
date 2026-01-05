@@ -36,7 +36,7 @@ export default defineConfig({
 							lineadecodigo: {
 								name: "Línea de Código",
 								title: "Editor",
-								picture: "./src/assets/logo2.png",
+								picture: "./src/assets/logo.png",
 								url: "https://lineadecodigo.com",
 							},						
 						},
@@ -45,7 +45,7 @@ export default defineConfig({
 			
 			title: 'Línea de Código',	
 			logo: {
-				src: './src/assets/logo2.png',
+				src: './src/assets/logo.png',
 			},
 			defaultLocale: 'es',
 			locales: {
