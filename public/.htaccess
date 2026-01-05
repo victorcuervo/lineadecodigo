@@ -6,7 +6,25 @@ RedirectMatch 301 /categoria/xslt/ /category/xml/
 RedirectMatch 301 /xslt/ /xml/
 
 
+# Javascript a DOM
+RedirectMatch 301 /javascript/protegiendo-la-pagina-en-javascript/ /dom/protegiendo-la-pagina-en-javascript/
+RedirectMatch 301 /javascript/confirmar-datos-en-javascript /dom/confirmar-datos-en-javascript/
+RedirectMatch 301 /javascript/mostrar-avisos-en-javascript/ /dom/mostrar-avisos-en-javascript/
 
+# Java a Java EE
+RedirectMatch 301 /java/servlet-que-devuelve-xml/  /javaee/servlet-que-devuelve-xml/
+RedirectMatch 301 /java/leer-parametros-de-inicializacion-de-un-servlet/ /javaee/leer-parametros-de-inicializacion-de-un-servlet/
+RedirectMatch 301 /java/modificar-time-out-de-sesion/ /javaee/modificar-time-out-de-sesion/
+RedirectMatch 301 /java/crear-un-mapping-a-un-servlet/ /javaee/crear-un-mapping-a-un-servlet/
+RedirectMatch 301 /java/incluir-una-parte-html-en-un-jsp/ /javaee/incluir-una-parte-html-en-un-jsp/
+RedirectMatch 301 /java/redirigir-todas-las-jsp-a-un-servlet/ /javaee/redirigir-todas-las-jsp-a-un-servlet/
+RedirectMatch 301 /java/mi-primera-jsp/ /javaee/mi-primera-jsp/
+RedirectMatch 301 /java/obtener-la-fecha-en-un-jsp/ /javaee/obtener-la-fecha-en-un-jsp/
+RedirectMatch 301 /java/forzar-utf-8-en-jsp/ /javaee/forzar-utf-8-en-jsp/
+RedirectMatch 301 /java/leer-parametros-de-una-jsp/ /javaee/leer-parametros-de-una-jsp/
+RedirectMatch 301 /java/timeout-de-sesion-en-un-servlet-por-codigo/ /javaee/timeout-de-sesion-en-un-servlet-por-codigo/
+RedirectMatch 301 /java/obtener-la-ip-que-invoca-al-servlet/ /javaee/obtener-la-ip-que-invoca-al-servlet/
+RedirectMatch 301 /java/recibir-parametros-en-un-servlet/ /javaee/recibir-parametros-en-un-servlet/
 
 # XSLT Que los he movido a XML
 RedirectMatch 301 /xslt/mi-primer-xslt/ /xml/mi-primer-xslt/
@@ -15,6 +33,17 @@ RedirectMatch 301 /xslt/cargar-un-combo-con-xslt/ /xml/cargar-un-combo-con-xslt/
 RedirectMatch 301 /xslt/filtrar-informacion-en-una-xslt/ /xml/filtrar-informacion-en-una-xslt/
 RedirectMatch 301 /xslt/ordenando-un-fichero-xml/ /xml/ordenando-un-fichero-xml/
 RedirectMatch 301 /xslt/numero-de-elementos-de-un-fichero-xml/ /xml/numero-de-elementos-de-un-fichero-xml/
+
+# Los HTML5 que pasan a ser HTML
+RedirectMatch 301 /html5/pie-de-pagina-en-html5/ /html/pie-de-pagina-en-html/
+RedirectMatch 301 /html5/cargar-un-iframe-de-forma-asincrona/ /html/cargar-un-iframe-de-forma-asincrona/
+RedirectMatch 301 /html5/crear-una-plantilla-en-html5/ /html/crear-una-plantilla-en-html5/
+RedirectMatch 301 /html5/buscar-por-un-video-en-html5/ /html/buscar-por-un-video-en-html5/
+RedirectMatch 301 /html5/cortes-en-la-descarga-de-videos-html5/ /html/cortes-en-la-descarga-de-videos-html5/
+RedirectMatch 301 /html5/html5-doctype/ /html/html5-doctype/
+
+# Los HTML5 a WebAPI
+RedirectMatch 301 /html5/cambios-en-webstorage /webapi/cambios-en-webstorage/
 
 
 </IfModule>
