@@ -1,4 +1,5 @@
 ---
+import { Icon } from '@astrojs/starlight/components';
 import { authors } from "../configs/authors.config";
 const { id } = Astro.props
 
@@ -23,12 +24,20 @@ const iconMap: Record<string, string> = {
 // fallback
 const getIcon = (label: string) =>
   iconMap[label.toLowerCase()] ?? iconMap["web"];
-
 ---
 
 <style>
-/* Estilos del bloque de autor (responsivos: se adaptan al ancho del contenedor) */
+/* ======================================================
+   Author card – estilos base (modo claro)
+   ====================================================== */
+
 .author-card {
+    --author-bg: #f9f9f9;
+    --author-text: #333;
+    --author-muted: #555;
+    --author-border: #ddd;
+    --author-shadow: rgba(0, 0, 0, 0.08);
+
     width: 100%;
     max-width: 100%;
     box-sizing: border-box;
@@ -36,10 +45,11 @@ const getIcon = (label: string) =>
     align-items: center;
     gap: 15px;
     padding: 15px;
-    background-color: #f9f9f9;
+    background-color: var(--author-bg);
     border-radius: 12px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    box-shadow: 0 4px 10px var(--author-shadow);
     font-family: 'Arial', sans-serif;
+    font-style: normal;
 }
 
 .author-photo {
@@ -47,27 +57,27 @@ const getIcon = (label: string) =>
     height: clamp(56px, 12%, 80px);
     border-radius: 50%;
     object-fit: cover;
-    border: 2px solid #ddd;
+    border: 2px solid var(--author-border);
     flex: 0 0 auto;
 }
 
 .author-info {
     flex: 1 1 auto;
-    min-width: 0; /* evita overflow en textos largos dentro de flex */
+    min-width: 0;
 }
 
 .author-name {
     margin: 0;
     font-size: 1.2rem;
     font-weight: bold;
-    color: #333;
+    color: var(--author-text);
     word-break: break-word;
 }
 
 .author-bio {
     margin: 5px 0 10px;
     font-size: 0.95rem;
-    color: #555;
+    color: var(--author-muted);
 }
 
 .author-socials {
@@ -78,14 +88,42 @@ const getIcon = (label: string) =>
 
 .author-socials a {
     display: inline-block;
-    transition: transform 0.2s;
+    transition: transform 0.2s ease;
 }
 
 .author-socials a:hover {
     transform: scale(1.1);
 }
 
-/* Adaptación en pantallas pequeñas: apilar contenido */
+
+/* ======================================================
+   Modo oscuro (Starlight + estándar)
+   ====================================================== */
+
+/* Starlight */
+html[data-theme="dark"] .author-card {
+    --author-bg: #1e1e1e;
+    --author-text: #e6e6e6;
+    --author-muted: #b3b3b3;
+    --author-border: #333;
+    --author-shadow: rgba(0, 0, 0, 0.4);
+}
+
+/* Fallback */
+@media (prefers-color-scheme: dark) {
+    .author-card {
+        --author-bg: #1e1e1e;
+        --author-text: #e6e6e6;
+        --author-muted: #b3b3b3;
+        --author-border: #333;
+        --author-shadow: rgba(0, 0, 0, 0.4);        
+    }
+}
+
+/* ======================================================
+   Responsive
+   ====================================================== */
+
 @media (max-width: 600px) {
     .author-card {
         flex-direction: column;
@@ -106,24 +144,35 @@ const getIcon = (label: string) =>
 </style>
 
 
-{author && (
-    <div class="author-card">
-    <img src="https://secure.gravatar.com/avatar/8d3fa1a20bfaf3497ac4667124df6cd13a478b0f5dce0d285712c57fe13e9ac3?s=172&d=robohash&r=g" alt="Foto de Juan Pérez" class="author-photo">
-    <div class="author-info">
-        <h3 class="author-name"> {author.name} </h3>
-        <p class="author-bio">  {author.description} </p>
 
-        <div class="author-socials">
-            {author.rrss?.map(s => (
-            <a href={s.url} target="_blank" rel="noopener noreferrer">
-                <span set:html={getIcon(s.label)} />
-            </a>
+{author &&  (
+    <address class="author-card" itemscope itemtype="https://schema.org/Person">
+        <img 
+            src={author.photo} 
+            alt={`Foto de ${author.name}`} 
+            class="author-photo" 
+            itemprop="image"
+        />
+
+        <div class="author-info">
+            <h3 class="author-name" itemprop="name">{author.name}</h3>
+            <p class="author-bio" itemprop="description">{author.description}</p>
+
+            {author.rrss?.length > 0 && (
+            <div class="author-socials">
+            {author.rrss.map(s => (
+                <a 
+                href={s.url} 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                itemprop="sameAs"
+                >
+                <!-- <span set:html={getIcon(s.label)} /> -->
+                <Icon name={s.label} color="var(--sl-color-accent);"/>
+                </a>
             ))}
+            </div>
+            )}
         </div>
-
-    </div>
-    </div>
+    </address>
 )}
-
-
-

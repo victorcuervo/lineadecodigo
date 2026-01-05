@@ -1,0 +1,205 @@
+---
+import { Icon } from '@astrojs/starlight/components';
+import type { Quiz } from '../configs/quizzes/types';
+import { quizzes } from '../configs/quizzes/index';
+
+interface Props {
+  theme: string; // ejemplo: "java/variables"
+}
+
+const { theme } = Astro.props;
+const [lang, name = 'base'] = theme.split('/');
+const quiz: Quiz = quizzes[lang]?.[name];
+
+if (!quiz) return;
+---
+
+<section class="quiz-card" data-correct={quiz.correctIndex}>
+  <header class="quiz-intro">
+    <Icon name="open-book" class="quiz-icon" />
+    Pon a prueba tu conocimiento
+  </header>
+
+  <div class="quiz-header">
+    <span class="quiz-topic">{quiz.topic}</span>
+    <h3 class="quiz-question">{quiz.question}</h3>
+  </div>
+
+  <ul class="quiz-answers">
+    {quiz.answers.map((answer, index) => (
+      <li class="quiz-answer" data-index={index}>
+        <span class="quiz-option">{String.fromCharCode(65 + index)}</span>
+        <span class="quiz-text">{answer}</span>
+      </li>
+    ))}
+  </ul>
+
+  <footer class="quiz-footer">
+    <a
+      class="quiz-action"
+      href={quiz.ctaUrl}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Sigue realizando más test
+    </a>
+  </footer>
+</section>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const card = document.querySelector('.quiz-card');
+    const correctIndex = Number(card.dataset.correct);
+    const answers = card.querySelectorAll('.quiz-answer');
+
+    answers.forEach(answer => {
+      answer.addEventListener('click', () => {
+        if (card.classList.contains('answered')) return;
+
+        card.classList.add('answered');
+        const selectedIndex = Number(answer.dataset.index);
+
+        answers.forEach(a => {
+          const idx = Number(a.dataset.index);
+
+          if (idx === correctIndex) a.classList.add('correct');
+          else if (idx === selectedIndex) a.classList.add('incorrect');
+
+          a.classList.add('disabled');
+        });
+      });
+    });
+  });
+</script>
+
+<style>
+.quiz-card {
+  padding: 1.5rem;
+  border-radius: 18px;
+  background-color: var(--sl-color-bg);
+  border: 1px solid var(--sl-color-border);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
+}
+
+/* Cabecera grande */
+.quiz-intro {
+  margin-bottom: 0.75rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  color: var(--sl-color-text);
+}
+
+.quiz-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 0.5rem;
+  color: var(--sl-color-accent);
+}
+
+.quiz-topic {
+  display: inline-block;
+  margin-bottom: 0.4rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--sl-color-accent);
+}
+
+.quiz-question {
+  margin: 0 0 1.2rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--sl-color-text);
+}
+
+.quiz-answers {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.4rem;
+  display: grid;
+  gap: 0.6rem;
+}
+
+.quiz-answer {
+  display: flex;
+  gap: 0.6rem;
+  align-items: flex-start;
+  padding: 0.75rem;
+  border-radius: 12px;
+  cursor: pointer;
+  background-color: var(--sl-color-bg);
+  border: 1px solid var(--sl-color-border-muted);
+  font-family: var(--sl-font-mono);
+  font-size: 0.85rem;
+  color: var(--sl-color-text);
+  transition: background-color 0.15s ease, border-color 0.15s ease, transform 0.1s ease;
+}
+
+.quiz-answer:hover {
+  background-color: var(--sl-color-bg-inline-code);
+  transform: translateY(-1px);
+}
+
+.quiz-option {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--sl-color-text-invert);
+  background-color: var(--sl-color-gray-4);
+}
+
+.quiz-answer.correct {
+  border-color: #3fb950;
+  background-color: rgba(63, 185, 80, 0.12);
+}
+
+.quiz-answer.incorrect {
+  border-color: #f85149;
+  background-color: rgba(248, 81, 73, 0.12);
+}
+
+.quiz-answer.correct .quiz-option {
+  background-color: #3fb950;
+}
+
+.quiz-answer.incorrect .quiz-option {
+  background-color: #f85149;
+}
+
+.quiz-answer.disabled {
+  cursor: default;
+}
+
+.quiz-footer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.quiz-action {
+  padding: 0.6rem 1.1rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--sl-color-text-invert);
+  background-color: var(--sl-color-accent);
+  transition: background-color 0.2s ease, transform 0.15s ease;
+}
+
+.quiz-action:hover {
+  background-color: var(--sl-color-accent-high);
+  transform: translateY(-1px);
+}
+
+@media (max-width: 640px) {
+  .quiz-card { padding: 1.2rem; }
+  .quiz-intro { font-size: 1rem; }
+}
+</style>

@@ -1,0 +1,90 @@
+---
+import Default from "@astrojs/starlight/components/Head.astro";
+import type { BlogPosting, CollectionPage, TechArticle, WithContext } from "schema-dts";
+import { authors } from "../configs/authors.config";
+
+
+const { entry } = Astro.locals.starlightRoute;
+const frontmatter = entry?.rendered?.metadata?.frontmatter ?? entry?.data ?? {};
+const {title = "", author: authorId = "", publishDate = "", updatedDate, tags = []} = frontmatter as Record<string, any>;
+const slug = entry?.slug;
+const description = entry?.data?.description;
+const type = entry?.data?.type ?? "blog";
+
+
+// Resolver autor desde config
+let author = authorId ? authors.find(a => a.id === authorId) : 'lineadecodigo';
+// Canonical absoluto
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+
+// En la metatdata viene el tipo de documento. Los tipo doc son un JSON-LD TechArticle
+// los tipo category son un JSON-LD CollectionPage y los tipo blog son un JSON-LD BlogPosting
+
+
+const techArticleSchema: WithContext<TechArticle> = {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    headline: title,
+    description: description,
+    url: Astro.url.href,
+    datePublished: publishDate,
+    dateModified: updatedDate ?? publishDate,
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": canonicalUrl
+    },
+    author: author && {
+      "@type": "Person",
+      name: author.name,
+      image: author.photo,
+      sameAs: author.rrss?.map(r => r.url) ?? []
+    }, 
+    keywords: tags?.join(", ")
+};
+
+const collectionPageSchema: WithContext<CollectionPage> = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    headline: title,
+    description: description,
+    url: Astro.url.href,
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": canonicalUrl
+    },
+};
+
+const blogPostingSchema: WithContext<BlogPosting> = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: title,
+    description: description,
+    url: Astro.url.href,
+    datePublished: publishDate,
+    dateModified: updatedDate ?? publishDate,
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": canonicalUrl
+    },
+};
+
+let articleSchemaFinal;
+if (type === "doc") {
+    articleSchemaFinal = techArticleSchema;
+} else if (type === "category") {
+    articleSchemaFinal = collectionPageSchema;
+} else {
+    articleSchemaFinal = blogPostingSchema;
+}
+---
+
+<Default {...Astro.props} />
+
+<script 
+    type="application/ld+json" 
+    set:html={JSON.stringify(articleSchemaFinal)}>
+</script>
+
+
+

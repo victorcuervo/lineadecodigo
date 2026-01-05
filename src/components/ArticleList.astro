@@ -1,0 +1,53 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  categoria: string; // "java" o "css"  o "java/arrays"
+  titulo: string;
+}
+
+const { categoria, titulo } = Astro.props;
+
+// Obtener todos los documentos de la colección 'docs' de esa categoría
+const articulos = await getCollection('docs', ({ id }) =>
+  id.startsWith(categoria + '/')
+);
+
+// Si el documento tiene solo 2 elementos en el id (categoria/articulo) se omite
+const articulosFiltrados = articulos.filter(doc => {
+  const partes = doc.id.split('/');
+  return partes.length > 2; // Filtrar documentos que tengan subcategorías
+});
+
+// Agrupar por el **primer subdirectorio** debajo de la categoría
+const grupos: Record<string, typeof articulosFiltrados> = {};
+
+for (const doc of articulosFiltrados) {
+  // doc.id ejemplo: "java/basicos/intro"
+  const partes = doc.id.split('/'); 
+
+  // subcategoria = primer subdirectorio después de la categoría
+  // partes[0] = "java", partes[1] = "basicos", partes[2...] = resto
+  const subcategoria = partes.length > 1 ? partes[1] : 'General';
+
+  if (!grupos[subcategoria]) grupos[subcategoria] = [];
+  grupos[subcategoria].push(doc);
+}
+
+// Ordenar subcategorías alfabéticamente
+const nombresSubcategorias = Object.keys(grupos).sort();
+---
+
+<h2>Artículos en {titulo}</h2>
+{nombresSubcategorias.map(sub => (
+  <>
+    <h3>{sub.charAt(0).toUpperCase() + sub.slice(1)}</h3>
+    <ul>
+      {grupos[sub].map(doc => (
+        <li>
+          <a href={`/${doc.id}`}>{doc.data.title}</a>
+        </li>
+      ))}
+    </ul>
+  </>
+))}

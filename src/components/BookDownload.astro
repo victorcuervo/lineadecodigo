@@ -1,0 +1,125 @@
+---
+// Componente para PageSidebar (sobreescrito)
+// Layout horizontal, CTA con download y espaciado exterior
+
+const {
+  title,
+  author,
+  format,
+  ctaText = '↓ Descargar libro',
+  ctaUrl = '#',
+  coverImage,
+} = Astro.props;
+---
+
+<div class="book-cover">
+  {coverImage && (
+    <div class="cover-wrapper">
+      <img
+        src={coverImage}
+        alt={`Portada del libro ${title}`}
+        class="cover-image"
+      />
+    </div>
+  )}
+
+  <div class="book-meta">
+    <h2 class="book-title">{title}</h2>
+    <p class="book-author">{author}</p>
+    <p class="book-format">{format}</p>
+
+    <a
+      href={ctaUrl}
+      class="book-cta"
+      role="button"
+      download
+    >
+      {ctaText}
+    </a>
+  </div>
+</div>
+
+<style>
+
+  .book-cover {
+    display: flex;
+    gap: 0.75rem;
+    width: 100%;
+    max-width: var(--sl-sidebar-width);
+    box-sizing: border-box;
+    padding: 0.75rem;
+    margin: 0.75rem 1rem; /* Espacio vertical dentro del sidebar */    
+    border-radius: 0.75rem;
+    background: var(--sl-color-bg);
+    border: 1px solid var(--sl-color-gray-5);
+    transition: transform 200ms ease, box-shadow 200ms ease;
+  }
+
+  .book-cover:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+  }
+
+  /* --- Mini portada --- */
+  .cover-wrapper {
+    flex: 0 0 142px;
+  }
+
+  .cover-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 0.4rem;
+  }
+
+  /* --- Texto a la derecha --- */
+  .book-meta {
+    display: flex;
+    flex-direction: column;    
+    min-width: 0;
+  }
+
+  .book-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 1.25;
+    margin: 0;
+  }
+
+  .book-author {
+    font-size: 0.8rem;
+    color: var(--sl-color-gray-3);
+    margin: 0.1rem 0 0 0;
+  }
+
+  .book-format {
+    font-size: 0.75rem;
+    color: var(--sl-color-gray-4);
+    margin: 0.1rem 0 0.4rem 0;
+  }
+
+  /* --- CTA botón con download --- */
+  .book-cta {
+    align-self: flex-start;
+    padding: 0.35rem 0.6rem;
+    border-radius: 0.45rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-decoration: none;
+    background: var(--sl-color-accent);
+    color: var(--sl-color-text-invert); 
+    border: none;
+    cursor: pointer;
+    transition: background-color 150ms ease, transform 150ms ease;
+  }
+
+  .book-cta:hover {
+    background: var(--sl-color-accent-high); /* hover menos morado */
+    color: var(--sl-color-text-invert);
+    transform: translateY(-1px);
+  }
+
+  .book-cta:active {
+    transform: translateY(0);
+  }
+</style>

@@ -1,0 +1,96 @@
+---
+import Default from '@astrojs/starlight/components/Footer.astro';
+import DownloadSource from './DownloadSource.astro';
+import ArticleList from './ArticleList.astro';
+import AuthorCard from './AuthorCard.astro'
+import Quiz from './Quiz.astro';
+
+const { entry } = Astro.locals.starlightRoute;
+const frontmatter = entry?.rendered?.metadata?.frontmatter ?? entry?.data ?? {};
+const {title, author, download, type} = frontmatter as Record<string, any>;
+const slug = entry?.slug;
+const description = entry?.data?.description;
+
+// Si el type es "category" la category es directamente el slug
+// En caso contrario (doc) es el slug sin la última parteP
+const category = type === "category" ? slug : (slug !== undefined ? slug.split('/').slice(0, -1).join('/') : '');
+const year = new Date().getFullYear();
+---
+
+<section class="article-end-wrapper">
+
+  {author && author !== undefined && type != 'category' && (
+    <div class="article-end-block">
+      <AuthorCard id={author} />
+    </div>
+  )} 
+
+  {download && download !== '' && (
+    <div class="article-end-block">
+      <DownloadSource
+        title={`${title}`}
+        description={`${description}`}
+        href={`${download}`}
+        label="Descargar código"
+      />
+    </div>
+  )}
+
+    { type === 'category' && (
+    <div class="article-end-block">
+       <ArticleList titulo={`${title}`} categoria={`${category}`} />
+    </div>
+    )} 
+
+  <div class="article-end-block">
+    <Quiz theme={`${category}`} />
+  </div>
+
+</section>
+
+<style>
+  .article-end-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem; /* separación principal entre bloques */
+  margin-top: 3rem; /* separación respecto al contenido del artículo */
+}
+
+.article-end-block {
+  padding-top: 1rem;
+  border-top: 1px solid var(--sl-color-border-muted);
+}
+
+.article-end-block:first-child {
+  border-top: none; /* no borde en el primer bloque */
+  padding-top: 0;
+}
+
+/* Mobile adjustments */
+@media (max-width: 640px) {
+  .article-end-wrapper {
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  .article-end-block {
+    padding-top: 0.75rem;
+  }
+}
+</style>
+
+<Default><slot /></Default>
+
+<footer class="site-footer">
+  <p>© {year} Línea de Código. Todos los derechos reservados.</p>
+</footer>
+
+<style>
+  .site-footer {
+    margin-top: 3rem;
+    padding: 1.5rem 0;
+    text-align: center;
+    font-size: 0.875rem;
+    color: var(--sl-color-gray-3);
+    border-top: 1px solid var(--sl-color-gray-6);
+  }
+</style>

@@ -1,5 +1,6 @@
 ---
 import Default from '@astrojs/starlight/components/PageSidebar.astro'
+import BookDownload from './BookDownload.astro';
 
 const pathname = Astro.url.pathname;
 const category = pathname.split('/')[1];
@@ -7,21 +8,22 @@ const category = pathname.split('/')[1];
 
 <Default><slot /></Default>
 
-
 <div class="hide-mobile">
 
-  <div class="right-sidebar-panel sl-hidden lg:sl-block astro-pb3aqygn">
+  <BookDownload  
+    title={`Manual ${category}`}
+    author="Víctor Cuervo"
+    format="Manual PDF · 240 páginas en el que encontrarás todo lo necesario para aprender Java desde cero."
+    coverImage="https://lineadecodigo.com/wp-content/themes/vcptheme/img/tutorials/java.jpeg"
+    ctaUrl="https://manualweb.net/java?utm_source=lineadecodigo&utm_medium=download&utm_id=javas&utm_campaign=book"
+    ctaText=" ↓ Descargar PDF"
+  />
 
-    <h3>Manual {category ? category.charAt(0).toUpperCase() + category.slice(1) : ''}</h3>
-    Puedes descargarte el manual sobre { category }.<br>
-    Descarga el manual 
-    <img width="100" height="100" src="https://lineadecodigo.com/wp-content/themes/vcptheme/img/tutorials/java.jpeg">
-    </div>
 </div>
 
 <style>
 /* Oculto en pantallas pequeñas */
-@media (max-width: 768px) {
+@media (max-width: 50rem) {
   .hide-mobile {
     display: none;
   }

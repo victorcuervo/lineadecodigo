@@ -1,0 +1,60 @@
+---
+import DefaultSocialIcons from "@astrojs/starlight/components/SocialIcons.astro";
+---
+
+
+<div class="social-icons-extended">
+  <nav aria-label="Navegación principal" class="navbar">
+    <div class="custom-links">
+      <a class="custom-link" href="/java/" title="Programación en Java">Java</a>
+      <a class="custom-link" href="/python/" title="Programación en Python">Python</a>
+      <a class="custom-link" href="/javascript/" title="Programación en Javascript">Javascript</a>
+      <a class="custom-link" href="/lenguajes/" title="Lenguajes de programación">+ Lenguajes</a>
+      <a class="custom-link" href="/blog/" title="Blog de Línea de Código">Blog</a>
+    </div>
+  </nav>
+
+  <DefaultSocialIcons/>
+</div>
+
+<style>
+  .social-icons-extended {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .custom-links {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+  }
+
+  .custom-link {
+    color: var(--sl-color-text-accent);
+    text-decoration: none;
+    font-size: var(--sl-text-sm);
+    font-weight: 500;
+    transition: color 0.2s ease;
+    white-space: nowrap;
+  }
+
+  .custom-link:hover {
+    opacity: 0.66;
+  }
+
+  .custom-links::after {
+    content: "";
+    height: 2rem;
+    border-inline-end: 1px solid var(--sl-color-gray-5);
+  }
+
+  @media (width < 800px) {
+    .social-icons-hidden .custom-links::after {
+      content: none;
+      border: 0;
+    }
+  }
+</style>
+
