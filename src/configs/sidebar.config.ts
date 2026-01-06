@@ -609,18 +609,7 @@ export const sidebar = [
             label: 'Básicos',
             autogenerate: { directory: 'wordpress' },
             }],
-    },
-    {
-        label: 'XForms',
-        link: '/xmlforms/',
-        icon: 'seti:xml',
-        id: 'xforms',
-        items: [
-            {
-            label: 'Básicos',
-            autogenerate: { directory: 'xmlforms' },
-            }],
-    },
+    },    
     {
         label: 'XML',
         link: '/xml/',
@@ -634,6 +623,10 @@ export const sidebar = [
             {
                 label: 'XSLT',
                 autogenerate: { directory: 'xml/xslt' },
+            },
+            {
+                label: 'XForms',
+                autogenerate: { directory: 'xml/xforms' },
             },
         ],
     }
