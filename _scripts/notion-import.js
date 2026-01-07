@@ -204,7 +204,9 @@ topic: ${cat.toLowerCase()}
 				const buffer = Buffer.from(await res.arrayBuffer());
 				fs.writeFileSync(imagePath, buffer);
 				// Replace image URL in markdown with local path
-				contenido = contenido.replace(imageUrl, `../../../../assets/${cat.toLowerCase()}/images/${imageName}`);
+				// si hay subategoría el path es "../../../../assets", si no es "../../../assets"
+				const assetsPath = subcat ? `../../../../assets/${cat.toLowerCase()}/images/${imageName}` : `../../../assets/${cat.toLowerCase()}/images/${imageName}`;
+				contenido = contenido.replace(imageUrl, assetsPath);
 			}
 		}
 		
