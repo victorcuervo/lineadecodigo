@@ -11,6 +11,48 @@ const notion = new Client({
 // passing notion client to the option
 const n2m = new NotionToMarkdown({ notionClient: notion });
 
+// Damos formato a bloques que sean vídeos de YouTube
+function resolveVideoBlocks(mdblocks) {
+  const resolved = [];
+
+  for (const block of mdblocks) {
+    if (
+      block.type === "video" &&
+      typeof block.parent === "string"
+    ) {
+		console.log('YouTube video block found:', block.parent);
+		const match = block.parent.match(
+        /https?:\/\/(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)([^\s&)]+)/
+      );
+
+      if (match) {
+        const id = match[1];
+
+        resolved.push({
+          type: "html",
+          parent: `
+<div class="video-container">
+  <iframe 
+    src="https://www.youtube.com/embed/${id}"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+`
+        });
+
+        continue;
+      }
+    }
+
+    resolved.push(block);
+  }
+
+  return resolved;
+}
+
 // Extraemos bloques que estén sincronizados
 async function resolveSyncedBlocks(mdblocks) {
 	const resolved = [];
@@ -167,7 +209,8 @@ topic: ${cat.toLowerCase()}
 
 		const mdblocks = await n2m.pageToMarkdown(id);
 		const fullMdBlocks = await resolveSyncedBlocks(mdblocks);
-		const md = n2m.toMarkdownString(fullMdBlocks);
+		const formattedBlocks = resolveVideoBlocks(fullMdBlocks);
+		const md = n2m.toMarkdownString(formattedBlocks);
 		let contenido = md.parent;
 		
 		// extract images and download locally
