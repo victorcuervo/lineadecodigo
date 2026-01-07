@@ -11,10 +11,10 @@ type: blog
 topic: blog
 ---
 
-Hace un par de semanas publiqué en mi Blog una entrada sobre las diez bases de datos más populares. Este ranking que a continuación muestro me ha parecido sumamente interesante pues nos da una idea sobre que bases son más mencionadas en internet: 
+-Hace un par de semanas publiqué en mi Blog una entrada sobre las diez bases de datos más populares. Este ranking que a continuación muestro me ha parecido sumamente interesante pues nos da una idea sobre que bases son más mencionadas en internet: 
 
 
-![](../../../../assets/blog/images/rank-basesdedatos.png)
+![](../../../assets/blog/images/rank-basesdedatos.png)
 
 
 ¿Por qué en Internet?, bueno, [DbEngines](http://db-engines.com/) genera la estadística a partir de resultados de búsquedas en sitios como Google o Bing, además de extraer menciones de sitios especializados como LinkedIn y foros de consultas.
