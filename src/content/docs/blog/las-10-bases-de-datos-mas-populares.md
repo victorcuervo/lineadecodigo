@@ -11,7 +11,7 @@ type: blog
 topic: blog
 ---
 
--Hace un par de semanas publiqué en mi Blog una entrada sobre las diez bases de datos más populares. Este ranking que a continuación muestro me ha parecido sumamente interesante pues nos da una idea sobre que bases son más mencionadas en internet: 
+Hace un par de semanas publiqué en mi Blog una entrada sobre las diez bases de datos más populares. Este ranking que a continuación muestro me ha parecido sumamente interesante pues nos da una idea sobre que bases son más mencionadas en internet: 
 
 
 ![](../../../assets/blog/images/rank-basesdedatos.png)

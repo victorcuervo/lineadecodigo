@@ -25,6 +25,9 @@ Pero , **¿en qué consiste la programación perceptual?** Utilizando la program
 Fíjate las cosas que se pueden llegar a realizar...
 
 
+[image](https://www.youtube.com/watch?v=--UcZ6HW3fw)
+
+
 [image](http://www.youtube.com/embed/DYzOSCX6gp0)
 
 
