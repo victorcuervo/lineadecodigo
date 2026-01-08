@@ -9,7 +9,9 @@ author: lineadecodigo
 type: blog
 
 topic: blog
-
+cover:
+  alt: "Imagen sobre Perceptual Computing"
+  image: ../../../assets/blog/covers/perceptual-computing.png
 ---
 
 Venimos hablando sobre la programación perceptual con Intel y su evento de [Webinar Real Sense App Challenge 2014](http://network.bemyapp.com/trk/C0D43FB081C7053CE5F5EE30B34EE201) en el que puedes llegar a conseguir hasta 1 millón de dólares en premios.
