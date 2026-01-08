@@ -192,6 +192,35 @@ async function resolveSyncedBlocks(mdblocks) {
 		if (pdownload) {
 			download = pdownload
 		}
+
+		// Cover. Es una URL de una imagen que hay que guardar
+		// Se guarda en el directorio assets/<categoría>/covers/
+		let cover = ''
+		let coverImage = ''
+		let pcover = r.properties?.['cover']?.['files']?.[0]?.['file']?.['url']
+		if (pcover) {
+			cover = pcover
+		}
+
+		// Descargar la imagen de cover si existe
+		if (cover) {
+			const urlObj = new URL(cover);
+			const imageName = path.basename(urlObj.pathname.split('?')[0]);
+			const coverDir = path.join('src/assets', cat.toLowerCase(), 'covers');
+			const coverPath = path.join(coverDir, imageName);
+
+			coverImage = subcat ? `../../../../assets/${cat.toLowerCase()}/covers/${imageName}` : `../../../assets/${cat.toLowerCase()}/covers/${imageName}`;
+
+			// Ensure covers directory exists
+			fs.mkdirSync(coverDir, { recursive: true });
+
+			// Download image
+			const res = await fetch(cover);		
+			if (res.ok) {
+				const buffer = Buffer.from(await res.arrayBuffer());
+				fs.writeFileSync(coverPath, buffer);
+			}
+		}
 		
 const fm = `---
 title: "${title}"
@@ -204,6 +233,9 @@ author: ${author}
 type: ${type}
 ${download ? `download: ${download}` : ''}
 topic: ${cat.toLowerCase()}
+${cover ? `cover:
+  alt: "Imagen sobre ${title}"
+  image: ${coverImage}` : ''}
 ---
 `
 
