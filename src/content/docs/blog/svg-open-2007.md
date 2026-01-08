@@ -2,13 +2,16 @@
 title: "SVG Open 2007"
 description: "La conferencia SVG Open 2007 se celebrará del 4 al 7 de septiembre en Tokio, abordando temas sobre el estándar SVG."
 date: 2007-06-07
-updatedDate: 2026-01-07
+updatedDate: 2026-01-08
 tags: ["eventos"]
 slug: blog/svg-open-2007
 author: lineadecodigo
 type: blog
 
 topic: blog
+cover:
+  alt: "Imagen sobre SVG Open 2007"
+  image: ../../../assets/blog/covers/svgopen2007.png
 ---
 
 Entre el 4 y 7 de septiembre se celebra la quinta conferencia internacional sobre SVG. Esta, tendrá lugar en [Tokyo](http://maps.google.com/maps?f=q&hl=en&q=tokyo&ie=UTF8&ll=35.692437%2C139.770126&spn=0.112649%2C0.233459&z=12&om=1).

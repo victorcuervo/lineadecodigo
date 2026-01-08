@@ -2,13 +2,14 @@
 title: "Perceptual Computing"
 description: ""
 date: 2014-09-22
-updatedDate: 2026-01-07
+updatedDate: 2026-01-08
 tags: ["eventos"]
 slug: blog/perceptual-computing
 author: lineadecodigo
 type: blog
 
 topic: blog
+
 ---
 
 Venimos hablando sobre la programación perceptual con Intel y su evento de [Webinar Real Sense App Challenge 2014](http://network.bemyapp.com/trk/C0D43FB081C7053CE5F5EE30B34EE201) en el que puedes llegar a conseguir hasta 1 millón de dólares en premios.
@@ -23,12 +24,6 @@ Pero , **¿en qué consiste la programación perceptual?** Utilizando la program
 - ...
 
 Fíjate las cosas que se pueden llegar a realizar...
-
-
-[image](https://www.youtube.com/watch?v=--UcZ6HW3fw)
-
-
-[image](http://www.youtube.com/embed/DYzOSCX6gp0)
 
 
 Si esto te parece interesante no deberías dejar pasar la oportunidad de apuntarte al [concurso Real Sense App Challenge](http://network.bemyapp.com/trk/C0D43FB081C7053CE5F5EE30B34EE201).
