@@ -14,6 +14,18 @@ topic: java
 
 Desde la versión Java 5 existen los tipos de datos objeto en [Java](https://www.manualweb.net/java/) dentro de la [librería java.lang](https://www.w3api.com/Java/tag/java.lang/). Aunque, quizás, siguen gozando poca popularidad quizás por cosas como el consumo de memoria o la complejidad a la hora de realizar operaciones de comparación. Entre los tipos de datos objeto en [Java](https://www.manualweb.net/java/) encontramos:
 
+
+| **Tipo Primitivo** | **Tipo Objeto** |
+| ------------------ | --------------- |
+| boolean            | Boolean         |
+| char               | Char            |
+| byte               | Byte            |
+| short              | Short           |
+| int                | Integer         |
+| long               | Long            |
+| float              | Float           |
+| double             | Double          |
+
 undefined
 En todos los tipos de datos objeto en [Java](https://www.manualweb.net/java/) podemos envolver su respectivo tipo de dato primitivo para poder realizar las operaciones directamente sobre un objeto. De igual manera de un tipo de dato objeto podremos obtener su valor como tipo de dato primitivo. Veamos como sería para cada uno de los tipos de datos primitivo y su dato objeto correspondiente: 
 
