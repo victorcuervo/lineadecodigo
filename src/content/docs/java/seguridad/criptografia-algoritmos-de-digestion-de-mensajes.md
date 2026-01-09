@@ -3,7 +3,7 @@ title: "Criptografía - Algoritmos de Digestión de Mensajes"
 description: "Ejemplos de encriptación y uso de algoritmo de digestión de mensajes en Java."
 date: 2013-02-04
 updatedDate: 2026-01-09
-tags: ["hashmap","java-collection","password","string","java-util","exception","bases de datos","clase","java-security","encriptacion","digest","messagedigest"]
+tags: ["hashmap","java-collection","password","string","java-util","exception","bases-de-datos","clase","java-security","encriptacion","digest","messagedigest"]
 slug: java/seguridad/criptografia-algoritmos-de-digestion-de-mensajes
 author: Feffo
 type: doc
