@@ -38,6 +38,7 @@ for (const doc of articulosFiltrados) {
 const nombresSubcategorias = Object.keys(grupos).sort();
 ---
 
+<div class="article-list">
 <h2>Artículos en {titulo}</h2>
 {nombresSubcategorias.map(sub => (
   <>
@@ -51,3 +52,15 @@ const nombresSubcategorias = Object.keys(grupos).sort();
     </ul>
   </>
 ))}
+</div>
+
+<style>
+.article-list ul li a,
+.article-list ul li a:visited {
+  color: var(--sl-color-text-accent); 
+}
+
+.article-list a:hover {
+  color: var(--sl-color-white);
+}
+</style>
