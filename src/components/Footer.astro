@@ -36,11 +36,11 @@ const year = new Date().getFullYear();
     </div>
   )}
 
-    { type === 'category' && (
-    <div class="article-end-block">
-       <ArticleList titulo={`${title}`} categoria={`${category}`} />
-    </div>
-    )} 
+  { type === 'category' && (
+  <div class="article-end-block">
+    <ArticleList titulo={`${title}`} categoria={`${category}`} />
+  </div>
+  )} 
 
   <div class="article-end-block">
     <Quiz theme={`${category}`} />
@@ -49,12 +49,13 @@ const year = new Date().getFullYear();
 </section>
 
 <style>
-  .article-end-wrapper {
+.article-end-wrapper {
   display: flex;
   flex-direction: column;
   gap: 2rem; /* separación principal entre bloques */
   margin-top: 3rem; /* separación respecto al contenido del artículo */
 }
+
 
 .article-end-block {
   padding-top: 1rem;
