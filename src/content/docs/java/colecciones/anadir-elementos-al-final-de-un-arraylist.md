@@ -4,7 +4,7 @@ description: "Código que nos explica como podemos utilizar el método addAll pa
 date: 2014-10-22
 updatedDate: 2026-01-11
 tags: ["java-collection","arraylist","vector","add","addall"]
-slug: java/colecciones/aadir-elementos-al-final-de-un-arraylist
+slug: java/colecciones/anadir-elementos-al-final-de-un-arraylist
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/AddElementosFinalLista.java
