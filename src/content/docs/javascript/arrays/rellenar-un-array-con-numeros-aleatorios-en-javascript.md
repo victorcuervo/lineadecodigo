@@ -3,7 +3,7 @@ title: "Rellenar un array con números aleatorios en Javascript"
 description: "Uso de la función .from del objeto Array para poder rellenar un array con números aleatorios en Javascript y mostrar el resultado por consola."
 date: 2021-03-10
 updatedDate: 2026-01-11
-tags: ["Javascript Array","Javascript Math","Javascript Funciones","Javascript Console Log"]
+tags: ["array","funcion-arrow","console-log","math","from","random"]
 slug: javascript/arrays/rellenar-un-array-con-numeros-aleatorios-en-javascript
 author: victor_cuervo
 type: doc
