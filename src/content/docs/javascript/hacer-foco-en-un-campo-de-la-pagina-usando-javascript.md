@@ -3,7 +3,7 @@ title: "Hacer foco en un campo de la página usando Javascript"
 description: "Código fuente para que podamos hacer foco en un campo de la página usando Javascript."
 date: 2007-06-13
 updatedDate: 2026-01-11
-tags: ["HTML Form","Javascript DOM","Javascript DOM Element","Javascript DOM Element Focus","Javascript DOM getElementById"]
+tags: ["HTML Form","Javascript DOM","Javascript DOM Element","Javascript DOM Element Focus","Javascript DOM getElementById","form","element"]
 slug: javascript/hacer-foco-en-un-campo-de-la-pagina-usando-javascript
 author: victor_cuervo
 type: doc
