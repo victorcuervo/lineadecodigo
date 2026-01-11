@@ -106,9 +106,42 @@ export const sidebar = [
         icon: 'seti:html',
         items: [
             {
-            label: 'Básicos',
-            autogenerate: { directory: 'dom' },
-            }],
+                label: 'Básicos',
+                autogenerate: { directory: 'dom/básicos' },
+            },
+            {
+                label: 'Elementos',
+                autogenerate: { directory: 'dom/elementos' },
+            },
+            {
+                label: 'Atributos',
+                autogenerate: { directory: 'dom/atributos' },
+            },
+            {
+                label: 'Contenido',
+                autogenerate: { directory: 'dom/contenido' },                
+            },
+            {
+                label: 'Manipulación',
+                autogenerate: { directory: 'dom/manipulacion' },
+            },
+            {
+                label: 'Eventos',
+                autogenerate: { directory: 'dom/eventos' },
+            },
+            {
+                label: 'Formularios',
+                autogenerate: { directory: 'dom/formularios' },
+            },
+            {
+                label: 'Básicos',
+                autogenerate: { directory: 'dom/básicos' },
+            },
+            {
+                label: 'Rendimiento',
+                autogenerate: { directory: 'dom/rendimiento' },
+            }
+        ],
     },
     {
         label: 'EmberJS',
