@@ -589,6 +589,22 @@ export const sidebar = [
         ],
     },
     {
+        label: 'WebAPI',
+        link: '/webapi/',
+        icon: 'forward-slash',
+        id: 'webapi',
+        items: [
+            {
+                label: 'Storage',
+                autogenerate: { directory: 'webapi/storage' },
+            },
+            {
+                label: 'History',
+                autogenerate: { directory: 'webapi/history' },
+            }
+        ],
+    },
+    {
         label: 'wForms',
         link: '/wforms/',
         icon: 'forward-slash',
