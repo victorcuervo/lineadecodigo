@@ -3,7 +3,7 @@ title: "Clase con atributos privados en Javascript"
 description: "Un ejemplo de manejo de clases en Javascript en el que podremos crear una clase con atributos privados en Javascript."
 date: 2010-09-18
 updatedDate: 2026-01-12
-tags: ["Javascript Objetos"]
+tags: ["clases","objetos","atributos"]
 slug: javascript/clases/clase-con-atributos-privados-en-javascript
 author: victor_cuervo
 type: doc
