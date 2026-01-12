@@ -3,7 +3,7 @@ title: "Swapping de variables en Javascript"
 description: "El swapping de variables en Javascript permite intercambiar valores de dos variables fácilmente utilizando una variable intermedia o desestructuración."
 date: 2017-09-13
 updatedDate: 2026-01-12
-tags: ["Javascript Arrays","Javascript Objetos","variables"]
+tags: ["variables"]
 slug: javascript/variables/swapping-de-variables-en-javascript
 author: victor_cuervo
 type: doc
