@@ -3,7 +3,7 @@ title: "Obtener el titulo de la página con JavaScript"
 description: "Código Javascript que nos permite obtener el titulo de la página con Javascript."
 date: 2007-06-16
 updatedDate: 2026-01-12
-tags: ["Javascript DOM","Javascript DOM Document","Javascript DOM Document Write","document","write","title","javascript"]
+tags: ["document","write","title"]
 slug: javascript/navegador/obtener-el-titulo-de-la-pagina-con-javascript
 author: victor_cuervo
 type: doc
@@ -37,5 +37,5 @@ document.write(document.title);
 ```
 
 
-En este código se puede ver que nos hemos apoyado en el [método .write(texto)](https://www.w3api.com/DOM/.write()) para volcar por pantalla el contenido de `document.title`.
+En este código se puede ver que nos hemos apoyado en el [método .write(texto)](https://www.w3api.com/DOM/.write() para volcar por pantalla el contenido de `document.title`.
 
