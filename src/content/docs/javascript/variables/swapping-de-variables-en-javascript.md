@@ -3,7 +3,7 @@ title: "Swapping de variables en Javascript"
 description: "El swapping de variables en Javascript permite intercambiar valores de dos variables fácilmente utilizando una variable intermedia o desestructuración."
 date: 2017-09-13
 updatedDate: 2026-01-12
-tags: ["variables"]
+tags: ["variables","swapping"]
 slug: javascript/variables/swapping-de-variables-en-javascript
 author: victor_cuervo
 type: doc
@@ -21,7 +21,10 @@ let y = 20;
 ```
 
 
-La idea es que el valor de `x` aparezca en `y` y al revés. Para ello vamos a ver que tenemos dos formas de acometerlo: la primera será con una variable intermedia, la segunda mediante la desestructuración de variables. ## Variable intermedia
+La idea es que el valor de `x` aparezca en `y` y al revés. Para ello vamos a ver que tenemos dos formas de acometerlo: la primera será con una variable intermedia, la segunda mediante la desestructuración de variables.
+
+
+## Variable intermedia
 
 
 Este caso es el que nos sale de base. La idea sería apoyarnos en una variable intermedia, en este caso la denominaremos `z` la cual mantenga de forma temporal el valor de una de las dos variables y hagamos el cambio entre ellas. El código quedaría de la siguiente forma:
