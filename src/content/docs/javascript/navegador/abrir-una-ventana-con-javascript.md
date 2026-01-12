@@ -3,7 +3,7 @@ title: "Abrir una ventana con Javascript"
 description: "Código fuente que nos explica cómo podemos abrir una ventana con Javascript."
 date: 2009-01-03
 updatedDate: 2026-01-12
-tags: ["Javascript DOM","Javascript DOM Window","Javascript DOM Window Open","Javascript Funciones","Javascript Eventos","HTML Enlaces","window"]
+tags: ["window","open","eventos","enlaces"]
 slug: javascript/navegador/abrir-una-ventana-con-javascript
 author: victor_cuervo
 type: doc
