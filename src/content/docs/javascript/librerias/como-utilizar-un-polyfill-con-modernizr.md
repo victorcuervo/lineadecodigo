@@ -3,7 +3,7 @@ title: "Como utilizar un Polyfill con Modernizr"
 description: "Ejemplo de Como utilizar un Polyfill con Modernizr para un placeholder de un campo de texto de HTML. Se utiliza jQuery para facilitar su uso."
 date: 2012-02-17
 updatedDate: 2026-01-13
-tags: ["Javascript Modernizr Placeholder","jQuery Formularios","Concepto Polyfill","polyfill","placeholder","modernizr","javascript","jquery","HTML5 Básicos","CSS Básicos"]
+tags: ["polyfill","placeholder","modernizr","jquery"]
 slug: javascript/librerias/como-utilizar-un-polyfill-con-modernizr
 author: victor_cuervo
 type: doc
