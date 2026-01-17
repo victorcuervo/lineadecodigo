@@ -3,7 +3,7 @@ title: "Resaltar los enlaces con CSS"
 description: "Código que nos permite resaltar los enlaces con CSS para que sean más visibles a la hora de pasar por ellos."
 date: 2007-02-27
 updatedDate: 2026-01-17
-tags: ["CSS Color","CSS Enlaces"]
+tags: ["background-color","enlaces"]
 slug: css/buenas-practicas/resaltar-los-enlaces-con-css
 author: victor_cuervo
 type: doc
