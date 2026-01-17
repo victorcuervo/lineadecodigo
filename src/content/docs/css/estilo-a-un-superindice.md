@@ -1,9 +1,9 @@
 ---
 title: "Estilo a un superíndice"
-description: "Ejemplo que nos explica cómo podemos dar estilo a un superíndice mediante CSS para poder modificar su tamaño y que así sea un elemento más visible."
+description: "Aprende a dar estilo a un superíndice con CSS y mejora la visibilidad de tus textos. Descubre cómo modificar su tamaño fácilmente en tu página web."
 date: 2020-03-31
 updatedDate: 2026-01-17
-tags: ["CSS Texto"]
+tags: ["sup","font-size"]
 slug: css/estilo-a-un-superindice
 author: victor_cuervo
 type: doc
