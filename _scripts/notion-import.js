@@ -233,9 +233,11 @@ author: ${author}
 type: ${type}
 ${download ? `download: ${download}` : ''}
 topic: ${cat.toLowerCase()}
-${cover ? `cover:
-  alt: "Imagen sobre ${title}"
+${(cover && (type === 'blog')) ? `cover:
+  alt: "Artículo sobre ${title}"
   image: ${coverImage}` : ''}
+${cover ? `socialImage: ${coverImage}
+socialImageAlt: ${title}`: ''}
 ---
 `
 
