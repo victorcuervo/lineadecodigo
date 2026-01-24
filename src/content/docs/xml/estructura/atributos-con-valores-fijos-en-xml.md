@@ -1,13 +1,13 @@
 ---
 title: "Atributos con valores fijos en XML"
-description: "Ejemplo que nos muestra cómo crear un DTD que especifique atributos con valores fijos en XML."
+description: "Descubre cómo definir atributos con valores fijos en XML mediante DTD. Aprende a crear documentos XML válidos y mejora tu estructura de datos de manera efectiva."
 date: 2014-02-22
 updatedDate: 2026-01-24
-tags: ["XML Atributo","xml dtd","XML Elemento"]
+tags: ["attlist","fixed","pcdata"]
 slug: xml/estructura/atributos-con-valores-fijos-en-xml
 author: xhrist14n
 type: doc
-download: https://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_xml/dtd/atributo-fijo.dtd?spec=svn723&r=723
+download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/dtd/atributo-fijo.dtd
 topic: xml
 
 
