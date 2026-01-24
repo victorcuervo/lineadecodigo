@@ -46,7 +46,7 @@ const nombresSubcategorias = Object.keys(grupos).sort();
     <ul>
       {grupos[sub].map(doc => (
         <li>
-          <a href={`/${doc.id}`}>{doc.data.title}</a>
+          <a href={`/${doc.id}/`}>{doc.data.title}</a>
         </li>
       ))}
     </ul>
