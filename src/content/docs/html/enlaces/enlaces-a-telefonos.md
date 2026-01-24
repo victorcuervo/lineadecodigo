@@ -3,7 +3,7 @@ title: "Enlaces a Teléfonos"
 description: "Uso del protocolo tel para poder crear enlaces a teléfonos y así integrar nuestras páginas webs con los dispositivos para poder lanzar una llamada."
 date: 2019-01-16
 updatedDate: 2026-01-24
-tags: ["HTML Enlaces"]
+tags: ["a","href","tel"]
 slug: html/enlaces/enlaces-a-telefonos
 author: victor_cuervo
 type: doc
