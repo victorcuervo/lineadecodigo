@@ -9,8 +9,19 @@ const frontmatter = entry?.rendered?.metadata?.frontmatter ?? entry?.data ?? {};
 const {title = "", author: authorId = "", publishDate = "", updatedDate, tags = []} = frontmatter as Record<string, any>;
 const slug = entry?.slug;
 const description = entry?.data?.description;
-const type = entry?.data?.type ?? "blog";
+const type = entry?.data?.type ?? "blog";// Imagen y texto alternativo para las redes sociales
+import { getImage } from 'astro:assets';
+import defaultCover from '../assets/cover.webp';
 
+const img = await getImage({
+  src: entry?.data?.socialImage ?? defaultCover
+});
+
+const ogImageUrl = new URL(img.src, Astro.site).href;
+
+let imgAlt = entry?.data?.socialImageAlt
+  ? `Ejemplo de ${entry.data.socialImageAlt}`
+  : "Ejemplo de Línea de Código";
 
 // Resolver autor desde config
 let author = authorId ? authors.find(a => a.id === authorId) : 'lineadecodigo';
@@ -80,6 +91,11 @@ if (type === "doc") {
 ---
 
 <Default {...Astro.props} />
+
+<meta property="og:image" content={ogImageUrl} />
+<meta name="twitter:image" content={ogImageUrl} />
+<meta name="og:image:alt" content={imgAlt} />
+<meta name="twitter:image:alt" content={imgAlt} />
 
 <script 
     type="application/ld+json" 

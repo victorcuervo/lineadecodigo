@@ -10,7 +10,9 @@ export const collections = {
     loader: docsLoader(),
     schema: docsSchema({
       extend: (context) => blogSchema(context).extend({
-        type: z.string().optional(),
+        type: z.string().optional(),        
+        socialImage: context.image().optional(),
+        socialImageAlt: z.string().optional(),
       }).merge(topicSchema)
     })
   }),
