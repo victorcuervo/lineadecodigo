@@ -1,13 +1,13 @@
 ---
 title: "Definir una lista de valores en atributo XML"
-description: "Como crear una lista de valores en atributo XML para acotar los valores de dicho atributo."
+description: "Descubre cómo definir una lista de valores en atributo XML para garantizar que los usuarios se ajusten a una selección específica y evitar errores en tus documentos."
 date: 2014-02-20
 updatedDate: 2026-01-24
 tags: ["dtd","atributos","attlist"]
 slug: xml/estructura/definir-una-lista-de-valores-en-atributo-xml
-author: victor_cuervo
+author: xhrist14n
 type: doc
-download: https://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_xml/dtd/atributo-lista.dtd
+download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/dtd/atributo-lista.dtd
 topic: xml
 
 
