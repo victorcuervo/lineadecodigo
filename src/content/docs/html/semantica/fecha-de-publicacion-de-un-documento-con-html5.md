@@ -10,6 +10,7 @@ type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/fecha-publicacion-documento.html
 topic: html
 
+
 ---
 
 El otro día veíamos [como podemos dar de alta fechas en documentos HTML5](http://lineadecodigo.com/html5/fechas-en-html5/). Estas fechas las podemos utilizar para proporcionar información dentro del documento sobre el contenido del mismo. Por ejemplo, si estamos hablando de un evento, utilizaremos las fechas para indicar los días en los cuales se produce el evento.

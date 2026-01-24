@@ -10,6 +10,7 @@ type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/enlace-sms.html
 topic: html
 
+
 ---
 
 Ya hemos visto [cómo podemos enviar un WhatsApp desde una Web](http://lineadecodigo.com/html/enviar-whatsapp-desde-webs/) o [cómo poner un enlace para que se pueda hacer una llamada por teléfono](http://lineadecodigo.com/html/enlaces-a-telefonos/). Ahora lo que vamos a ver es cómo podemos **enviar un SMS desde Web** con el [lenguaje HTML](http://www.manualweb.net/html/).

@@ -10,6 +10,7 @@ type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Audio/formatos-audio-html5.html
 topic: html5
 
+
 ---
 
 En el artículo [Cargar un vídeo de diferentes formatos con HTML5](http://lineadecodigo.com/html5/cargar-un-video-de-diferentes-formatos-con-html5/) vimos como podíamos utilizar varios formatos para cargar nuestros vídeos, en este caso vamos a ver cómo manejar los formatos audio [HTML5](https://www.manualweb.net/html5/).

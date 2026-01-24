@@ -10,6 +10,7 @@ type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/enviar-emails-desde-pagina-web.html
 topic: html
 
+
 ---
 
 Aunque al día de hoy casi todas las páginas están versadas en uno u otro lenguaje de servidor: [ASP](http://www.manualweb.net/asp/), [PHP](http://www.manualweb.net/php/), [JSP](https://www.manualweb.net/javaee/),... existe un amplio espectro de páginas desarrolladas en [HTML](https://www.manualweb.net/html/). Casi siempre con la inestimable ayuda de un editor web. Y es que es mucha la gente, que con unos conocimientos mínimos de Internet, se lanza a este para contarle algo al ciber espacio. E incluso habrá sitios dónde podramos insertar código [HTML](https://www.manualweb.net/html/) y que no permite utilizar otro lenguaje.

@@ -10,6 +10,7 @@ type: doc
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/listas/incrementar-item-dos-en-dos.html
 topic: css
 
+
 ---
 
 Como pudisteis leer en el artículo [Número de inicio de una lista con CSS](http://lineadecodigo.com/css/numero-de-inicio-de-una-lista-con-css/), la gestión de contadores en [CSS](http://www.manualweb.net/css/) nos permite alterar el comportamiento estándar de las listas ordenadas en [HTML](https://www.manualweb.net/html/). En este caso vamos a ver como podemos incrementar items de una lista HTML de dos en dos.

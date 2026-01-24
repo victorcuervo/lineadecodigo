@@ -10,6 +10,7 @@ type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/iniciar-video-automaticamente.html
 topic: html
 
+
 ---
 
 Ya hemos aprendido a [cómo cargar un vídeo en HTML5 dentro de nuestra página](http://lineadecodigo.com/html5/cargar-un-video-en-html5/) y a cómo [cargar el vídeo en HTML5 desde diferentes formatos](http://lineadecodigo.com/html5/cargar-un-video-de-diferentes-formatos-con-html5/). En el código de hoy veremos cómo iniciar automáticamente un vídeo en [HTML5](https://www.manualweb.net/html5/).

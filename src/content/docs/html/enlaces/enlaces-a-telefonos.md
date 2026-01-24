@@ -10,6 +10,7 @@ type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/enlace-telefono.html
 topic: html
 
+
 ---
 
 ¿Crear enlaces a teléfonos? En los primeros años de la Web (que ya parecen unos cuantos) la idea de los enlaces era la de [enlazar páginas entre sí](http://lineadecodigo.com/html/hipervinculos-enlazar-dos-paginas-web/), crear [enlaces a sitios concretos de páginas](http://lineadecodigo.com/html/enlace-a-una-parte-concreta-de-la-pagina/) o [enlazar a algún recurso](http://lineadecodigo.com/html/imagen-con-enlace-en-html/).

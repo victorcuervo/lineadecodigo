@@ -10,6 +10,7 @@ type: doc
 
 topic: html
 
+
 ---
 
 Muchas personas me han enviado correos preguntándome como podían dejar fijo el fondo de pantalla en [hi5.com](http://hi5.com/). Sobre todo porque habían seguido el ejemplo ["Fondo estático en una página web"](http://lineadecodigo.com/html/fondo-estatico-en-una-pagina-web/) y no les había funcionado. (también podéis ver los comentarios al artículo que hablan sobre el tema).

@@ -10,6 +10,7 @@ type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas/exportar-canvas-a-imagen.html
 topic: html5
 
+
 ---
 
 Los [Canvas](https://www.w3api.com/HTML/canvas/) de [HTML5](https://www.manualweb.net/html5/) nos permiten una fácil manipulación gráfica. De tal manera que es sencillo insertar en ellos elementos gráficos, textos, imágenes,... Pero además nos ofrecen la posibilidad de exportar todo el contenido en formato imagen.

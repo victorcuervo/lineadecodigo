@@ -10,6 +10,7 @@ type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/fechas-con-duracion-html5.html
 topic: html
 
+
 ---
 
 El otro día veíamos como podíamos [especificar una fecha en HTML5](http://lineadecodigo.com/html5/fechas-en-html5/). Con el elemento [time](https://www.w3api.com/HTML/time/) y su atributo [datetime](https://www.w3api.com/HTML/time/.datetime), por defecto podemos indicar una fecha exacta (fecha y hora).

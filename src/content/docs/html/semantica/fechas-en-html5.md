@@ -10,6 +10,7 @@ type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/fechas-html5.html
 topic: html
 
+
 ---
 
 Hay múltiples motivos por los que tenemos que añadir fechas a nuestras páginas web, desde el típico de indicar cuándo fue creada o modificada la página, para reseñar la fecha de publicación de un artículo, para poner la fecha de un comentario, reseñar un acontecimiento,...

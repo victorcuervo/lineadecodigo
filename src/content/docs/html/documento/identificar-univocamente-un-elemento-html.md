@@ -10,6 +10,7 @@ type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/basicos/identificar-univocamente.html
 topic: html
 
+
 ---
 
 Cuando conformamos nuestra página [HTML](https://www.manualweb.net/html/), esta se conforma de un conjunto de elementos [HTML](https://www.manualweb.net/html/) los cuales consiguen la representación gráfica de la página.

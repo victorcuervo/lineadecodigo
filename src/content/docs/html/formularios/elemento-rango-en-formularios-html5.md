@@ -10,6 +10,7 @@ type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/elemento-formulario-range.html
 topic: html
 
+
 ---
 
 Una de las novedades que tenemos dentro de los formularios [HTML5](https://www.manualweb.net/html5/) son los elementos input de tipo rango. Estos elementos son unos sliders que nos permiten seleccionar un valor desplazando un puntero sobre el slider.

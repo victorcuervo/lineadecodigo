@@ -10,6 +10,7 @@ type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/WebStorage/eliminar-elemento/eliminar-elemento-web-storage.html
 topic: webapi
 
+
 ---
 
 Hemos [accedido al Local Storage](http://lineadecodigo.com/html5/acceder-a-la-cache-local-del-navegador-con-html5/), [listado todo el contenido](http://lineadecodigo.com/html5/listar-el-contenido-de-local-storage-en-html5/) y [borrado por completo la Local Storage](http://lineadecodigo.com/html5/vaciar-la-local-storage-en-html5/) en [HTML5](https://www.manualweb.net/html5/). Pero ¿cómo podemos eliminar un elemento de Local Storage?

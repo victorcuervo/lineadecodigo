@@ -10,6 +10,7 @@ type: doc
 download: https://github.com/victorcuervo/lineadecodigo_html/tree/master/basicos/doctype
 topic: html
 
+
 ---
 
 Cuando estamos creando un documento HTML lo primero que debemos indicar es el tipo de documento HTML del que se trata. Para ello deberemos de adjuntar en la primera línea del documento el **DOCTYPE** de dicho documento. 
