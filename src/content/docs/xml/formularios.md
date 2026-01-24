@@ -1,0 +1,17 @@
+---
+title: "Formularios"
+description: ""
+date: 2026-01-24
+updatedDate: 2026-01-24
+tags: []
+slug: xml/formularios
+author: victor_cuervo
+type: category
+
+topic: xml
+
+
+---
+
+XForms
+

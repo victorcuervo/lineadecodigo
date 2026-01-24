@@ -2,13 +2,14 @@
 title: "Hola Mundo XML"
 description: "Hola Mundo XML un ejemplo para aprender a realizar tu primer documento XML explicado paso a paso."
 date: 2013-03-08
-updatedDate: 2026-01-10
+updatedDate: 2026-01-24
 tags: ["dtd","elemento","atributo"]
 slug: xml/basicos/hola-mundo-xml
 author: xhrist14n
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/basicos/hola-mundo.xml
 topic: xml
+
 
 ---
 

@@ -2,13 +2,15 @@
 title: "Crear Comentarios XML"
 description: "Artículo que nos muestra como podemos crear comentarios XML dentro de los documentos XML para adjuntar una buena documentación."
 date: 2013-03-04
-updatedDate: 2026-01-06
+updatedDate: 2026-01-24
 tags: ["comentarios"]
 slug: xml/basicos/crear-comentarios-xml
 author: victor_cuervo
 type: doc
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/basicos/comentarios.xml
 topic: xml
+
+
 ---
 
 Si ya has creado tu primer fichero [Hola Mundo XML](https://lineadecodigo.com/xml/hola-mundo-xml/) es momento de dar un paso más y pasar a insertar comentarios. Saber cómo crear comentarios [XML](http://www.manualweb.net/xml/) nos va a ayudar con la documentación de nuestros ficheros [XML](http://www.manualweb.net/xml/). Los comentarios se incluyen en todo código fuente que pueda ser usado para algún fin informativo o bien algún fin específico, en el caso del [XML](http://www.manualweb.net/xml/) por ser un lenguaje de marcado también permite incluir comentarios [XML](http://www.manualweb.net/xml/).

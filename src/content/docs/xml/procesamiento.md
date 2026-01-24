@@ -27,3 +27,7 @@ topic: xml
 
 	Soporte en distintos lenguajes (Java, Python, C#, etc.).
 
+
+El procesamiento de XML consiste en leer, escribir o modificar documentos mediante parsers. Existen distintos modelos, como DOM y SAX, que ofrecen enfoques orientados a memoria o a eventos según las necesidades de la aplicación.
+
+
