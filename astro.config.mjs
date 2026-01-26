@@ -8,7 +8,7 @@ import starlightBlog from 'starlight-blog'
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://localhost:4321',	
+	site: 'https://ldc.teoriaweb.com',	
 	trailingSlash: 'always',
 	integrations: [
 		starlight({
