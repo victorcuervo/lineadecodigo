@@ -24,7 +24,7 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          # directory: public_html/ # The path to upload to, on your FTP server, relative to your FTP root. Must end with trailing slash. (optional)
+          directory: ./ # The path to upload to, on your FTP server, relative to your FTP root. Must end with trailing slash. (optional)
           # protocol: ftp # The protocol to use on your FTP server. (optional)
           # port: "21" # The port of your FTP server. (optional)
           # path: . # The root location of your Astro project inside the repository. (optional)
