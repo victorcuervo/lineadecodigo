@@ -5,9 +5,11 @@ import starlightSidebarTopics from 'starlight-sidebar-topics';
 import { sidebar as sidebarConfig } from './src/configs/sidebar.config'
 import starlightBlog from 'starlight-blog'
 
+
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://lineadecodigo.com',
+	site: 'https://localhost:4321',	
+	trailingSlash: 'always',
 	integrations: [
 		starlight({
 			plugins: [
@@ -67,7 +69,8 @@ export default defineConfig({
 				Footer: './src/components/Footer.astro',
 				SocialIcons: './src/components/SocialIcons.astro',
 			},
-			customCss: ['./src/styles/custom.css'],
+			customCss: ['./src/styles/custom.css'],	
+			head: []		
 		}),
 	],
 });
