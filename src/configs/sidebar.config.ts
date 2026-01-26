@@ -1,3 +1,4 @@
+import { asp } from './lang/asp';
 import { bootstrap } from './lang/bootstrap';
 import { ceylon } from './lang/ceylon';
 import { css } from './lang/css';
@@ -11,6 +12,7 @@ import { google } from './lang/google';
 import { groovy } from './lang/groovy';
 import { java } from './lang/java';
 import { javaee } from './lang/javaee';
+import { javafx } from './lang/javafx';
 import { javascript } from './lang/javascript';
 import { jquery } from './lang/jquery';
 import { mongodb } from './lang/mongodb';
@@ -32,6 +34,7 @@ import { wordpress } from './lang/wordpress';
 import { xml } from './lang/xml';
 
 export const sidebar = [
+    asp,
     bootstrap,
     ceylon,
     css,
@@ -39,12 +42,13 @@ export const sidebar = [
     dojo,
     dom,
     emberjs,
-    flask
+    flask,
     html,
     google,
     groovy,
     java,
     javaee,
+    javafx,
     javascript,
     jquery,
     mongodb,

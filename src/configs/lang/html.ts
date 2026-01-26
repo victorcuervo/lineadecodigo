@@ -5,36 +5,68 @@ export const html = {
     icon: 'seti:html',
     items: [
         {
-        label: 'Básicos',
-        autogenerate: { directory: 'html/básicos' },
+            label: 'Básicos',
+            autogenerate: { directory: 'html/básicos' },
         },
         {
-        label: 'Texto',
-        autogenerate: { directory: 'html/texto' },
+            label: 'Documentos',
+            autogenerate: { directory: 'html/documentos' },
         },
         {
-        label: 'Enlaces',
-        autogenerate: { directory: 'html/enlaces' },
+            label: 'Semántica',
+            autogenerate: { directory: 'html/semantica' },
         },
         {
-        label: 'Imágenes',
-        autogenerate: { directory: 'html/imágenes' },
+            label: 'Texto',
+            autogenerate: { directory: 'html/texto' },
         },
         {
-        label: 'Formularios',
-        autogenerate: { directory: 'html/formularios' },
+            label: 'Listas',
+            autogenerate: { directory: 'html/listas' },
         },
         {
-        label: 'Frames',
-        autogenerate: { directory: 'html/frames' },
+            label: 'Contenedores',
+            autogenerate: { directory: 'html/contenedores' },
         },
         {
-        label: 'Entidades',
-        autogenerate: { directory: 'html/entidades' },
+            label: 'Enlaces',
+            autogenerate: { directory: 'html/enlaces' },
         },
         {
-        label: 'Vídeos',
-        autogenerate: { directory: 'html/vídeo' },
-        }
+            label: 'Imágenes',
+            autogenerate: { directory: 'html/imagenes' },
+        },
+        {
+            label: 'Formularios',
+            autogenerate: { directory: 'html/formularios' },
+        },
+        {
+            label: 'Tablas',
+            autogenerate: { directory: 'html/tablas' },
+        },
+        {
+            label: 'Frames',
+            autogenerate: { directory: 'html/frames' },
+        },
+        {
+            label: 'Gráficos',
+            autogenerate: { directory: 'html/graficos' },
+        },
+        {
+            label: 'Audio',
+            autogenerate: { directory: 'html/audio' },
+        },        
+        {
+            label: 'Vídeo',
+            autogenerate: { directory: 'html/video' },
+        },
+        {
+            label: 'Entidades',
+            autogenerate: { directory: 'html/entidades' },
+        },
+        {
+            label: 'Accessibilidad',
+            autogenerate: { directory: 'html/accessibilidad' },
+        },        
     ],
 };

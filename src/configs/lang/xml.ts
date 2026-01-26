@@ -9,12 +9,37 @@ export const xml = {
             autogenerate: { directory: 'xml/básicos' },
         },
         {
-            label: 'XSLT',
-            autogenerate: { directory: 'xml/xslt' },
+            label: 'Sintaxis',
+            autogenerate: { directory: 'xml/sintaxis' },
         },
         {
-            label: 'XForms',
-            autogenerate: { directory: 'xml/xforms' },
+            label: 'Estructura',
+            autogenerate: { directory: 'xml/estructura' },
         },
+        {
+            label: 'Namespaces',
+            autogenerate: { directory: 'xml/namespaces' },
+        },
+        {
+            label: 'Tramsformación y Consulta',
+            autogenerate: { directory: 'xml/transformación' },
+        },
+        {
+            label: 'Procesamiento',
+            autogenerate: { directory: 'xml/procesamiento' },
+        },
+        {
+            label: 'Integración',
+            autogenerate: { directory: 'xml/integracion' },
+        },
+        {
+            label: 'Formularios',
+            autogenerate: { directory: 'xml/formularios' },
+        },
+        {
+            label: 'Seguridad',
+            autogenerate: { directory: 'xml/seguridad' },
+        },
+
     ],
 };

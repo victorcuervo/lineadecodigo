@@ -5,52 +5,77 @@ export const css = {
     icon: 'seti:css',
     items: [
         {
-        label: 'Básicos',
-        autogenerate: { directory: 'css/básicos' },
+            label: 'Básicos',
+            autogenerate: { directory: 'css/básicos' },
         },
         {
-        label: 'Texto',
-        autogenerate: { directory: 'css/texto' },
+            label: 'Selectores y Pseudoclases',
+            autogenerate: { directory: 'css/selectores-y-pseudoclases' },
+        },
+        {
+            label: 'Texto',
+            autogenerate: { directory: 'css/texto' },
         },
         {
             label: 'Listas',
             autogenerate: { directory: 'css/listas' },
         },
         {
-        label: 'Imágenes y Colores',
-        autogenerate: { directory: 'css/imágenes' },        
+            label: 'Colores y Fondos',
+            autogenerate: { directory: 'css/colores-y-fondos' },        
         },
         {
-        label: 'Box Model',
-        autogenerate: { directory: 'css/box-model' },
+            label: 'Imágenes',
+            autogenerate: { directory: 'css/imágenes' },        
         },
         {
-        label: 'Layout',
-        autogenerate: { directory: 'css/layout' },
+            label: 'Box Model',
+            autogenerate: { directory: 'css/box-model' },
         },
         {
-        label: 'Grid',
-        autogenerate: { directory: 'css/grid' },
+            label: 'Posicionamiento',
+            autogenerate: { directory: 'css/posicionamiento' },        
         },
         {
-        label: 'Flexbox',
-        autogenerate: { directory: 'css/flexbox' },
-        },            
-        {
-        label: 'Media Queries',
-        autogenerate: { directory: 'css/mediaquery' },
+            label: 'Layout',
+            autogenerate: { directory: 'css/layout' },
         },
         {
-        label: 'Transformaciones y Animaciones',
-        autogenerate: { directory: 'css/transformaciones' },
+            label: 'Flexbox',
+            autogenerate: { directory: 'css/flexbox' },
+        },        
+        {
+            label: 'Grid',
+            autogenerate: { directory: 'css/grid' },
+        },
+            
+        {
+            label: 'Media Queries',
+            autogenerate: { directory: 'css/mediaquery' },
         },
         {
-        label: 'Variables y Funciones',
-        autogenerate: { directory: 'css/variables' },
+            label: 'Unidades y Medidas',
+        autogenerate: { directory: 'css/unidades' },
+        },        
+        {
+            label: 'Transformaciones y Animaciones',
+            autogenerate: { directory: 'css/transformaciones' },
         },
         {
-        label: 'Accesibilidad',
-        autogenerate: { directory: 'css/accesibilidad' },
+            label: 'Variables y Funciones',
+            autogenerate: { directory: 'css/variables' },
         },
+        {
+            label: 'Accesibilidad',
+            autogenerate: { directory: 'css/accesibilidad' },
+        },
+        {
+            label: 'Buenas Prácticas',
+            autogenerate: { directory: 'css/buenas-practicas' },
+        },        
+        {
+            label: 'Arquitectura',
+            autogenerate: { directory: 'css/arquitectura' },
+        },        
     ]
 };
