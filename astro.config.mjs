@@ -55,7 +55,7 @@ export default defineConfig({
 			},
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/victorcuervo/' },
-				{ icon: 'twitter', label: 'X', href: 'https://x.com/lineadecodigo' },
+				{ icon: 'x.com', label: 'X', href: 'https://x.com/lineadecodigo' },
 				{ icon: 'facebook', label: 'Facebook', href: 'https://www.facebook.com/lineadecodigo' },
 				{ icon: 'instagram', label: 'Instagram', href: 'https://www.instagram.com/lineadecodigo/' },
 				{ icon: 'youtube', label: 'YouTube', href: 'https://www.youtube.com/user/lineadecodigo' },
