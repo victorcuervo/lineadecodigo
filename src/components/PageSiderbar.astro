@@ -11,12 +11,7 @@ const category = pathname.split('/')[1];
 <div class="hide-mobile">
 
   <BookDownload  
-    title={`Manual ${category}`}
-    author="Víctor Cuervo"
-    format="Manual PDF · 240 páginas en el que encontrarás todo lo necesario para aprender Java desde cero."
-    coverImage="https://lineadecodigo.com/wp-content/themes/vcptheme/img/tutorials/java.jpeg"
-    ctaUrl="https://manualweb.net/java?utm_source=lineadecodigo&utm_medium=download&utm_id=javas&utm_campaign=book"
-    ctaText=" ↓ Descargar PDF"
+    category={category}
   />
 
 </div>

@@ -3,13 +3,27 @@
 // Layout horizontal, CTA con download y espaciado exterior
 
 const {
+  category,
+} = Astro.props;
+
+// Con la cateogría vamos a un archivo de configuración para obtener los datos del libro
+// El archivo de configuración está en src/configs/books.config.ts
+import { books } from "../configs/books/books.config";
+const book = books.find(b => b.category === category);
+if (!book) {
+  // Si no se encuentra el libro no se pinta el componente
+  return null;
+}
+
+const {
   title,
   author,
   format,
-  ctaText = '↓ Descargar libro',
-  ctaUrl = '#',
   coverImage,
-} = Astro.props;
+  ctaUrl,
+  ctaText
+} = book;
+
 ---
 
 <div class="book-cover">
