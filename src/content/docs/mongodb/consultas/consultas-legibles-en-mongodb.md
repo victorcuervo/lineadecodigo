@@ -11,6 +11,7 @@ type: doc
 topic: mongodb
 
 
+
 ---
 
 Cuando estamos haciendo consultas en la consola de [MongoDB](https://www.manualweb.net/mongodb/) vamos a ver que la información que sale, en ciertas ocasiones, puede ser poco legible. Y si queremos analizar los resultados vamos a necesitar que nuestras consultas sean legibles en [MongoDB](https://www.manualweb.net/mongodb/).

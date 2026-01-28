@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Ya hemos aprendido a [crear](http://lineadecodigo.com/mongodb/crear-una-base-de-datos-en-mongodb/) y a [borrar](http://lineadecodigo.com/mongodb/borrar-una-base-de-datos-en-mongodb/) una base de datos en [MongoDB](https://www.manualweb.net/mongodb/). Así que ahora vamos a ver qué tenemos que hacer para renombrar una base de datos en [MongoDB](https://www.manualweb.net/mongodb/).

@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo_mongodb/blob/master/mong
 topic: mongodb
 
 
+
 ---
 
 Una de las cosas potentes que tiene [MongoDB](https://www.manualweb.net/mongodb/) es la capacidad de crear documentos que tengan campos que sean arrays. Cosas que nos permiten representar valores anexos a un documento de una forma sencilla y que sería complejo (o tedioso) en una base de datos relacional.

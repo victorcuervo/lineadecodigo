@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Cuando estamos realizando consultas en [MongoDB](https://www.manualweb.net/mongodb/) podemos tener la necesidad de establecer un límite en el número de documentos a devolver. En este artículo vamos a ver como podemos realizar consultas [MongoDB](https://www.manualweb.net/mongodb/) con límite de documentos.

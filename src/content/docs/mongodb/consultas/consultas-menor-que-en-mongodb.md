@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Si era sencillo [realizar consultas mayor que en MongoDB](http://lineadecodigo.com/mongodb/consultas-mayor-que-en-mongodb/), igual de sencillo es realizar consultas menor que en [MongoDB](https://www.manualweb.net/mongodb/).

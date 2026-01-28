@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Cuando accedemos a los datos de los campos de un documento en [MongoDB](https://www.manualweb.net/mongodb/) podemos encontrarnos la necesidad de **realizar consultas MongoDB like**. Es decir, realizar consultas por cadenas similares de texto.

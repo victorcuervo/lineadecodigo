@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo_mongodb/blob/master/mong
 topic: mongodb
 
 
+
 ---
 
 Una de las cosas más potentes de [MongoDB](https://www.manualweb.net/mongodb/) es la capacidad de crecimiento de sus documentos, lo cual permite ir añadiendo campos con diferentes valores atendiendo a las necesidades que nos vayan apareciendo.

@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Cuando realizamos consultas sobre una colección en [MongoDB](https://www.manualweb.net/mongodb/) lo que obtenemos como resultado es un cursor de documentos. Si queremos ver los documentos que contiene un cursor en [MongoDB](https://www.manualweb.net/mongodb/) deberemos de recorrerlo. Un cursor lo obtendremos cuando realizamos una c[onsulta mediante MongoDB find](http://lineadecodigo.com/mongodb/consultas-con-mongodb-find/). 

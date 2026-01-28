@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Cuando estemos realizando consultas [MongoDB](https://www.manualweb.net/mongodb/) es fácil que necesitemos concatenar filtros en las consultas. Es decir necesitemos realizar el **operador** [**MongoDB**](https://www.manualweb.net/mongodb/) **AND**. Por ejemplo, en nuestra colección de ciudades:

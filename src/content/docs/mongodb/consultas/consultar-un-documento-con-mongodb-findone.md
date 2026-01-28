@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Ya hemos visto [como podemos hacer una consulta general con MongoDB find](http://lineadecodigo.com/mongodb/consultas-con-mongodb-find/). Pero hay una forma todavía más sencilla que es consultar un único documento mediante MongoDB findOne.

@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Cuando realizamos una [consulta MongoDB Find](http://lineadecodigo.com/mongodb/consultas-con-mongodb-find/), esta, nos devuelve el conjunto de documentos que cumplen la búsqueda. Si bien, mediante **MongoDB Skip** podemos omitir resultados y no recuperar ciertos documentos. Pero vamos por pasos.

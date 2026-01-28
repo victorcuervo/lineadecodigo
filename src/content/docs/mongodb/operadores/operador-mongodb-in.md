@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 El **operador** [**MongoDB**](https://www.manualweb.net/mongodb/) **IN es un operador que nos sirve para simular un** [**operador MongoDB OR**](http://lineadecodigo.com/mongodb/operador-mongodb-or/) **con una lista de posibles valores**. Es decir, nos evitaría el escribir OR filtro 1 OR filtro 2... Eso sí, siempre y cuando sea sobre el mismo campo del documento.

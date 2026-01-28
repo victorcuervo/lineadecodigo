@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Si realizamos una [consulta MongoDB Find](http://lineadecodigo.com/mongodb/consultas-con-mongodb-find/) lo que retornara dicha consulta es el conjunto de documentos que correspondan a dicha consulta. Se devolverán los documentos completos con todos sus campos. Si bien podemos realizar **MongoDB Projection**, que es seleccionar los campos de un documento que queremos devuelva la consulta.

@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Si ya has leido el primer artículo con el [Hola Mundo en MongoDB](http://lineadecodigo.com/mongodb/hola-mundo-con-mongodb/) estarás ansioso de crear tu primeros códigos con MongoDB 😉

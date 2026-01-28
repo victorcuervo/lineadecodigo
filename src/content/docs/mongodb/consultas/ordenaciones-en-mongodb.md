@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 A la hora de realizar una consulta podemos encontrarnos la necesidad de realizar una ordenación de los datos. Ya que si no decimos nada las consultas en [MongoDB](https://www.manualweb.net/mongodb/) devolverán los datos tal cual se encuentren almacenados en la base de datos, es decir, con su orden de inserción. Así si queremos realizar ordenaciones en [MongoDB](https://www.manualweb.net/mongodb/) deberemos de utilizar el [método .sort()]( "MongoDB Sort"). 

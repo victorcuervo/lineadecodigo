@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Ya vimos en nuestro ejemplo de [crear una base de datos en MongoDB](http://lineadecodigo.com/mongodb/crear-una-base-de-datos-en-mongodb/) que al crear una colección en [MongoDB](https://www.manualweb.net/mongodb/) de manera indirecta estábamos creando una base de datos.

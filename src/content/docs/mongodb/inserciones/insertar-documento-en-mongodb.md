@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo_mongodb/blob/master/mong
 topic: mongodb
 
 
+
 ---
 
 Mediante este ejemplo vamos a realizar la operación de insertar documento en [MongoDB](https://www.manualweb.net/mongodb/). Para ello crearemos un documento mediante [Javascript](https://www.manualweb.net/javascript/) y lo insertaremos en una colección.

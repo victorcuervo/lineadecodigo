@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo_mongodb/blob/master/mong
 topic: mongodb
 
 
+
 ---
 
 Uno de los principios de [MongoDB](https://www.manualweb.net/mongodb/) es que dentro de un documento podemos contener otros documentos (conocidos como subdocumentos). De esta forma podemos realizar [técnicas de modelado de datos en MongoDB](http://www.manualweb.net/mongodb/modelado-de-datos-en-mongodb/).

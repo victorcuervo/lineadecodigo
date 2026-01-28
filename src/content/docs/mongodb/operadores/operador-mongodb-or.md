@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Ya hemos visto [el funcionamiento del Operador MongoDB AND](http://lineadecodigo.com/mongodb/operador-mongodb-and/) en el cual podíamos realizar operaciones en las cuales se cumpliesen dos condiciones o filtros. En este caso vamos a ver como realizar operaciones que se pueden realizar cuando se cumpla un campo u otro. Para ello vamos revisar el uso del **operador** [**MongoDB**](https://www.manualweb.net/mongodb/) **OR**.

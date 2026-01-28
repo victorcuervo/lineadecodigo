@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Siguiendo con las consultas en [MongoDB](https://www.manualweb.net/mongodb/) ahora vamos a ver como podemos realizar consultas mayor que en [MongoDB](https://www.manualweb.net/mongodb/).

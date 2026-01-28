@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Ya hemos visto [como recorrer un cursor en MongoDB](http://lineadecodigo.com/mongodb/recorrer-un-cursor-en-mongodb/). Si bien tenemos un cursor forEach en [MongoDB](https://www.manualweb.net/mongodb/) que nos permite recorrer los documentos de una consulta de una forma sencilla y sin tener que realizar un bucle.

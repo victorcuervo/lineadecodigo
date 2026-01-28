@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Si queremos hacer una consulta en [MongoDB](https://www.manualweb.net/mongodb/) para obtener los resultados que no cumplan una condición vamos a tener que recurrir a una consulta [MongoDB](https://www.manualweb.net/mongodb/) Not Equal. Y el operador que representa el [MongoDB](https://www.manualweb.net/mongodb/) Not Equal es **$ne**.

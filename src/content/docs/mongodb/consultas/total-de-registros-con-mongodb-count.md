@@ -11,6 +11,7 @@ download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodig
 topic: mongodb
 
 
+
 ---
 
 Cuando realizamos consultas en [MongoDB](https://www.manualweb.net/mongodb/) una de las cosas que querremos **saber es el número total de registros de una colección o el número total de registros afectados por una consulta**. Para ello tenemos el método **MongoDB count**.
