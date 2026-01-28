@@ -193,11 +193,18 @@ async function resolveSyncedBlocks(mdblocks) {
 			download = pdownload
 		}
 
+		// Vídeo
+		let video = ''
+		let pvideo = r.properties?.['Video']?.['url']
+		if (pvideo) {
+			video = pvideo
+		}
+
 		// Cover. Es una URL de una imagen que hay que guardar
 		// Se guarda en el directorio assets/<categoría>/covers/
 		let cover = ''
 		let coverImage = ''
-		let pcover = r.properties?.['cover']?.['files']?.[0]?.['file']?.['url']
+		let pcover = r.properties?.['Cover']?.['files']?.[0]?.['file']?.['url']
 		if (pcover) {
 			cover = pcover
 		}
@@ -238,6 +245,7 @@ ${(cover && (type === 'blog')) ? `cover:
   image: ${coverImage}` : ''}
 ${cover ? `socialImage: ${coverImage}
 socialImageAlt: ${title}`: ''}
+${video ? `video: ${video}` : ''}
 ---
 `
 
