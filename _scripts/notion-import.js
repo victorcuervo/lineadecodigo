@@ -202,7 +202,7 @@ async function resolveSyncedBlocks(mdblocks) {
 
 		// Video Date
 		let videoDate = ''
-		let pvideoDate = r.properties?.['Video Date']?.['date']?.['start']
+		let pvideoDate = r.properties?.['VideoDate']?.['date']?.['start']
 		if (pvideoDate) {
 			videoDate = moment(pvideoDate).format('YYYY-MM-DD')
 		}
