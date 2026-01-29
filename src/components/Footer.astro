@@ -4,10 +4,11 @@ import DownloadSource from './DownloadSource.astro';
 import ArticleList from './ArticleList.astro';
 import AuthorCard from './AuthorCard.astro'
 import Quiz from './Quiz.astro';
+import Video from './Video.astro';
 
 const { entry } = Astro.locals.starlightRoute;
 const frontmatter = entry?.rendered?.metadata?.frontmatter ?? entry?.data ?? {};
-const {title, author, download, type} = frontmatter as Record<string, any>;
+const {title, author, download, type, video} = frontmatter as Record<string, any>;
 const slug = entry?.slug;
 const description = entry?.data?.description;
 
@@ -19,11 +20,18 @@ const year = new Date().getFullYear();
 
 <section class="article-end-wrapper">
 
+
   {author && author !== undefined && type != 'category' && (
     <div class="article-end-block">
       <AuthorCard id={author} />
     </div>
   )} 
+
+  {video && video !== '' &&  (
+    <div class="article-end-block">
+      <Video videoUrl={video} videoTitle={title}/>
+    </div>
+  )}
 
   {download && download !== '' && (
     <div class="article-end-block">
