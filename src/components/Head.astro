@@ -51,9 +51,26 @@ const techArticleSchema: WithContext<TechArticle> = {
       image: author.photo,
       sameAs: author.rrss?.map(r => r.url) ?? []
     }, 
-    keywords: tags?.join(", ")
+    keywords: tags?.join(", "),
+    publisher: {
+      "@type": "Organization",
+      name: "Línea de Código",
+      url: "https://lineadecodigo.com",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://lineadecodigo.com/logo.webp",
+        width: 400,
+        height: 365
+      },
+      sameAs: [
+        "https://www.linkedin.com/company/lineadecodigo",
+        "https://www.facebook.com/lineadecodigo",
+        "https://www.instagram.com/lineadecodigo/",
+        "https://www.youtube.com/user/lineadecodigo"
+      ]
+    }
 };
-
+ 
 const collectionPageSchema: WithContext<CollectionPage> = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
