@@ -2,13 +2,13 @@
 title: "Ajustes de línea con CSS"
 description: "Uso de las propiedades overflow-wrap y word-wrap para poder realizar ajustes de línea con CSS y evitar texto desbordado."
 date: 2024-02-17
-updatedDate: 2026-01-07
+updatedDate: 2026-01-29
 tags: ["width","overflow-wrap","word-wrap","class"]
 slug: css/texto/ajustes-de-linea-con-css
 author: victor_cuervo
 type: doc
+id: c816b803-b903-48c5-866c-3feb53ffa32e
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/ajustes-de-linea.html
-topic: css
 ---
 
 Cuando estamos trabajando con bloques e insertando texto dentro de ellos, tenemos que estar al tanto de qué sucede con nuestro texto. Saber si nuestro texto se desborda en el bloque, o el contenedor se ajusta al tamaño del texto. Es por ello que vamos a ver cómo podemos controlar los ajustes de línea con [CSS](https://www.manualweb.net/css/).
@@ -45,7 +45,7 @@ Hemos aprovechado que habíamos definido la clase “columna” mediante el atri
 Si  lo cargamos en el navegador veremos que las líneas, al haber definido un bloque muy pequeño, desbordan el contenido de las palabras fuera del contenedor. Dejando un efecto no deseado.
 
 
-![Línea de texto no ajustada.](../../../../assets/css/images/Untitled.png)
+![Línea de texto no ajustada.](../../../../assets/css/images/ajuste-linea-desbordado.png)
 
 
 Para poder solucionar esto tenemos que recurrir a la propiedad [`overflow-wrap`](https://www.w3api.com/CSS/overflow-wrap/), cuyo valor por defecto es **“normal”** y lo que está generando el anterior efecto. Y lo que tenemos que hacer es asignarle un valor de “break-word” que lo que hará será el dividir las palabras (cortarlas) cuando lleguen al borde de nuestro bloque.
