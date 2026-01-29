@@ -200,6 +200,13 @@ async function resolveSyncedBlocks(mdblocks) {
 			video = pvideo
 		}
 
+		// Video Date
+		let videoDate = ''
+		let pvideoDate = r.properties?.['Video Date']?.['date']?.['start']
+		if (pvideoDate) {
+			videoDate = moment(pvideoDate).format('YYYY-MM-DD')
+		}
+
 		// Cover. Es una URL de una imagen que hay que guardar
 		// Se guarda en el directorio assets/<categoría>/covers/
 		let cover = ''
@@ -252,8 +259,8 @@ async function resolveSyncedBlocks(mdblocks) {
 		if (cover != null && cover) lines.push(`socialImage: ${coverImage}
 		socialImageAlt: ${title}`);
 
-		if (video != null && video) lines.push(`video: ${video}`);
-
+		if (video != null && video) ines.push(`video: ${video}`,`videoDate: ${videoDate}`);			
+	
 		// Cierro del frontmatter
 		lines.push(`---\n`);
 
