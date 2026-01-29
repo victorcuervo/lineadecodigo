@@ -1,16 +1,14 @@
 ---
-title: "Filtrar datos en MongoDB"
-description: "Aprende a filtrar datos en MongoDB utilizando el método find para obtener información específica de tu colección de documentos. ¡Optimiza tus consultas!"
+title: "Filtrar datos en MongoDB
+description: "Aprende a filtrar datos en MongoDB utilizando el método find para obtener información específica de tu colección de documentos. ¡Optimiza tus consultas!
 date: 2013-11-12
 updatedDate: 2026-01-29
 tags: ["db","find"]
 slug: mongodb/consultas/filtrar-datos-en-mongodb
 author: victor_cuervo
 type: doc
+id: e7d344cc-7a02-43c3-8c3d-874665391420
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/filtrarDatos.js
-topic: mongodb
-
-
 video: https://www.youtube.com/embed/jMxAMRRI0Ww
 ---
 
