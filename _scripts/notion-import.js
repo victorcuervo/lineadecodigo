@@ -231,8 +231,8 @@ async function resolveSyncedBlocks(mdblocks) {
 		
 		let lines = [
 			`---`,
-			`title: "${title}`,
-			`description: "${excerpt.replace(/"/g, '\\"')}`,
+			`title: "${title}"`,
+			`description: "${excerpt.replace(/"/g, '\\"')}"`,
 			`date: ${publishdate}`,
 			`updatedDate: ${updateddate}`,
 			`tags: ${JSON.stringify(tags)}`,
