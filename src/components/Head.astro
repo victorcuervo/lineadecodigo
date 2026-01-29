@@ -6,7 +6,7 @@ import { authors } from "../configs/authors.config";
 
 const { entry } = Astro.locals.starlightRoute;
 const frontmatter = entry?.rendered?.metadata?.frontmatter ?? entry?.data ?? {};
-const {title = "", author: authorId = "", publishDate = "", updatedDate, tags = []} = frontmatter as Record<string, any>;
+const {title = "", author: authorId = "", publishDate = "", updatedDate, tags = [], video} = frontmatter as Record<string, any>;
 const slug = entry?.slug;
 const description = entry?.data?.description;
 const type = entry?.data?.type ?? "blog";// Imagen y texto alternativo para las redes sociales
@@ -32,6 +32,7 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
 // En la metatdata viene el tipo de documento. Los tipo doc son un JSON-LD TechArticle
 // los tipo category son un JSON-LD CollectionPage y los tipo blog son un JSON-LD BlogPosting
 
+console.log(video)
 
 const techArticleSchema: WithContext<TechArticle> = {
     "@context": "https://schema.org",
@@ -68,6 +69,14 @@ const techArticleSchema: WithContext<TechArticle> = {
         "https://www.instagram.com/lineadecodigo/",
         "https://www.youtube.com/user/lineadecodigo"
       ]
+    },
+    video: video && {
+      "@type": "VideoObject",
+      name: `Vídeo sobre ${title}`,
+      description: description,
+      contentUrl: `https://www.youtube.com/watch?v=${video}`,
+      embedUrl: `https://www.youtube.com/embed/${video}`,
+      thumbnailUrl: [ogImageUrl]
     }
 };
  
