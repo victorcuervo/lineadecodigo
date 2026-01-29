@@ -27,7 +27,7 @@ export const authors = [
             },  
             {
                 label: 'youtube',
-                url: 'https://youtube.com/lineadecodigo',
+                url: 'https://www.youtube.com/@vcuervop',
             },
             {
                 label: 'instagram',
