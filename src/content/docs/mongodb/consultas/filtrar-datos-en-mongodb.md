@@ -1,6 +1,6 @@
 ---
-title: "Filtrar datos en MongoDB
-description: "Aprende a filtrar datos en MongoDB utilizando el método find para obtener información específica de tu colección de documentos. ¡Optimiza tus consultas!
+title: "Filtrar datos en MongoDB"
+description: "Aprende a filtrar datos en MongoDB utilizando el método find para obtener información específica de tu colección de documentos. ¡Optimiza tus consultas!"
 date: 2013-11-12
 updatedDate: 2026-01-29
 tags: ["db","find"]
