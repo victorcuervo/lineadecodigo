@@ -259,7 +259,7 @@ async function resolveSyncedBlocks(mdblocks) {
 		if (cover != null && cover) lines.push(`socialImage: ${coverImage}
 		socialImageAlt: ${title}`);
 
-		if (video != null && video) ines.push(`video: ${video}`,`videoDate: ${videoDate}`);			
+		if (video != null && video) lines.push(`video: ${video}`,`videoDate: ${videoDate}`);			
 	
 		// Cierro del frontmatter
 		lines.push(`---\n`);
