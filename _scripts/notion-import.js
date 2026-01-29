@@ -229,25 +229,35 @@ async function resolveSyncedBlocks(mdblocks) {
 			}
 		}
 		
-const fm = `---
-title: "${title}"
-description: "${excerpt.replace(/"/g, '\\"')}"
-date: ${publishdate}
-updatedDate: ${updateddate}
-tags: ${JSON.stringify(tags)}
-slug: ${ruta}
-author: ${author}
-type: ${type}
-${download ? `download: ${download}` : ''}
-topic: ${cat.toLowerCase()}
-${(cover && (type === 'blog')) ? `cover:
-  alt: "Artículo sobre ${title}"
-  image: ${coverImage}` : ''}
-${cover ? `socialImage: ${coverImage}
-socialImageAlt: ${title}`: ''}
-${video ? `video: ${video}` : ''}
----
-`
+		let lines = [
+			`---`,
+			`title: "${title}`,
+			`description: "${excerpt.replace(/"/g, '\\"')}`,
+			`date: ${publishdate}`,
+			`updatedDate: ${updateddate}`,
+			`tags: ${JSON.stringify(tags)}`,
+			`slug: ${ruta}`,
+			`author: ${author}`,
+			`type: ${type}`,
+			`id: ${id}`
+		]
+
+
+		if (download != null && download) lines.push(`download: ${download}`);
+
+		if (cover != null && cover && (type === 'blog')) lines.push(`cover:
+		alt: "Artículo sobre ${title}"
+		image: ${coverImage}`);
+
+		if (cover != null && cover) lines.push(`socialImage: ${coverImage}
+		socialImageAlt: ${title}`);
+
+		if (video != null && video) lines.push(`video: ${video}`);
+
+		// Cierro del frontmatter
+		lines.push(`---\n`);
+
+		const fm = lines.join('\n');
 
 		const mdblocks = await n2m.pageToMarkdown(id);
 		const fullMdBlocks = await resolveSyncedBlocks(mdblocks);
