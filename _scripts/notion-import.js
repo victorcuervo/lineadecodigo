@@ -195,7 +195,7 @@ async function resolveSyncedBlocks(mdblocks) {
 
 		// Vídeo
 		let video = ''
-		let pvideo = r.properties?.['Video']?.['url']
+		let pvideo = r.properties?.['Video']?.['rich_text']?.[0]?.['plain_text']
 		if (pvideo) {
 			video = pvideo
 		}
