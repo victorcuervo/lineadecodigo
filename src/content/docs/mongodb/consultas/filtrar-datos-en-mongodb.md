@@ -9,7 +9,7 @@ author: victor_cuervo
 type: doc
 id: e7d344cc-7a02-43c3-8c3d-874665391420
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/filtrarDatos.js
-video: https://www.youtube.com/embed/jMxAMRRI0Ww
+video: jMxAMRRI0Ww
 ---
 
 Una vez que hemos visto [el uso del método .find() en MongoDB](http://lineadecodigo.com/mongodb/consultas-con-mongodb-find/) ahora vamos a ver como podemos filtrar datos en [MongoDB](https://www.manualweb.net/mongodb/).
