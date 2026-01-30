@@ -89,17 +89,114 @@ const year = new Date().getFullYear();
 
 <Default><slot /></Default>
 
-<footer class="site-footer">
-  <p>© {year} Línea de Código. Todos los derechos reservados.</p>
+<footer class="sl-footer">
+  <div class="sl-footer__container">
+
+    <div class="sl-footer__column">
+      <h3>Nosotros</h3>
+      <ul>
+        <li><a href="/acerca-de/">Acerca de</a></li>
+        <li><a href="/colaborar/">Colaborar</a></li>
+        <li><a href="/publicidad/">Publicidad</a></li>
+        <li><a href="/contactar/">Contactar</a></li>
+        <li><a href="/privacidad/">Privacidad</a></li>
+        <li><a href="/cookies/">Cookies</a></li>
+      </ul>
+    </div>
+
+    <div class="sl-footer__column">
+      <h3>Nuestras Webs</h3>
+      <ul>
+        <li><a href="https://www.manualweb.net">Manual Web</a></li>
+        <li><a href="https://www.w3api.com">W3Api</a></li>
+        <li><a href="https://www.testprogramacion.com">Test de Programación</a></li>
+        <li><a href="https://www.informatica-juridica.com">Informática Jurídica</a></li>
+      </ul>
+    </div>
+
+    <div class="sl-footer__column">
+      <h3>Lista de Correo</h3>
+      <p>contacto@startlight.dev</p>
+      <p>GitHub · Twitter</p>
+    </div>
+
+  </div>
+
+  <div class="sl-footer__bottom">
+    <p>© {year} Línea de Código. Todos los derechos reservados.</p>
+  </div>
 </footer>
 
 <style>
-  .site-footer {
-    margin-top: 3rem;
-    padding: 1.5rem 0;
+.sl-footer {
+  background-color: var(--sl-color-bg);
+  color: var(--sl-color-text);
+  padding: 3rem 1.5rem 1.5rem;  
+  border-top: 1px solid var(--sl-color-gray-1);
+}
+
+.sl-footer__container {
+  max-width: 72rem;
+  margin: 0 auto;
+  display: flex;
+  gap: 2rem;
+}
+
+.sl-footer__column {
+  flex: 1;
+  min-width: 220px;
+}
+
+.sl-footer__column h3 {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--sl-color-text-strong);
+}
+
+.sl-footer__column p,
+.sl-footer__column li {
+  font-size: 0.875rem;
+  line-height: 1.6;
+  color: var(--sl-color-text);
+}
+
+.sl-footer__column ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sl-footer__column a {
+  color: var(--sl-color-accent);
+  text-decoration: none;
+}
+
+.sl-footer__column a:hover {
+  text-decoration: underline;
+}
+
+/* =========================
+   Footer bottom
+   ========================= */
+
+.sl-footer__bottom {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  text-align: center;
+  font-size: 0.75rem;
+  color: var(--sl-color-text);  
+}
+
+/* =========================
+   Responsive
+   ========================= */
+
+@media (max-width: 768px) {
+  .sl-footer__container {
+    flex-direction: column;
     text-align: center;
-    font-size: 0.875rem;
-    color: var(--sl-color-gray-3);
-    border-top: 1px solid var(--sl-color-gray-6);
   }
+}
+
 </style>

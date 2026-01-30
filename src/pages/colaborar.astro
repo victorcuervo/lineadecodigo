@@ -1,0 +1,180 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { Steps } from '@astrojs/starlight/components';  
+import { Code } from '@astrojs/starlight/components';
+const authorCode = `export const id-autor = {
+    id: 'id-autor',
+    name: 'Nombre Autor',
+    photo: 'URL con la foto Autor',
+    description: 'Descripción Autor',
+    rrss: [
+        {
+            label: 'rrss_name',
+            url: 'url',
+        },
+    ],
+};`
+
+const articleCode = `---
+title: "Título del artículo"
+description: "Descripción del Artículo"
+tags: ["tag1","tag2",..."tagN"]
+author: id_autor
+download: URL con el repositorio del código fuente
+---`
+
+const imageArticleCode = `![Texto alternativo relativo a la imagen](../../../..//src/assets/lenguaje/images/nombre-imagen.webp)`
+
+---
+
+
+<StarlightPage frontmatter={{ title: 'Colaborar', tableOfContents: false }} hasSidebar={false} >
+  
+
+<h2>Colabora con Línea de Código</h2>
+
+  <p>
+    <strong>Línea de Código</strong> es una plataforma abierta a cualquier tipo de colaboración relacionada con la programación,
+    independientemente del nivel. Buscamos contenidos con un enfoque claro, didáctico y pedagógico.
+  </p>
+
+  <p>Si quieres colaborar con Línea de Código, sigue los pasos que se detallan a continuación:</p>
+
+  <Steps>
+  <ol>
+
+    <li>
+      <h3>Trabaja con el repositorio Git</h3>
+
+      <p>
+        En Línea de Código trabajamos mediante un repositorio Git público disponible en:        
+        <a href="https://github.com/victorcuervo/lineadecodigo" target="_blank" rel="noopener">
+          https://github.com/victorcuervo/lineadecodigo
+        </a>
+      </p>
+
+      <p>El primer paso es crear un <strong>fork</strong> del repositorio en tu cuenta de GitHub.</p>
+
+    </li>
+    <li>
+      <h3>Ubicación del artículo</h3>
+      <p>
+        El artículo debe ubicarse dentro de la carpeta: <code>/src/content/docs/</code>
+      </p>            
+      <p>
+        A su vez, deberá estar dentro de la subcarpeta correspondiente al <strong>lenguaje</strong> y a la
+        <strong>temática</strong>. Por ejemplo:
+      </p>
+
+      <ul>
+        <li>Lenguajes: <code>java</code>, <code>html</code>, <code>python</code>, etc.</li>
+        <li>Temáticas: <code>basicos</code>, <code>cadenas</code>, <code>tablas</code>, etc.</li>
+      </ul>
+
+      <p>Quedándonos una carpeta de la siguiente forma: <code>/src/content/docs/lenguaje/tematica</code></p>
+
+
+      <p>
+        Si no existe una carpeta adecuada, puedes crear una nueva siguiendo la misma estructura.
+      </p>
+    </li>
+    <li>
+      <h3>Formato del artículo</h3>
+      <p>      
+        El artículo debe estar escrito en <strong>Markdown</strong>.
+        El nombre del fichero debe seguir el formato:      
+
+      <pre><code>nombre-del-articulo-entre-guiones.md</code></pre>
+
+      <p>
+        Se recomienda revisar los artículos existentes para mantener coherencia de formato y estilo.
+      </p>
+    </li>
+
+    <li>
+      <h4>Metainformación del artículo</h4>
+
+      <p>
+        En la parte superior del artículo debes incluir la metainformación en formato <em>front matter</em>:
+      </p>
+      
+      <Code code={articleCode} lang="js" title='nombre-del-articulo-entre-guiones.md'  />
+
+      <p>A tener en cuenta:</p>
+      <ul>        
+        <li>No utilices demasiadas etiquetas.</li>
+        <li>Se debe de poner una URL con el repositorio y archivo que contenga el código</li>
+        <li>El <strong>id_autor</strong> los explicamos más adelante</li>
+      </ul>
+      &nbsp;
+    </li>
+    <li>
+      
+      <h3>Imágenes del artículo</h3>
+      
+      <p>En el caso de que tu artículo contenga imágenes debes de seguir los siguientes pasos</p>
+
+      <ul>
+        <li>Las imágenes deben almacenarse en la carpeta <code>/src/assets/lenguaje/images</code>. Donde <strong>lenguaje</strong> es el lenguaje de programación principal del artículo.</li>        
+        <li>Preferiblemente utiliza un formato <string>webp</string>: Pero los formatos <strong>jpg</strong> o <strong>png</strong> también están permitidos.</li>
+        <li>Optimiza las imágenes antes de subirlas (por ejemplo, con TinyPNG).</li>
+      </ul>
+
+      <p>La referencia a las imágenes será relativa a la ubicación del artículo, por lo que el código markdown será:</p>
+    <Code code={imageArticleCode} lang="js" title='nombre-del-articulo-entre-guiones.md'  />
+      
+    </li>
+
+    <li>
+      <h3>Crea tu perfil de autor</h3>
+
+      <p>
+        Si es tu primera colaboración, debes crear tu perfil de autor en el directorio: <code>/src/configs/authors/</code>:
+      </p>
+
+      <p>
+        El nomre del fichero deberá de ser <code>id-autor.ts</code>, donde <strong>id-autor</strong> es el mismo que utilizarás en la metainformación del artículo.
+      </p>
+
+      <p>Añade una entrada con la siguiente estructura:</p>
+
+      <Code code={authorCode} lang="js" title='id-autor.ts'  />
+  
+      <p>A tener en cuenta:
+      </p>
+      
+      <ul>
+        <li>El id-autor será un identificador a utilizar en este archivo y en el artículo.</li>
+        <li>Puedes añadir tantas redes sociales como desees. Con los valores de <code>label</code> como <strong>x.com</strong>, <strong>linkedin</strong>, <strong>github</strong>, <strong>facebook</strong>,...</li>
+        <li>Se puede añadir el label <strong>laptop</strong> para poder hacer referencia a vuestras páginas personales.</li>
+      </ul>
+      &nbsp;
+    </li>
+
+    <li>
+      <h3>Enviar el artículo</h3>
+
+      <p>Ya solo queda un último paso que será enviarnos el artículo</p>
+
+      <ul>
+        <li>Verifica que el contenido cumple las normas de formato.</li>
+        <li>Realiza un <strong>Pull Request</strong> contra la rama <code>main</code>.</li>
+        <li>El equipo revisará el contenido y propondrá mejoras si es necesario.</li>
+      </ul>
+
+      <p> Una vez que tengamos todo pasaremos a <strong>Publicar el artículo</strong>.</p>
+    </li>
+
+  </ol>
+  </Steps>
+
+  <p>
+    Si tienes cualquier duda durante el proceso, no dudes en <a href="/contactar" title="Contacta con Línea de Código">contactar con nosotros</a>.
+    Estaremos encantados de ayudarte.
+  </p>
+
+
+
+
+</StarlightPage>
+

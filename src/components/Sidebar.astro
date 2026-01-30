@@ -1,9 +1,9 @@
 ---
 import Default from '@astrojs/starlight/components/Sidebar.astro'
 import TopicsDropdown from 'starlight-sidebar-topics-dropdown/TopicsDropdown.astro'
-const isBlogPath = Astro.url.pathname.includes('/blog')
+const noTopicPaths = ['/blog', '/acerca-de', '/colaborar'].some(path => Astro.url.pathname.includes(path));
 ---
 
 
-{!isBlogPath && <TopicsDropdown />}
+{!noTopicPaths  && <TopicsDropdown />}
 <Default><slot /></Default>
