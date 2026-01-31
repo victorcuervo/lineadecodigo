@@ -5,11 +5,42 @@ import DefaultSocialIcons from "@astrojs/starlight/components/SocialIcons.astro"
 
 <div class="social-icons-extended">
   <nav aria-label="Navegación principal" class="navbar">
-    <div class="custom-links">
-      <a class="custom-link" href="/java/" title="Programación en Java">Java</a>
-      <a class="custom-link" href="/python/" title="Programación en Python">Python</a>
-      <a class="custom-link" href="/javascript/" title="Programación en Javascript">Javascript</a>
-      <a class="custom-link" href="/lenguajes/" title="Lenguajes de programación">+ Lenguajes</a>
+    <div class="custom-links">            
+       <div class="dropdown">
+        <a class="custom-link" href="/lenguajes/" title="Lenguajes de programación">Lenguajes</a>
+        <div class="dropdown-menu">
+          <ul class="lenguajes-grid">            
+            <li class="separator">Lenguajes</li>
+            <li><a href="/java/">Java</a></li>
+            <li><a href="/python/">Python</a></li>
+            <li><a href="/javascript/">Javascript</a></li>
+            <li><a href="/php/">PHP</a></li>
+            <li><a href="/rust/">Rust</a></li>
+            <li><a href="/dart/">Dart</a></li>            
+            <li><a href="/dotnet/">.Net</a></li>
+            <li class="separator">Web</li>
+            <li><a href="/html/">HTML</a></li>            
+            <li><a href="/css/">CSS</a></li>
+            <li><a href="/dom/">DOM</a></li>
+            <li><a href="/webapi/">WebAPI</a></li>
+            <li><a href="/svg/">SVG</a></li>
+            <li class="separator">Frameworks</li>
+            <li><a href="/reactjs/">ReactJS</a></li>
+            <li><a href="/nodejs/">NodeJS</a></li>
+            <li><a href="/jquery/">jQuery</a></li>
+            <li><a href="/emberjs/">EmberJS</a></li>
+            <li><a href="/bootstrap/">Bootstrap</a></li>
+            <li><a href="/symfony/">Symfony</a></li>
+            <li><a href="/flask/">Flask</a></li>            
+            <li class="separator">Bases de Datos</li>
+            <li><a href="/sql/">SQL</a></li>
+            <li><a href="/mongodb/">MongoDB</a></li>
+            <li class="more-languages"><a href="/lenguajes/">Más Lenguajes →</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <a class="custom-link" href="/lista-de-correo/" title="Lista de Correo">Lista Correo</a>
       <a class="custom-link" href="/blog/" title="Blog de Línea de Código">Blog</a>
     </div>
   </nav>
@@ -56,5 +87,100 @@ import DefaultSocialIcons from "@astrojs/starlight/components/SocialIcons.astro"
       border: 0;
     }
   }
+
+  /* Dropdown styles */
+  .navbar {
+    position: relative;
+  }
+
+  .custom-links {
+    display: flex;
+    gap: 1rem;
+  }
+
+  .dropdown {
+    position: relative;
+  }
+
+  /* Capa emergente */
+  .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background:rgba(250, 251, 252, 0.9); /* gris muy claro con 95% de opacidad */
+    box-shadow: 0 4px 12px rgba(0,0,0,.15);
+    padding: 0.9rem;
+    border-radius: 6px;
+    min-width: 420px;
+    z-index: 1000;
+
+    /* Estado inicial (oculto) */
+    opacity: 0;
+    transform: translateY(6px);
+    pointer-events: none;
+    transition: opacity 0.18s ease-out, transform 0.18s ease-out;
+  }
+
+  @media (max-width: 767px) {
+  .dropdown-menu {
+      display: none !important; /* fuerza que nunca se muestre */
+      pointer-events: none;      /* evita clics accidentales */
+    }
+  }
+
+  /* Mostrar con animación al pasar el ratón */
+  .dropdown:hover .dropdown-menu {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+
+  /* Cuadrícula en 3 columnas */
+  .lenguajes-grid {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.2rem 0.4rem; /* separación compacta */
+  }
+
+  /* Enlaces dentro del menú */
+  .lenguajes-grid a {
+    text-decoration: none;
+    color: #222;
+    font-size: 0.95rem;
+    display: block;
+    padding: 1px 0;
+  }
+
+  .lenguajes-grid a:hover {
+    text-decoration: underline;
+  }
+
+  /* Separador "Frameworks" */
+  .separator {
+    grid-column: 1 / -1;
+    font-weight: 600;
+    margin-top: 0.5rem;
+  }
+
+  .more-languages {
+    grid-column: 1 / -1; /* ocupa toda la fila */
+    justify-self: end;   /* se empuja a la derecha */
+    margin-top: 0.5rem; /* un poquito de separación */
+  }
+
+  .more-languages a {
+    font-weight: 600;
+    color: #222;
+    text-decoration: none;
+  }
+
+  .more-languages a:hover {
+    text-decoration: underline;
+  }
+
+
 </style>
 
