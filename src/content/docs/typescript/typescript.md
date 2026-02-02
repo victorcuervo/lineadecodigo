@@ -10,7 +10,7 @@ type: category
 id: 2faa9dfb-adca-800f-8f96-f147e9640bff
 ---
 
-En el desarrollo web moderno, JavaScript se ha consolidado como uno de los lenguajes de programación más utilizados. Sin embargo, a medida que las aplicaciones crecen en tamaño y complejidad, surgen **desafíos relacionados con el mantenimiento, la escalabilidad y la detección de errores**.
+En el desarrollo web moderno, [JavaScript](https://lineadecodigo.com/javascript/) se ha consolidado como uno de los lenguajes de programación más utilizados. Sin embargo, a medida que las aplicaciones crecen en tamaño y complejidad, surgen **desafíos relacionados con el mantenimiento, la escalabilidad y la detección de errores**.
 
 
 Aquí es donde entra en juego **TypeScript**, un lenguaje que amplía las capacidades de [JavaScript](https://lineadecodigo.com/javascript/) añadiendo tipado estático y herramientas avanzadas para mejorar la calidad del código.
