@@ -7,7 +7,7 @@ import DefaultSocialIcons from "@astrojs/starlight/components/SocialIcons.astro"
   <nav aria-label="Navegación principal" class="navbar">
     <div class="custom-links">            
        <div class="dropdown">
-        <a class="custom-link" href="/lenguajes/" title="Lenguajes de programación">Lenguajes</a>
+        <a class="custom-link" href="/tecnologias/" title="Tecnologías de programación">Tecnologías</a>
         <div class="dropdown-menu">
           <ul class="lenguajes-grid">            
             <li class="separator">Lenguajes</li>
@@ -18,6 +18,7 @@ import DefaultSocialIcons from "@astrojs/starlight/components/SocialIcons.astro"
             <li><a href="/rust/">Rust</a></li>
             <li><a href="/dart/">Dart</a></li>            
             <li><a href="/dotnet/">.Net</a></li>
+            <li><a href="/typescript/">TypeScript</a></li>            
             <li class="separator">Web</li>
             <li><a href="/html/">HTML</a></li>            
             <li><a href="/css/">CSS</a></li>
@@ -81,13 +82,16 @@ import DefaultSocialIcons from "@astrojs/starlight/components/SocialIcons.astro"
     border-inline-end: 1px solid var(--sl-color-gray-5);
   }
 
+  /*
   @media (width < 800px) {
     .social-icons-hidden .custom-links::after {
       content: none;
       border: 0;
     }
   }
+    */
 
+  
   /* Dropdown styles */
   .navbar {
     position: relative;
