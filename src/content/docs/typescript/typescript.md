@@ -152,7 +152,7 @@ Muchas empresas buscan desarrolladores con conocimientos en **TypeScript**, espe
 Existen muchas herramientas que ayudan con el desarrollo en **TypeScript** incluyendo temas como autocompletado en editores de código, refactorización automática o detección temprana de errores.
 
 
-## **Primer código en Typescript**
+## Primer código en Typescript
 
 
 Si te quieres lanzar a desarrollar **Typescript** puedes ver que es muy sencillo tirar las primeras líneas de código:
@@ -173,22 +173,4 @@ tsc hola-mundo.ts
 
 
 Pero no te agobies, que tienes todo explicado paso a paso en el artículo [Hola Mundo en Typescript](https://lineadecodigo.comtypescript/basicos/hola-mundo-en-typescript/).
-
-
-## Categorías Typescript
-
-
-En **Typescript** podrás aprender a programar en los siguientes temas:
-
-
-a
-
-
-a
-
-
-b
-
-
-c
 
