@@ -39,20 +39,26 @@ const nombresSubcategorias = Object.keys(grupos).sort();
 ---
 
 <div class="article-list">
-<h2>Artículos en {titulo}</h2>
-{nombresSubcategorias.map(sub => (
-  <>
-    <h3>{sub.charAt(0).toUpperCase() + sub.slice(1)}</h3>
-    <ul>
-      {grupos[sub].map(doc => (
-        <li>
-          <a href={`/${doc.id}/`}>{doc.data.title}</a>
-        </li>
-      ))}
-    </ul>
-  </>
-))}
+  <h2>Artículos en {titulo}</h2>
+  <p>Puedes consultar todos los artículos de {titulo} que tenemos en Línea de Código.</p>
+  <div class="accordion-grid">  
+    {nombresSubcategorias.map(sub => (
+      <>
+        <div class="accordion">
+          <h3 class="accordion-header">{sub.charAt(0).toUpperCase() + sub.slice(1)}</h3>
+          <ul class="accordion-panel">
+            {grupos[sub].map(doc => (
+              <li>
+                <a href={`/${doc.id}/`}>{doc.data.title}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </>
+    ))}    
+  </div>
 </div>
+
 
 <style>
 .article-list ul li a,
@@ -63,4 +69,98 @@ const nombresSubcategorias = Object.keys(grupos).sort();
 .article-list a:hover {
   color: var(--sl-color-white);
 }
+
+/* ---- LAYOUT EN 2 COLUMNAS ---- */
+
+.accordion-grid {
+  display: grid;
+  grid-template-columns: 1fr; /* móvil por defecto */
+  gap: 20px;
+  max-width: 1100px;
+  margin-top: 1rem;
+}
+
+/* A partir de 768px: 2 columnas */
+@media (min-width: 768px) {
+  .accordion-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Cada bloque */
+.accordion {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 12px 14px;
+}
+
+/* ---- CABECERA ---- */
+.accordion-header {
+  cursor: pointer;
+  margin: 0;
+  padding-left: 32px; /* espacio para el círculo */
+  position: relative;
+  font-size: 1rem;
+}
+
+/* CÍRCULO CON + */
+.accordion-header::before {
+  content: "+";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: #000;        /* cambia por tu color corporativo */
+  color: #fff;             /* + en blanco */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+/* CÍRCULO CON − CUANDO ESTÁ ABIERTO */
+.accordion-header.open::before {
+  content: "−";
+}
+
+/* ---- PANEL (lista) ---- */
+.accordion-panel {
+  
+  padding-left: 32px;
+  margin: 8px 0 0;
+  
+  /* Para animación suave */
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.35s ease;
+}
+
+/* Cuando está abierto */
+.accordion-panel.open {
+  /* Se ajustará por JS */
+}
+
+
 </style>
+
+<script>
+document.querySelectorAll(".accordion-header").forEach(header => {
+  header.addEventListener("click", () => {
+    const panel = header.nextElementSibling;
+
+    header.classList.toggle("open");
+
+    if (panel.classList.contains("open")) {
+      panel.style.maxHeight = null;
+      panel.classList.remove("open");
+    } else {
+      panel.classList.add("open");
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    }
+  });
+});
+</script>
