@@ -6,6 +6,23 @@ export const typescript = {
     items: [
         {
         label: 'Básicos',
-        autogenerate: { directory: 'typescript' },
-        }],
+            autogenerate: { directory: 'typescript/básicos' },
+        },
+        {
+        label: 'Variables',
+            autogenerate: { directory: 'typescript/variables' },
+        },
+        {
+        label: 'Cadenas',
+            autogenerate: { directory: 'typescript/cadenas' },
+        },
+        {
+        label: 'Arrays',
+            autogenerate: { directory: 'typescript/arrays' },
+        },
+        {
+        label: 'Interfaces',
+            autogenerate: { directory: 'typescript/interfaces' },
+        },
+    ],
 };
