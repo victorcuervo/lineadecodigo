@@ -2,7 +2,7 @@
 title: "Abreviaturas con Bootstrap"
 description: "Descubre cómo manejar abreviaturas con Bootstrap y darles estilo usando la clase initialism para destacarlas en tu diseño web de manera efectiva."
 date: 2013-10-15
-updatedDate: 2026-02-02
+updatedDate: 2026-02-03
 tags: ["abbr"]
 slug: bootstrap/texto/abreviaturas-con-bootstrap
 author: victor_cuervo
@@ -36,13 +36,13 @@ Si queremos indicar la palabra que hemos abreviado podemos basarnos en el atribu
 ```
 
 
-Si solo utilizamos el [elemento ABBR](https://www.w3api.com/HTML/a/BBR), las abreviaturas con [Bootstrap](http://www.manualweb.net/bootstrap/) no tendrán una representación visual más allá que la que proporcione el navegador.
+Si solo utilizamos el elemento [`abbr`](https://www.w3api.com/HTML/abbr/), las abreviaturas con [Bootstrap](http://www.manualweb.net/bootstrap/) no tendrán una representación visual más allá que la que proporcione el navegador.
 
 
 ## Abreviaturas con estilo Bootstrap
 
 
-Podemos dar estilo a las abreviaturas con [Bootstrap](http://www.manualweb.net/bootstrap/) mediante la clase **"initialism"**, la cual podemos asignar al atributo class del [elemento ABBR](https://www.w3api.com/HTML/a/BBR).
+Podemos dar estilo a las abreviaturas con [Bootstrap](http://www.manualweb.net/bootstrap/) mediante la clase **"initialism"**, la cual podemos asignar al atributo class del elemento [`abbr`](https://www.w3api.com/HTML/abbr/).
 
 
 En este caso [Bootstrap](http://www.manualweb.net/bootstrap/) va a mostrarnos la abreviatura más compacta para que destaque del resto del texto en el que se encuentra y pueda darnos una pista de que representa a una abreviatura.

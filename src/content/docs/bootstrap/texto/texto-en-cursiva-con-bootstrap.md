@@ -2,7 +2,7 @@
 title: "Texto en cursiva con Bootstrap"
 description: "Descubre cómo poner texto en cursiva con Bootstrap utilizando el elemento EM para mejorar la presentación de tu contenido de manera sencilla y efectiva."
 date: 2013-10-11
-updatedDate: 2026-02-02
+updatedDate: 2026-02-03
 tags: ["cursiva","em"]
 slug: bootstrap/texto/texto-en-cursiva-con-bootstrap
 author: victor_cuervo
@@ -43,5 +43,5 @@ Vemos que la codificación en [Bootstrap](http://www.manualweb.net/bootstrap/) y
 ## El retorno del elemento I en HTML5
 
 
-En el caso del elemento `I` el lenguaje [HTML5](https://www.manualweb.net/html5/) también lo ha recuperado. En este caso el elemento `I` se deberá de utilizar para indicar términos técnicos, textos relacionados con expresiones de otro idioma,... lo que la [W3C](http://www.w3.org/) denomina como "voz alternativa" y casualmente su representación más utilizada será la cursiva o también llamada itálica.
+En el caso del elemento `I` el lenguaje [HTML5](https://www.manualweb.net/html5/) también lo ha recuperado. En este caso el elemento `I` se deberá de utilizar para indicar términos técnicos, textos relacionados con expresiones de otro idioma,... lo que la [W3C](https://www.w3.org/) denomina como "voz alternativa" y casualmente su representación más utilizada será la cursiva o también llamada itálica.
 

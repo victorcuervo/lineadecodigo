@@ -2,7 +2,7 @@
 title: "Listas sin estilo en Bootstrap"
 description: "Descubre cómo crear listas sin estilo en Bootstrap con la clase list-unstyled y mejora la presentación de tu contenido de forma sencilla y efectiva."
 date: 2015-07-27
-updatedDate: 2026-02-02
+updatedDate: 2026-02-03
 tags: ["ul","li","list-unstyled"]
 slug: bootstrap/listas/listas-sin-estilo-en-bootstrap
 author: victor_cuervo
@@ -37,7 +37,7 @@ Lo primero que hay que hacer para poder crear listas sin estilo en [Bootstrap](h
 Cada elemento de la lista está rodeado mediante [el elemento li](https://www.w3api.com/HTML/li/).
 
 
-Al crear este código veremos en [nuestra página web](http://www.unapaginaweb.org/) una lista donde cada elemento está precedido por un bullet (o punto negro).
+Al crear este código veremos en nuestra página web una lista donde cada elemento está precedido por un bullet (o punto negro).
 
 
 ## Aplicar la clase list-unstyled

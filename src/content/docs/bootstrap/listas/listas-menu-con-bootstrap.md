@@ -1,8 +1,8 @@
 ---
 title: "Listas menú con Bootstrap"
-description: "Creación de listas menú con Bootstrap utilizando el elemento ul de HTML y la clase \"list-inline\"."
+description: "Crea listas menú con Bootstrap de forma sencilla y efectiva. Aprende a aplicar la clase list-inline para mejorar la navegación en tu web."
 date: 2015-07-31
-updatedDate: 2026-02-02
+updatedDate: 2026-02-03
 tags: ["ul","li","class","list-inline"]
 slug: bootstrap/listas/listas-menu-con-bootstrap
 author: victor_cuervo
@@ -60,7 +60,7 @@ El resultado que obtendríamos en nuestra [página web](http://www.unapaginaweb.
 
 - Elemento 1 - Elemento 2 - Elemento 3 - ... - Elemento N
 
-Aunque las listas menú con Bootstrap son la base para construir los menús de nuestras [páginas web](http://www.unapaginaweb.org/) no hace falta que profundices sobre este elemento. Ya que [Bootstrap](http://www.manualweb.net/bootstrap/) nos ofrece otros elementos más avanzados para la gestión de menús como son los nav y navbar. Pero esto ya los veremos en otros ejemplos.
+Aunque las listas menú con Bootstrap son la base para construir los menús de nuestras páginas web no hace falta que profundices sobre este elemento. Ya que [Bootstrap](http://www.manualweb.net/bootstrap/) nos ofrece otros elementos más avanzados para la gestión de menús como son los nav y navbar. Pero esto ya los veremos en otros ejemplos.
 
 
 Espero que os haya gustado y os sea de utilidad el saber cómo crear listas menú con [Bootstrap](http://www.manualweb.net/bootstrap/).

@@ -2,7 +2,7 @@
 title: "Citas en Bootstrap"
 description: "Aprende a crear citas en Bootstrap de manera sencilla y estilizada. Mejora tu contenido con blockquotes y footers para una presentación profesional."
 date: 2015-06-23
-updatedDate: 2026-02-02
+updatedDate: 2026-02-03
 tags: ["blockquote","footer","cite"]
 slug: bootstrap/texto/citas-en-bootstrap
 author: victor_cuervo
@@ -11,10 +11,10 @@ id: 3e9537ea-edf5-4802-b3b5-582a137ab162
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/citas-bootstrap.html
 ---
 
-Ya vimos en un artículo como podemos poner una cita en [el lenguaje HTML](https://www.manualweb.net/html/) mediante [el elemento blockquote](https://www.w3api.com/HTML/b/LOCKQUOTE). Normalmente los navegadores interpretan este elemento como un bloque identado, el cual tiene una separación superior e inferior con los elementos que lo representan.
+Ya vimos en un artículo como podemos poner una cita en [el lenguaje HTML](https://www.manualweb.net/html/) mediante el elemento [`blockquote`](https://www.w3api.com/HTML/blockquote/). Normalmente los navegadores interpretan este elemento como un bloque identado, el cual tiene una separación superior e inferior con los elementos que lo representan.
 
 
-Es por ello por lo que se mal utilizó para ejecutar identaciones de información en las páginas web. Mediante [el framework Bootstrap](http://www.manualweb.net/bootstrap/) podemos dar un formato a las citas de una forma muy sencilla y utilizando el elemento blockquote.
+Es por ello por lo que se mal utilizó para ejecutar identaciones de información en las páginas web. Mediante [el framework Bootstrap](http://www.manualweb.net/bootstrap/) podemos dar un formato a las citas de una forma muy sencilla y utilizando el elemento [`blockquote`](https://www.w3api.com/HTML/blockquote/).
 
 
 ## Estructura básica de una cita
@@ -23,7 +23,7 @@ Es por ello por lo que se mal utilizó para ejecutar identaciones de informació
 Si seguimos una serie de estructuras podremos ver que las citas en [Bootstrap](http://www.manualweb.net/bootstrap/) se representan con estilos asociados. Lo primero será poner una cita. Vamos a utilizar [una cita de Groucho Marx](http://www.victorcuervo.com/2007/12/14/no-tengo-respuestas-para-casi-nada/).
 
 
-Simplemente tendremos que poner el texto de la cita entre [el elemento blockquote](https://www.w3api.com/HTML/b/LOCKQUOTE):
+Simplemente tendremos que poner el texto de la cita entre el elemento [`blockquote`](https://www.w3api.com/HTML/blockquote/):
 
 
 ```html
@@ -33,13 +33,13 @@ Simplemente tendremos que poner el texto de la cita entre [el elemento blockquot
 ```
 
 
-Es importante destacar que el texto de la cita está dentro del [elemento blockquote](https://www.w3api.com/HTML/b/LOCKQUOTE), pero que de igual forma lo hemos recubierto de un elemento párrafo. Visualmente veremos que el texto aparece con una identación, cambio de tipografía y la fuente es ligeramente distinta a la del texto normal.
+Es importante destacar que el texto de la cita está dentro del elemento [`blockquote`](https://www.w3api.com/HTML/blockquote/), pero que de igual forma lo hemos recubierto de un elemento párrafo. Visualmente veremos que el texto aparece con una identación, cambio de tipografía y la fuente es ligeramente distinta a la del texto normal.
 
 
 ## Añadir el autor de la cita
 
 
-Ahora pondremos el autor de la cita. El autor irá en un siguiente bloque dentro del [blockquote](https://www.w3api.com/HTML/b/LOCKQUOTE), pero recubierto de un elemento footer:
+Ahora pondremos el autor de la cita. El autor irá en un siguiente bloque dentro del [`blockquote`](https://www.w3api.com/HTML/blockquote/), pero recubierto de un elemento footer:
 
 
 ```html
@@ -56,7 +56,7 @@ En este caso la cita en [Bootstrap](http://www.manualweb.net/bootstrap/) nos mos
 ## Alinear la cita a la derecha
 
 
-Otra cosa que podemos hacer a la hora de crear una cita en [Bootstrap](http://www.manualweb.net/bootstrap/) es alinear la cita a la derecha. Para ello deberemos de utilizar la clase `blockquote-reverse` la cual aplicaremos al [elemento blockquote](https://www.w3api.com/HTML/b/LOCKQUOTE):
+Otra cosa que podemos hacer a la hora de crear una cita en [Bootstrap](http://www.manualweb.net/bootstrap/) es alinear la cita a la derecha. Para ello deberemos de utilizar la clase `blockquote-reverse` la cual aplicaremos al elemento [`blockquote`](https://www.w3api.com/HTML/blockquote/):
 
 
 ```html

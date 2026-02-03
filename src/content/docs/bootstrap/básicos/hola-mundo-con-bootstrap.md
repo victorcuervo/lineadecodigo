@@ -2,7 +2,7 @@
 title: "Hola Mundo con Bootstrap"
 description: "Aprende a crear tu primera aplicación Hola Mundo con Bootstrap y descubre cómo este framework facilita el desarrollo responsive en tus proyectos."
 date: 2013-09-23
-updatedDate: 2026-02-02
+updatedDate: 2026-02-03
 tags: ["Bootstrap Básico","Hola Mundo"]
 slug: bootstrap/basicos/hola-mundo-con-bootstrap
 author: victor_cuervo
@@ -37,10 +37,10 @@ Algunas de las características que podemos encontrar en Bootstrap son:
 Para desarrollar nuestra aplicación Hola Mundo con Bootstrap lo primero que tenemos que hacer es [descargarnos el framework](http://getbootstrap.com/getting-started/#download). Lo bueno de [Bootstrap es que podemos configurarnos que queremos descargarnos](http://getbootstrap.com/customize/).
 
 
-> A día de hoy, septiembre 2013, tenemos disponible la versión del framework [Bootstrap 3.0](http://getbootstrap.com/getting-started/#download)
+> A día de hoy, febrero 2025, tenemos disponible la versión del framework [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/download/)
 
 
-Existe una alternativa si no quieres descargarte el framework de Bootstrap que es utilizarlo directamente desde los CDN en [https://www.bootstrapcdn.com/](https://www.bootstrapcdn.com/)
+Existe una alternativa si no quieres descargarte el framework de Bootstrap que es utilizarlo directamente desde los [CDN que nos proporciona Bootstrap](https://www.bootstrapcdn.com/). 
 
 
 ## Archivos de Bootstrap
