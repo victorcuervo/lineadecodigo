@@ -300,6 +300,7 @@ async function resolveSyncedBlocks(mdblocks) {
 			// Ensure images directory exists
 			fs.mkdirSync(imageDir, { recursive: true });
 
+			console.log('Downloading image:', imageUrl);
 			// Download image
 			const res = await fetch(imageUrl);		
 			if (res.ok) {
