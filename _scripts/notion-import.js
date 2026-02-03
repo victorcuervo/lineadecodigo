@@ -89,28 +89,28 @@ async function resolveSyncedBlocks(mdblocks) {
 
 	
 	const databaseId = process.env.DATABASE_ID;
-	// TODO has_more
-	const response = await notion.databases.query({
-		database_id: databaseId,
-		filter: {
-			and: [
-				{
-					property: "Status",
-					status: {
-						equals: "Published"
-					}
-				},
-				{
-					property: "Updated Date",
-					date: {
-						equals: moment().format("YYYY-MM-DD")
-					}
-				}
-			]
-		}
-	})
+	let allResults = [];
+	let hasMore = true;
+	let startCursor = undefined;
 
-	for (const r of response.results) {
+	while (hasMore) {
+		const response = await notion.databases.query({
+			database_id: databaseId,
+			start_cursor: startCursor,
+			filter: {
+				property: "Status",
+				status: {
+					equals: "Published"
+				}
+			}
+		})
+
+		allResults.push(...response.results);
+		hasMore = response.has_more;
+		startCursor = response.next_cursor;
+	}
+
+	for (const r of allResults) {
 		const id = r.id
 
 		// Type
