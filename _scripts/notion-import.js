@@ -246,6 +246,7 @@ async function resolveSyncedBlocks(mdblocks) {
 			`slug: ${ruta}`,
 			`author: ${author}`,
 			`type: ${type}`,
+			`topic: ${cat.toLowerCase()}`,
 			`id: ${id}`
 		]
 
