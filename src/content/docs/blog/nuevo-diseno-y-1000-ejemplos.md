@@ -7,6 +7,7 @@ tags: ["diseño"]
 slug: blog/nuevo-diseno-y-1000-ejemplos
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-81a4-a453-fc9fbdd38ebf
 ---
 

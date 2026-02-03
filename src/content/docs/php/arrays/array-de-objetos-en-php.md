@@ -7,6 +7,7 @@ tags: ["array","objeto","clase","class","function","metodo","foreach"]
 slug: php/arrays/array-de-objetos-en-php
 author: victor_cuervo
 type: doc
+topic: php
 id: 948512d9-4337-48b1-9d04-e90a27dcd647
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/arrays/arrays-objetos.php
 ---

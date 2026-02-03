@@ -7,6 +7,7 @@ tags: ["string","touppercase","tochararray"]
 slug: java/strings/string-primera-letra-de-cada-palabra-en-mayuscula
 author: Feffo
 type: doc
+topic: java
 id: 2771a6e7-10a3-4dbe-ab01-8270982d48ee
 download: http://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_java/src/com/lineadecodigo/java/string/PrimeraMayuscula.java
 ---

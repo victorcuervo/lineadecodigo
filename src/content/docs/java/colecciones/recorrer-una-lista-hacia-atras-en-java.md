@@ -7,6 +7,7 @@ tags: ["listiterator","previous","hasprevious","list","size","java-util"]
 slug: java/colecciones/recorrer-una-lista-hacia-atras-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 4bdbf367-d9f5-4166-af1d-0ec9acb52cb2
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/RecorrerListaHaciaAtras.java
 ---

@@ -7,6 +7,7 @@ tags: ["date","tolocaledatestring","bcp47","utc","intl","dateformat"]
 slug: javascript/i18n/fechas-en-formato-local-con-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: d613b0ef-af1a-43dc-ab6d-d5594c34b75c
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/fechas/formato-fecha-locale.js
 ---

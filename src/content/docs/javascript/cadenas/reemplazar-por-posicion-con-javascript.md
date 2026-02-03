@@ -7,6 +7,7 @@ tags: ["string","replaceat","substr"]
 slug: javascript/cadenas/reemplazar-por-posicion-con-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: db3d9734-b8be-4818-8a35-e1ae62eed657
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/cadenas/reemplazar-caracter.js
 ---

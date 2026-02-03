@@ -7,6 +7,7 @@ tags: ["ul","listas","li"]
 slug: html/listas/listas-desordenadas-en-html
 author: victor_cuervo
 type: doc
+topic: html
 id: 1c0173a2-6571-4bbd-8ed0-6b9a86c49b8a
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/listas/lista-desordenada.html
 ---

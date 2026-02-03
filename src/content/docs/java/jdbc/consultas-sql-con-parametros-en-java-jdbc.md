@@ -7,6 +7,7 @@ tags: ["jdbc","preparedstatement","select"]
 slug: java/jdbc/consultas-sql-con-parametros-en-java-jdbc
 author: Víctor Cuervo
 type: doc
+topic: java
 id: 0a44055e-a1a1-409a-a7e4-774749bf47ad
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/SentenciasConValores.java
 ---

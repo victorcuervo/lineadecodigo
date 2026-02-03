@@ -7,6 +7,7 @@ tags: ["video","volume","source","range","onvolumenchange"]
 slug: html5/video/cambios-de-volumen-en-videos-html5
 author: victor_cuervo
 type: doc
+topic: html5
 id: 5c38667e-2916-4f7d-a264-68f87e801051
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/cambio-sonido-video.html
 ---

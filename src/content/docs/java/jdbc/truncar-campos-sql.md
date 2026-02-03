@@ -7,6 +7,7 @@ tags: ["jdbc","connection","resultset","statement","executequery","executeupdate
 slug: java/jdbc/truncar-campos-sql
 author: victor_cuervo
 type: doc
+topic: java
 id: 2b467955-d95b-44e4-970e-e7f4a71008ee
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/TruncarCampos.java
 ---

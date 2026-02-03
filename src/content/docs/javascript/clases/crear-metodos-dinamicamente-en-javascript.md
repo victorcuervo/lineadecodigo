@@ -7,6 +7,7 @@ tags: ["prototype","clase","metodo","objeto","function"]
 slug: javascript/clases/crear-metodos-dinamicamente-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: efe8917b-fddb-48fe-8763-144ed4186d71
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/crear-metodos-dinamicamente.js
 ---

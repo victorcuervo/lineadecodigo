@@ -7,6 +7,7 @@ tags: ["eventos"]
 slug: blog/dia-w3c-en-espana-2007
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-819b-8d69-de8006ad4950
 ---
 

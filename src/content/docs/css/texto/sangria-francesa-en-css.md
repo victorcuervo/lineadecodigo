@@ -7,6 +7,7 @@ tags: ["padding-left","text-indent","position","sangria"]
 slug: css/texto/sangria-francesa-en-css
 author: victor_cuervo
 type: doc
+topic: css
 id: f3dd3663-c1cf-4193-9143-ab0057cab5fa
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/sangria-francesa.html
 ---

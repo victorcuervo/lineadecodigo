@@ -7,6 +7,7 @@ tags: ["mark"]
 slug: bootstrap/texto/texto-marcado-en-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: 2c8a9dfb-adca-81a2-b059-df1662c87be4
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/texto-marcado.html
 ---

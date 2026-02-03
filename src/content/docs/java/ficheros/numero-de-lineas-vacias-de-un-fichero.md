@@ -7,6 +7,7 @@ tags: ["bufferedreader","filereader","ioexception","filenotfoundexception","read
 slug: java/ficheros/numero-de-lineas-vacias-de-un-fichero
 author: victor_cuervo
 type: doc
+topic: java
 id: 302865a9-1cca-4368-9a6b-f98758104b05
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/NumeroDeFilasVacias.java
 ---

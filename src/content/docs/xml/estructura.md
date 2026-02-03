@@ -7,6 +7,7 @@ tags: []
 slug: xml/estructura
 author: victor_cuervo
 type: category
+topic: xml
 id: 2f2a9dfb-adca-8042-bb24-ec01eaef029b
 ---
 

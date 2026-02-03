@@ -7,6 +7,7 @@ tags: ["string","bucles","for-each","charat","length"]
 slug: java/bucles/contar-las-vocales-de-una-palabra-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 77288535-b7e3-457e-8cfc-28cf76ff0148
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/VocalesPalabra.java
 ---

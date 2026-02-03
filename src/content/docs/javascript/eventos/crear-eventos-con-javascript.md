@@ -7,6 +7,7 @@ tags: ["onclick","getelementbyid","getelementsbytagname","addeventlistener","att
 slug: javascript/eventos/crear-eventos-con-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 1eb8ccc0-0de2-44c5-8a6b-e50c5d442639
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/eventos/add-eventos-javascript.html
 ---

@@ -7,6 +7,7 @@ tags: ["onmousedown","event","button"]
 slug: javascript/eventos/usar-javascript-para-saber-que-boton-del-raton-fue-pulsado
 author: victor_cuervo
 type: doc
+topic: javascript
 id: ddd9a5da-8db1-4bf9-80d3-e897af5c17f6
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/eventos/detectar-que-boton-fue-pulsado.html
 ---

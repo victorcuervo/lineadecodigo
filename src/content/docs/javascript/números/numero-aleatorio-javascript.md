@@ -7,6 +7,7 @@ tags: ["math","random","parseint"]
 slug: javascript/numeros/numero-aleatorio-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 1c3b3edb-580a-4d10-ae14-2a53407596b5
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/matematicas/formulas.js
 ---

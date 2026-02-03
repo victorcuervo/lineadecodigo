@@ -7,6 +7,7 @@ tags: ["canvas","getelementbyid","getcontext","fillrect"]
 slug: html/graficos/dibujar-un-rectangulo-en-un-canvas-con-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 2b2eb587-8fca-4864-a6da-2f59d413d724
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas/dibujar-rectangulo.html
 ---

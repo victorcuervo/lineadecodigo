@@ -7,6 +7,7 @@ tags: ["java-collection","arraylist","iterator","removeif","predicate","lambda"]
 slug: java/lambda/eliminar-numeros-pares-con-lambda
 author: victor_cuervo
 type: doc
+topic: java
 id: 72db9d37-ca1d-4b14-b0e2-f84deff53568
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/EliminarElementosParesPredicado.java
 ---

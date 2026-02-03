@@ -7,6 +7,7 @@ tags: ["date","calendar","switch","fechas","month"]
 slug: java/estructuras-selectivas/convertir-un-mes-en-texto-con-java
 author: xhrist14n
 type: doc
+topic: java
 id: 3e648df0-f2a1-4344-8b73-1c9149dab44b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/MesEnTexto.java
 ---

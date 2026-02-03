@@ -7,6 +7,7 @@ tags: ["route","url_for","redirect"]
 slug: python/redirect-en-flask
 author: victor_cuervo
 type: doc
+topic: python
 id: e84470f9-0991-4da2-a64b-8d372bc8a8ea
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/redirect.py
 ---

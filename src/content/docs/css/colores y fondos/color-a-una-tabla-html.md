@@ -7,6 +7,7 @@ tags: ["table","td","background-color","color"]
 slug: css/colores-y-fondos/color-a-una-tabla-html
 author: victor_cuervo
 type: doc
+topic: css
 id: 63a0f3fe-1d8f-48ad-89b2-5f90b9a6bc9a
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-color.html
 ---

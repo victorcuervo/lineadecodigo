@@ -7,6 +7,7 @@ tags: ["split","strip","for-in","print"]
 slug: python/cadenas/dividir-una-cadena-en-python
 author: victor_cuervo
 type: doc
+topic: python
 id: 92707703-5280-4427-b9a4-8cffbf072864
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/dividir-cadena-comas.py
 ---

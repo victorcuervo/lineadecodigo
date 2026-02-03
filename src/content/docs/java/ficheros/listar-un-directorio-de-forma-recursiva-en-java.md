@@ -7,6 +7,7 @@ tags: ["recursividad","file","isdirectory","getname"]
 slug: java/ficheros/listar-un-directorio-de-forma-recursiva-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 5aea0f07-bb10-46eb-962d-1839e9e220f5
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/ListarDirectorioRecursivamente.java
 ---

@@ -7,6 +7,7 @@ tags: ["utf8","iso","encoding","ficheros","file","java-io","bufferedreader","buf
 slug: java/ficheros/convertir-un-fichero-iso-en-utf-8
 author: victor_cuervo
 type: doc
+topic: java
 id: ebe50349-2896-45f1-8c71-e7ae237b016c
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/encoding/ConvertirISO1aUTF8.java
 ---

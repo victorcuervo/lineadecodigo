@@ -7,6 +7,7 @@ tags: ["string","replaceall"]
 slug: java/strings/string-quitar-saltos-de-linea-de-un-texto-con-java
 author: Feffo
 type: doc
+topic: java
 id: d85c8e17-2ded-4245-863e-d2c4bfcc4b30
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ReemplazarSaltosDeLinea.java
 ---

@@ -7,6 +7,7 @@ tags: ["fill","stroke","stroke-width","triangulo","polygon"]
 slug: svg/figuras/dibujando-un-poligono-triangulo
 author: victor_cuervo
 type: doc
+topic: svg
 id: 2c8a9dfb-adca-8123-a9b9-c09c8f783dc7
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/figuras/dibujar-un-poligono-triangulo.svg
 ---

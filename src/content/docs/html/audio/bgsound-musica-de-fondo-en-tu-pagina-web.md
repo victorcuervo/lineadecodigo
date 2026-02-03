@@ -7,6 +7,7 @@ tags: ["bgsound"]
 slug: html/audio/bgsound-musica-de-fondo-en-tu-pagina-web
 author: victor_cuervo
 type: doc
+topic: html
 id: 0d3782f0-00ea-4829-80eb-7cc3bb4dd929
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/video-y-sonido/bgsound-musica-de-fondo.html
 ---

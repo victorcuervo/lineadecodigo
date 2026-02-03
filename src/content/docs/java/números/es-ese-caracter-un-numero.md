@@ -7,6 +7,7 @@ tags: ["character","isdigit"]
 slug: java/numeros/es-ese-caracter-un-numero
 author: victor_cuervo
 type: doc
+topic: java
 id: 0f97c082-9cff-4d36-95e4-27967756ef4a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/EsUnDigito.java
 ---

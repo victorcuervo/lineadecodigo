@@ -7,6 +7,7 @@ tags: ["array","java-collection","arraylist","list","toarray"]
 slug: java/colecciones/convertir-una-lista-en-un-array
 author: victor_cuervo
 type: doc
+topic: java
 id: 1a032be3-0693-4083-8e09-e5d378cfe7c6
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/List2Array.java
 ---

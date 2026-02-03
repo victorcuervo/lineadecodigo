@@ -7,6 +7,7 @@ tags: ["jdbc","connection","sqlexception","statement","create","table","driverma
 slug: java/jdbc/crear-una-base-de-datos-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: de2ac572-40d9-4365-8e16-0626957d342b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/CrearBaseDeDatos.java
 ---

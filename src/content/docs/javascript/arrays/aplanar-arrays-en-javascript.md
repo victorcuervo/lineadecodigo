@@ -7,6 +7,7 @@ tags: ["array","flat","polyfill","multidimensional"]
 slug: javascript/arrays/aplanar-arrays-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 9f3e14e2-e753-4ac4-9cb3-dcdc0895bd3c
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/aplanar-array.js
 ---

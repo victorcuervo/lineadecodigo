@@ -7,6 +7,7 @@ tags: ["circle","fill","line","opacity"]
 slug: svg/transparencia/transparencia-y-opacidad-en-svg
 author: victor_cuervo
 type: doc
+topic: svg
 id: 9408ca54-b9aa-4811-94be-ea7a0ecb7352
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/transparencias/transparencia-opacidad.svg
 ---

@@ -7,6 +7,7 @@ tags: ["document","designmode"]
 slug: html/documento/crear-un-documento-editable-con-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 2c8a9dfb-adca-8137-bc74-ea860f9cf6f1
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/documento-editable.html
 ---

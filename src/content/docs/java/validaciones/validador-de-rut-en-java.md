@@ -7,6 +7,7 @@ tags: ["operadores","integer","modulo","valueof","equals","rut"]
 slug: java/validaciones/validador-de-rut-en-java
 author: Pablo Ruiz
 type: doc
+topic: java
 id: 497f6d78-e7ae-4081-9e07-3e97e3bb4e3a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/validadores/ValidadorDeRut.java
 ---

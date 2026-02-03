@@ -7,6 +7,7 @@ tags: ["queryselector","getelementbyid","innerhtml","selector"]
 slug: dom/elementos/api-queryselector
 author: victor_cuervo
 type: doc
+topic: dom
 id: 2c8a9dfb-adca-8114-b13d-fc72157faf3d
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/selectores/queryselector.html
 ---

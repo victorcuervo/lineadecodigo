@@ -7,6 +7,7 @@ tags: ["comparator","max","min","hashset","set","integer","java-collection"]
 slug: java/colecciones/maximo-y-minimo-numero-de-un-conjunto
 author: victor_cuervo
 type: doc
+topic: java
 id: 600715ce-eecf-4a74-aa6e-8c32c8923a69
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/MaximoMinimoConjunto.java
 ---

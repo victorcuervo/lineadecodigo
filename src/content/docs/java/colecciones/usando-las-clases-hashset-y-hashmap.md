@@ -7,6 +7,7 @@ tags: ["java-collection","hashmap","hashset","hashcode"]
 slug: java/colecciones/usando-las-clases-hashset-y-hashmap
 author: Emmanuel Ramos
 type: doc
+topic: java
 id: 9fee3794-6de9-4aeb-8b8c-1ed47b5683c2
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/Alumnos.java
 ---

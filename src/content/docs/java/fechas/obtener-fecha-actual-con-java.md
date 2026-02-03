@@ -7,6 +7,7 @@ tags: ["fechas","calendar","date","gregoriancalendar","integer"]
 slug: java/fechas/obtener-fecha-actual-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 2483421e-cb21-4861-b5bf-3a8f9074314f
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/dates/ObtenerFecha.java
 ---

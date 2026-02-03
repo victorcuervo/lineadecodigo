@@ -7,6 +7,7 @@ tags: ["eventos"]
 slug: blog/svg-open-2007
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-8156-8824-f2a5ab776104
 ---
 

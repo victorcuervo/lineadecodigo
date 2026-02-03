@@ -7,6 +7,7 @@ tags: []
 slug: html5/tablas
 author: victor_cuervo
 type: doc
+topic: html5
 id: 2eca9dfb-adca-80c6-88f9-dca36e9707ed
 ---
 

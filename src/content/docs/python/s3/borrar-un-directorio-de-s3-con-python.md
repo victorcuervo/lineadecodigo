@@ -7,6 +7,7 @@ tags: ["directorio","fichero","borrar","delete","tinys3"]
 slug: python/s3/borrar-un-directorio-de-s3-con-python
 author: victor_cuervo
 type: doc
+topic: python
 id: 2c8a9dfb-adca-8153-891e-e6dcc7417aa1
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/tinys3/borrar_directorio_s3.py
 ---

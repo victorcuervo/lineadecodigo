@@ -7,6 +7,7 @@ tags: ["canvas","getelementbyid","modernizr"]
 slug: html/graficos/detectar-el-soporte-del-canvas-de-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 2c8a9dfb-adca-81ee-a666-fd89de9d7bd3
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas/comprobar-soporte-canvas.html
 ---

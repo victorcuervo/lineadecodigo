@@ -7,6 +7,7 @@ tags: ["abortsignal","abortcontroller","addeventlistener","abort","preventdefaul
 slug: dom/eventos/abortar-eventos-con-senales
 author: victor_cuervo
 type: doc
+topic: dom
 id: 011cf2df-7f80-4618-a026-ae7efa8b8620
 download: https://github.com/victorcuervo/lineadecodigo_dom/blob/main/eventos/abortat-evento.html
 ---

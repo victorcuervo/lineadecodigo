@@ -7,6 +7,7 @@ tags: ["cursiva","em"]
 slug: bootstrap/texto/texto-en-cursiva-con-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: d56d6822-98a4-4743-bf5d-eaa710537daf
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/texto-cursiva.html
 ---

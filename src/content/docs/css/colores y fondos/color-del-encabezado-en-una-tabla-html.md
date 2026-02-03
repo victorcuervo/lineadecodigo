@@ -7,6 +7,7 @@ tags: ["table","td","color","background-color","first-child","thead"]
 slug: css/colores-y-fondos/color-del-encabezado-en-una-tabla-html
 author: victor_cuervo
 type: doc
+topic: css
 id: bb0300dd-2cac-447b-9b1f-fbed9d019555
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-color-cabecera.html
 ---

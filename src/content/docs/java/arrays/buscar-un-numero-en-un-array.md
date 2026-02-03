@@ -7,6 +7,7 @@ tags: ["contains","array","list","aslist","java-collection"]
 slug: java/arrays/buscar-un-numero-en-un-array
 author: victor_cuervo
 type: doc
+topic: java
 id: 39271adf-ecbf-49da-83fa-0ae2c4b72119
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/BuscarNumeroEnArray.java
 ---

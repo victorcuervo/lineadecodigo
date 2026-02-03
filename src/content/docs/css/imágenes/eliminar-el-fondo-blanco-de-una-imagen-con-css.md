@@ -7,6 +7,7 @@ tags: ["background-color","filter","brightness","mix-blend-mode"]
 slug: css/imagenes/eliminar-el-fondo-blanco-de-una-imagen-con-css
 author: victor_cuervo
 type: doc
+topic: css
 id: a48842b8-659b-4be4-9e81-2fb393efd5e2
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/imagenes/fondo-blanco-transparente.html
 ---

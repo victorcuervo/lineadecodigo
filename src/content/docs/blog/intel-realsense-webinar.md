@@ -7,6 +7,7 @@ tags: ["eventos"]
 slug: blog/intel-realsense-webinar
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-811b-bd1b-c042de557780
 ---
 

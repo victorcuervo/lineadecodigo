@@ -7,6 +7,7 @@ tags: ["table","caption","caption-side"]
 slug: css/texto/titulo-tabla-html-inferior
 author: victor_cuervo
 type: doc
+topic: css
 id: 4de88fed-9b15-4f65-b0cd-16f98b23aae6
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/titulo-tabla-inferior.html
 ---

@@ -7,6 +7,7 @@ tags: ["remove","rmdir","exists","listdir","join","os","path"]
 slug: python/ficheros/borrar-una-carpeta-en-python
 author: victor_cuervo
 type: doc
+topic: python
 id: 27f55cb7-d9cc-43df-8dcc-f1921d8d6bfd
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/borrar-carpeta.py
 ---

@@ -7,6 +7,7 @@ tags: ["numero-feliz","hashset","set","math","pow","java-collection"]
 slug: java/numeros/calcular-el-numero-feliz-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 572d8b8c-61d5-40d3-b72e-3707547f0b0f
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/NumeroFeliz.java
 ---

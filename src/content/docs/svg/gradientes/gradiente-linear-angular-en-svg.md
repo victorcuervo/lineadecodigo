@@ -7,6 +7,7 @@ tags: ["gradiente","lineargradient","offset","stop","vector"]
 slug: svg/gradientes/gradiente-linear-angular-en-svg
 author: victor_cuervo
 type: doc
+topic: svg
 id: 2c8a9dfb-adca-8104-ab5c-dd204ae6d0ea
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/gradientes/gradiente-lineal-angular.svg
 ---

@@ -7,6 +7,7 @@ tags: ["video"]
 slug: blog/video-recorrer-un-array-en-java
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-8102-b684-ebddd3e12943
 ---
 

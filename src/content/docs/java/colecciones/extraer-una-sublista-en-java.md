@@ -7,6 +7,7 @@ tags: ["java-collection","list","arraylist","sublist","iterator","size"]
 slug: java/colecciones/extraer-una-sublista-en-java
 author: Víctor Cuervo
 type: doc
+topic: java
 id: eced210b-fe0f-46f0-89bc-085be10cddea
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/ExtraerSublista.java
 ---

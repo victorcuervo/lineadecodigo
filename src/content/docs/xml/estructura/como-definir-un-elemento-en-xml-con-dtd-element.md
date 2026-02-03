@@ -7,6 +7,7 @@ tags: ["dtd","element","pcdata"]
 slug: xml/estructura/como-definir-un-elemento-en-xml-con-dtd-element
 author: xhrist14n
 type: doc
+topic: xml
 id: 2c8a9dfb-adca-815f-b79e-ca6a32132b87
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/basicos/dtdelement/mensaje.dtd
 ---

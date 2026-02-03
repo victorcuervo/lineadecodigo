@@ -7,6 +7,7 @@ tags: ["form","input","autocapitalize"]
 slug: html/formularios/configurar-teclados-para-la-entrada-de-datos-en-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 0465d2b7-9e51-4230-a3cf-2efabc55d41b
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/autocapitalize.html
 ---

@@ -7,6 +7,7 @@ tags: ["count","find","database"]
 slug: mongodb/consultas/total-de-registros-con-mongodb-count
 author: victor_cuervo
 type: doc
+topic: mongodb
 id: b1c35657-d58b-4bfd-b529-c199e11fd19e
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/count.js
 ---

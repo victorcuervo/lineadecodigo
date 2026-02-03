@@ -7,6 +7,7 @@ tags: ["eventtarget","addeventlistener","arrow"]
 slug: dom/eventos/listener-con-una-funcion-arrow
 author: victor_cuervo
 type: doc
+topic: dom
 id: 258efb6d-b2df-45e0-957a-7d31b644f64c
 download: https://github.com/victorcuervo/lineadecodigo_dom/blob/main/eventos/escuchar-evento-arrow.html
 ---

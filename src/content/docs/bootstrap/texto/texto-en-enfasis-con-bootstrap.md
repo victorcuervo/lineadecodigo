@@ -7,6 +7,7 @@ tags: ["class","text-muted","text-primary","text-success","text-info","text-warn
 slug: bootstrap/texto/texto-en-enfasis-con-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: 24e48532-09b7-406b-b68c-eea9c2152ed5
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/texto-en-enfasis.html
 ---

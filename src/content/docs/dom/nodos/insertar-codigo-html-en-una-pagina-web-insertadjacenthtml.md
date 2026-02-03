@@ -7,6 +7,7 @@ tags: ["getelementbyid","innerhtml","insertadjacenthtml"]
 slug: dom/nodos/insertar-codigo-html-en-una-pagina-web-insertadjacenthtml
 author: victor_cuervo
 type: doc
+topic: dom
 id: de72a4a3-f79f-48a1-a3ac-909add0653a4
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/dom/inyectar-html.html
 ---

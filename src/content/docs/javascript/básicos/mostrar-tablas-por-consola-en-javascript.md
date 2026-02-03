@@ -7,6 +7,7 @@ tags: ["console","console-table"]
 slug: javascript/basicos/mostrar-tablas-por-consola-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 65ee0f8a-d96c-439a-94b1-8d3fe553a7e9
 ---
 

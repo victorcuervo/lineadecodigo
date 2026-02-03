@@ -7,6 +7,7 @@ tags: ["java-collection","arraylist"]
 slug: java/colecciones/buscar-la-ultima-posicion-de-elemento-en-un-arraylist
 author: victor_cuervo
 type: doc
+topic: java
 id: 95fceece-0643-49e9-8459-313a1cbaf8ac
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/BuscarUltimoElementoArrayList.java
 ---

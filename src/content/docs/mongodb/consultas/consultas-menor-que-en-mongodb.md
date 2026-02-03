@@ -7,6 +7,7 @@ tags: ["find","lt","lte","cursor"]
 slug: mongodb/consultas/consultas-menor-que-en-mongodb
 author: victor_cuervo
 type: doc
+topic: mongodb
 id: 257187f7-4e41-4048-8bf6-a52b5d248579
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/menorque.js
 ---

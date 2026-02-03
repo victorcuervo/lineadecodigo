@@ -7,6 +7,7 @@ tags: ["audio","controls","ended"]
 slug: html5/audio/fin-del-audio-en-html5
 author: victor_cuervo
 type: doc
+topic: html5
 id: 0f1581b9-5ee0-461c-b7bd-ec73840330d6
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Audio/fin-musica.html
 ---

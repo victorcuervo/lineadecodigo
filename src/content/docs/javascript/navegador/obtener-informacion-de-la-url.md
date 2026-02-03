@@ -7,6 +7,7 @@ tags: ["document","location","url"]
 slug: javascript/navegador/obtener-informacion-de-la-url
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 01304ead-3f56-4df5-9671-e442ae01a520
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/obtener-informacion-de-la-url.html
 ---

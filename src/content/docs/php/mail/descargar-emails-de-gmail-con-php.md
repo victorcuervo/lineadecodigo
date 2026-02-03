@@ -7,6 +7,7 @@ tags: ["descargar","email","gmail","imap","imap_close","imap_fetch_overview","im
 slug: php/mail/descargar-emails-de-gmail-con-php
 author: victor_cuervo
 type: doc
+topic: php
 id: fa0787cd-fce6-4841-8ad1-549ddd602e61
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/email/descagar-email-de-gmail.php
 ---

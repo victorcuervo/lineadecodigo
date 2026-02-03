@@ -7,6 +7,7 @@ tags: ["metodo","parametros","bucles","for"]
 slug: java/clases/parametros-variables-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: cef76b1b-e24b-428d-a4ef-f3d1db64ba35
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ParametrosVariables.java
 ---

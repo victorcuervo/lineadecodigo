@@ -7,6 +7,7 @@ tags: ["promise","resolve","reject","then"]
 slug: javascript/promesas/crear-promesa-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 8b489b25-7f9b-47d9-aea0-c8f6904d1806
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/promesas/crear-promesa.js
 ---

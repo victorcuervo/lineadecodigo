@@ -7,6 +7,7 @@ tags: ["menciones"]
 slug: blog/linea-de-codigo-un-poquito-mas-util
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-815e-bb69-fbc96e81e1b7
 ---
 

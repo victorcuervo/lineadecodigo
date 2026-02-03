@@ -7,6 +7,7 @@ tags: ["math","funciones","bucles","for"]
 slug: javascript/numeros/numeros-primos-del-1-al-100-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 669d7dd9-36a3-4b6c-92cf-5a1f88f8b6f3
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/matematicas/esPrimo.js
 ---

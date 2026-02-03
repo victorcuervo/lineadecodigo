@@ -7,6 +7,7 @@ tags: ["bucles","java-collection","list","listiterator","for-each","array"]
 slug: java/bucles/bucle-for-each-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 8fc99858-b680-408a-8b69-99a2954d9b5a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ForEach.java
 ---

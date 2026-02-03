@@ -7,6 +7,7 @@ tags: []
 slug: css/buenas-practicas
 author: victor_cuervo
 type: category
+topic: css
 id: 2eba9dfb-adca-8024-9cf7-ca0f87fbb28a
 ---
 

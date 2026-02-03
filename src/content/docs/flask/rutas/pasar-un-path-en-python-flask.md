@@ -7,6 +7,7 @@ tags: ["path","route"]
 slug: flask/rutas/pasar-un-path-en-python-flask
 author: victor_cuervo
 type: doc
+topic: flask
 id: 2c8a9dfb-adca-81be-9496-edf28feb71be
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/tipospath.py
 ---

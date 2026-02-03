@@ -7,6 +7,7 @@ tags: ["input","int","try-except","bucles","while","break"]
 slug: python/basicos/numero-por-teclado-en-python
 author: victor_cuervo
 type: doc
+topic: python
 id: 31d2efa0-3d71-4d39-a268-85cd632bc5bb
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/cadena_a_numero.py
 ---

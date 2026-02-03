@@ -7,6 +7,7 @@ tags: ["imagenes","texto","tooltip"]
 slug: html/imagenes/tooltip-texto-al-pasar-sobre-una-imagen
 author: victor_cuervo
 type: doc
+topic: html
 id: b1933a35-db63-4569-a3a6-80a797b0cdbd
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/imagenes/tooltip-texto-al-pasar-sobre-una-imagen.html
 ---

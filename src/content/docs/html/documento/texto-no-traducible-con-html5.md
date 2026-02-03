@@ -7,6 +7,7 @@ tags: ["atributo","translate","p"]
 slug: html/documento/texto-no-traducible-con-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 13a2e973-ff76-4d92-8b2c-28a0dbbfb279
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/P%C3%A1gina/marcar-para-no-traducir.html
 ---

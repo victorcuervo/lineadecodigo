@@ -7,6 +7,7 @@ tags: ["random","for","randrange"]
 slug: python/numeros/numeros-pares-aleatorios-con-python
 author: victor_cuervo
 type: doc
+topic: python
 id: b34ca590-ff04-4320-bfd0-4e8cadb48779
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/matematicos/aleatorios_pares.py
 ---

@@ -7,6 +7,7 @@ tags: ["innerhtml","asincrono","xmlhttprequest","getelementbyid","open","send"]
 slug: javascript/navegador/repaginar-datos-con-ajax
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 2c8a9dfb-adca-8149-a2ab-fc8707901529
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/xmlhttrequest/repaginar-con-ajax.html
 ---

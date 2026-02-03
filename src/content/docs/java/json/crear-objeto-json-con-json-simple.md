@@ -7,6 +7,7 @@ tags: ["Java JSON"]
 slug: java/json/crear-objeto-json-con-json-simple
 author: victor_cuervo
 type: doc
+topic: java
 id: 687d04ba-06af-4907-a534-043807bc252c
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/json/CrearJSON.java
 ---

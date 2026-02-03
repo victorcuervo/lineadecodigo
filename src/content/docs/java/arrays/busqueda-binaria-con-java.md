@@ -7,6 +7,7 @@ tags: ["busqueda","busqueda-binaria","arrays","sort","array"]
 slug: java/arrays/busqueda-binaria-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: fa6524b9-d073-49f0-851b-e7a639c0dc82
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/BusquedaBinaria.java
 ---

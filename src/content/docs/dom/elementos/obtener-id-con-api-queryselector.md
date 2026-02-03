@@ -7,6 +7,7 @@ tags: ["queryselector","id","innerhtml"]
 slug: dom/elementos/obtener-id-con-api-queryselector
 author: victor_cuervo
 type: doc
+topic: dom
 id: 2c8a9dfb-adca-8168-8892-d9f2da819b8f
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/selectores/queryselector-id.html
 ---

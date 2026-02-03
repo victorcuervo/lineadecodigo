@@ -7,6 +7,7 @@ tags: ["table","td","border","css"]
 slug: html/tablas/tablas-html-con-borde
 author: victor_cuervo
 type: doc
+topic: html
 id: 5ce87c54-1819-46d1-b644-504740a5b801
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/tabla-con-borde-en-html.html
 ---

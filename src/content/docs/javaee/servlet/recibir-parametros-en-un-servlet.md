@@ -7,6 +7,7 @@ tags: ["java-io","ioexception","servlet","httpservlet","httpservletrequest","htt
 slug: javaee/servlet/recibir-parametros-en-un-servlet
 author: victor_cuervo
 type: doc
+topic: javaee
 id: 7e42d9b4-303d-4857-96a5-7d03ef91ec57
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/java/com/lineadecodigo/javaee/servlet/RecibirParametros.java
 ---

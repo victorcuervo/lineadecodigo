@@ -7,6 +7,7 @@ tags: ["interface","function"]
 slug: typescript/interfaces/interface-de-una-funcion-en-typescript
 author: victor_cuervo
 type: doc
+topic: typescript
 id: 392cccfa-13eb-462e-9980-5cb43aead409
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/interfaces/interface-funcion.ts
 ---

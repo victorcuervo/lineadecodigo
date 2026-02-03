@@ -7,6 +7,7 @@ tags: ["createobject","server","mail","smtp","form","error","response"]
 slug: asp/mail/mandar-emails-con-aspemail
 author: victor_cuervo
 type: doc
+topic: asp
 id: ec2a338f-8819-406f-96e5-cd03462d7cf7
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/email/mandar-email/mandar-email.asp
 ---

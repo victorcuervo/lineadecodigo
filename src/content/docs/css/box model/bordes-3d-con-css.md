@@ -7,6 +7,7 @@ tags: ["border","border-style","groove","border-color","border-width","img"]
 slug: css/box-model/bordes-3d-con-css
 author: Víctor Cuervo
 type: doc
+topic: css
 id: 1e4dbcb3-d678-47c3-9059-2ab52f12476e
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/bordes/borde-3d.html
 ---

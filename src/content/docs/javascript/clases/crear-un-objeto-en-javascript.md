@@ -7,6 +7,7 @@ tags: ["clase","objeto","propiedades"]
 slug: javascript/clases/crear-un-objeto-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 5b0f98af-1045-49de-bc72-2476ea38c795
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/objeto-persona.js
 ---

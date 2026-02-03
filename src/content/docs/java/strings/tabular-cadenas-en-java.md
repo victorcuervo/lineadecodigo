@@ -7,6 +7,7 @@ tags: ["string","tabulador"]
 slug: java/strings/tabular-cadenas-en-java
 author: Víctor Cuervo
 type: doc
+topic: java
 id: fee3461f-22e4-4700-9506-60774cc51481
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/TabularCadena.java
 ---

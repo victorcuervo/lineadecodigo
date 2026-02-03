@@ -7,6 +7,7 @@ tags: ["twitter4j","twitter","twitterfactory"]
 slug: java/twitter/configurar-la-conexion-de-twitter4j
 author: victor_cuervo
 type: doc
+topic: java
 id: 2c8a9dfb-adca-819d-92ba-ed298d35b847
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/twitter/ConectarTwitterConfig.java
 ---

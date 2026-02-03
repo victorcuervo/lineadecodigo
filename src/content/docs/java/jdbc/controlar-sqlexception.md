@@ -7,6 +7,7 @@ tags: ["try-catch","exception","sqlexception","resultset"]
 slug: java/jdbc/controlar-sqlexception
 author: victor_cuervo
 type: doc
+topic: java
 id: d84afafd-5b6c-4764-9fc4-8b698b375af2
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ControlarSQLException.java
 ---

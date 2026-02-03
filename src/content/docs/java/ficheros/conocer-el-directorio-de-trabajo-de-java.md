@@ -7,6 +7,7 @@ tags: ["Java System","Java Básicos","properties","getproperty","directorio"]
 slug: java/ficheros/conocer-el-directorio-de-trabajo-de-java
 author: victor_cuervo
 type: doc
+topic: java
 id: c59d1f4b-23ba-48c9-baa8-3c2cc8efc8fc
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/DirectorioTrabajo.java
 ---

@@ -7,6 +7,7 @@ tags: ["if","if-then-else","numeros","mayor"]
 slug: javascript/estructuras-selectivas/mayor-de-dos-numeros-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 388073e0-eb45-4d40-a7d6-342b0525bf32
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/mayor-de-dos-numeros.js
 ---

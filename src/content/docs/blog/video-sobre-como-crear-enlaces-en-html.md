@@ -7,6 +7,7 @@ tags: ["video"]
 slug: blog/video-sobre-como-crear-enlaces-en-html
 author: lineadecodigo
 type: blog
+topic: blog
 id: 4d3129fb-37c8-4dc1-ae2b-424197421e0a
 ---
 

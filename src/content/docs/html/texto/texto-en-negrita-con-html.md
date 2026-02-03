@@ -7,6 +7,7 @@ tags: ["texto","negrita","b","strong"]
 slug: html/texto/texto-en-negrita-con-html
 author: victor_cuervo
 type: doc
+topic: html
 id: c5418167-6730-47d0-aaa0-03c24fb22fd4
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/texto-en-negrita.html
 ---

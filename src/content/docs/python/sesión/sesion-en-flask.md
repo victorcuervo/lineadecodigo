@@ -7,6 +7,7 @@ tags: ["session","render_template","request","redirect","url_for"]
 slug: python/sesion/sesion-en-flask
 author: victor_cuervo
 type: doc
+topic: python
 id: 191ef9b3-6968-473c-9a7d-ae8ef620a570
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/sesion.py
 ---

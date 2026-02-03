@@ -7,6 +7,7 @@ tags: ["bucles","for","println"]
 slug: java/bucles/numeros-ascendentes-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 86f295ea-fa0f-41d8-904a-9756bb49e149
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumerosAscendentes.java
 ---

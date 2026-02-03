@@ -7,6 +7,7 @@ tags: ["felicitacion"]
 slug: blog/feliz-2014
 author: Víctor Cuervo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-81f1-ba7b-c61b8a0cb186
 ---
 

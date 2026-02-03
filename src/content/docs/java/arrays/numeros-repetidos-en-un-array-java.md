@@ -7,6 +7,7 @@ tags: ["bucles","while","for-each","array"]
 slug: java/arrays/numeros-repetidos-en-un-array-java
 author: victor_cuervo
 type: doc
+topic: java
 id: c62962ae-124a-4e47-bbf9-d11d306d012d
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/NumerosRepetidosArray.java
 ---

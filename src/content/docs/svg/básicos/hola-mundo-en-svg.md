@@ -7,6 +7,7 @@ tags: ["hola-mundo","text","font-family","font-size","fill"]
 slug: svg/basicos/hola-mundo-en-svg
 author: victor_cuervo
 type: doc
+topic: svg
 id: 2c8a9dfb-adca-81e5-ac15-e978d7531936
 ---
 

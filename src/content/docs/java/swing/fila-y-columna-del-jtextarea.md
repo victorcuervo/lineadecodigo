@@ -7,6 +7,7 @@ tags: ["jframe","textarea","add","java-swing","jtextarea","jtextfield","careteve
 slug: java/swing/fila-y-columna-del-jtextarea
 author: victor_cuervo
 type: doc
+topic: java
 id: 6d689357-41d4-45d1-a56f-9f1b87fb4be0
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/swing/FilaColumna.java
 ---

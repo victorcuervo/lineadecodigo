@@ -7,6 +7,7 @@ tags: ["premios"]
 slug: blog/linea-de-codigo-en-x-premios-aui
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-8136-929a-c951ef2f99d9
 ---
 

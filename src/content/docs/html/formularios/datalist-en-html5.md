@@ -7,6 +7,7 @@ tags: ["formulario","datalist","input","option"]
 slug: html/formularios/datalist-en-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 2c8a9dfb-adca-81dd-a232-df2d0b1025f4
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/data-list.html
 ---

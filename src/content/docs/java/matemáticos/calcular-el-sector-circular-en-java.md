@@ -7,6 +7,7 @@ tags: ["class","scanner","math"]
 slug: java/matematicos/calcular-el-sector-circular-en-java
 author: ARIEL
 type: doc
+topic: java
 id: 2c8a9dfb-adca-8191-899d-fbc716f11389
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/CalcularSectorCircular.java
 ---

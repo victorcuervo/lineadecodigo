@@ -7,6 +7,7 @@ tags: ["dtd","doctype","element","encoding","pcdata","persona","standalone","sys
 slug: xml/estructura/definir-la-estructura-persona-en-xml
 author: victor_cuervo
 type: doc
+topic: xml
 id: 2c8a9dfb-adca-8100-b535-da291962f23e
 download: https://github.com/victorcuervo/lineadecodigo_xml/tree/master/xml/basicos/persona
 ---

@@ -7,6 +7,7 @@ tags: ["file","list","directorio","listar","java-io","nullpointerexception"]
 slug: java/ficheros/listar-un-directorio-con-java-io
 author: victor_cuervo
 type: doc
+topic: java
 id: adbe837c-7b72-4949-8fbb-2f40cfb53279
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/io/ListarDirectorio.java
 ---

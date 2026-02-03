@@ -7,6 +7,7 @@ tags: ["checkbox","form","getelementbyid","onclick","checked","array","formulari
 slug: dom/formularios/contar-checkbox-activos-con-javascript
 author: victor_cuervo
 type: doc
+topic: dom
 id: 1c119137-7df8-45d4-9e71-ce4a23f7904f
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/contar-checkbox-activos.html
 ---

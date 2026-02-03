@@ -7,6 +7,7 @@ tags: ["link","whatsapp"]
 slug: html/enlaces/enviar-whatsapp-desde-webs
 author: victor_cuervo
 type: doc
+topic: html
 id: 629535a7-51c4-4805-bfd6-58fdc2f46259
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/enlace-whatsapp.html
 ---

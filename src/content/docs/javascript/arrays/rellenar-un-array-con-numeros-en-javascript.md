@@ -7,6 +7,7 @@ tags: ["array","fill","foreach"]
 slug: javascript/arrays/rellenar-un-array-con-numeros-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 666cce8a-b295-4a53-9c9d-8d07a18a10c3
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/rellenar-array.js
 ---

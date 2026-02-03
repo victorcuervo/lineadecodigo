@@ -7,6 +7,7 @@ tags: []
 slug: java
 author: victor_cuervo
 type: category
+topic: java
 id: 2dea9dfb-adca-8050-a06d-fc1d979b3ad5
 ---
 

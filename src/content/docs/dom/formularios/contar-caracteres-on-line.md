@@ -7,6 +7,7 @@ tags: ["getelementbyid","window","settimeout"]
 slug: dom/formularios/contar-caracteres-on-line
 author: victor_cuervo
 type: doc
+topic: dom
 id: 2c8a9dfb-adca-8192-a83e-cd352ba1f26e
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/contar-caracteres-on-line.html
 ---

@@ -7,6 +7,7 @@ tags: ["file_get_contents","var_dump"]
 slug: php/basicos/leer-el-stream-de-entrada-en-php
 author: victor_cuervo
 type: doc
+topic: php
 id: 2c8a9dfb-adca-811d-8263-f20b6bd4e06a
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/leer-stream-entrada.php
 ---

@@ -7,6 +7,7 @@ tags: ["string","replace","replaceall","replacefirst"]
 slug: java/strings/string-reemplazar-cadenas-con-java
 author: Feffo
 type: doc
+topic: java
 id: ef70d014-71cd-499d-a91f-a448a00968fc
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ReemplazarCadenas.java
 ---

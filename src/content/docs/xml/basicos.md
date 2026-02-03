@@ -7,6 +7,7 @@ tags: []
 slug: xml/basicos
 author: victor_cuervo
 type: category
+topic: xml
 id: 2f2a9dfb-adca-8060-9943-d0294d56f5a7
 ---
 

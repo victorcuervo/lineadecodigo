@@ -7,6 +7,7 @@ tags: ["img","loading","lazy"]
 slug: html/imagenes/cargar-una-imagen-en-diferido-con-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: d68d29c2-5c31-43ff-9f20-931bbd7cc4f3
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Imagenes/carga-imagenes-diferida.html
 ---

@@ -7,6 +7,7 @@ tags: ["servlet","mapping"]
 slug: javaee/servlet/crear-un-mapping-a-un-servlet
 author: victor_cuervo
 type: doc
+topic: javaee
 id: 920466d3-4107-4105-8ec7-bbf0a692d2cf
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/webapp/WEB-INF/web.xml
 ---

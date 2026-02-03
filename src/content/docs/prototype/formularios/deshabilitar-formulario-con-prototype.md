@@ -7,6 +7,7 @@ tags: ["form","input","script","type","disable"]
 slug: prototype/formularios/deshabilitar-formulario-con-prototype
 author: victor_cuervo
 type: doc
+topic: prototype
 id: 2c8a9dfb-adca-814f-b424-eccb09abf39e
 ---
 

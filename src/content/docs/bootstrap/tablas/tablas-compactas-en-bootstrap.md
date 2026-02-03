@@ -7,6 +7,7 @@ tags: ["table","class","table-condensed"]
 slug: bootstrap/tablas/tablas-compactas-en-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: fb5d4e7b-f661-4d71-bd36-c17f4a8bd74a
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/tablas/tabla-compacta.html
 ---

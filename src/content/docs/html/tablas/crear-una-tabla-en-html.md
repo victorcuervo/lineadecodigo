@@ -7,6 +7,7 @@ tags: ["table","td","tr"]
 slug: html/tablas/crear-una-tabla-en-html
 author: victor_cuervo
 type: doc
+topic: html
 id: 32a8ea1f-7bc3-41f0-b4c1-2e5938cdcef1
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/tabla-en-html.html
 ---

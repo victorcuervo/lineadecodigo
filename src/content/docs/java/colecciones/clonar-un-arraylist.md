@@ -7,6 +7,7 @@ tags: ["java-collection","arraylist","add","clone","iterator","remove"]
 slug: java/colecciones/clonar-un-arraylist
 author: victor_cuervo
 type: doc
+topic: java
 id: 299af343-84ab-449f-9ad5-77f9847db333
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/ClonarArrayList.java
 ---

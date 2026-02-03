@@ -7,6 +7,7 @@ tags: ["ul","li","list-unstyled"]
 slug: bootstrap/listas/listas-sin-estilo-en-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: 347251fa-ea2f-4676-9922-dbc923cfbae1
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/listas/listas-sin-estilo.html
 ---

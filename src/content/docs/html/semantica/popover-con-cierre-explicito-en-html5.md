@@ -7,6 +7,7 @@ tags: ["popover","popovertarget","hidepopover"]
 slug: html/semantica/popover-con-cierre-explicito-en-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 2c8a9dfb-adca-8139-9c64-e2af4985541f
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/P%C3%A1gina/popover-cierre.html
 ---

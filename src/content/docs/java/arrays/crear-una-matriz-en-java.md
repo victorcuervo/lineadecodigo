@@ -7,6 +7,7 @@ tags: ["array","matriz"]
 slug: java/arrays/crear-una-matriz-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 0504a2c1-36c1-4f48-96bf-ac792cfd2c96
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/CrearMatriz.java
 ---

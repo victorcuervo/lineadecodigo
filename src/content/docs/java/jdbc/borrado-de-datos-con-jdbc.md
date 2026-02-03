@@ -7,6 +7,7 @@ tags: ["delete","jdbc","drivemanager","executeupdate","preparedstatement","sqlex
 slug: java/jdbc/borrado-de-datos-con-jdbc
 author: victor_cuervo
 type: doc
+topic: java
 id: 1eb07fc2-e456-4805-8c56-dc0a465f3773
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/BorrarDatos.java
 ---

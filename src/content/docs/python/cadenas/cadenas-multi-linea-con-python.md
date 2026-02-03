@@ -7,6 +7,7 @@ tags: ["print","cadena","variables"]
 slug: python/cadenas/cadenas-multi-linea-con-python
 author: victor_cuervo
 type: doc
+topic: python
 id: 9ea18a3e-4e8c-4cd4-ac30-2d72d3880436
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/cadenas_multilinea.py
 ---

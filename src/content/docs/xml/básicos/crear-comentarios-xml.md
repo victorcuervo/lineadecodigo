@@ -7,6 +7,7 @@ tags: ["comentarios"]
 slug: xml/basicos/crear-comentarios-xml
 author: victor_cuervo
 type: doc
+topic: xml
 id: 074af143-8749-4842-92c6-527b21304ca7
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/basicos/comentarios.xml
 ---

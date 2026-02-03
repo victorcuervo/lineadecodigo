@@ -7,6 +7,7 @@ tags: ["noframes","frame"]
 slug: html/frames/noframes-contenido-alternativo-a-los-frames
 author: victor_cuervo
 type: doc
+topic: html
 id: 2c5a9dfb-adca-8052-b3ed-ed7820bf3d51
 download: https://github.com/victorcuervo/lineadecodigo/tree/master/lineadecodigo_html/frames/noframes
 ---

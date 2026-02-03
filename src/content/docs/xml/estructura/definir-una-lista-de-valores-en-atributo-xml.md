@@ -7,6 +7,7 @@ tags: ["dtd","atributos","attlist"]
 slug: xml/estructura/definir-una-lista-de-valores-en-atributo-xml
 author: xhrist14n
 type: doc
+topic: xml
 id: 2c8a9dfb-adca-8137-949e-dfc621a2f1f3
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/dtd/atributo-lista.dtd
 ---

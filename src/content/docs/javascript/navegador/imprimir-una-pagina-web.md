@@ -7,6 +7,7 @@ tags: ["window","print"]
 slug: javascript/navegador/imprimir-una-pagina-web
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 6c1e2779-49da-4831-9f4d-7e28e967379c
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/imprimir-pagina-web.html
 ---

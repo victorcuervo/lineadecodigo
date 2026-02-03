@@ -7,6 +7,7 @@ tags: ["switch","if"]
 slug: java/numeros/convertir-un-numero-a-texto-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 2114ddd0-cd3b-4e75-ae59-c5baff229af5
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumerosEnTexto.java
 ---

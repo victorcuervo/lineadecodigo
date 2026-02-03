@@ -7,6 +7,7 @@ tags: ["video"]
 slug: blog/video-para-crear-tu-primera-pagina-web
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-819d-bdcf-df92e2cde726
 ---
 

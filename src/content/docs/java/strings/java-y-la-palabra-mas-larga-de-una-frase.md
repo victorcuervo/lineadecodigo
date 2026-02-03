@@ -7,6 +7,7 @@ tags: ["string","indexof","stringtokenizer","counttokens","for"]
 slug: java/strings/java-y-la-palabra-mas-larga-de-una-frase
 author: victor_cuervo
 type: doc
+topic: java
 id: c6b1d6a2-cfd7-4f43-81ce-988559450167
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/PalabraMasLarga.java
 ---

@@ -7,6 +7,7 @@ tags: ["rfind","cadena"]
 slug: python/cadenas/ultimo-punto-de-una-frase
 author: victor_cuervo
 type: doc
+topic: python
 id: ca13bc06-c6e1-471d-9d3c-fcb3a7ade7c3
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/ultimo-punto-frase.py
 ---

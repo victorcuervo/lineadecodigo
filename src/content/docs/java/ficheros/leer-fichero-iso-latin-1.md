@@ -7,6 +7,7 @@ tags: ["bufferedreader","inputstreamreader","fileinputstream","encoding","iso","
 slug: java/ficheros/leer-fichero-iso-latin-1
 author: Víctor Cuervo
 type: doc
+topic: java
 id: 2c8a9dfb-adca-8135-a957-cc5b15112f98
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/encoding/LeerFicheroISO1.java
 ---

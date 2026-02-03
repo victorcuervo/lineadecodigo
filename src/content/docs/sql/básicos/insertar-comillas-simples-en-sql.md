@@ -7,6 +7,7 @@ tags: ["insert","comillas","comillas-simples"]
 slug: sql/basicos/insertar-comillas-simples-en-sql
 author: victor_cuervo
 type: doc
+topic: sql
 id: f836d300-376f-4064-9db9-dbafacd9dd99
 download: https://github.com/victorcuervo/lineadecodigo_sql/blob/master/insert/insertar-comillas-simples.sql
 ---

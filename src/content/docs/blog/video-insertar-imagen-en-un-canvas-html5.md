@@ -7,6 +7,7 @@ tags: ["video"]
 slug: blog/video-insertar-imagen-en-un-canvas-html5
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-819c-9436-fef2b6fbdfc4
 ---
 

@@ -7,6 +7,7 @@ tags: ["form","input","innerhtml","id"]
 slug: prototype/capas/modificar-el-contenido-de-una-capa-con-prototype
 author: victor_cuervo
 type: doc
+topic: prototype
 id: 2c8a9dfb-adca-81cf-8e5e-d6dbaec6effe
 download: https://github.com/victorcuervo/lineadecodigo_prototype/blob/master/capas/obtener-el-contenido-de-una-capa.html
 ---

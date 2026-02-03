@@ -7,6 +7,7 @@ tags: []
 slug: xml/sintaxis
 author: victor_cuervo
 type: category
+topic: xml
 id: 2f2a9dfb-adca-802a-ac66-cf1069b2d21a
 ---
 

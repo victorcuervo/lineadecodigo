@@ -7,6 +7,7 @@ tags: ["formacion"]
 slug: blog/curso-de-usabilidad-prototipado-y-ajax
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-81f4-a7a5-c460ede510bf
 ---
 

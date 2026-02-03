@@ -7,6 +7,7 @@ tags: []
 slug: html/entidades/mostrar-elementos-html
 author: victor_cuervo
 type: doc
+topic: html
 id: 2c8a9dfb-adca-81e8-ac99-e2ac5a60b1d2
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/mostrar-elementos-html.html
 ---

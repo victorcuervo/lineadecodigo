@@ -7,6 +7,7 @@ tags: ["texto","fstring"]
 slug: python/cadenas/fstring-o-interpolacion-de-cadenas-en-python
 author: victor_cuervo
 type: doc
+topic: python
 id: b8bfb2f9-610f-4f39-9dd1-1d95d83164e5
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/fstring.py
 ---

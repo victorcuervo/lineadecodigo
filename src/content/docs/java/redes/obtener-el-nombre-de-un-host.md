@@ -7,6 +7,7 @@ tags: ["java-net","inetadress","try-catch","getbyname","gethostname","unknownhos
 slug: java/redes/obtener-el-nombre-de-un-host
 author: victor_cuervo
 type: doc
+topic: java
 id: 648f7cb3-c8a0-4eaf-b4a5-94c2c9d308e0
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/net/ObtenerNombreDelHost.java
 ---

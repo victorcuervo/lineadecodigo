@@ -7,6 +7,7 @@ tags: ["random","array","math"]
 slug: java/arrays/numero-aleatorio-de-un-conjunto-con-javamath
 author: victor_cuervo
 type: doc
+topic: java
 id: e1fc9e8f-4832-495e-9675-57850945120f
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/NumeroAzarDeUnConjunto.java
 ---

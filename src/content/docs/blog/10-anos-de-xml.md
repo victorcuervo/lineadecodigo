@@ -7,6 +7,7 @@ tags: ["noticias-web"]
 slug: blog/10-anos-de-xml
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-81fd-8b95-e4d596fbd68b
 ---
 

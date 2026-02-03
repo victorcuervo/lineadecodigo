@@ -7,6 +7,7 @@ tags: ["string","console","var","variable","hola-mundo","npm"]
 slug: typescript/basicos/hola-mundo-en-typescript
 author: victor_cuervo
 type: doc
+topic: typescript
 id: 22f6244e-8a85-49c2-8988-5c4c38a97abe
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/basicos/hola-mundo.ts
 ---

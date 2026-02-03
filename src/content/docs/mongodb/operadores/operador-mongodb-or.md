@@ -7,6 +7,7 @@ tags: ["find","or","cursor"]
 slug: mongodb/operadores/operador-mongodb-or
 author: victor_cuervo
 type: doc
+topic: mongodb
 id: 8529a83a-3a9b-4013-87c3-748417c6c86a
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/or.js
 ---

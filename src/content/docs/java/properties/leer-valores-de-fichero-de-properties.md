@@ -7,6 +7,7 @@ tags: ["java-util","properties","try-catch","ioexception","fileinputstream","key
 slug: java/properties/leer-valores-de-fichero-de-properties
 author: victor_cuervo
 type: doc
+topic: java
 id: b96826fa-13a4-4737-ad0a-a036308ac993
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/properties/PropertiesClaveValor.java
 ---

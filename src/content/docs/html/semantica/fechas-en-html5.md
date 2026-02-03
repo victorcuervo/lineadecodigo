@@ -7,6 +7,7 @@ tags: ["time","datetime","iso8601","gtm","utc"]
 slug: html/semantica/fechas-en-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 701bfc05-8f06-4681-9918-b9fc49962471
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/fechas-html5.html
 ---

@@ -7,6 +7,7 @@ tags: ["database","dropdatabase"]
 slug: mongodb/mantenimiento/renombrar-una-base-de-datos-en-mongodb
 author: victor_cuervo
 type: doc
+topic: mongodb
 id: 69a59de0-ba19-40a9-b996-f3fbb348a466
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-basicos/renombrar-bd.js
 ---

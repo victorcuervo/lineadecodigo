@@ -7,6 +7,7 @@ tags: ["iframe","asincrono"]
 slug: html/frames/cargar-un-iframe-de-forma-asincrona
 author: victor_cuervo
 type: doc
+topic: html
 id: 520e6ad6-f6dc-45f7-b27a-b715a7282abc
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/IFrame/cargar-iframe-diferido.html
 ---

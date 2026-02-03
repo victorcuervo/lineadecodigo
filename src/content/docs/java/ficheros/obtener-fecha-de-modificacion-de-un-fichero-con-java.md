@@ -7,6 +7,7 @@ tags: ["ficheros","file","calendar","date","java-io"]
 slug: java/ficheros/obtener-fecha-de-modificacion-de-un-fichero-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: bec51495-3316-49a4-a468-bb6d7b9d70b1
 download: http://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_java/src/com/lineadecodigo/java/file/FechaModificacionFichero.java
 ---

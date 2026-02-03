@@ -7,6 +7,7 @@ tags: ["string","substring","length","indexof"]
 slug: java/strings/primer-punto-de-la-cadena-con-java
 author: Víctor Cuervo
 type: doc
+topic: java
 id: 4260cf0e-70d1-4daa-96a9-1527c2192057
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/BuscarPrimerPunto.java
 ---

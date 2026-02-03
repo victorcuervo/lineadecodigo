@@ -7,6 +7,7 @@ tags: ["dtd","element","attlist","implied"]
 slug: xml/estructura/atributo-no-obligatorio-en-xml
 author: xhrist14n
 type: doc
+topic: xml
 id: 2c8a9dfb-adca-81f7-8cd9-d05abc97c8f9
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/dtd/atributo-no-obligatorio.dtd
 ---

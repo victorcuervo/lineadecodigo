@@ -7,6 +7,7 @@ tags: ["java-collection","arraylist","iterator","next","get","toarray"]
 slug: java/colecciones/obtener-elemento-de-un-arraylist
 author: victor_cuervo
 type: doc
+topic: java
 id: 920fc2f5-eb10-4c34-bf93-79ddccccb0db
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/ObtenerElementoLista.java
 ---

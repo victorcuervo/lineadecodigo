@@ -7,6 +7,7 @@ tags: ["json","api","rest","http","url","requests","get"]
 slug: python/json/cargar-json-desde-una-url-con-python
 author: victor_cuervo
 type: doc
+topic: python
 id: da241bb7-cbc0-4fa2-9cc7-bbdeff2889a1
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/json/cargar-json-url.py
 ---

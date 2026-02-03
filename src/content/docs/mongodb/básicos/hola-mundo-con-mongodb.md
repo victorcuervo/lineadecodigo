@@ -7,6 +7,7 @@ tags: ["hola-mundo","find","db"]
 slug: mongodb/basicos/hola-mundo-con-mongodb
 author: victor_cuervo
 type: doc
+topic: mongodb
 id: 544487c7-3956-4541-8e4a-7c253dfb1d7e
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-basicos/holamundo-mongodb.js
 ---

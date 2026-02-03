@@ -7,6 +7,7 @@ tags: ["form","focusfirstelement"]
 slug: prototype/formularios/posicionarse-en-el-primer-elemento-de-un-formulario
 author: victor_cuervo
 type: doc
+topic: prototype
 id: 2c8a9dfb-adca-8197-b977-d40895dbc7ce
 download: https://github.com/victorcuervo/lineadecodigo_prototype/blob/master/formularios/posicionar-primer-elemento-formulario.html
 ---

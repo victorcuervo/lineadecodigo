@@ -7,6 +7,7 @@ tags: ["java-collection","arraylist","spliterator"]
 slug: java/colecciones/recorrer-una-lista-con-spliterator
 author: victor_cuervo
 type: doc
+topic: java
 id: 545779f8-e6cd-42eb-8cb3-70f0ff00f2b2
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/RecorrerListaSpliterator.java
 ---

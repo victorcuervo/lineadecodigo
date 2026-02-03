@@ -7,6 +7,7 @@ tags: ["dialog","HTML5 Básicos"]
 slug: html5/elementos-interactivos/mostrar-una-ventana-dialogo-en-html5
 author: victor_cuervo
 type: doc
+topic: html5
 id: d5700bc9-a1df-4a98-a513-5bdb9bfb51f5
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/ventana-dialogo.html
 ---

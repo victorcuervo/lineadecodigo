@@ -7,6 +7,7 @@ tags: ["lambda","predicate","array","stream","filter","instream"]
 slug: java/stream/busqueda-en-un-array-con-streams
 author: victor_cuervo
 type: doc
+topic: java
 id: 667f2910-7f01-4ed8-acb0-5d5de076204a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/BusquedaConStreams.java
 ---

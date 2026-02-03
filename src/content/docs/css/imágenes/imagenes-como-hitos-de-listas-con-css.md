@@ -7,6 +7,7 @@ tags: ["list-style-image","lista","ul","ol","list-style-type","url"]
 slug: css/imagenes/imagenes-como-hitos-de-listas-con-css
 author: victor_cuervo
 type: doc
+topic: css
 id: 1c41ae53-b63c-4470-8354-95ab3b0d05bb
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/imagenes/imagenes-como-hitos-de-listas.html
 ---

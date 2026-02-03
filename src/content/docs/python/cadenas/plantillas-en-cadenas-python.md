@@ -7,6 +7,7 @@ tags: ["template","substitute"]
 slug: python/cadenas/plantillas-en-cadenas-python
 author: victor_cuervo
 type: doc
+topic: python
 id: 305d472b-f339-4112-81ed-1512044b4faa
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/plantillas-cadenas.py
 ---

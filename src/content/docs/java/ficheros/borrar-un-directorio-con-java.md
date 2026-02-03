@@ -7,6 +7,7 @@ tags: ["recursividad","delete","isdirectory","listfiles","file"]
 slug: java/ficheros/borrar-un-directorio-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: e16ff630-2ffe-49ee-ad1d-c0f9cfa03d00
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/BorrarDirectorio.java
 ---

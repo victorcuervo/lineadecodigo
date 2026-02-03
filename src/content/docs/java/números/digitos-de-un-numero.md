@@ -7,6 +7,7 @@ tags: ["string","integer","bucles","while"]
 slug: java/numeros/digitos-de-un-numero
 author: victor_cuervo
 type: doc
+topic: java
 id: 96e133ca-7834-4e4b-ab51-bf23147e9ba0
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroDigitos.java
 ---

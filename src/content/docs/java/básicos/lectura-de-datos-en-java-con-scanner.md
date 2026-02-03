@@ -7,6 +7,7 @@ tags: ["scanner","inputstream","string","next","input","do-while","java-io","con
 slug: java/basicos/lectura-de-datos-en-java-con-scanner
 author: victor_cuervo
 type: doc
+topic: java
 id: 2e1d2c49-0e2e-49a9-8332-39380ade188f
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/LecturaConsolaScanner.java
 ---

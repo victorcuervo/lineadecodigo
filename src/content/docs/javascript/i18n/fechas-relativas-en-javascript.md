@@ -7,6 +7,7 @@ tags: ["intl","bcp47","format","relativetimeformat"]
 slug: javascript/i18n/fechas-relativas-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 2c8a9dfb-adca-8140-8c2e-f3c1c824700f
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/fechas/fechas-relativas-texto.js
 ---

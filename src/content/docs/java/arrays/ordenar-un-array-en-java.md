@@ -7,6 +7,7 @@ tags: ["array","sort","for"]
 slug: java/arrays/ordenar-un-array-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: c5bc974c-b76c-40fe-98f9-86211710ff69
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/OrdernarArray.java
 ---

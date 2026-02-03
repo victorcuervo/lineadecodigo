@@ -7,6 +7,7 @@ tags: ["jdbc","connection","setautocommit","statement","addbatch","executebatch"
 slug: java/jdbc/jdbc-batch-update
 author: victor_cuervo
 type: doc
+topic: java
 id: 87185c29-6c8a-4744-9db7-a6860ee9b448
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/BatchUpdate.java
 ---

@@ -7,6 +7,7 @@ tags: ["find","ne"]
 slug: mongodb/consultas/mongodb-not-equal
 author: victor_cuervo
 type: doc
+topic: mongodb
 id: e4fb7aa4-afd5-4eb8-b5ef-07f3704e67b0
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/notequal.js
 ---

@@ -7,6 +7,7 @@ tags: ["db","update","push"]
 slug: mongodb/inserciones/anadir-un-valor-a-un-array-en-mongodb
 author: victor_cuervo
 type: doc
+topic: mongodb
 id: f0ff0127-6437-469a-bd73-6bd216b56a98
 download: https://github.com/victorcuervo/lineadecodigo_mongodb/blob/master/mongodb-array/insertar-elemento-array.js
 ---

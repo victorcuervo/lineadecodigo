@@ -7,6 +7,7 @@ tags: ["template","render_template"]
 slug: flask/plantillas/usar-template-flask
 author: victor_cuervo
 type: doc
+topic: flask
 id: fd270f01-1434-409a-9da0-592642ccef13
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/template.py
 ---

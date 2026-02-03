@@ -7,6 +7,7 @@ tags: ["interface","propiedades"]
 slug: typescript/interfaces/definir-un-interface-con-typescript
 author: victor_cuervo
 type: doc
+topic: typescript
 id: 2c8a9dfb-adca-81fc-9293-f6a443b81ea6
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/interfaces/interface.ts
 ---

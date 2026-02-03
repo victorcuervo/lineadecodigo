@@ -7,6 +7,7 @@ tags: ["frame","frameset","frameborder","noresize"]
 slug: html/frames/bloquear-frames-en-html
 author: victor_cuervo
 type: doc
+topic: html
 id: 5d18f814-5c7a-426e-9799-6624583f2999
 download: https://github.com/victorcuervo/lineadecodigo_html/tree/master/frames/frame-sin-barra-de-scroll
 ---

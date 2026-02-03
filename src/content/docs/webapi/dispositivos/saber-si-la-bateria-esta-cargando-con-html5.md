@@ -7,6 +7,7 @@ tags: ["battery","batterymanager","chargingchange","charging"]
 slug: webapi/dispositivos/saber-si-la-bateria-esta-cargando-con-html5
 author: victor_cuervo
 type: doc
+topic: webapi
 id: 2c8a9dfb-adca-81ee-a96b-ff012190ed91
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Device/Battery/cargando-bateria.html
 ---

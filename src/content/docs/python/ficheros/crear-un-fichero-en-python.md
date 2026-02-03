@@ -7,6 +7,7 @@ tags: ["ficheros","open","write","with","close"]
 slug: python/ficheros/crear-un-fichero-en-python
 author: victor_cuervo
 type: doc
+topic: python
 id: 8b935d12-28a3-4199-b98e-ab5f6525b017
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/crear-fichero.py
 ---

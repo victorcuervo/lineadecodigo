@@ -7,6 +7,7 @@ tags: ["video"]
 slug: blog/video-tablas-cebra-con-bootstrap
 author: victor_cuervo
 type: doc
+topic: blog
 id: 2c8a9dfb-adca-811e-b49c-df334e1c2f81
 ---
 

@@ -7,6 +7,7 @@ tags: ["variables","transient"]
 slug: java/variables/variables-java-transient
 author: victor_cuervo
 type: doc
+topic: java
 id: 004c728d-33c1-46c6-b5a2-782d70eb9d3b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/variables/VariablesTransitorias.java
 ---

@@ -7,6 +7,7 @@ tags: ["regexp","match","visa","mastercard","tarjetas-de-credito"]
 slug: javascript/validaciones/validar-numeros-de-tarjetas-de-credito-con-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 322f6af4-16bb-4a10-a09a-92d220d1d850
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/validar-numero-tarjeta.html
 ---

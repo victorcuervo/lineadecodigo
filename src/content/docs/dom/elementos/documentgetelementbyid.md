@@ -7,6 +7,7 @@ tags: ["onclick","getelementbyid"]
 slug: dom/elementos/documentgetelementbyid
 author: victor_cuervo
 type: doc
+topic: dom
 id: 97a82630-7b1c-46b9-a668-bbba9bc007b4
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/dom/getElementById.html
 ---

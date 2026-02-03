@@ -7,6 +7,7 @@ tags: ["video"]
 slug: blog/video-sobre-doctype-y-el-validador-de-la-w3c
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-8162-a59b-e22fe3ea7cca
 ---
 

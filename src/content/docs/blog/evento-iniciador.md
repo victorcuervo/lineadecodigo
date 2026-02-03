@@ -7,6 +7,7 @@ tags: ["eventos"]
 slug: blog/evento-iniciador
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-81ff-bf59-c79f25dca501
 ---
 

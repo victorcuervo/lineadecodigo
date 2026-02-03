@@ -7,6 +7,7 @@ tags: ["template","include","render_template"]
 slug: python/include-en-un-template-flask
 author: victor_cuervo
 type: doc
+topic: python
 id: 89d39240-8781-44ce-b898-e89408f823b5
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/template_inc.py
 ---

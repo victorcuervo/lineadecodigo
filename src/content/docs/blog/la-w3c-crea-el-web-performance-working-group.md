@@ -7,6 +7,7 @@ tags: ["noticias-web"]
 slug: blog/la-w3c-crea-el-web-performance-working-group
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-81ac-aa3e-ce067b455542
 ---
 

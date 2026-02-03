@@ -7,6 +7,7 @@ tags: ["resumen"]
 slug: blog/resumen-del-2012
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-81fc-8622-e756ab2537bd
 ---
 

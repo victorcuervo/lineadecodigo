@@ -7,6 +7,7 @@ tags: ["mysql","bases-de-datos","consulta","SQL Select","resultset","drivermanag
 slug: java/jdbc/consulta-jdbc-sin-conocer-los-campos
 author: Víctor Cuervo
 type: doc
+topic: java
 id: 81ec4d63-e18b-4748-b6d5-e958b8f808fd
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConsultarTablaSinConocerCampos.java
 ---

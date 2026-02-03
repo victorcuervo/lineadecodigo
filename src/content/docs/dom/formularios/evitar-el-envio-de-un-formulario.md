@@ -7,6 +7,7 @@ tags: ["eventtarget","addeventlistener","getelementbyid","preventdefault","parse
 slug: dom/formularios/evitar-el-envio-de-un-formulario
 author: victor_cuervo
 type: doc
+topic: dom
 id: 228d90e9-ca6a-461a-9cec-f2ee308e49ab
 download: https://github.com/victorcuervo/lineadecodigo_dom/blob/main/eventos/evitar-envio-formulario-listener.html
 ---

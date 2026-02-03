@@ -7,6 +7,7 @@ tags: ["java-util","random","nextint"]
 slug: java/matematicos/generar-un-numero-aleatorio
 author: victor_cuervo
 type: doc
+topic: java
 id: 495cd026-fb05-4e01-b2d2-af8e329afe33
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/NumeroRandom.java
 ---

@@ -7,6 +7,7 @@ tags: ["jdbc","ms-access","drivemanager","connection"]
 slug: java/jdbc/jdbc-conectarse-a-una-base-de-datos-ms-access
 author: victor_cuervo
 type: doc
+topic: java
 id: 905b5642-5d92-4c1f-9027-3d9b13f02d03
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConexionBaseDatosMSAccess.java
 ---

@@ -7,6 +7,7 @@ tags: ["bits","checkbox","xor","operadores"]
 slug: dom/formularios/checkbox-y-operadores-dinamicos
 author: victor_cuervo
 type: doc
+topic: dom
 id: 1ba6c11a-0cc0-4ad7-96ec-79d054d944f6
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/checkbox-y-operadores-binarios.html
 ---

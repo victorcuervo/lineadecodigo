@@ -7,6 +7,7 @@ tags: ["objeto","prototype"]
 slug: javascript/clases/crear-propiedades-dinamicas-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 2c13128f-a25f-4782-a0b3-f88c0e03ec9e
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/crear-propiedades-dinamicas.js
 ---

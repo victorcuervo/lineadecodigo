@@ -7,6 +7,7 @@ tags: ["multiplos","operadores","modulo"]
 slug: java/numeros/multiplo-de-un-numero-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 0bdb90cd-460e-4162-8cf3-d26e6d867f16
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/Multiplos.java
 ---

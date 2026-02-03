@@ -7,6 +7,7 @@ tags: ["ficheros","os","path","exists"]
 slug: python/ficheros/comprobar-que-existe-un-fichero-en-python
 author: victor_cuervo
 type: doc
+topic: python
 id: 810091e2-187e-406f-b469-f29a91d44f53
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/validar-existe-fichero.py
 ---

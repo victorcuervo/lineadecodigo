@@ -7,6 +7,7 @@ tags: ["date","Day","month","select-case","vbMonday","vbTuesday","vbWednesday","
 slug: vbscript/fechas/fecha-en-castellano-con-vbscript
 author: victor_cuervo
 type: doc
+topic: vbscript
 id: b4ea31ce-e5e0-46a2-a3ae-30e30a2ad379
 ---
 

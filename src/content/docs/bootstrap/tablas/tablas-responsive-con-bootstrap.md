@@ -7,6 +7,7 @@ tags: ["table","class","table-responsive"]
 slug: bootstrap/tablas/tablas-responsive-con-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: ea4a46c0-18eb-4eef-992a-5e0640c8e647
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/tablas/tabla-responsive.html
 ---

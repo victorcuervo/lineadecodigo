@@ -7,6 +7,7 @@ tags: ["form","form-group","class"]
 slug: bootstrap/formularios/formulario-basico-con-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: 0f7aea01-c798-4c42-8677-1f7636ce5063
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/formularios/formulario-basico.html
 ---

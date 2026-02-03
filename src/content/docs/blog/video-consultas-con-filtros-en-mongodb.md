@@ -7,6 +7,7 @@ tags: ["video"]
 slug: blog/video-consultas-con-filtros-en-mongodb
 author: victor_cuervo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-817e-a2df-d8c8a35248ac
 ---
 

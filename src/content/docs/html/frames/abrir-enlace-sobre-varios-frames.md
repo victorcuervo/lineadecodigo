@@ -7,6 +7,7 @@ tags: ["a","target","frame"]
 slug: html/frames/abrir-enlace-sobre-varios-frames
 author: victor_cuervo
 type: doc
+topic: html
 id: a0b521be-6fa5-4a7c-8249-6b29110671e1
 download: https://github.com/victorcuervo/lineadecodigo/tree/master/lineadecodigo_html/enlaces/abrir-enlace-sobre-varios-frames
 ---

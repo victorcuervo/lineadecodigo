@@ -7,6 +7,7 @@ tags: ["if","operadores","operador-ternario"]
 slug: javascript/operadores/operador-ternario-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 94aaddb0-0fb9-46b7-9ba4-a106cc8f2cea
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/operador-ternario-en-javascript.html
 ---

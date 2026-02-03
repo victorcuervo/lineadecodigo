@@ -7,6 +7,7 @@ tags: ["tipado","interfaces","clases","poo"]
 slug: typescript
 author: victor_cuervo
 type: category
+topic: typescript
 id: 2faa9dfb-adca-800f-8f96-f147e9640bff
 ---
 

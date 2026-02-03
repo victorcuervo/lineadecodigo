@@ -7,6 +7,7 @@ tags: ["jsp"]
 slug: javaee/jsp/jsp-redireccionando-a-otra-web
 author: victor_cuervo
 type: doc
+topic: javaee
 id: 70ec005d-f0f1-4f60-a7b7-d1ed4f5f2144
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/webapp/redirect.jsp
 ---

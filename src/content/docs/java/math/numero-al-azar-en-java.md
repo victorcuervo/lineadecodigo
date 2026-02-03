@@ -7,6 +7,7 @@ tags: ["math","random","sysyem","read"]
 slug: java/math/numero-al-azar-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 8c26ad11-2db0-444b-8f94-ba3c5ec3450b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroAzar.java
 ---

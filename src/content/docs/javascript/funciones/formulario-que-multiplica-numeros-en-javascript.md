@@ -7,6 +7,7 @@ tags: ["form","input","getelementbyid","value"]
 slug: javascript/funciones/formulario-que-multiplica-numeros-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: fb0c94da-7e98-4e92-8267-e46be0e70b8a
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/multiplicar-numeros.html
 ---

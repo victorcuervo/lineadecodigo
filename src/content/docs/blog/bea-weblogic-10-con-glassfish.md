@@ -7,6 +7,7 @@ tags: ["software"]
 slug: blog/bea-weblogic-10-con-glassfish
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-8180-a0e0-cda9e521bb6d
 ---
 

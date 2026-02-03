@@ -7,6 +7,7 @@ tags: ["arrays","tostring","println","array"]
 slug: java/arrays/volcar-array-como-cadena
 author: victor_cuervo
 type: doc
+topic: java
 id: cd568154-bf57-495c-93da-04915998c4b1
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/ArraytoString.java
 ---

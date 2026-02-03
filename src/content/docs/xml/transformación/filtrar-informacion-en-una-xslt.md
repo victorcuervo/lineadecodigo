@@ -7,6 +7,7 @@ tags: ["xsl:for-each","xsl:if","xsl:value-of"]
 slug: xml/transformacion/filtrar-informacion-en-una-xslt
 author: victor_cuervo
 type: doc
+topic: xml
 id: 2bfa9dfb-adca-80da-ab2e-c409814aed51
 download: https://github.com/victorcuervo/lineadecodigo_xml/tree/master/xslt/filtrar-informacion-en-xslt
 ---

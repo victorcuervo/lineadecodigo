@@ -7,6 +7,7 @@ tags: []
 slug: css/colores-y-fondos
 author: victor_cuervo
 type: category
+topic: css
 id: 2eba9dfb-adca-8053-9fec-e9115760d91f
 ---
 

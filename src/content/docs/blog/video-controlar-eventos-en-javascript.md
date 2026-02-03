@@ -7,6 +7,7 @@ tags: ["video"]
 slug: blog/video-controlar-eventos-en-javascript
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-8171-892f-e56c34175e3f
 ---
 

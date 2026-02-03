@@ -7,6 +7,7 @@ tags: ["stringtokenizer","string","counttokens"]
 slug: java/strings/contar-palabras-en-java
 author: Víctor Cuervo
 type: doc
+topic: java
 id: 3bcdbb3f-a8f0-4ebb-88bc-ed3c15a744ee
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ContarPalabras.java
 ---

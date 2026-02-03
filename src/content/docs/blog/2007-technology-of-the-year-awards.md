@@ -7,6 +7,7 @@ tags: ["eventos"]
 slug: blog/2007-technology-of-the-year-awards
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-81f4-805c-d64ed6cd389d
 ---
 

@@ -7,6 +7,7 @@ tags: ["servlet"]
 slug: javaee/servlet/reenviar-peticion-a-otro-servlet
 author: victor_cuervo
 type: doc
+topic: javaee
 id: 7a1771cd-13ba-4f65-b693-e03f5a778f98
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/java/com/lineadecodigo/javaee/servlet/ServletForward.java
 ---

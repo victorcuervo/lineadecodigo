@@ -7,6 +7,7 @@ tags: ["herramientas"]
 slug: blog/jseclipse
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-81af-99db-ec429a7e258e
 ---
 

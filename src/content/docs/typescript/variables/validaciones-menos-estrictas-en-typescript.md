@@ -7,6 +7,7 @@ tags: ["any","assertion","as"]
 slug: typescript/variables/validaciones-menos-estrictas-en-typescript
 author: victor_cuervo
 type: doc
+topic: typescript
 id: cb2c4b60-07fc-486e-9ac2-ee330c5741a3
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/interfaces/interface-poco-estricto.ts
 ---

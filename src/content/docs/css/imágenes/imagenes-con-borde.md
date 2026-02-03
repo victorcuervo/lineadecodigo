@@ -7,6 +7,7 @@ tags: ["imagenes","border","border-width","border-style"]
 slug: css/imagenes/imagenes-con-borde
 author: Víctor Cuervo
 type: doc
+topic: css
 id: cd31c48e-aaf8-44bb-aae9-799a64fbc6c7
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/imagenes/imagenes-con-borde.html
 ---

@@ -7,6 +7,7 @@ tags: ["bucles","operadores","for","if","metodo","boolean","numero"]
 slug: java/numeros/numero-compuesto-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 64380f67-21d9-469a-83a9-9508eb6f6d26
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroCompuesto.java
 ---

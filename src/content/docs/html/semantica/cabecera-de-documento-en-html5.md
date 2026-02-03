@@ -7,6 +7,7 @@ tags: ["header"]
 slug: html/semantica/cabecera-de-documento-en-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: d37e0529-58fd-4e61-8fce-54159fc1fcf2
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/cabecera-documento.html
 ---

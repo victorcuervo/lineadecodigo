@@ -7,6 +7,7 @@ tags: ["clase","objeto","constructor","metodo"]
 slug: javascript/clases/programacion-orientada-a-objetos-con-javascript-un-sencillo-ejemplo
 author: ARIEL
 type: doc
+topic: javascript
 id: 2c8a9dfb-adca-8143-aac0-d967af2d86b6
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/ejemplo-javascript-oo.js
 ---

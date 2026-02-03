@@ -7,6 +7,7 @@ tags: ["applet","awt","graphics","paint","init","showstatus","eventos","mouseeve
 slug: java/applets/controlar-las-coordenadas-del-raton-en-un-applet
 author: victor_cuervo
 type: doc
+topic: java
 id: 2c8a9dfb-adca-8154-b550-cc6e67514809
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/applet/CoordenadasRaton.java
 ---

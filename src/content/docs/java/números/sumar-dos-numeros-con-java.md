@@ -7,6 +7,7 @@ tags: ["java-util","scanner","system"]
 slug: java/numeros/sumar-dos-numeros-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 529082e7-f968-480e-b903-d0945d37e790
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/SumarNumerosTeclado.java
 ---

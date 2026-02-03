@@ -7,6 +7,7 @@ tags: ["felicitacion"]
 slug: blog/feliz-2010
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-814a-ba4e-ee92b360d4c7
 ---
 

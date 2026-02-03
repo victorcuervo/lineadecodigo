@@ -7,6 +7,7 @@ tags: ["recursividad","file","list","exists","mkdir","ioexception","java-io","ja
 slug: java/ficheros/copiar-directorio-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 9bdec559-6c86-41cb-81a0-2e1b34b7b457
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/CopiarDirectorio.java
 ---

@@ -7,6 +7,7 @@ tags: ["color","formulario","textarea","scrollbar","scroll"]
 slug: css/imagenes/cambiar-el-color-de-las-barras-de-scroll
 author: victor_cuervo
 type: doc
+topic: css
 id: 234e6446-dcd1-4fe1-b4c2-c0e9d37b0219
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/colores/color-barras-scroll.html
 ---

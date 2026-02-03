@@ -7,6 +7,7 @@ tags: ["abbr"]
 slug: bootstrap/texto/abreviaturas-con-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: 2c8a9dfb-adca-81b3-8815-defbef3db31f
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/abreviaturas.html
 ---

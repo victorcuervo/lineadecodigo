@@ -7,6 +7,7 @@ tags: ["canvas","getcontext","filltext","font"]
 slug: html/graficos/insertar-texto-en-un-canvas-de-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 129995b8-5b77-4501-9071-46b69f09bc39
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas/crear-texto.html
 ---

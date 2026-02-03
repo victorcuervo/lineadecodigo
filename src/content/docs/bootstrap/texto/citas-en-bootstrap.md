@@ -7,6 +7,7 @@ tags: ["blockquote","footer","cite"]
 slug: bootstrap/texto/citas-en-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: 3e9537ea-edf5-4802-b3b5-582a137ab162
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/citas-bootstrap.html
 ---

@@ -7,6 +7,7 @@ tags: ["entidades","raiz-cuadrada"]
 slug: html/entidades/raiz-cuadrada-en-html
 author: victor_cuervo
 type: doc
+topic: html
 id: c405f94c-f2f4-4509-9779-3ba856b1a451
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/raiz-cuadrada.html
 ---

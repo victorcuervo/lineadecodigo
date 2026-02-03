@@ -7,6 +7,7 @@ tags: ["pow","bits","operadores"]
 slug: java/operadores/potencias-del-dos-con-desplazamiento-de-bits
 author: Víctor Cuervo
 type: doc
+topic: java
 id: 156f0ee5-fc41-4b28-bf4c-36bb7a0837af
 download: http://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_java/src/com/lineadecodigo/java/math/PotenciasDelDosConBits.java
 ---

@@ -7,6 +7,7 @@ tags: ["form","input","label","method","post","get","password","querystring","re
 slug: asp/basicos/recuperar-datos-de-un-formulario-con-asp
 author: victor_cuervo
 type: doc
+topic: asp
 id: c778e98a-b3d6-4974-8d44-7f3268685caf
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/generales/recuperar-datos-formulario/recuperar-datos-formulario.asp
 ---

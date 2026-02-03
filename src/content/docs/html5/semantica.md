@@ -7,6 +7,7 @@ tags: []
 slug: html5/semantica
 author: victor_cuervo
 type: doc
+topic: html5
 id: 2eca9dfb-adca-8074-ace1-d24b1ea965d8
 ---
 

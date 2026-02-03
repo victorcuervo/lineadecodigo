@@ -7,6 +7,7 @@ tags: ["java-mail","message","mimemessage","bcc"]
 slug: java/mail/enviar-correo-en-copia-oculta-con-javamail
 author: victor_cuervo
 type: doc
+topic: java
 id: d14b4652-a931-46a1-8647-7738948265d8
 ---
 

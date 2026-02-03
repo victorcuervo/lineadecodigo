@@ -7,6 +7,7 @@ tags: ["svg","jquery","canvas","raphael","circle","rect","text"]
 slug: javascript/librerias/usando-raphael-para-dibujar-algunas-formas-en-multiples-navegadores
 author: xhrist14n
 type: doc
+topic: javascript
 id: 2c8a9dfb-adca-8194-aff6-e4a447e6a2f9
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/apis/raphael/figuras.html
 ---

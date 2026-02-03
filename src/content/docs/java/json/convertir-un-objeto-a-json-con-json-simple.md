@@ -7,6 +7,7 @@ tags: ["json","json-simple","jsoner","serialize"]
 slug: java/json/convertir-un-objeto-a-json-con-json-simple
 author: victor_cuervo
 type: doc
+topic: java
 id: ea4ac070-c8b8-407c-a1ec-edcbd381619b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/json/ObjetoJSON.java
 ---

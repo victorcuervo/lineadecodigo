@@ -7,6 +7,7 @@ tags: ["bucles","while","integer","string"]
 slug: java/numeros/numeros-con-digitos-iguales
 author: victor_cuervo
 type: doc
+topic: java
 id: 45680e52-7172-44e4-9cf5-a539289ecdea
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumerosMismoDigito.java
 ---

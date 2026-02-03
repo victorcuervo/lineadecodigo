@@ -7,6 +7,7 @@ tags: []
 slug: html/enlaces/ir-al-principio-y-al-final-de-una-pagina-web
 author: victor_cuervo
 type: doc
+topic: html
 id: 166a4373-590e-4c49-95d3-634d6459e73b
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/enlaces/enlace-a-principio-y-fin.html
 ---

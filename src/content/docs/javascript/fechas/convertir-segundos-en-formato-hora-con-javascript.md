@@ -7,6 +7,7 @@ tags: ["gethours","getminutes","getseconds","date"]
 slug: javascript/fechas/convertir-segundos-en-formato-hora-con-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: c1a5926f-d9ed-4b4a-b4db-73a6eed434bc
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/convertir-segundos-a-formato-hora.html
 ---

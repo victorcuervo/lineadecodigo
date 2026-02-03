@@ -7,6 +7,7 @@ tags: ["eventos"]
 slug: blog/webinar-perceptual-computing-en-espanol
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-81d3-b1b1-e02a5f00eacd
 ---
 

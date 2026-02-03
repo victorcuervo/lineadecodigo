@@ -7,6 +7,7 @@ tags: ["Java Array","Javascript Básicos"]
 slug: java/arrays/inicializar-un-array-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: a63545f6-8baa-442c-987c-7ab0477eea74
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/InicializarArray.java
 ---

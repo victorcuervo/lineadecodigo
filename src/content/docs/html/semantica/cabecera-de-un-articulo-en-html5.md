@@ -7,6 +7,7 @@ tags: ["header","article"]
 slug: html/semantica/cabecera-de-un-articulo-en-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 2c8a9dfb-adca-81de-be7f-ee6edf7d272c
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/cabecera-articulo.html
 ---

@@ -7,6 +7,7 @@ tags: ["document","write","referrer"]
 slug: javascript/navegador/obtener-la-referencia-de-la-pagina-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 2c8a9dfb-adca-817a-bdd0-d216431fdfca
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/obtener-la-pagina-de-referencia-del-documento.html
 ---

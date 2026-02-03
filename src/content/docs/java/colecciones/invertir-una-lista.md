@@ -7,6 +7,7 @@ tags: ["java-collection","arraylist","reverse"]
 slug: java/colecciones/invertir-una-lista
 author: victor_cuervo
 type: doc
+topic: java
 id: 79a40e28-3e18-4fd3-a657-ab8c5ebe7055
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/InvertirLista.java
 ---

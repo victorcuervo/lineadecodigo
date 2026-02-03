@@ -7,6 +7,7 @@ tags: ["file","directorio","listfiles","exists","getname"]
 slug: java/ficheros/listar-un-directorio-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: c3680952-13d2-4dbe-9f19-8bc4fb7dc605
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/ListarContenidoDirectorio.java
 ---

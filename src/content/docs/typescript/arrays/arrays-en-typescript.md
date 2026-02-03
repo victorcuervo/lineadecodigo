@@ -7,6 +7,7 @@ tags: ["array","let","variable"]
 slug: typescript/arrays/arrays-en-typescript
 author: victor_cuervo
 type: doc
+topic: typescript
 id: 428ab9a7-d499-467f-8e98-5b2dc509c66c
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/array/arrays.ts
 ---

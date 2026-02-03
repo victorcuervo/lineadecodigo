@@ -7,6 +7,7 @@ tags: ["a","enlaces","window","open","onclick"]
 slug: html/enlaces/enlace-que-abra-dos-paginas
 author: victor_cuervo
 type: doc
+topic: html
 id: fff9f605-ac86-4456-bbde-16df1ae2f582
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/enlaces/enlace-que-abre-dos-paginas.html
 ---

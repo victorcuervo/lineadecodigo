@@ -7,6 +7,7 @@ tags: ["frame","frameset","frameborder"]
 slug: html/frames/frames-sin-bordes
 author: victor_cuervo
 type: doc
+topic: html
 id: 2c5a9dfb-adca-8098-9abf-e3872f534fc8
 download: https://github.com/victorcuervo/lineadecodigo/tree/master/lineadecodigo_html/frames/frame-sin-borde
 ---

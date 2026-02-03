@@ -7,6 +7,7 @@ tags: ["svg","img","object","embed","imagenes"]
 slug: html/imagenes/insertar-grafico-svg-en-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: adb460b6-87fd-45f5-b3c5-d4b7300e0fff
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Imagenes/insertar-svg.html
 ---

@@ -7,6 +7,7 @@ tags: ["stack","push","pop","character","stringbuilder"]
 slug: java/colecciones/pila-de-caracteres
 author: victor_cuervo
 type: doc
+topic: java
 id: 4435daa4-db8b-4fe2-93ee-fb4a6262b120
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/PilaCaracteres.java
 ---

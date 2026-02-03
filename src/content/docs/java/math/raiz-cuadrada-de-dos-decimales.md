@@ -7,6 +7,7 @@ tags: ["math","sqrt","numberformat","decimalformat","format","raiz-cuadrada"]
 slug: java/math/raiz-cuadrada-de-dos-decimales
 author: victor_cuervo
 type: doc
+topic: java
 id: b3e19aad-b3da-4202-8076-17e9c52714e4
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/RaizCuadradaDecimales.java
 ---

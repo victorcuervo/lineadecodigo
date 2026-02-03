@@ -7,6 +7,7 @@ tags: ["hola-mundo"]
 slug: php/basicos/hola-mundo-en-php
 author: victor_cuervo
 type: doc
+topic: php
 id: 980ec2d6-6a5e-47bb-9f6a-386452ceb467
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/hola-mundo.php
 ---

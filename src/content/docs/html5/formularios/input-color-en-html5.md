@@ -7,6 +7,7 @@ tags: ["input","color","form"]
 slug: html5/formularios/input-color-en-html5
 author: victor_cuervo
 type: doc
+topic: html5
 id: a9833e0e-5ba1-4a2f-8c93-277e0a2d397a
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/input-color.html
 ---

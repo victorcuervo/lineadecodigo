@@ -7,6 +7,7 @@ tags: ["variables","echo"]
 slug: php/basicos/definir-variables-en-php
 author: xhrist14n
 type: doc
+topic: php
 id: 3fcd10be-cdb6-4b3b-a52b-76ec4fe16342
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/definir-variables.php
 ---

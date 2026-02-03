@@ -7,6 +7,7 @@ tags: ["find","cursor","hasnext","next"]
 slug: mongodb/cursores/recorrer-un-cursor-en-mongodb
 author: victor_cuervo
 type: doc
+topic: mongodb
 id: 7a604416-e28f-489e-84e9-f4470c51ece7
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/recorrerCursor.js
 ---

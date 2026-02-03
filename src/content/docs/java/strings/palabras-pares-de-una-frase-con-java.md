@@ -7,6 +7,7 @@ tags: ["stringtokenizer","pares","nextelement","string","hasmoreelements","nextt
 slug: java/strings/palabras-pares-de-una-frase-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 542eeade-c910-4c74-ad20-54652316cc82
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/PalabrasParesFrase.java
 ---

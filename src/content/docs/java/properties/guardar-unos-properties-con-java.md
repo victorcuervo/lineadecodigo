@@ -7,6 +7,7 @@ tags: ["try-catch","file","java-io","fileoutputstream","ioexception","outputstre
 slug: java/properties/guardar-unos-properties-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 2e2a9308-0b68-427a-ba61-f04ba2834e12
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/properties/GuardarProperties.java
 ---

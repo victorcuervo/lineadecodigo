@@ -7,6 +7,7 @@ tags: []
 slug: xml/namespaces
 author: victor_cuervo
 type: category
+topic: xml
 id: 2f2a9dfb-adca-8037-ae96-fe5e28faeb0b
 ---
 

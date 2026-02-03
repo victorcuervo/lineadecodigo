@@ -7,6 +7,7 @@ tags: ["DOM Window","window","alert"]
 slug: dom/window/mostrar-avisos-en-javascript
 author: victor_cuervo
 type: doc
+topic: dom
 id: 26175d7f-abea-48ce-8cc3-c40d7b52c164
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/avisos.html
 ---

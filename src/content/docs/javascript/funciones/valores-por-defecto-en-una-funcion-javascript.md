@@ -7,6 +7,7 @@ tags: ["funciones","arguments"]
 slug: javascript/funciones/valores-por-defecto-en-una-funcion-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 2c8a9dfb-adca-81a3-881c-e95fdf0628f7
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/funciones/valores-por-defecto.js
 ---

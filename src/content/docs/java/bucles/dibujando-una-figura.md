@@ -7,6 +7,7 @@ tags: ["bucles","while","figura"]
 slug: java/bucles/dibujando-una-figura
 author: victor_cuervo
 type: doc
+topic: java
 id: 1d70d55d-55b8-4b72-8a8f-5c60d09eb725
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/DibujandoUnaFigura.java
 ---

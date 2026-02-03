@@ -7,6 +7,7 @@ tags: ["comentarios","guion","ansi-sql","sql99"]
 slug: sql/basicos/comentarios-en-sql
 author: victor_cuervo
 type: doc
+topic: sql
 id: e89fbf6e-0f3d-4119-b040-01db4a367f0f
 download: http://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_sql/src/com/lineadecodigo/sql/basicos/comentarios.sql
 ---

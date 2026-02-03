@@ -7,6 +7,7 @@ tags: ["filesystemobject","folder"]
 slug: asp/ficheros/listar-contenido-de-un-directorio-con-asp
 author: victor_cuervo
 type: doc
+topic: asp
 id: 91150f03-8553-41e0-bcde-7bddeacc5c1f
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/ficheros/listar-contenido-directorio.asp
 ---

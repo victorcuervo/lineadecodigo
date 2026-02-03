@@ -7,6 +7,7 @@ tags: ["array","let","push"]
 slug: typescript/arrays/arrays-de-solo-lectura-en-typescript
 author: victor_cuervo
 type: doc
+topic: typescript
 id: 2c8a9dfb-adca-81cb-a491-fba26a19f84d
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/array/arrays-solo-lectura.ts
 ---

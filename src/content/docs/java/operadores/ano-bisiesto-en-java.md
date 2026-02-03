@@ -7,6 +7,7 @@ tags: ["modulo","operadores","gregoriancalendar","java-util"]
 slug: java/operadores/ano-bisiesto-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: ac4d2611-c94c-41de-a053-74bfd9b00b76
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/dates/AnioBisiesto.java
 ---

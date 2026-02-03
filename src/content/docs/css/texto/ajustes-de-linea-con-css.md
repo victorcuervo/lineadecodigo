@@ -7,6 +7,7 @@ tags: ["width","overflow-wrap","word-wrap","class"]
 slug: css/texto/ajustes-de-linea-con-css
 author: victor_cuervo
 type: doc
+topic: css
 id: c816b803-b903-48c5-866c-3feb53ffa32e
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/ajustes-de-linea.html
 ---

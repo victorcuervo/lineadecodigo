@@ -7,6 +7,7 @@ tags: ["video","onsuspend","source","addeventlistener"]
 slug: html/video/cortes-en-la-descarga-de-videos-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: ff0be4c1-5db2-4396-9d3b-3eed7bb16558
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/controlar-error-carga-video.html
 ---

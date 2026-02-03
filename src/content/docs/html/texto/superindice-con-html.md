@@ -7,6 +7,7 @@ tags: ["sup","superindice"]
 slug: html/texto/superindice-con-html
 author: victor_cuervo
 type: doc
+topic: html
 id: f83cfced-9694-4ec1-baee-e5f61f7378f2
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/superindice.html
 ---

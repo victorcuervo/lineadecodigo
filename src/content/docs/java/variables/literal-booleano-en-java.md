@@ -7,6 +7,7 @@ tags: ["variables","string","boolean","booleanvalue","tostring"]
 slug: java/variables/literal-booleano-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 2c8a9dfb-adca-81ae-9f48-ce7d4791903b
 download: https://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_java/src/com/lineadecodigo/java/basico/variables/LiteralesBoolean.java
 ---

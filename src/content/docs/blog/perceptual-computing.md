@@ -7,6 +7,7 @@ tags: ["eventos"]
 slug: blog/perceptual-computing
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-816b-a186-c0a300aa32e4
 ---
 

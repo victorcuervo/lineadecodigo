@@ -7,6 +7,7 @@ tags: ["java-collection","arraylist","listiterator","previous","next","hasprevio
 slug: java/colecciones/recorrer-una-lista-con-listiterator
 author: victor_cuervo
 type: doc
+topic: java
 id: 1d271374-c0f0-43a3-9c4b-b738a6785994
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/IteradorLista.java
 ---

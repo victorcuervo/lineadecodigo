@@ -7,6 +7,7 @@ tags: ["array"]
 slug: php/arrays/media-o-promedio-en-php
 author: victor_cuervo
 type: doc
+topic: php
 id: 52299a80-ca2b-454b-9a80-801a955a9f88
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/arrays/calcular-media.php
 ---

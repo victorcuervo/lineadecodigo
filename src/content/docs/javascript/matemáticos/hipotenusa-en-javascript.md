@@ -7,6 +7,7 @@ tags: ["pow","sqrt","hypot","polyfill","arguments","math"]
 slug: javascript/matematicos/hipotenusa-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 45552bd6-6e27-4ed4-bf3a-988a1a269041
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/matematicas/formulas.js
 ---

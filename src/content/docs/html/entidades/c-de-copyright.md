@@ -7,6 +7,7 @@ tags: ["HTML Entidades"]
 slug: html/entidades/c-de-copyright
 author: victor_cuervo
 type: doc
+topic: html
 id: 784985a7-cf8d-4311-9461-b99f8f763cdc
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/c-de-copyright.html
 ---

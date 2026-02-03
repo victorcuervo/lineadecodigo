@@ -7,6 +7,7 @@ tags: ["border-radius"]
 slug: css/box-model/redondear-bordes-con-css
 author: victor_cuervo
 type: doc
+topic: css
 id: 4e5ccf31-2b3f-4d19-8378-d99d565666d4
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/bordes/bordes-redondeados.html
 ---

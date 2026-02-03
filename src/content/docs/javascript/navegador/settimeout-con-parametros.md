@@ -7,6 +7,7 @@ tags: ["window","settimeout","funcion-anonima","funciones"]
 slug: javascript/navegador/settimeout-con-parametros
 author: victor_cuervo
 type: doc
+topic: javascript
 id: e161d82d-90f6-42dc-99ba-ffbb697f15e2
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/timers/settimeout-con-parametros.html
 ---

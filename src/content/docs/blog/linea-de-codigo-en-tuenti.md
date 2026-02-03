@@ -7,6 +7,7 @@ tags: ["redes-sociales"]
 slug: blog/linea-de-codigo-en-tuenti
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-818f-ab2e-c00da6b10960
 ---
 

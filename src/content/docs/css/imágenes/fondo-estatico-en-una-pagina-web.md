@@ -7,6 +7,7 @@ tags: ["url","background","background-image","background-attachment","background
 slug: css/imagenes/fondo-estatico-en-una-pagina-web
 author: victor_cuervo
 type: doc
+topic: css
 id: 8626016f-f412-41bb-a591-7f59e64eca11
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/imagenes/fondo-con-imagen-fija.html
 ---

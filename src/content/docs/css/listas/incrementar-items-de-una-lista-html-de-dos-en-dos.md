@@ -7,6 +7,7 @@ tags: ["counter-increment","counter-reset"]
 slug: css/listas/incrementar-items-de-una-lista-html-de-dos-en-dos
 author: victor_cuervo
 type: doc
+topic: css
 id: 2c8a9dfb-adca-818f-a164-dd43136d8d9c
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/listas/incrementar-item-dos-en-dos.html
 ---

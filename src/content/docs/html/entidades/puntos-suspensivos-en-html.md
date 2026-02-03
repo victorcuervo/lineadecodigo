@@ -7,6 +7,7 @@ tags: ["entidades","puntos-suspensivos","hellip"]
 slug: html/entidades/puntos-suspensivos-en-html
 author: victor_cuervo
 type: doc
+topic: html
 id: 20e113fd-4735-419e-ac43-7580eadb4e19
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/puntos-suspensivos.html
 ---

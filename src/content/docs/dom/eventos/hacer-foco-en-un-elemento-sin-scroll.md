@@ -7,6 +7,7 @@ tags: ["focus","addeventlistener","getelementbyid","preventscroll","focusvisible
 slug: dom/eventos/hacer-foco-en-un-elemento-sin-scroll
 author: victor_cuervo
 type: doc
+topic: dom
 id: 30eede97-d296-4af8-8b3c-974c19f1dbbc
 download: https://github.com/victorcuervo/lineadecodigo_dom/blob/main/eventos/foco-sin-scroll.html
 ---

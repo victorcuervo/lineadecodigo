@@ -7,6 +7,7 @@ tags: ["datetime","time","periodo"]
 slug: html/semantica/especificar-una-duracion-en-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 2c8a9dfb-adca-8118-8ce4-e5cfad247552
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/fechas-con-duracion-html5.html
 ---

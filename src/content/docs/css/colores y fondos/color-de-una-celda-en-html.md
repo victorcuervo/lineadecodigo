@@ -7,6 +7,7 @@ tags: ["table","background-color","class"]
 slug: css/colores-y-fondos/color-de-una-celda-en-html
 author: victor_cuervo
 type: doc
+topic: css
 id: aed0ba08-dbbb-4f6d-ac73-70b48be80da1
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-color-celda.html
 ---

@@ -7,6 +7,7 @@ tags: ["math","hipotenusa","sqrt","hypot","pow"]
 slug: java/math/calcular-la-hipotenusa-con-java
 author: Víctor Cuervo
 type: doc
+topic: java
 id: d45d9450-8fa6-4c29-b56d-114d2d2790a1
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/Hipotenusa.java
 ---

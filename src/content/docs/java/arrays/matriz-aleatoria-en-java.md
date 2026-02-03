@@ -7,6 +7,7 @@ tags: ["array","matriz","bucles","for"]
 slug: java/arrays/matriz-aleatoria-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: b339e84b-7ce9-443b-b493-450001b48e3d
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MatrizAleatoria.java
 ---

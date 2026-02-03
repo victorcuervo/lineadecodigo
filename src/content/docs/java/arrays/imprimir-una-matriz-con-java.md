@@ -7,6 +7,7 @@ tags: ["array","matriz","bucles","for","system"]
 slug: java/arrays/imprimir-una-matriz-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 008d3e55-2c77-4d16-9d78-5f247c86bde1
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/ImprimirMatriz.java
 ---

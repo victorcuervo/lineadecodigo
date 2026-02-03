@@ -7,6 +7,7 @@ tags: ["java-io","file","getparent"]
 slug: java/ficheros/obtener-directorio-padre-de-un-fichero
 author: Víctor Cuervo
 type: doc
+topic: java
 id: bff89905-bbb1-4dca-ac33-f2f7a02d0333
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/ObtenerDirectorioPadre.java
 ---

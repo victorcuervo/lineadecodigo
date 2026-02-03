@@ -7,6 +7,7 @@ tags: ["addeventlistener","getelementbyid","range","volume"]
 slug: html5/audio/volumen-del-audio-con-html5
 author: victor_cuervo
 type: doc
+topic: html5
 id: 652b3a17-14b9-4c4c-82f7-482816ce2c85
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Audio/volumen-audio.html
 ---

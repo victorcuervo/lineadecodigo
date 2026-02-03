@@ -7,6 +7,7 @@ tags: ["form","input","password"]
 slug: html/formularios/formulario-para-pedir-passwords
 author: victor_cuervo
 type: doc
+topic: html
 id: 47f7e926-34b1-4e8b-8ca9-131f17178983
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/formularios/formulario-para-password.html
 ---

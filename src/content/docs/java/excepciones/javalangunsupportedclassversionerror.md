@@ -7,6 +7,7 @@ tags: ["excepcion"]
 slug: java/excepciones/javalangunsupportedclassversionerror
 author: victor_cuervo
 type: doc
+topic: java
 id: b50dfbb0-5b39-452c-a2df-d795b924de6f
 ---
 

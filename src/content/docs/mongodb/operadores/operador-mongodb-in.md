@@ -7,6 +7,7 @@ tags: ["find","in"]
 slug: mongodb/operadores/operador-mongodb-in
 author: victor_cuervo
 type: doc
+topic: mongodb
 id: 7ce94ea6-344c-45c5-ba24-c5a2a5aae1a0
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/in.js
 ---

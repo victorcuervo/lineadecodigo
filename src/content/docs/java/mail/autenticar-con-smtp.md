@@ -7,6 +7,7 @@ tags: ["smtp","java-mail","authenticator","properties"]
 slug: java/mail/autenticar-con-smtp
 author: victor_cuervo
 type: doc
+topic: java
 id: fa52cf1c-0284-4483-80b5-b41a235c50b5
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/mail/AutentificarSMTP.java
 ---

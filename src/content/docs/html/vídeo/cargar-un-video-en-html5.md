@@ -7,6 +7,7 @@ tags: ["video","source","type"]
 slug: html/video/cargar-un-video-en-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 2c8a9dfb-adca-8196-9e99-f93488763d86
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/video-html5.html
 ---

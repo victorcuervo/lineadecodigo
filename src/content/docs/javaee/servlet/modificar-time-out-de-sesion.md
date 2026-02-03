@@ -7,6 +7,7 @@ tags: ["timeout","servlet","session"]
 slug: javaee/servlet/modificar-time-out-de-sesion
 author: victor_cuervo
 type: doc
+topic: javaee
 id: ab6826ce-a8c9-4b7f-b1ca-26b262a396a7
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/webapp/WEB-INF/web.xml
 ---

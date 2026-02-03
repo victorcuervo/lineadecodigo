@@ -7,6 +7,7 @@ tags: ["celebración"]
 slug: blog/un-ano-de-linea-de-codigo
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-810a-8927-fbb1e874d391
 ---
 

@@ -7,6 +7,7 @@ tags: ["PHP Clases"]
 slug: php/clases/clase-anonima-en-php
 author: victor_cuervo
 type: doc
+topic: php
 id: 1012420b-355d-4f0e-bbe3-a3f8a80e032e
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/objetos/clase-anonima.php
 ---

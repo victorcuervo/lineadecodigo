@@ -7,6 +7,7 @@ tags: ["video","timeupdate","currenttime"]
 slug: html/video/tiempo-visualizado-del-video-en-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 79f7cd06-2860-49c3-be48-1edea9b96d21
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/tiempo-visualizado-video.html
 ---

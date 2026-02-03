@@ -7,6 +7,7 @@ tags: ["file","delete"]
 slug: java/ficheros/borrar-un-fichero-con-java
 author: Víctor Cuervo
 type: doc
+topic: java
 id: 48ea8571-2a79-43ab-b5cd-5cd90f3cb933
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/BorrarFichero.java
 ---

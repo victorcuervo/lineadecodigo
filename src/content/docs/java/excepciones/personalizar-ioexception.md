@@ -7,6 +7,7 @@ tags: ["try-catch","ioexception","exception"]
 slug: java/excepciones/personalizar-ioexception
 author: victor_cuervo
 type: doc
+topic: java
 id: 43fe6632-f43f-44cf-9fbb-7d1226b5bdb4
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/io/PersonalizarIOException.java
 ---

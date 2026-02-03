@@ -7,6 +7,7 @@ tags: ["twitter4j","twitter","twitterfactory","showuser"]
 slug: java/twitter/informacion-de-usuario-twitter-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 2c8a9dfb-adca-8196-a88b-c711f2a12f00
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/twitter/InformacionUsuario.java
 ---

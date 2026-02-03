@@ -7,6 +7,7 @@ tags: ["cookies","make_response","set_cookie"]
 slug: python/cookies/gestionar-cookies-en-flask
 author: victor_cuervo
 type: doc
+topic: python
 id: 6e64f45f-8802-401b-9aec-64f39a25cd7c
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/cookie.py
 ---

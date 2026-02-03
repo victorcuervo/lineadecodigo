@@ -7,6 +7,7 @@ tags: ["hilos","thread","runtime","addshutdownhook","exit"]
 slug: java/concurrencia/finalizar-un-programa-java
 author: victor_cuervo
 type: doc
+topic: java
 id: e25fad07-0f09-4d01-8b94-14d40fbd25a9
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/hilos/CierreAplicacion.java
 ---

@@ -7,6 +7,7 @@ tags: ["cursor","style","enlaces","pointer"]
 slug: css/buenas-practicas/punteros-del-raton-con-css
 author: victor_cuervo
 type: doc
+topic: css
 id: 2c8a9dfb-adca-81f7-b7e1-c5fc87b80e43
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/raton/punteros-del-raton.html
 ---

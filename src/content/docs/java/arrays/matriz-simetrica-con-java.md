@@ -7,6 +7,7 @@ tags: ["matriz","deepequals","java","array","matriz-simetrica"]
 slug: java/arrays/matriz-simetrica-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: b36fcb26-96b4-45f1-a7d1-45f2799bbfd6
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MatrizSimetrica.java
 ---

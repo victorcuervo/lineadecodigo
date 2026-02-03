@@ -7,6 +7,7 @@ tags: ["lang","langcode","iso639"]
 slug: xml/sintaxis/especificar-el-idioma-de-un-documento-con-xml-lang
 author: xhrist14n
 type: doc
+topic: xml
 id: 2c8a9dfb-adca-81ab-b593-d1bb02fcab70
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/basicos/idioma/
 ---

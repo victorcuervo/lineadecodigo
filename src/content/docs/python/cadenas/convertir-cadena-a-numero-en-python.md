@@ -7,6 +7,7 @@ tags: ["int","tipo","variable","cadena","numero","print","type"]
 slug: python/cadenas/convertir-cadena-a-numero-en-python
 author: victor_cuervo
 type: doc
+topic: python
 id: 08bc6e75-46bd-4e67-96a9-e35ccfc13955
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/cadena_a_numero.py
 ---

@@ -7,6 +7,7 @@ tags: ["while","modulo","capicua"]
 slug: java/numeros/saber-si-un-numero-es-capicua-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 50c2252c-f154-4879-b096-1dd9d983bfa5
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroCapicua.java
 ---

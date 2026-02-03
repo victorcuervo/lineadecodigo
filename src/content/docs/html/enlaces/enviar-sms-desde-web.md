@@ -7,6 +7,7 @@ tags: ["a","href","sms"]
 slug: html/enlaces/enviar-sms-desde-web
 author: victor_cuervo
 type: doc
+topic: html
 id: cf4b70f7-b1c3-4a8c-8859-947871b1ef38
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/enlace-sms.html
 ---

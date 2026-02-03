@@ -7,6 +7,7 @@ tags: ["intl","tolocalestring"]
 slug: javascript/i18n/numeros-en-javascript-segun-locale
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 4161c3bb-3912-4baa-a31f-aef502e459e1
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/numeros/numeros-segun-localizacion.js
 ---

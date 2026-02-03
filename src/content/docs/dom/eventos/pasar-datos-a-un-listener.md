@@ -7,6 +7,7 @@ tags: ["eventtarget","addeventlistener","bind","getelementbyid"]
 slug: dom/eventos/pasar-datos-a-un-listener
 author: victor_cuervo
 type: doc
+topic: dom
 id: 49a4848d-e62a-4fc9-a1ca-ec2d542763b5
 download: https://github.com/victorcuervo/lineadecodigo_dom/blob/main/eventos/pasar-datos-listener.html
 ---

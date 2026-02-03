@@ -7,6 +7,7 @@ tags: ["margin","margin-top","margin-bottom","margin-left","margin-right"]
 slug: css/box-model/margenes-de-una-pagina-web
 author: victor_cuervo
 type: doc
+topic: css
 id: a470d614-cfe3-4609-b6be-303072f2da71
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/pagina/margenes-pagina-web.html
 ---

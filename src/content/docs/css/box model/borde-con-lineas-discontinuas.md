@@ -7,6 +7,7 @@ tags: ["border","border-style","dashed","style"]
 slug: css/box-model/borde-con-lineas-discontinuas
 author: victor_cuervo
 type: doc
+topic: css
 id: 347ec9cf-55fe-4b70-844f-9d61d230cdea
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/bordes/borde-con-lineas-discontinuas.html
 ---

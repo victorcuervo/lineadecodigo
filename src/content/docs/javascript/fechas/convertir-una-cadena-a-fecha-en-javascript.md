@@ -7,6 +7,7 @@ tags: ["date","eventos","addeventlistener","preventdefault"]
 slug: javascript/fechas/convertir-una-cadena-a-fecha-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: e32925cd-1768-4aaf-a977-3c24907e9802
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/convertir-cadena-texto-a-date.html
 ---

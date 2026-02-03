@@ -7,6 +7,7 @@ tags: ["string","let","template"]
 slug: typescript/cadenas/template-string-con-typescript
 author: victor_cuervo
 type: doc
+topic: typescript
 id: 0d0a9ffb-f706-4fdc-93b5-5475075f0f45
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/basicos/template-string.ts
 ---

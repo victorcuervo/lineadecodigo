@@ -7,6 +7,7 @@ tags: ["id","img"]
 slug: prototype/basicos/acceder-a-elementos-con-prototype
 author: victor_cuervo
 type: doc
+topic: prototype
 id: 2c8a9dfb-adca-810b-8213-fec707c45a13
 download: https://github.com/victorcuervo/lineadecodigo_prototype/blob/master/basico/acceder-a-elementos.html
 ---

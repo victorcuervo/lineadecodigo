@@ -7,6 +7,7 @@ tags: ["bucles","for","factorial"]
 slug: java/bucles/factorial-java-con-bucle-for
 author: victor_cuervo
 type: doc
+topic: java
 id: 2c8a9dfb-adca-81f3-aa65-cdecdc7d455e
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/FactorialDeUnNumeroFor.java
 ---

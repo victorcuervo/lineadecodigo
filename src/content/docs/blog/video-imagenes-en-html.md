@@ -7,6 +7,7 @@ tags: ["video"]
 slug: blog/video-imagenes-en-html
 author: lineadecodigo
 type: blog
+topic: blog
 id: 3bb8f946-f7c5-422f-b8b6-3f57e70eccfa
 ---
 

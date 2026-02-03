@@ -7,6 +7,7 @@ tags: ["variables","float","boolean","integer","double","long","short","characte
 slug: java/variables/tipos-de-datos-objeto-en-java
 author: Víctor Cuervo
 type: doc
+topic: java
 id: 6772241d-41d5-488b-be22-2d5d10dad3d2
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/variables/TiposDatoObjeto.java
 ---

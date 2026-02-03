@@ -7,6 +7,7 @@ tags: ["apache-commons","ftpclient","connect","login","ioexception","try-catch",
 slug: java/redes/conectarse-a-un-ftp-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 84b86cef-0f52-41db-9a05-aaad00511e62
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/net/ftp/ConectarFTP.java
 ---

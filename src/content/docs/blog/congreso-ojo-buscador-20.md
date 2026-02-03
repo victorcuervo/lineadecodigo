@@ -7,6 +7,7 @@ tags: ["eventos"]
 slug: blog/congreso-ojo-buscador-20
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-816c-9a93-e6dac78488cc
 ---
 

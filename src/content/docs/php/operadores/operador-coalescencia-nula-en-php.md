@@ -7,6 +7,7 @@ tags: ["operadores","isset","_post","coalescencia_nula","variables"]
 slug: php/operadores/operador-coalescencia-nula-en-php
 author: victor_cuervo
 type: doc
+topic: php
 id: 493a2b84-1b95-47d0-914b-a121c7db945c
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/operador-coalescente.php
 ---

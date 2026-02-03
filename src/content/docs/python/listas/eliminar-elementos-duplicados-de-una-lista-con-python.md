@@ -7,6 +7,7 @@ tags: ["range","list","remove","dict","fromkeys","for-in"]
 slug: python/listas/eliminar-elementos-duplicados-de-una-lista-con-python
 author: victor_cuervo
 type: doc
+topic: python
 id: e2a657bb-20a7-49bd-b4bc-34904f65c6c7
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/eliminar-elementos-duplicados-lista.py
 ---

@@ -7,6 +7,7 @@ tags: ["getelementbyid","getelementsbyname","input","checked"]
 slug: dom/formularios/campos-obligatorios-en-javascript
 author: victor_cuervo
 type: doc
+topic: dom
 id: 23c71867-e867-4716-8bb5-556f51d61a48
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/campos-obligatorios.html
 ---

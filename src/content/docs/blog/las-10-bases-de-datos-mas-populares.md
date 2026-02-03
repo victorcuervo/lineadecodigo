@@ -7,6 +7,7 @@ tags: ["noticias-web"]
 slug: blog/las-10-bases-de-datos-mas-populares
 author: Edgar Ramirez
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-81dd-a8ec-c29a38d74f94
 ---
 

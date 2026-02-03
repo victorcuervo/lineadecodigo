@@ -7,6 +7,7 @@ tags: ["text-decoration","html","enlaces","a","style","link"]
 slug: css/buenas-practicas/eliminar-el-subrayado-de-los-enlaces
 author: victor_cuervo
 type: doc
+topic: css
 id: 3857cf52-e21b-40de-9625-8b90be6d8814
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/enlaces/enlaces-no-subrayados.html
 ---

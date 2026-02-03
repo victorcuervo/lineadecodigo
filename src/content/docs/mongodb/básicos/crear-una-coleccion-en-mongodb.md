@@ -7,6 +7,7 @@ tags: ["createcollection","db"]
 slug: mongodb/basicos/crear-una-coleccion-en-mongodb
 author: victor_cuervo
 type: doc
+topic: mongodb
 id: 82728374-3ee5-4f58-b431-279a5b508bfd
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-basicos/crear-coleccion.js
 ---

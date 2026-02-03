@@ -7,6 +7,7 @@ tags: ["popover","popovertarget","showpopover"]
 slug: html/semantica/mensajes-emergentes-con-popover-en-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 87fc57e5-753b-4f1e-a107-9d242bec230c
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/P%C3%A1gina/mensajes-emergentes-con-popover.html
 ---

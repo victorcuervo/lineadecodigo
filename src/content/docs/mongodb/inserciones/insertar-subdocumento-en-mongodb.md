@@ -7,6 +7,7 @@ tags: ["insert","object"]
 slug: mongodb/inserciones/insertar-subdocumento-en-mongodb
 author: victor_cuervo
 type: doc
+topic: mongodb
 id: c69e9e46-2590-459e-82da-59b9acd682e9
 download: https://github.com/victorcuervo/lineadecodigo_mongodb/blob/master/mongodb-crud/mongodb-insert/insert-subdocumento.js
 ---

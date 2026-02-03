@@ -7,6 +7,7 @@ tags: ["apache-derby","maven","preparedstatement","drivermanager","statement","r
 slug: java/jdbc/conexion-java-con-derby
 author: victor_cuervo
 type: doc
+topic: java
 id: 2cf1677b-6147-4826-b53c-68d8f58b3b05
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConexionApacheDerby.java
 ---

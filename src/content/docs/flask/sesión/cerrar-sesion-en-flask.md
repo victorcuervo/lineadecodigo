@@ -7,6 +7,7 @@ tags: ["pop","clear","session"]
 slug: flask/sesion/cerrar-sesion-en-flask
 author: victor_cuervo
 type: doc
+topic: flask
 id: 48921f45-8106-4581-8134-bda03752938f
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/sesion-eliminar.py
 ---

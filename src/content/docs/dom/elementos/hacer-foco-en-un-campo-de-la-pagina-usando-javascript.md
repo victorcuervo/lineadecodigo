@@ -7,6 +7,7 @@ tags: ["form","element","focus","getelementbyid"]
 slug: dom/elementos/hacer-foco-en-un-campo-de-la-pagina-usando-javascript
 author: victor_cuervo
 type: doc
+topic: dom
 id: b82b649a-1a4c-418a-b207-ed1513cbcb8a
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/dom/hacer-foco-en-un-elemento-de-la-pagina.html
 ---

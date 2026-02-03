@@ -7,6 +7,7 @@ tags: ["form","input","for","eventos","getelementbyid","charat","length"]
 slug: javascript/validaciones/validar-password-con-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 91589899-d9c2-4107-8d44-743093a692d2
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/validar-password.html
 ---

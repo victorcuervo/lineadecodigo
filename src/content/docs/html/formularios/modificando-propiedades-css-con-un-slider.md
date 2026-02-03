@@ -7,6 +7,7 @@ tags: ["form","range","css","style","border-radius"]
 slug: html/formularios/modificando-propiedades-css-con-un-slider
 author: victor_cuervo
 type: doc
+topic: html
 id: 2c8a9dfb-adca-81b6-90dd-fb926904b014
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/range-modificando-css.html
 ---

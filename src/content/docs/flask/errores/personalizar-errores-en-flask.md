@@ -7,6 +7,7 @@ tags: ["error","abort","errorhandler","401"]
 slug: flask/errores/personalizar-errores-en-flask
 author: victor_cuervo
 type: doc
+topic: flask
 id: 2c8a9dfb-adca-8196-91c8-eac841e84984
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/error_personalizado.py
 ---

@@ -7,6 +7,7 @@ tags: ["video","loop"]
 slug: html5/video/video-en-bucle
 author: victor_cuervo
 type: doc
+topic: html5
 id: c7ad70e4-596e-4362-a9e4-3b1d8a8f31cc
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/video-en-bucle.html
 ---

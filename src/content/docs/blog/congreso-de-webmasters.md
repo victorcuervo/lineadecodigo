@@ -7,6 +7,7 @@ tags: ["eventos"]
 slug: blog/congreso-de-webmasters
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-812c-8ff9-fbd54e9b988d
 ---
 

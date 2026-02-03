@@ -7,6 +7,7 @@ tags: ["operadores","operador-ternario"]
 slug: java/operadores/el-operador-ternario-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: d32e2969-e66d-435a-80c9-9a48a8b6a620
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/OperadorTernario.java
 ---

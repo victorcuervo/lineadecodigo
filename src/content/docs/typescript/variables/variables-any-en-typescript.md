@@ -7,6 +7,7 @@ tags: ["variables","let","any"]
 slug: typescript/variables/variables-any-en-typescript
 author: victor_cuervo
 type: doc
+topic: typescript
 id: c5ff0046-044c-4075-87fa-9ee58bc4b934
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/basicos/any.ts
 ---

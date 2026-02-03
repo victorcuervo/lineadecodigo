@@ -7,6 +7,7 @@ tags: ["img","map","donwload"]
 slug: html/imagenes/descargar-una-imagen-de-un-mapa-de-imagenes
 author: victor_cuervo
 type: doc
+topic: html
 id: 5b27dbc3-10f9-4f2b-b590-9a0b29e6a8b1
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Imagenes/descargar-mapa-imagenes.html
 ---

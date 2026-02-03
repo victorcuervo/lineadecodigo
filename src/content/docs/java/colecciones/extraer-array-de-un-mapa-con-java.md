@@ -7,6 +7,7 @@ tags: ["put","values","toarray","keyset","hashmap","mapa","clave-valor","for-eac
 slug: java/colecciones/extraer-array-de-un-mapa-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 21413b2a-f826-4b78-b46d-706fc7f2a5c9
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/ExtraerArrayDeMapa.java
 ---

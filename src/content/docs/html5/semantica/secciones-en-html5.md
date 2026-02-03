@@ -7,6 +7,7 @@ tags: ["section"]
 slug: html5/semantica/secciones-en-html5
 author: victor_cuervo
 type: doc
+topic: html5
 id: 7634bf7c-6db7-4923-8301-579dd014154a
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/definir-seccion.html
 ---

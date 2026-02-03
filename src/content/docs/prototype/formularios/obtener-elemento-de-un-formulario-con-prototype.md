@@ -7,6 +7,7 @@ tags: ["$F","formulario","id","form"]
 slug: prototype/formularios/obtener-elemento-de-un-formulario-con-prototype
 author: victor_cuervo
 type: doc
+topic: prototype
 id: 2c8a9dfb-adca-8162-a632-f73d775167cb
 download: https://github.com/victorcuervo/lineadecodigo_prototype/blob/master/formularios/obtener-elemento-formulario.html
 ---

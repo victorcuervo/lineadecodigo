@@ -7,6 +7,7 @@ tags: ["footer","header","article","time"]
 slug: html/semantica/pie-de-pagina-de-un-articulo-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 0c29fb63-f6af-40e0-bcc0-f6a9dacd0e47
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/piepagina-articulo.html
 ---

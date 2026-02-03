@@ -7,6 +7,7 @@ tags: ["random","randint","uniform"]
 slug: python/numeros/numeros-aleatorios-python
 author: victor_cuervo
 type: doc
+topic: python
 id: f86eeab1-315d-4bc5-9742-ebe17d36e5b7
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/matematicos/numero_aleatorio.py
 ---

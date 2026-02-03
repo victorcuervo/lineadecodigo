@@ -7,6 +7,7 @@ tags: ["window","location","regexp"]
 slug: javascript/navegador/ver-el-codigo-fuente
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 62c119ed-23b2-4ab4-b0f8-96e003a5cbce
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/ver-codigo-fuente.html
 ---

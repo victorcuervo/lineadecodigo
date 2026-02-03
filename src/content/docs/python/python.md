@@ -7,6 +7,7 @@ tags: []
 slug: python
 author: victor_cuervo
 type: category
+topic: python
 id: 2dea9dfb-adca-80b1-9fb0-dae90e1fb125
 ---
 

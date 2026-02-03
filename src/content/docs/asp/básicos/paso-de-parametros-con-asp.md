@@ -7,6 +7,7 @@ tags: ["request","querystring"]
 slug: asp/basicos/paso-de-parametros-con-asp
 author: victor_cuervo
 type: doc
+topic: asp
 id: 2818c608-a16e-47fd-8e84-be15bae4bd45
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/basico/paso-parametros-querystring/pasoparametros.asp
 ---

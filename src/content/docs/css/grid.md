@@ -7,6 +7,7 @@ tags: []
 slug: css/grid
 author: victor_cuervo
 type: category
+topic: css
 id: 2eba9dfb-adca-803a-baab-eec4aa220f21
 ---
 

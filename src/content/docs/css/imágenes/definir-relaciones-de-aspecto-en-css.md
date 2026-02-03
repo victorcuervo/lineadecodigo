@@ -7,6 +7,7 @@ tags: ["imagenes","aspect-ratio","object-fit"]
 slug: css/imagenes/definir-relaciones-de-aspecto-en-css
 author: victor_cuervo
 type: doc
+topic: css
 id: f53d33a8-e113-4745-87a7-dce62f9a0f0c
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/imagenes/aspect-ratio-imagen.html
 ---

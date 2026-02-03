@@ -7,6 +7,7 @@ tags: ["link","a","target","_blank"]
 slug: html/enlaces/abrir-enlace-en-una-nueva-ventana
 author: victor_cuervo
 type: doc
+topic: html
 id: f70916cc-bf05-4ac2-90de-564b5c1891ea
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/abrir-enlace-en-una-nueva-ventana.html
 ---

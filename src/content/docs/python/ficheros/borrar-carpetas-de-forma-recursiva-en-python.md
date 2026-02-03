@@ -7,6 +7,7 @@ tags: ["rmdir","listdir","os","remove","shutil","rmtree","join","isdir"]
 slug: python/ficheros/borrar-carpetas-de-forma-recursiva-en-python
 author: victor_cuervo
 type: doc
+topic: python
 id: 3a472ade-8bc7-4267-a234-8132977d50b6
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/borrar-carpeta-recursiva.py
 ---

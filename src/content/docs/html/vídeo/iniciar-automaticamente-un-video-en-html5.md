@@ -7,6 +7,7 @@ tags: ["video","play","autoplay"]
 slug: html/video/iniciar-automaticamente-un-video-en-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 61215e6e-adc0-4a29-8fed-c486834922eb
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/iniciar-video-automaticamente.html
 ---

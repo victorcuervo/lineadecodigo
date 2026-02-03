@@ -7,6 +7,7 @@ tags: ["select","count","distinct"]
 slug: sql/funciones/contar-elementos-distintos-con-sql
 author: victor_cuervo
 type: doc
+topic: sql
 id: 8abe413c-8e85-43bf-bc1d-c514f4a17523
 download: https://github.com/victorcuervo/lineadecodigo_sql/blob/master/consultas/contar-elementos-distintos.sql
 ---

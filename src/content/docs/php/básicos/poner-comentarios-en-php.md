@@ -7,6 +7,7 @@ tags: ["comentarios"]
 slug: php/basicos/poner-comentarios-en-php
 author: xhrist14n
 type: doc
+topic: php
 id: 6914a5f6-bfb0-4251-b0df-877f50ed7ae1
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/comentarios.php
 ---

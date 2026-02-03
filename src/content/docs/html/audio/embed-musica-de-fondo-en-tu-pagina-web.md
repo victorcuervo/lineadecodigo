@@ -7,6 +7,7 @@ tags: ["embed","autostart","bgsound"]
 slug: html/audio/embed-musica-de-fondo-en-tu-pagina-web
 author: victor_cuervo
 type: doc
+topic: html
 id: bb17e062-4d8c-473d-8963-b237dd8e4cff
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/video-y-sonido/embed-musica-de-fondo.html
 ---

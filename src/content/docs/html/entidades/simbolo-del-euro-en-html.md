@@ -7,6 +7,7 @@ tags: ["HTML Entidades"]
 slug: html/entidades/simbolo-del-euro-en-html
 author: Víctor Cuervo
 type: doc
+topic: html
 id: fe18dc28-77b9-49ca-bb53-a83b1c03c360
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/simbolo-del-euro-en-html.html
 ---

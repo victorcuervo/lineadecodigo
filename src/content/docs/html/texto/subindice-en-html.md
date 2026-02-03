@@ -7,6 +7,7 @@ tags: ["sub","subindice"]
 slug: html/texto/subindice-en-html
 author: victor_cuervo
 type: doc
+topic: html
 id: 3a4f64f6-3ae6-4cd7-bbc6-2163a75fe67e
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/subindice.html
 ---

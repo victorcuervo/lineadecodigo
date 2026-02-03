@@ -7,6 +7,7 @@ tags: ["eventos"]
 slug: blog/on-air-tour
 author: victor_cuervo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-8166-a1a1-e23a6505f7a8
 ---
 

@@ -7,6 +7,7 @@ tags: ["clases","objetos","funciones","metodo","metodo-privado"]
 slug: javascript/clases/clase-javascript-con-metodos-privados
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 5cd4186a-787f-41eb-8a17-165ef40fdbb9
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/objeto-rectangulo-metodos-privados.js
 ---

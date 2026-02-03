@@ -7,6 +7,7 @@ tags: ["constantes","define","echo"]
 slug: php/basicos/definir-constantes-en-php
 author: xhrist14n
 type: doc
+topic: php
 id: 6f4e84ed-9ece-4921-9828-ae4b1eec821a
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/definir-constante.php
 ---

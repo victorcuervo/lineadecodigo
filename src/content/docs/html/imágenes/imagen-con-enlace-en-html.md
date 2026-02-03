@@ -7,6 +7,7 @@ tags: ["imagenes","enlaces","href","alt"]
 slug: html/imagenes/imagen-con-enlace-en-html
 author: victor_cuervo
 type: doc
+topic: html
 id: bf240cd7-3d67-48e1-9dca-bea9a5167725
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/imagen-con-enlace.html
 ---

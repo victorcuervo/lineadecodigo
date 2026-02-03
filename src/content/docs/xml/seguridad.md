@@ -7,6 +7,7 @@ tags: []
 slug: xml/seguridad
 author: victor_cuervo
 type: category
+topic: xml
 id: 2f2a9dfb-adca-80e6-9485-ef49f41e5d0d
 ---
 

@@ -7,6 +7,7 @@ tags: ["texto","text-left","text-center","text-right"]
 slug: bootstrap/texto/alinear-texto-con-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: db4337ad-2641-4b51-9fa1-8ac048dc4d0a
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/alinear-texto.html
 ---

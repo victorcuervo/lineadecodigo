@@ -7,6 +7,7 @@ tags: ["variable","let","as"]
 slug: typescript/variables/forzar-tipo-de-variable-en-typescript
 author: victor_cuervo
 type: doc
+topic: typescript
 id: 9dde1431-840d-47b4-ab94-46c0b9a756bd
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/basicos/forzar-variables.ts
 ---

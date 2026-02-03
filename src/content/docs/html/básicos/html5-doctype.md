@@ -7,6 +7,7 @@ tags: ["doctype","quircks","html5"]
 slug: html/basicos/html5-doctype
 author: victor_cuervo
 type: doc
+topic: html
 id: 4d58661a-ea81-4a5d-924b-2f24b3db4b84
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/doctype.html
 ---

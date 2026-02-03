@@ -7,6 +7,7 @@ tags: ["post","get","form","request","render_template","formulario"]
 slug: flask/rutas/parametros-post-flask
 author: victor_cuervo
 type: doc
+topic: flask
 id: 119b5c98-ba49-4c85-abe3-7a0c4d843abf
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/formulario.py
 ---

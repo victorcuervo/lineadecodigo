@@ -7,6 +7,7 @@ tags: ["background-color","enlaces"]
 slug: css/buenas-practicas/resaltar-los-enlaces-con-css
 author: victor_cuervo
 type: doc
+topic: css
 id: 27f91804-90f1-4c53-81b5-06255671fd91
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/enlaces/resaltado-de-enlaces.html
 ---

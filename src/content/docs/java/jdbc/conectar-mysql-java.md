@@ -7,6 +7,7 @@ tags: ["jdbc","connection","mysql","driver","drivermanager","preparedstatement",
 slug: java/jdbc/conectar-mysql-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 094fa368-3aea-4e79-a326-6f9d19416691
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConexionMySQL.java
 ---

@@ -7,6 +7,7 @@ tags: ["gettext","java-swing","jframe","jtextfield","jbutton","jlabel","actionli
 slug: java/swing/obtener-texto-de-jtextfield
 author: victor_cuervo
 type: doc
+topic: java
 id: f8c73bb8-1e54-41ef-9040-23033a7bab52
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/swing/ObtenerTexto.java
 ---

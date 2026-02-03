@@ -7,6 +7,7 @@ tags: ["string","split","regexp","for","for-each","bucles","array"]
 slug: java/strings/string-cortar-cadena-por-puntos
 author: Feffo
 type: doc
+topic: java
 id: d28ef433-5e1b-4270-9d6f-a895e6f51aaf
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/CortarCadenaPorPuntos.java
 ---

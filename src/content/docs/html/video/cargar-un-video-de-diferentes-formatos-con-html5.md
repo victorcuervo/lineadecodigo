@@ -7,6 +7,7 @@ tags: ["video","source","type"]
 slug: html/video/cargar-un-video-de-diferentes-formatos-con-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 2c8a9dfb-adca-816c-8899-d6569d6717a4
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/video-html5-varios-formatos.html
 ---

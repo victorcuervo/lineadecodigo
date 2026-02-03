@@ -7,6 +7,7 @@ tags: ["address","abbr","strong"]
 slug: bootstrap/texto/contactos-con-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: 104b8fd7-b1cf-4211-928c-1984926c510d
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/citas-bootstrap.html
 ---

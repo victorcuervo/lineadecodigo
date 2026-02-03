@@ -7,6 +7,7 @@ tags: []
 slug: html5/texto
 author: victor_cuervo
 type: doc
+topic: html5
 id: 2eca9dfb-adca-80a5-84f7-d2cf790c3b5e
 ---
 

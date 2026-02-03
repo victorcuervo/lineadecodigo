@@ -7,6 +7,7 @@ tags: ["len","extend","append","listas"]
 slug: python/listas/anadir-un-elemento-a-una-lista-en-python
 author: victor_cuervo
 type: doc
+topic: python
 id: a743c636-c788-4234-8ccd-b4f50cff5c09
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/add_elemento_lista.py
 ---

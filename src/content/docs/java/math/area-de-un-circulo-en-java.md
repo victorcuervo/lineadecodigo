@@ -7,6 +7,7 @@ tags: ["math","pi","pow","area"]
 slug: java/math/area-de-un-circulo-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 76b4b6c7-8de8-4ff9-978b-f1ae7a4481da
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/AreaCirculo.java
 ---

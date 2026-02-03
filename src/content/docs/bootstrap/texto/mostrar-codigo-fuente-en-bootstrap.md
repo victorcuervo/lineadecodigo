@@ -7,6 +7,7 @@ tags: ["pre","class","pre-scrollable"]
 slug: bootstrap/texto/mostrar-codigo-fuente-en-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: 90e10933-0aa2-4739-bae7-dbb3ac29498f
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/codigo-fuente-scroll.html
 ---

@@ -7,6 +7,7 @@ tags: ["background-image","url","background-repeat"]
 slug: css/imagenes/boton-con-imagen-de-fondo-en-css
 author: victor_cuervo
 type: doc
+topic: css
 id: e749ab62-83db-40b8-a3f0-2ec1c3eaa442
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/formularios/boton-con-imagen-de-fondo.html
 ---

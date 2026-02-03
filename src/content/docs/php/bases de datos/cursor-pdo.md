@@ -7,6 +7,7 @@ tags: ["pdo","pdoexception","cursor","query","foreach","select","row"]
 slug: php/bases-de-datos/cursor-pdo
 author: victor_cuervo
 type: doc
+topic: php
 id: 2c8a9dfb-adca-8168-8070-c85267037347
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/bbdd/pdo/cursor_pdo.php
 ---

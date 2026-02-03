@@ -7,6 +7,7 @@ tags: []
 slug: css/selectores-y-pseudoclases
 author: victor_cuervo
 type: category
+topic: css
 id: 2eba9dfb-adca-8007-a953-f661b43ff99b
 ---
 

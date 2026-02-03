@@ -7,6 +7,7 @@ tags: ["window","settimeout","setinterval"]
 slug: javascript/navegador/ejecutar-cuando-pasen-x-segundos-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 281a8794-08d8-426f-adc8-3c61e45e04a2
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/timers/ejecutar-a-los-x-segundos.html
 ---

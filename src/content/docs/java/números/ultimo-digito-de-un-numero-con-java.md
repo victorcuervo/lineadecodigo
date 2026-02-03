@@ -7,6 +7,7 @@ tags: ["scanner","int","modulo","operadores","nextint","println"]
 slug: java/numeros/ultimo-digito-de-un-numero-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: fd1b0049-3dcf-42fd-bbe7-09fd5d916d51
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ObtenerUltimoDigitoDeUnNumero.java
 ---

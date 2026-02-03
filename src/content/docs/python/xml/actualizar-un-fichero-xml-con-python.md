@@ -7,6 +7,7 @@ tags: ["xml","elementtree","parse","getroot","findall"]
 slug: python/xml/actualizar-un-fichero-xml-con-python
 author: victor_cuervo
 type: doc
+topic: python
 id: 6fc54efa-dd03-4a57-bc1a-233b895a6db3
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/xml/actualizar-xml.py
 ---

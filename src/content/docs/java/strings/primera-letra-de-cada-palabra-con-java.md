@@ -7,6 +7,7 @@ tags: ["substring","hasmoretokens","nexttoken","stringtokenizer","string"]
 slug: java/strings/primera-letra-de-cada-palabra-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: d4952f44-4194-4152-9a8b-e8d0fb1a8c94
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/PrimeraLetraPalabras.java
 ---

@@ -7,6 +7,7 @@ tags: ["event","onmousedown","shiftkey"]
 slug: dom/eventos/saber-si-la-tecla-shift-esta-pulsada-con-javascript
 author: victor_cuervo
 type: doc
+topic: dom
 id: a1c9bb25-5587-450c-b147-eb45aeec0182
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/teclado/controlar-pulsacion-tecla-shift.html
 ---

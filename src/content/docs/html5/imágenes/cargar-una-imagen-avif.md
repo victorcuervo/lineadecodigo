@@ -7,6 +7,7 @@ tags: ["picture","source","avif"]
 slug: html5/imagenes/cargar-una-imagen-avif
 author: victor_cuervo
 type: doc
+topic: html5
 id: a26c698b-5d0a-493a-bc96-28b9b06cd709
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Imagenes/imagen-avif.html
 ---

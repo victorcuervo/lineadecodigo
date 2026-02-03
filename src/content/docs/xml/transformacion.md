@@ -7,6 +7,7 @@ tags: []
 slug: xml/transformacion
 author: victor_cuervo
 type: category
+topic: xml
 id: 2f2a9dfb-adca-8075-bbed-fb7887486bf7
 ---
 

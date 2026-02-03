@@ -7,6 +7,7 @@ tags: ["navigator","language","onlanguagechange"]
 slug: html/documento/controlar-el-cambio-de-idioma-en-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 8d21d5ac-4d43-46ce-aa72-5677760dad40
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/P%C3%A1gina/cambio-idioma.html
 ---

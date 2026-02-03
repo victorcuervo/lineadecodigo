@@ -7,6 +7,7 @@ tags: ["java-collection","hashmap","list","sqrt"]
 slug: java/matematicos/como-obtener-la-raiz-cuadrada-de-un-numero-con-java
 author: xhrist14n
 type: doc
+topic: java
 id: b84c484a-200c-4680-a622-b2e4a34f0db2
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/RaizCuadrada.java
 ---

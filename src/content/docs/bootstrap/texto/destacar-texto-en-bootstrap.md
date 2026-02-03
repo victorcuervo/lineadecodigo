@@ -7,6 +7,7 @@ tags: ["p","class","lead"]
 slug: bootstrap/texto/destacar-texto-en-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: 161a9dd3-eef2-42b7-b413-ba36ca1d4c23
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/texto-destacado.html
 ---

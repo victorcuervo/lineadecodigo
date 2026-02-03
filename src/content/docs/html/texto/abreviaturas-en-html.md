@@ -7,6 +7,7 @@ tags: ["abbr"]
 slug: html/texto/abreviaturas-en-html
 author: victor_cuervo
 type: doc
+topic: html
 id: e2575450-df09-428b-b1f2-85ce2458f737
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/abreviaturas-en-html.html
 ---

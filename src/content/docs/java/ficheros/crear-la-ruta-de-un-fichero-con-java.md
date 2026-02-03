@@ -7,6 +7,7 @@ tags: ["getproperty","file","java-io"]
 slug: java/ficheros/crear-la-ruta-de-un-fichero-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: e14f794b-d5e0-46e3-9ef8-000cd80afd3c
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/ConstruirPath.java
 ---

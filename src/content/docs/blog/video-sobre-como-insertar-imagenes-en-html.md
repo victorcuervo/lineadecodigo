@@ -7,6 +7,7 @@ tags: ["video"]
 slug: blog/video-sobre-como-insertar-imagenes-en-html
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-813a-a8d5-d018f2272701
 ---
 

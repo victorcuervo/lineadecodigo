@@ -7,6 +7,7 @@ tags: ["getelementbyid","parentnode","removechild"]
 slug: dom/documento/eliminar-elementos-de-una-pagina-con-javascript
 author: victor_cuervo
 type: doc
+topic: dom
 id: 19ad0b9c-c331-40ef-9aad-429a672a94ec
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/dom/eliminar-elementos-de-una-pagina.html
 ---

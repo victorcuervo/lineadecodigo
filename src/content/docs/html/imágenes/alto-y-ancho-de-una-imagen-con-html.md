@@ -7,6 +7,7 @@ tags: ["imagenes","img","width","height"]
 slug: html/imagenes/alto-y-ancho-de-una-imagen-con-html
 author: victor_cuervo
 type: doc
+topic: html
 id: f3a0ed41-fe08-4004-a1fd-db4da5417ff9
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/imagenes/alto-ancho-imagen.html
 ---

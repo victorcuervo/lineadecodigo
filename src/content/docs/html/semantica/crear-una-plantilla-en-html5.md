@@ -7,6 +7,7 @@ tags: ["template","createelement","queryselector","queryselectorall","clonenode"
 slug: html/semantica/crear-una-plantilla-en-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: eff9f1c3-bc91-47bf-8848-77063a5c521f
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/template-html5.html
 ---

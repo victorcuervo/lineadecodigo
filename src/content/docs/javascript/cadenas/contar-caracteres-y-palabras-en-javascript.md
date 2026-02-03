@@ -7,6 +7,7 @@ tags: ["getelementbyid","regexp","replace","split"]
 slug: javascript/cadenas/contar-caracteres-y-palabras-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: dc040556-b270-440b-b3f2-4551d527f8c7
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/contar-caracteres-palabras.html
 ---

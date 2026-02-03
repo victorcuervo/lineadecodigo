@@ -7,6 +7,7 @@ tags: ["bucles","while"]
 slug: java/numeros/la-conjetura-capicua-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: a0fe32b6-65df-4822-bf3d-8cae6e288b47
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ConjeturaCapicua.java
 ---

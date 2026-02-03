@@ -7,6 +7,7 @@ tags: ["atributo"]
 slug: xml/estructura/atributo-con-valor-por-defecto-en-xml
 author: xhrist14n
 type: doc
+topic: xml
 id: cdb2a7b9-131a-42f5-9701-8bbed4556b71
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/dtd/atributo-valor-por-defecto.dtd
 ---

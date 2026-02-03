@@ -7,6 +7,7 @@ tags: ["applet","awt","graphics","paint"]
 slug: java/awt/mi-primer-applet
 author: victor_cuervo
 type: doc
+topic: java
 id: 2ff9e905-1cbe-4e30-bb5d-d1a85eb48809
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/applet/MiPrimerApplet.java
 ---

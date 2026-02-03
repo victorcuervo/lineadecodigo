@@ -7,6 +7,7 @@ tags: ["bucles","while","cadena","rand","preg_replace"]
 slug: php/cadenas/reemplazar-caracteres-en-una-cadena-php
 author: victor_cuervo
 type: doc
+topic: php
 id: ec20c39e-84b6-4aa7-af99-c8a6a9ed4989
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/cadenas/reemplazar-cadenas.php
 ---

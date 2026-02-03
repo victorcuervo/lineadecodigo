@@ -7,6 +7,7 @@ tags: ["if","string","stringbuffer","reverse","replace"]
 slug: java/strings/palindromos-en-java-con-reverse
 author: victor_cuervo
 type: doc
+topic: java
 id: 98571c42-53f7-4566-9f48-8185634425cc
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/PalindromoConReverse.java
 ---

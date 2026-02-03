@@ -7,6 +7,7 @@ tags: ["mongodb","mongoclient","find_one","hola-mundo"]
 slug: python/pymongo/hola-mundo-con-pymongo
 author: victor_cuervo
 type: doc
+topic: python
 id: c5177e91-b244-4c58-ae51-12844d3948d1
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/pymongo/hola-mundo-pymongo.py
 ---

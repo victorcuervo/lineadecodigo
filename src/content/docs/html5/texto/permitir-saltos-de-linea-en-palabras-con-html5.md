@@ -7,6 +7,7 @@ tags: ["br","salto-de-linea","wbr"]
 slug: html5/texto/permitir-saltos-de-linea-en-palabras-con-html5
 author: victor_cuervo
 type: doc
+topic: html5
 id: 3bceeaaf-8979-4216-a4ae-bd8bb2c5ea15
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/permitir-salto-linea.html
 ---

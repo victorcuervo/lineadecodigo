@@ -7,6 +7,7 @@ tags: ["clase","atributos","getter","setter","class","objeto","public","private"
 slug: php/clases/crear-una-clase-en-php
 author: victor_cuervo
 type: doc
+topic: php
 id: 030d4e24-c624-4206-ae7b-35a523116729
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/objetos/crear-clase.php
 ---

@@ -7,6 +7,7 @@ tags: ["file","java-io","renameto"]
 slug: java/ficheros/renombrar-un-fichero-con-java-io
 author: victor_cuervo
 type: doc
+topic: java
 id: 43da5d57-9749-430c-a3d4-ccb635eb2f38
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/io/RenombrarFicheros.java
 ---

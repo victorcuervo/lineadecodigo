@@ -7,6 +7,7 @@ tags: ["hashset","iterator","next","set","hasnext","java-collection"]
 slug: java/colecciones/listar-un-conjunto
 author: victor_cuervo
 type: doc
+topic: java
 id: 2c8a9dfb-adca-81aa-8cbb-eff3f63beaff
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/ListarConjunto.java
 ---

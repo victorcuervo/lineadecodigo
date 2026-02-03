@@ -7,6 +7,7 @@ tags: ["fechas","locale","console","date","intl","tolocaletimestring"]
 slug: javascript/fechas/formato-de-horas-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: eaca2178-f9c4-409a-979d-96a79905b106
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/fechas/formatear-horas.js
 ---

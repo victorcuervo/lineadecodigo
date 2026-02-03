@@ -7,6 +7,7 @@ tags: ["strong","b"]
 slug: bootstrap/texto/texto-en-negrita-con-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: 40db2034-8609-4814-bea7-b2ab4fd7ec25
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/texto-negrita.html
 ---

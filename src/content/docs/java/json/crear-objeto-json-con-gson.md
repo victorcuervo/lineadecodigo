@@ -7,6 +7,7 @@ tags: ["json","maven","clase","objeto"]
 slug: java/json/crear-objeto-json-con-gson
 author: victor_cuervo
 type: doc
+topic: java
 id: b0a40eac-caf8-4d58-af82-fa3283b465cd
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/json/ObjetoJSONGson.java
 ---

@@ -7,6 +7,7 @@ tags: ["localstorage","setitem","getitem"]
 slug: webapi/almacenamiento/acceder-a-la-cache-local-del-navegador-con-html5
 author: victor_cuervo
 type: doc
+topic: webapi
 id: 2c8a9dfb-adca-813d-8c58-d532f060b2ba
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/WebStorage/insertar-elemento/insertar-elemento-web-storage.html
 ---

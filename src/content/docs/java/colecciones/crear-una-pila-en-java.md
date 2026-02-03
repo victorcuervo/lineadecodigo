@@ -7,6 +7,7 @@ tags: ["java-collection","stack","integer","vector","string","lifo","push","pop"
 slug: java/colecciones/crear-una-pila-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 52bab059-93ba-4445-ab0e-eac7ac7f6997
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/Pila.java
 ---

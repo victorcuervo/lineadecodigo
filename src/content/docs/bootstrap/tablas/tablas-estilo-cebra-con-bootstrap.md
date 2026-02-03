@@ -7,6 +7,7 @@ tags: ["table","class","table-striped"]
 slug: bootstrap/tablas/tablas-estilo-cebra-con-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: a8c9005d-9f62-43ab-9383-ddc2acbf20e6
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/tablas/striped-table.html
 video: U9ZLGohhcdY

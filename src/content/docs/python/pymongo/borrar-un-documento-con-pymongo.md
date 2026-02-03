@@ -7,6 +7,7 @@ tags: ["mongoclient","db","delete_one","delete_many","deleted_count"]
 slug: python/pymongo/borrar-un-documento-con-pymongo
 author: victor_cuervo
 type: doc
+topic: python
 id: 709c7393-07fc-4d3a-af63-265d801d5c91
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/pymongo/delete-pymongo.py
 ---

@@ -7,6 +7,7 @@ tags: ["array","length","elementos","arraycopy"]
 slug: java/arrays/copiar-dos-arrays-en-uno-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 30143c5d-0c8f-43db-adab-89f3faa66399
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/CopiarArrays.java
 ---

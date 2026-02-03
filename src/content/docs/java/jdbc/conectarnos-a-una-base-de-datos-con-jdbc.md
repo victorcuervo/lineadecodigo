@@ -7,6 +7,7 @@ tags: ["driver","jdbc","connection","resultset","statement","executequery","clos
 slug: java/jdbc/conectarnos-a-una-base-de-datos-con-jdbc
 author: victor_cuervo
 type: doc
+topic: java
 id: c319e291-0b9a-4f2b-a069-516f7cfc0678
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConexionBaseDatos.java
 ---

@@ -7,6 +7,7 @@ tags: ["video","onwaiting"]
 slug: html5/video/cargas-inestables-de-videos-en-html5
 author: victor_cuervo
 type: doc
+topic: html5
 id: a1ae4731-2a2f-46e7-87c7-a8e42caaaea2
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/control-esperas-carga-video.html
 ---

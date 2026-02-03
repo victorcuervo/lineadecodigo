@@ -7,6 +7,7 @@ tags: ["navigator","useragent","appversion","appname"]
 slug: javascript/navegador/nombre-y-version-del-navegador
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 3ae0469b-6bca-447b-a2d0-0777531f3d17
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/browser/nombre-version-navegador.html
 ---

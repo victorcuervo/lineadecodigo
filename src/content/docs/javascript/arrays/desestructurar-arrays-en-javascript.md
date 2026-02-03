@@ -7,6 +7,7 @@ tags: ["array","variables"]
 slug: javascript/arrays/desestructurar-arrays-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 68b2a2d4-cd95-4fd0-808b-bb7dbf508eaf
 download: https://github.com/victorcuervo/lineadecodigo_javascript
 ---

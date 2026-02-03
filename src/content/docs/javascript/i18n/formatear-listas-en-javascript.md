@@ -7,6 +7,7 @@ tags: ["intl","listformat","bcp47","format"]
 slug: javascript/i18n/formatear-listas-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 2c8a9dfb-adca-81af-b224-ef7c1a8077f3
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/i18n/formatear-lista.js
 ---

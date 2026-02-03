@@ -7,6 +7,7 @@ tags: ["matriz","bucles","for","array","restas"]
 slug: java/arrays/restar-matrices-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 3d96c38d-78a0-4f88-b141-9f0af0715443
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/RestarMatriz.java
 ---

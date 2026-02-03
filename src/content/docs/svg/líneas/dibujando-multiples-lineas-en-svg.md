@@ -7,6 +7,7 @@ tags: ["polyline","points","stroke","stroke-width","fill"]
 slug: svg/lineas/dibujando-multiples-lineas-en-svg
 author: victor_cuervo
 type: doc
+topic: svg
 id: 2c8a9dfb-adca-817f-af18-da47d8c7cb5d
 ---
 

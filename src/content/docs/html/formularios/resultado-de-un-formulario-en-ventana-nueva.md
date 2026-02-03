@@ -7,6 +7,7 @@ tags: ["form","target","_blank"]
 slug: html/formularios/resultado-de-un-formulario-en-ventana-nueva
 author: victor_cuervo
 type: doc
+topic: html
 id: ee4810fe-8d5c-4a18-8c33-833cd0830ebd
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/formularios/abrir-formulario-en-nueva-ventana.html
 ---

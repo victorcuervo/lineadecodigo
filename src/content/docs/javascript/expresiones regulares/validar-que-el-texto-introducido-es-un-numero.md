@@ -7,6 +7,7 @@ tags: ["eventos","form","input","regexp"]
 slug: javascript/expresiones-regulares/validar-que-el-texto-introducido-es-un-numero
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 84f68d8e-fc5b-43f4-a5e9-8a2d33e32183
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/validar-numerico.html
 ---

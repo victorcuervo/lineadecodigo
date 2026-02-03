@@ -7,6 +7,7 @@ tags: ["array","join","new","document","write"]
 slug: javascript/arrays/convertir-un-array-en-una-cadena-con-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: ecaf3ed2-c893-448d-9ea9-977a3a399ee7
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/cadenas/convertir-array-en-cadena.html
 ---

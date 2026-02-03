@@ -7,6 +7,7 @@ tags: ["form","dialog","showmodal"]
 slug: html/formularios/formulario-en-ventana-dialogo-con-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 67ce2216-067e-45de-8ecc-8fd58495080a
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/ventana-dialogo-formulario.html
 ---

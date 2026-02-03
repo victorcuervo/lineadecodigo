@@ -7,6 +7,7 @@ tags: ["max","scanner","nextint","math"]
 slug: java/math/mayor-de-dos-numeros-con-la-clase-math
 author: Víctor Cuervo
 type: doc
+topic: java
 id: 527a7bf7-734b-4689-b5fc-770ab0d636cc
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/MayorDosNumerosMath.java
 ---

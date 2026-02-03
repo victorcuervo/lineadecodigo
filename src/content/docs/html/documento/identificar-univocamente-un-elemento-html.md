@@ -7,6 +7,7 @@ tags: ["div","img","id"]
 slug: html/documento/identificar-univocamente-un-elemento-html
 author: victor_cuervo
 type: doc
+topic: html
 id: 608898b1-cf78-40f4-b929-914059435999
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/basicos/identificar-univocamente.html
 ---

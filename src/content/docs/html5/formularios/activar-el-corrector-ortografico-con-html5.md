@@ -7,6 +7,7 @@ tags: ["textarea","spellcheck"]
 slug: html5/formularios/activar-el-corrector-ortografico-con-html5
 author: victor_cuervo
 type: doc
+topic: html5
 id: 5513dbc8-656b-46d6-8e38-816cf75db05d
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/corrector-ortografico.html
 ---

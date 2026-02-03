@@ -7,6 +7,7 @@ tags: ["array","matriz","deeptostring"]
 slug: java/arrays/convertir-matriz-en-cadena-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 0be45d06-791c-40e8-b025-8e5eec6f776a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MatrizACadena.java
 ---

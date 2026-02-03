@@ -7,6 +7,7 @@ tags: []
 slug: html5/formularios
 author: victor_cuervo
 type: category
+topic: html5
 id: 2eca9dfb-adca-800f-964b-dbe8e97b1a75
 ---
 

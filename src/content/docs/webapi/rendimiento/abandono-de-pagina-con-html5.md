@@ -7,6 +7,7 @@ tags: ["beforeunload","addeventlistener"]
 slug: webapi/rendimiento/abandono-de-pagina-con-html5
 author: victor_cuervo
 type: doc
+topic: webapi
 id: bd9bab30-fab8-449f-a781-688b28585b9f
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/P%C3%A1gina/controlar-abandono-pagina.html
 ---

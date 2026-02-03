@@ -7,6 +7,7 @@ tags: ["java-io","inputstream","process","runtime","exec"]
 slug: java/system/como-ejecutar-un-comando-del-sistema-desde-java
 author: Feffo
 type: doc
+topic: java
 id: afe03bfe-ea62-4bf5-8dd3-21d2e2b6f7a8
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/system/EjecutarUnComando.java
 ---

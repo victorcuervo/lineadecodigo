@@ -7,6 +7,7 @@ tags: ["comentarios"]
 slug: java/basicos/comentarios-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 56dc1184-dcc9-4c79-a43e-185cd1996d2a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ComentariosEnJava.java
 ---

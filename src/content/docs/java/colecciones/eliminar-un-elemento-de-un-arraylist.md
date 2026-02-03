@@ -7,6 +7,7 @@ tags: ["java-collection","arraylist","hasnext","remove","next","add"]
 slug: java/colecciones/eliminar-un-elemento-de-un-arraylist
 author: victor_cuervo
 type: doc
+topic: java
 id: 3637b6b2-38b2-4c4a-a6a8-5a7a637070ed
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/EliminarElementoLista.java
 ---

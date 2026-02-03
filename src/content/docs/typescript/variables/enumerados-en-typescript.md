@@ -7,6 +7,7 @@ tags: ["let","variable","enum"]
 slug: typescript/variables/enumerados-en-typescript
 author: victor_cuervo
 type: doc
+topic: typescript
 id: 7e5f2e4a-8fd8-4f2a-9318-94fcf7bb1ab5
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/basicos/enumerados.ts
 ---

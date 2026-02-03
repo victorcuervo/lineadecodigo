@@ -7,6 +7,7 @@ tags: ["string","substring"]
 slug: java/strings/extraer-una-parte-de-una-cadena
 author: victor_cuervo
 type: doc
+topic: java
 id: 90efac9a-a638-48c1-8ec9-8bf3d1a0a5cd
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ExtraerCadena.java
 ---

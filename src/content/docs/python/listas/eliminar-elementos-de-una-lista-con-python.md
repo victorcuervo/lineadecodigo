@@ -7,6 +7,7 @@ tags: ["listas","pop","remove","del","for-in"]
 slug: python/listas/eliminar-elementos-de-una-lista-con-python
 author: victor_cuervo
 type: doc
+topic: python
 id: f84af8d4-da34-4eb0-84fe-445aa2317483
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/eliminar-elemento-lista.py
 ---

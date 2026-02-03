@@ -7,6 +7,7 @@ tags: ["prime","sexagesimal"]
 slug: html/entidades/notacion-sexagesimal-en-html
 author: victor_cuervo
 type: doc
+topic: html
 id: 283d03d4-2f7c-4b06-9127-5f6d9993f698
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/grado-sexagesimal.html
 ---

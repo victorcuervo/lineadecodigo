@@ -7,6 +7,7 @@ tags: ["recursividad","reverse","cadena","function","metodos","string","stringbu
 slug: java/strings/invertir-una-cadena-con-recursividad-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: a71e4116-8ac2-47b2-b556-ed9d4a5c1be7
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ReverseRecursivo.java
 ---

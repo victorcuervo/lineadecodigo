@@ -7,6 +7,7 @@ tags: ["double","integer","math","string","scanner"]
 slug: java/numeros/primer-digito-de-un-numero-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: d21ca6ac-4439-4337-8fc8-96cf016db9f4
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ObtenerPrimerDigitoDeUnNumero.java
 ---

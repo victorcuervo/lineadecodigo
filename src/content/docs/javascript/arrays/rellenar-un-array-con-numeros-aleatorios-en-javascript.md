@@ -7,6 +7,7 @@ tags: ["array","funcion-arrow","console-log","math","from","random"]
 slug: javascript/arrays/rellenar-un-array-con-numeros-aleatorios-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 05254c08-dc74-485c-a523-ebe2027a50b3
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/rellenar-array-numeros-aleatorios.js
 ---

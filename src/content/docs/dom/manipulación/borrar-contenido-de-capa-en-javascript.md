@@ -7,6 +7,7 @@ tags: ["div","capa","getelementbyid","innerhtml","addeventlistener"]
 slug: dom/manipulacion/borrar-contenido-de-capa-en-javascript
 author: victor_cuervo
 type: doc
+topic: dom
 id: 553f7910-afcd-4cce-a398-20f0622b1579
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/eliminar-contenido-capa.html
 ---

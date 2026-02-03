@@ -7,6 +7,7 @@ tags: ["regexp","string","validation","Java Básicos","java-util","matcher","pat
 slug: java/expresiones-regulares/validar-si-un-dato-es-numerico-con-patrones-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 631051c6-075c-43fe-bf96-9ed06cd4190e
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/IsNumericPattern.java
 ---

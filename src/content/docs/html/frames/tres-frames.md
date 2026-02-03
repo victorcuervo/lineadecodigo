@@ -7,6 +7,7 @@ tags: ["frame","frameset","rows","cols","noframes"]
 slug: html/frames/tres-frames
 author: victor_cuervo
 type: doc
+topic: html
 id: 2c8a9dfb-adca-8156-b1e7-fa1b5e161fb3
 download: https://github.com/victorcuervo/lineadecodigo_html/tree/master/frames/tres-frames
 ---

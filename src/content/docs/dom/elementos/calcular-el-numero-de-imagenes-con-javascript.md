@@ -7,6 +7,7 @@ tags: ["length","img","images"]
 slug: dom/elementos/calcular-el-numero-de-imagenes-con-javascript
 author: victor_cuervo
 type: doc
+topic: dom
 id: a5b73591-44ff-450e-848f-3c97e6ec42c5
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/numero-imagenes-de-un-documento.html
 ---

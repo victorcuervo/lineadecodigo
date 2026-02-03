@@ -7,6 +7,7 @@ tags: []
 slug: html5/imagenes
 author: victor_cuervo
 type: category
+topic: html5
 id: 2eca9dfb-adca-8043-92e2-cd1e01b9c720
 ---
 

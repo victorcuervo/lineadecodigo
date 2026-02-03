@@ -7,6 +7,7 @@ tags: ["javazoom","basicplayer"]
 slug: java/audio/reproducir-musica-por-java
 author: Pablo Ruiz
 type: doc
+topic: java
 id: 36d67466-697c-4c33-b106-a0a01d4e6df6
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/music/Reproductor.java
 ---

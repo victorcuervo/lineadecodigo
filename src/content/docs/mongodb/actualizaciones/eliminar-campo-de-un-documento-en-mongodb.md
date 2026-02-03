@@ -7,6 +7,7 @@ tags: ["update","unset"]
 slug: mongodb/actualizaciones/eliminar-campo-de-un-documento-en-mongodb
 author: victor_cuervo
 type: doc
+topic: mongodb
 id: 0e9d66cd-d195-41fd-b92b-d065efdec94d
 download: https://github.com/victorcuervo/lineadecodigo_mongodb/blob/master/mongodb-crud/borrar-campo.js
 ---

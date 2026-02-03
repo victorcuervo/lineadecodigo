@@ -7,6 +7,7 @@ tags: ["string","length","charat","ascii","cadena"]
 slug: java/strings/obtener-los-codigos-ascii-de-una-cadena-de-texto
 author: victor_cuervo
 type: doc
+topic: java
 id: 6427f4da-8918-4d44-afb8-e2b0358f9f93
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/CodigosASCIICadena.java
 ---

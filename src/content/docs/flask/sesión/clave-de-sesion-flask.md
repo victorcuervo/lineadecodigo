@@ -7,6 +7,7 @@ tags: ["os","session","clave","urandom"]
 slug: flask/sesion/clave-de-sesion-flask
 author: victor_cuervo
 type: doc
+topic: flask
 id: 2727f02a-56e2-4546-b1c7-aec70fdf7fed
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/sesion-clave.py
 ---

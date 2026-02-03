@@ -7,6 +7,7 @@ tags: ["canvas","fillrect","fillstyle","getcontext"]
 slug: html5/graficos/crear-un-canvas-en-html5
 author: victor_cuervo
 type: doc
+topic: html5
 id: 5e3dc4f0-bb52-47e5-a498-6cef23d801c2
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas/crear-canvas.html
 ---

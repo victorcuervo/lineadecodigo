@@ -7,6 +7,7 @@ tags: ["xml","elementtree","parse","lista"]
 slug: python/xml/insertar-elementos-xml-con-python
 author: victor_cuervo
 type: doc
+topic: python
 id: f6e4bcdf-d35b-4220-9443-4fd2bae309bc
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/xml/insertar-elementos-xml.py
 ---

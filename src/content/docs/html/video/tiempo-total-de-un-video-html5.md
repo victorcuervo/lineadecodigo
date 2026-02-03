@@ -7,6 +7,7 @@ tags: ["video","loadeddata","duration"]
 slug: html/video/tiempo-total-de-un-video-html5
 author: victor_cuervo
 type: doc
+topic: html
 id: 776f8ff5-1d12-4f73-9698-c494759a098a
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/tiempo-total-video.html
 ---

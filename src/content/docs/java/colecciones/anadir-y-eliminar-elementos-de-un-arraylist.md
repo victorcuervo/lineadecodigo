@@ -7,6 +7,7 @@ tags: ["java-collection","arraylist","bucles","while","add","do-while","remove",
 slug: java/colecciones/anadir-y-eliminar-elementos-de-un-arraylist
 author: victor_cuervo
 type: doc
+topic: java
 id: 958e3ee6-88fc-485e-a5e3-d3a6900ba035
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/AddingDeletingElementsArrayList.java
 ---

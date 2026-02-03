@@ -7,6 +7,7 @@ tags: ["array","bucles","for"]
 slug: javascript/arrays/recorrer-un-array-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: c8215c7c-bb4c-4ae3-aa39-b9413f684d7d
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/recorrer-array.js
 ---

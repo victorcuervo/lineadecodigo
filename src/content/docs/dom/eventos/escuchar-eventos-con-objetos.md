@@ -7,6 +7,7 @@ tags: ["eventtarget","addeventlistener","event","handleevent","type","eventmanag
 slug: dom/eventos/escuchar-eventos-con-objetos
 author: victor_cuervo
 type: doc
+topic: dom
 id: e4ca05dc-aee9-4db3-8e1f-492e36166319
 download: https://github.com/victorcuervo/lineadecodigo_dom/blob/main/eventos/escuchar-evento-objeto.html
 ---

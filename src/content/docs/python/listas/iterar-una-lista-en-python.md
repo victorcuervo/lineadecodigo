@@ -7,6 +7,7 @@ tags: ["lista","foreach","for-in"]
 slug: python/listas/iterar-una-lista-en-python
 author: victor_cuervo
 type: doc
+topic: python
 id: df48da0f-ed49-4391-9395-686cc28b904c
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/iterar_lista.py
 ---

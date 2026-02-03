@@ -7,6 +7,7 @@ tags: ["borde","circulo","stroke","stroke-width","style"]
 slug: svg/figuras/circulos-con-borde-en-svg
 author: victor_cuervo
 type: doc
+topic: svg
 id: d129c605-a99b-406b-8c4c-510339c4b1c0
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/figuras/circulo-con-borde.svg
 ---

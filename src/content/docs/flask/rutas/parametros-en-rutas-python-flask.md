@@ -7,6 +7,7 @@ tags: ["route","get","def","parametros"]
 slug: flask/rutas/parametros-en-rutas-python-flask
 author: victor_cuervo
 type: doc
+topic: flask
 id: 170afe0b-fa9b-413f-882f-747e4812a62f
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/parametroget.py
 ---

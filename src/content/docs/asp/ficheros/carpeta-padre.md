@@ -7,6 +7,7 @@ tags: ["carpeta","filesystemobject","createobject"]
 slug: asp/ficheros/carpeta-padre
 author: victor_cuervo
 type: doc
+topic: asp
 id: 2c5a9dfb-adca-8020-bb1b-d4af490a59e3
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/ficheros/carpeta-padre.asp
 ---

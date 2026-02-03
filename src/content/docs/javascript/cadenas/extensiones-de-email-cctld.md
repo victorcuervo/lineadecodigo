@@ -7,6 +7,7 @@ tags: ["email","array","while","substr","cctld"]
 slug: javascript/cadenas/extensiones-de-email-cctld
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 2c8a9dfb-adca-81d1-bec5-fc82f07fe3f0
 download: https://github.com/victorcuervo/lineadecodigo_javascript/tree/master/validaciones/ccTLD
 ---

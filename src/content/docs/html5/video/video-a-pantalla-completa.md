@@ -7,6 +7,7 @@ tags: ["video","getelementbyid","requestfullscreen"]
 slug: html5/video/video-a-pantalla-completa
 author: victor_cuervo
 type: doc
+topic: html5
 id: 7616d993-b062-4e4c-bb5d-cc3132e10a69
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Fullscreen%20API/video-pantalla-completa.html
 ---

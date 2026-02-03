@@ -7,6 +7,7 @@ tags: ["string","stream","chars","foreach","filter","parallel"]
 slug: java/stream/string-como-stream-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 26d8d041-dc47-40b9-95f3-ef7010bed256
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/stream/CadenaComoStream.java
 ---

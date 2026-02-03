@@ -7,6 +7,7 @@ tags: ["hi5","background-repeat","background-attachment","background-image"]
 slug: html/imagenes/fondo-de-pantalla-estatico-en-hi5com
 author: victor_cuervo
 type: doc
+topic: html
 id: 2c8a9dfb-adca-8153-ace5-d0c467b41710
 ---
 

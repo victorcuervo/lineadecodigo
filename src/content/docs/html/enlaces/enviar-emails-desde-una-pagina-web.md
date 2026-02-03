@@ -7,6 +7,7 @@ tags: ["mailto","form","action","email"]
 slug: html/enlaces/enviar-emails-desde-una-pagina-web
 author: victor_cuervo
 type: doc
+topic: html
 id: c77ec9a8-b0cd-42cf-b213-16294b42afb8
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/enviar-emails-desde-pagina-web.html
 ---

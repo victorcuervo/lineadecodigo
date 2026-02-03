@@ -7,6 +7,7 @@ tags: ["string","let","variable"]
 slug: typescript/cadenas/cadenas-de-multiples-lineas-en-typescript
 author: victor_cuervo
 type: doc
+topic: typescript
 id: 84ac6a7d-dec6-4d2c-a9c0-f1ef7ff858d9
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/basicos/cadena-multilinea.ts
 ---

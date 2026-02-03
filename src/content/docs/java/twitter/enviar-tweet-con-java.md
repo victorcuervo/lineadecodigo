@@ -7,6 +7,7 @@ tags: ["twitter4j","tweet","twitterexception","try-catch"]
 slug: java/twitter/enviar-tweet-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 2c8a9dfb-adca-81b8-8813-e21983b73ceb
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/twitter/EnviarTweet.java
 ---

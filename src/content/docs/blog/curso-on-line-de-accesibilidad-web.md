@@ -7,6 +7,7 @@ tags: ["cursos"]
 slug: blog/curso-on-line-de-accesibilidad-web
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-8155-9356-ef065442da09
 ---
 

@@ -7,6 +7,7 @@ tags: ["integer","numberformatexception","apache-commons"]
 slug: java/numeros/validar-si-un-dato-es-numerico-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 8856cb41-20bf-4602-b36e-ef34a17949f1
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/IsNumeric.java
 ---

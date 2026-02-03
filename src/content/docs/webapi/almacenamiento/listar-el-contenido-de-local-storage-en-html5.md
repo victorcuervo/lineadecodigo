@@ -7,6 +7,7 @@ tags: ["localstorage","getitem","key","length"]
 slug: webapi/almacenamiento/listar-el-contenido-de-local-storage-en-html5
 author: victor_cuervo
 type: doc
+topic: webapi
 id: 89402d25-305d-4288-8a13-b12faf2ecf70
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/WebStorage/listar-contenido/listar-contenido-web-storage.html
 ---

@@ -7,6 +7,7 @@ tags: ["form","form-group","form-horizontal"]
 slug: bootstrap/formularios/formulario-horizontal-con-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: 777df9f9-6ff3-444d-a77f-78fd1821f463
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/formularios/formulario-horizontal.html
 ---

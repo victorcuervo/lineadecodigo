@@ -7,6 +7,7 @@ tags: ["recursividad","sumas"]
 slug: java/matematicos/numero-en-sumas-de-unidades-recursivo
 author: victor_cuervo
 type: doc
+topic: java
 id: f220314f-d769-4549-99ec-e6ea64fc1287
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroSumasRecursivas.java
 ---

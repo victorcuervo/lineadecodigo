@@ -7,6 +7,7 @@ tags: ["string","touppercase","tolowercase","stream","collector","intstream","ma
 slug: java/stream/caracteres-en-mayusculas-y-minusculas-con-un-stream
 author: victor_cuervo
 type: doc
+topic: java
 id: c0d47453-6a55-4916-af8e-eadcf4f87249
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/stream/MayusculasMinusculasStream.java
 ---

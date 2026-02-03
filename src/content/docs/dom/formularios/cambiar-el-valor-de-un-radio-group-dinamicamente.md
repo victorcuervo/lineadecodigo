@@ -7,6 +7,7 @@ tags: ["form","input","checked","getelementbyid","name"]
 slug: dom/formularios/cambiar-el-valor-de-un-radio-group-dinamicamente
 author: victor_cuervo
 type: doc
+topic: dom
 id: 7d74ea1e-5e29-4c38-8fac-cf31de03c25f
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/cambiar-estado-radio-group.html
 ---

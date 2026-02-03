@@ -7,6 +7,7 @@ tags: ["navigator","online","offline"]
 slug: webapi/navegador/online-y-offline-en-html5
 author: victor_cuervo
 type: doc
+topic: webapi
 id: bbdcf763-2ee3-4eab-961d-22c25af9e8ff
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Device/Offline/detectar-offline.html
 ---

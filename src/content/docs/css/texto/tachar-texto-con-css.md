@@ -7,6 +7,7 @@ tags: ["strike","text-decoration","line-through","class"]
 slug: css/texto/tachar-texto-con-css
 author: victor_cuervo
 type: doc
+topic: css
 id: 47700609-afe2-490e-80c4-22f3c922fc29
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/tachar-texto.html
 ---

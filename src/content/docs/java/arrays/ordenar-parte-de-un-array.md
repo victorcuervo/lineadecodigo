@@ -7,6 +7,7 @@ tags: ["array"]
 slug: java/arrays/ordenar-parte-de-un-array
 author: victor_cuervo
 type: doc
+topic: java
 id: 2c8a9dfb-adca-814e-8956-ee916144b527
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/OrdernarParteArray.java
 ---

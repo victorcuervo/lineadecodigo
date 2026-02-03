@@ -7,6 +7,7 @@ tags: ["template","render_template","lista","for"]
 slug: flask/plantillas/templates-con-listas-en-flask
 author: victor_cuervo
 type: doc
+topic: flask
 id: 13c01a28-0aa8-4050-9394-8f5cbdb57f1f
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/lista.py
 ---

@@ -7,6 +7,7 @@ tags: ["array"]
 slug: java/arrays/invertir-array
 author: Pablo Ruiz
 type: doc
+topic: java
 id: 128f9059-c3e9-4a94-81c3-ca3e5a0e0906
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/InvertirArray.java
 ---

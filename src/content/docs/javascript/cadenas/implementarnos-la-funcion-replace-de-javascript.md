@@ -7,6 +7,7 @@ tags: ["string","array","split","join","replace"]
 slug: javascript/cadenas/implementarnos-la-funcion-replace-de-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 2c8a9dfb-adca-81b9-bda2-e0e6537247db
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/cadenas/funcion-replace-javascript.html
 ---

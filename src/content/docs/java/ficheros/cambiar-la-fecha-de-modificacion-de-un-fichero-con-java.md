@@ -7,6 +7,7 @@ tags: ["file","currenttimemillis","system","java-io","setlastmodified"]
 slug: java/ficheros/cambiar-la-fecha-de-modificacion-de-un-fichero-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: f418d2e9-0476-4c9a-910f-d7ec28db87e6
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/CambiarFechaModificacionFichero.java
 ---

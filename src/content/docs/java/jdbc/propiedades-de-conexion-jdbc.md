@@ -7,6 +7,7 @@ tags: ["properties","connection","drivermanager","preparedstatement","mysql"]
 slug: java/jdbc/propiedades-de-conexion-jdbc
 author: victor_cuervo
 type: doc
+topic: java
 id: ee8133ce-9341-477b-8768-c3f19933b342
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConexionConProperties.java
 ---

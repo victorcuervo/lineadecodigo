@@ -7,6 +7,7 @@ tags: ["arraycopy","exception","indexoutofboundsexception","array","bucles","for
 slug: java/arrays/copiar-arrays-en-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 5fcb0da1-3841-4cbf-b72b-853434bb9739
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/CopiarArrays.java
 ---

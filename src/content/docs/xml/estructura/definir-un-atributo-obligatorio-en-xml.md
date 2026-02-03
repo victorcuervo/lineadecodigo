@@ -7,6 +7,7 @@ tags: ["dtd","atributo","required"]
 slug: xml/estructura/definir-un-atributo-obligatorio-en-xml
 author: xhrist14n
 type: doc
+topic: xml
 id: 61216af6-b0ba-4bd2-9c4b-355d7c730560
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/dtd/atributo-obligatorio.dtd
 ---

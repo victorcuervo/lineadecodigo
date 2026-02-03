@@ -7,6 +7,7 @@ tags: ["xmlhttprequest","getelementbyid","cabeceras","http"]
 slug: javascript/navegador/obtener-cabeceras-con-xmlhttprequest
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 2c8a9dfb-adca-8111-abdf-f84f3ec54cf6
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/xmlhttrequest/cabecerashttprequest.html
 ---

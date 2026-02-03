@@ -7,6 +7,7 @@ tags: ["const"]
 slug: typescript/variables/constantes-en-typescript
 author: victor_cuervo
 type: doc
+topic: typescript
 id: e027d866-6c71-4c99-a022-2fdf2b1e99be
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/basicos/constantes.ts
 ---

@@ -7,6 +7,7 @@ tags: ["frame","scrollbar","scrolling","frameset"]
 slug: html/frames/frames-sin-barra-de-scroll
 author: victor_cuervo
 type: doc
+topic: html
 id: 2c5a9dfb-adca-8027-84bd-eecbe17f3e0c
 download: https://github.com/victorcuervo/lineadecodigo/tree/master/lineadecodigo_html/frames/frame-sin-barra-de-scroll
 ---

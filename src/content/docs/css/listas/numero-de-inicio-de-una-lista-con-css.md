@@ -7,6 +7,7 @@ tags: ["counter-reset","list-style","before","counter-increment"]
 slug: css/listas/numero-de-inicio-de-una-lista-con-css
 author: victor_cuervo
 type: doc
+topic: css
 id: 88248daa-ec8c-4d38-879c-cb1307409f42
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/listas/valor-inicio-lista.html
 ---

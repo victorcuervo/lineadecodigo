@@ -7,6 +7,7 @@ tags: ["servlet","session","doget","httpsession","setmaxinactiveInterval"]
 slug: javaee/servlet/timeout-de-sesion-en-un-servlet-por-codigo
 author: victor_cuervo
 type: doc
+topic: javaee
 id: fa023d92-c015-432e-9ab7-56e348bc3549
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/java/com/lineadecodigo/javaee/servlet/TimeoutSession.java
 ---

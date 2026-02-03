@@ -7,6 +7,7 @@ tags: ["comentarios"]
 slug: python/basicos/comentarios-en-python
 author: victor_cuervo
 type: doc
+topic: python
 id: 7b67d5aa-9ffd-407b-a2d6-0ad9384ec965
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/comentarios.py
 ---

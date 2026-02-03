@@ -7,6 +7,7 @@ tags: ["document","length","write","anchors"]
 slug: dom/elementos/numero-de-enlaces-del-documento
 author: victor_cuervo
 type: doc
+topic: dom
 id: e75e62c1-99b6-474a-ac8d-a3bf9f85edf2
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/numero-enlaces-del-documento.html
 ---

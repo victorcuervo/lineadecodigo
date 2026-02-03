@@ -7,6 +7,7 @@ tags: ["checkbox","label","class","checkbox-inline"]
 slug: bootstrap/formularios/checkbox-en-linea-con-bootstrap
 author: victor_cuervo
 type: doc
+topic: bootstrap
 id: 51dc96fb-b956-44ea-9071-7ba051b02d52
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/formularios/checkbox-en-linea.html
 ---

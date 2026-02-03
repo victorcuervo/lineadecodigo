@@ -7,6 +7,7 @@ tags: ["for","in"]
 slug: python/diccionarios/comprobar-claves-en-diccionario-python
 author: victor_cuervo
 type: doc
+topic: python
 id: e87fd2f9-30da-4c60-8266-a319bfa3f2d1
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/diccionarios/existe_clave.py
 ---

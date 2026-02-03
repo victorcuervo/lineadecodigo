@@ -7,6 +7,7 @@ tags: ["variables","var"]
 slug: javascript/variables/variables-globales-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 7321eb24-5dd1-4bcd-b737-df965449d08e
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/variable-global.js
 ---

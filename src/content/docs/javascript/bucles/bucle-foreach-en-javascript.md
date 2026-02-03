@@ -7,6 +7,7 @@ tags: ["bucle","foreach","array"]
 slug: javascript/bucles/bucle-foreach-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 4692c64e-ef06-4b39-a1b3-0bc7c53e39ed
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/foreach.js
 ---

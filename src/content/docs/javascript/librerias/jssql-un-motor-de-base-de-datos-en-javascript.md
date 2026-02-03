@@ -7,6 +7,7 @@ tags: ["bases-de-datos","consulta","datos","tabla","jssql"]
 slug: javascript/librerias/jssql-un-motor-de-base-de-datos-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 2c8a9dfb-adca-8137-b164-ceee35c80107
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/apis/javascriptsql
 ---

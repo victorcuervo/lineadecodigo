@@ -7,6 +7,7 @@ tags: ["replace","regexp","string","javascript"]
 slug: javascript/regexp/funcion-replace-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 1908e548-0c43-45ca-af45-31e97d32bece
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/cadenas/funcion-replace-javascript.html
 ---

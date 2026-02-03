@@ -7,6 +7,7 @@ tags: ["text-align","th","tr","nth-child"]
 slug: css/texto/alinear-texto-en-una-tabla
 author: victor_cuervo
 type: doc
+topic: css
 id: b3c8e345-ea7a-4500-bd74-e0eb65cd3139
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-alinear-texto.html
 ---

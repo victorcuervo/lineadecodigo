@@ -7,6 +7,7 @@ tags: ["print","input","int"]
 slug: python/basicos/leer-por-consola-en-python
 author: victor_cuervo
 type: doc
+topic: python
 id: cd83f127-903b-4914-b297-b8ec089886ad
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/leerconsola.py
 ---

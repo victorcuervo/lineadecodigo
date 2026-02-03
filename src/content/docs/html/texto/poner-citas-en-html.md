@@ -7,6 +7,7 @@ tags: ["blockquote","q","cite"]
 slug: html/texto/poner-citas-en-html
 author: victor_cuervo
 type: doc
+topic: html
 id: 1dc8e8c4-d84b-40cc-8028-df6efd8a9a72
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/texto/poner-citas-en-html.html
 ---

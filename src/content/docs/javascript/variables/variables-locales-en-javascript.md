@@ -7,6 +7,7 @@ tags: ["while","try-catch","variable","bucle","error","console-log"]
 slug: javascript/variables/variables-locales-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 2c8a9dfb-adca-8115-9225-c61fce553310
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/variable-local.js
 ---

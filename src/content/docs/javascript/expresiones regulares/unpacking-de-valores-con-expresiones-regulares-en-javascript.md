@@ -7,6 +7,7 @@ tags: ["array","regexp"]
 slug: javascript/expresiones-regulares/unpacking-de-valores-con-expresiones-regulares-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 2c8a9dfb-adca-8129-8784-fe285012c02f
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/regexp/unpacking-regexp.js
 ---

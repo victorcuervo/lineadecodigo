@@ -7,6 +7,7 @@ tags: ["java-mail","email"]
 slug: java/mail/mandar-emails-con-javamail
 author: victor_cuervo
 type: doc
+topic: java
 id: a7b94c04-4cce-4c94-8f48-a9fbd9cff52d
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/mail/MandarEmail.java
 ---

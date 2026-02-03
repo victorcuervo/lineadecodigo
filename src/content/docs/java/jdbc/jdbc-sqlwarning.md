@@ -7,6 +7,7 @@ tags: ["jdbc","sqlwarning","sqlexception","getwarnings"]
 slug: java/jdbc/jdbc-sqlwarning
 author: victor_cuervo
 type: doc
+topic: java
 id: 2c8a9dfb-adca-812c-8066-f58178580676
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/WarningSQL.java
 ---

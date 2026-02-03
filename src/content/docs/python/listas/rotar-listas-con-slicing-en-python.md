@@ -7,6 +7,7 @@ tags: ["listas","slicing","concatenar","rotar"]
 slug: python/listas/rotar-listas-con-slicing-en-python
 author: victor_cuervo
 type: doc
+topic: python
 id: 263dc35e-87cb-420e-ab45-0cfbed37961c
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/rotar-lista-slicing.py
 ---

@@ -7,6 +7,7 @@ tags: ["xsl:template","xsl:for-each","select"]
 slug: xml/transformacion/cargar-un-combo-con-xslt
 author: victor_cuervo
 type: doc
+topic: xml
 id: 2bfa9dfb-adca-800f-a2a1-dc41f2cd4a0c
 download: https://github.com/victorcuervo/lineadecodigo_xml/tree/master/xslt/cargar-combo
 ---

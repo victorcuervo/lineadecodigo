@@ -7,6 +7,7 @@ tags: ["circle","defs","fill","gradiente","lineal","lineargradient","offset","st
 slug: svg/gradientes/borde-con-gradiente-lineal
 author: victor_cuervo
 type: doc
+topic: svg
 id: 2c8a9dfb-adca-818f-9b35-d6cef58d1161
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/gradientes/gradiente-como-borde.svg
 ---

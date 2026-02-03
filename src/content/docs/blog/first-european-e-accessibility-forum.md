@@ -7,6 +7,7 @@ tags: ["eventos"]
 slug: blog/first-european-e-accessibility-forum
 author: lineadecodigo
 type: blog
+topic: blog
 id: 2c8a9dfb-adca-81b1-be5a-c40105f55388
 ---
 

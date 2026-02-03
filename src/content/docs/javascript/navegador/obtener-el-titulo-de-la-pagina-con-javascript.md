@@ -7,6 +7,7 @@ tags: ["document","write","title"]
 slug: javascript/navegador/obtener-el-titulo-de-la-pagina-con-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: fd517f33-1421-4687-9f27-8b4b82b404a9
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/obtener-titulo-de-la-pagina.html
 ---

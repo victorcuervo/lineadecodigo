@@ -7,6 +7,7 @@ tags: ["comentarios"]
 slug: css/basicos/comentarios-en-css
 author: victor_cuervo
 type: doc
+topic: css
 id: de8de932-9090-475f-978d-523ba153f3e0
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/basico/comentarios.css
 ---

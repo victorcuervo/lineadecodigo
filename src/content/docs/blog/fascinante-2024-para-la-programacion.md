@@ -7,6 +7,7 @@ tags: ["editorial"]
 slug: blog/fascinante-2024-para-la-programacion
 author: victor_cuervo
 type: blog
+topic: blog
 id: 168a9dfb-adca-804a-8e09-cfed9c5931a6
 ---
 

@@ -7,6 +7,7 @@ tags: ["font-family","font-face","css3","fuentes"]
 slug: css/texto/embeber-fuentes-en-css3
 author: victor_cuervo
 type: doc
+topic: css
 id: 46e23955-bc7b-4f09-b6f4-4963cbd345d0
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/fuentes/font-embbeding.html
 ---

@@ -7,6 +7,7 @@ tags: ["tinys3","bucket","copy"]
 slug: python/s3/copiar-ficheros-en-amazon-s3-con-python
 author: victor_cuervo
 type: doc
+topic: python
 id: 2c8a9dfb-adca-8166-a854-f9d41741c1de
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/tinys3/copiar_fichero_s3.py
 ---

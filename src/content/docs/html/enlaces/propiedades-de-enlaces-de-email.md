@@ -7,6 +7,7 @@ tags: ["enlaces","a","mailto","subject","bcc","cc","body"]
 slug: html/enlaces/propiedades-de-enlaces-de-email
 author: victor_cuervo
 type: doc
+topic: html
 id: 5e8bee2a-b486-41a5-a4dd-0e3b50873bf3
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/propiedades-enlaces-email.html
 ---

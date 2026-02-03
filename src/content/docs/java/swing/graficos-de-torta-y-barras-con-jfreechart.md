@@ -7,6 +7,7 @@ tags: ["jfreechart","java-swing","jpanel","jframe"]
 slug: java/swing/graficos-de-torta-y-barras-con-jfreechart
 author: Feffo
 type: doc
+topic: java
 id: 4893ba00-9d07-4614-8b36-72c97f83ef9b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/graficos/GraficosTortaYBarra.java
 ---

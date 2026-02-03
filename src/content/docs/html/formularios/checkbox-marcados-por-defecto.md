@@ -7,6 +7,7 @@ tags: ["input","checkbox","label","checked"]
 slug: html/formularios/checkbox-marcados-por-defecto
 author: victor_cuervo
 type: doc
+topic: html
 id: 968f77c0-2d89-424a-9131-8daaa13918b9
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/formularios/checkbox-marcados-por-defecto.html
 ---

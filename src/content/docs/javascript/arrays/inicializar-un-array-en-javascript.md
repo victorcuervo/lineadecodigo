@@ -7,6 +7,7 @@ tags: ["array"]
 slug: javascript/arrays/inicializar-un-array-en-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 5bfc1670-3817-4f9b-8e9e-33831180afa5
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/inicializar-array.js
 ---

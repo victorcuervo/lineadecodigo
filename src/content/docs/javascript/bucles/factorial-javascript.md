@@ -7,6 +7,7 @@ tags: ["factorial","bucles"]
 slug: javascript/bucles/factorial-javascript
 author: victor_cuervo
 type: doc
+topic: javascript
 id: 887ccba4-6d6a-47ef-8204-fd8b985a4898
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/matematicas/factorial.js
 ---

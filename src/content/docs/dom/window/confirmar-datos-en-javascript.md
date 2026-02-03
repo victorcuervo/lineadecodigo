@@ -7,6 +7,7 @@ tags: ["window"]
 slug: dom/window/confirmar-datos-en-javascript
 author: victor_cuervo
 type: doc
+topic: dom
 id: bc6fa46b-0f23-4d1b-a6dd-aa70a6f7ccc5
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/confirmar-datos.html
 ---

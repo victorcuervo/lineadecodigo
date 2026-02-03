@@ -7,6 +7,7 @@ tags: ["string","replace"]
 slug: java/strings/remplazar-caracteres-con-java
 author: victor_cuervo
 type: doc
+topic: java
 id: 93f470f5-faf5-4779-8add-41883a51af8a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/RemplazarCaracteres.java
 ---
