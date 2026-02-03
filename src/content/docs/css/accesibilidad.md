@@ -1,6 +1,6 @@
 ---
 title: "Accesibilidad"
-description: ""
+description: "Descubre cómo la accesibilidad en CSS puede transformar tu diseño web. Aprende prácticas inclusivas y mejora la experiencia de todos los usuarios."
 date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
