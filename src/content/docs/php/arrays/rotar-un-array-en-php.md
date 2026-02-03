@@ -7,9 +7,8 @@ tags: ["array","for","array_shift","array_push"]
 slug: php/arrays/rotar-un-array-en-php
 author: victor_cuervo
 type: doc
+id: f62c4c88-41b7-47de-9ac4-c5807c7a87b6
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/arrays/rotar-array.php
-topic: php
-
 ---
 
 Rotar un array en [PHP](http://www.manualweb.net/php/) consiste en desplazar el primer elemento de un array a la última posición de dicho array y desplazar todos el resto una posición adelante.

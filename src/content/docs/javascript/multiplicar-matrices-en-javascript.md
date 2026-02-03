@@ -7,9 +7,8 @@ tags: ["array","matriz","multiplicar","fill","length","for"]
 slug: javascript/multiplicar-matrices-en-javascript
 author: victor_cuervo
 type: doc
+id: c38eb13c-becd-42d8-be34-d0f675813899
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/multiplicar-matrices.js
-topic: javascript
-
 ---
 
 ## ¿Por qué multiplicar matrices en Javascript?

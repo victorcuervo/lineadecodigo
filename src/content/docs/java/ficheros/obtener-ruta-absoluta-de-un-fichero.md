@@ -7,8 +7,8 @@ tags: ["file","java-io","getabsolutepath"]
 slug: java/ficheros/obtener-ruta-absoluta-de-un-fichero
 author: victor_cuervo
 type: doc
+id: fe3eac48-ee74-48f8-9884-801079fbf852
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/RutaAbsoluta.java
-topic: java
 ---
 
 Si hay algo que tiene la librería [Java IO](https://w3api.com/Java/tag/java.io) es que nos permite manejar de forma muy extensa y con una gran facilidad los ficheros. Algo que podéis encontrar el los [múltiples ejemplos que tiene Línea de Código para manejar ficheros](https://lineadecodigo.com/tag/java-io/). Así, la librería [Java IO](https://w3api.com/Java/tag/java.io), nos va a permitir, de una forma muy sencilla obtener ruta absoluta de un fichero en [Java](https://www.manualweb.net/java/). Una de las clases principales de la librería [Java IO](https://w3api.com/Java/tag/java.io) es [`File`](https://w3api.com/Java/File/). Dicha clase representa de forma abstracta a las rutas ficheros y directorios. De esta forma podemos acceder a distintos sistemas de ficheros, independientemente de la estructura que estos tengan. Así se trabajaría de igual manera dentro de un sistema UNIX donde la raíz sería representada por “\” o un sistema Windows donde se antepondría el nombre de la unidad en la que está el fichero. No nos tendremos que preocupar por el sistema operativo dónde se esté ejecutando nuestro programa. Para conocer la ruta absoluta de un fichero, lo primero que tenemos que hacer es instanciar [la clase ](https://w3api.com/Java/File/)[`File`](https://w3api.com/Java/File/) mediante [alguno de sus constructores](https://w3api.com/Java/File/File/). En este caso, le pasaremos el nombre del fichero como parámetro.

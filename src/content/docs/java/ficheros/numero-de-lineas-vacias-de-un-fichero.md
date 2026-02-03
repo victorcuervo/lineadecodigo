@@ -7,9 +7,8 @@ tags: ["bufferedreader","filereader","ioexception","filenotfoundexception","read
 slug: java/ficheros/numero-de-lineas-vacias-de-un-fichero
 author: victor_cuervo
 type: doc
+id: 302865a9-1cca-4368-9a6b-f98758104b05
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/NumeroDeFilasVacias.java
-topic: java
-
 ---
 
 En este ejemplo vamos a ver cómo podemos contar el **número de líneas vacías de un fichero** de texto utilizando el lenguaje [Java](https://www.manualweb.net/java/). Para ello nos apoyaremos en clases que tenemos disponibles en la librería [`java.io`](http://java.io/).

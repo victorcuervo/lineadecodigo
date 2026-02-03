@@ -7,9 +7,8 @@ tags: ["json","maven","clase","objeto"]
 slug: java/json/crear-objeto-json-con-gson
 author: victor_cuervo
 type: doc
+id: b0a40eac-caf8-4d58-af82-fa3283b465cd
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/json/ObjetoJSONGson.java
-topic: java
-
 ---
 
 Una de las librerías [Java](http://www.manualweb.net/java) que nos ayuda a [manipular de una forma sencilla los objetos JSON](http://lineadecodigo.com/tag/java-json/) es [GSON](https://github.com/google/gson). Así que en este ejemplo vamos a ver cómo podemos crear objeto JSON con [GSON](https://github.com/google/gson).

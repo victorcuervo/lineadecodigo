@@ -7,9 +7,8 @@ tags: ["url","inputstream","bufferedreader","ioexception","string","try-catch","
 slug: java/redes/leer-una-url-con-java
 author: victor_cuervo
 type: doc
+id: 6aabbcbf-29ec-459c-8e93-4f13d90a97e4
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/net/LeerURL.java
-topic: java
-
 ---
 
 Normalmente, cuando tenemos una URL lo que hacemos es ponerla en un navegador para ver su contenido. Pero hay muchos programas que se dedican a analizar el código fuente de las páginas. Ya sean buscadores, optimizadores de código, validadores,... En este segundo caso necesitaremos de un código que abra una conexión y examine su código, en vez de mostrarlo por pantalla. En nuestro caso vamos a utilizar el lenguaje [Java](https://www.manualweb.net/java/) para llevar a cabo nuestro cometido. Lo primero es tener una URL. Para ello nos apoyamos en la clase URL, que nos validará si el texto introducido es realmente una URL bien formada (con su protocolo, su nombre de servidor,...)

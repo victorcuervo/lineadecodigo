@@ -7,8 +7,8 @@ tags: ["java-io","bufferedreader","file","filenotfoundexception","filereader","i
 slug: java/ficheros/numero-de-lineas-de-un-fichero
 author: victor_cuervo
 type: doc
+id: a1fa393b-f35d-4a0b-a5d3-6ec87963287c
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/NumeroDeFilas.java
-topic: java
 ---
 
 La idea de este ejemplo es contar el número de líneas que tiene un fichero de texto utilizando las librerías [Java IO](http://w3api.com/Java/tag/java.io/) del lenguaje [Java](https://www.manualweb.net/java/). La forma en la que lo vamos a resolver no es la más optima, si bien es la más sencilla de implementar y entender. De inicio deberemos de tener un fichero de texto con contenido. A dicho fichero lo llamaremos fichero.txt. Para abrir este fichero utilizaremos [la clase ](http://w3api.com/Java/FileReader/)[`FileReader`](http://w3api.com/Java/FileReader/). Con dicha clase obtendremos una referencia sobre el fichero que queremos conocer su número de líneas. Veamos la [línea de código](https://lineadecodigo.com/):

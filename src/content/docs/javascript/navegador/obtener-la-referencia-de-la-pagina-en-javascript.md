@@ -7,9 +7,8 @@ tags: ["document","write","referrer"]
 slug: javascript/navegador/obtener-la-referencia-de-la-pagina-en-javascript
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-817a-bdd0-d216431fdfca
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/obtener-la-pagina-de-referencia-del-documento.html
-topic: javascript
-
 ---
 
 Hay dos formas de llegar a una página web. La primera es de forma directa. En este caso será porque habremos escrito la URL de la página directamente en el navegador. La segunda forma será porque lleguemos mediante algún enlace en alguna página de referencia. Que en un porcentaje de los casos será un buscador (y casi siempre [Google](http://www.google.com/)).

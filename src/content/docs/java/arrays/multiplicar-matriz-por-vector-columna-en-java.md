@@ -7,9 +7,8 @@ tags: ["matriz","vector","array","for","bucles","multiplicar"]
 slug: java/arrays/multiplicar-matriz-por-vector-columna-en-java
 author: victor_cuervo
 type: doc
+id: c1e80874-86a4-45fa-b8a4-9605aa2c64a3
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MatrizPorVector.java
-topic: java
-
 ---
 
 Para conseguir multiplicar matriz por vector columna en Java nos puede servir sencillamente [el ejemplo de como multiplicar matrices](http://lineadecodigo.com/java/multiplicar-matrices-en-java/) asegurándonos que una de las matrices tiene una sola columna.

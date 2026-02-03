@@ -7,9 +7,8 @@ tags: ["getelementbyid","regexp","replace","split"]
 slug: javascript/cadenas/contar-caracteres-y-palabras-en-javascript
 author: victor_cuervo
 type: doc
+id: dc040556-b270-440b-b3f2-4551d527f8c7
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/contar-caracteres-palabras.html
-topic: javascript
-
 ---
 
 Cuando ofrecemos un área de texto puede darse el caso que tengamos un límite de los caracteres a ser introducidos. Por lo que es probable que queramos contar caracteres y palabras en [Javascript](https://manualweb.net/javascript/). En este caso sería bueno el irle ofreciendo al usuario el número de caracteres que se han insertado, y de paso las palabras.

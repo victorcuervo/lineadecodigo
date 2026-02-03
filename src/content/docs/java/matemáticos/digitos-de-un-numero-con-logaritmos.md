@@ -7,9 +7,8 @@ tags: ["math","log","logaritmo","digitos","numeros"]
 slug: java/matematicos/digitos-de-un-numero-con-logaritmos
 author: victor_cuervo
 type: doc
+id: e5ec770d-851e-4015-860a-bad0de954143
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroDigitosLogaritmo.java
-topic: java
-
 ---
 
 Ya vimos en [el artículo dígitos de un número](http://lineadecodigo.com/java/digitos-de-un-numero/) cómo podemos saber cuántos dígitos contiene un número. Para ello utilizábamos un bucle y una división sobre el número. En este caso vamos a utilizar el logaritmo en base 10 para poder realizar lo mismo y así poder calcular los dígitos de un número con logaritmos.

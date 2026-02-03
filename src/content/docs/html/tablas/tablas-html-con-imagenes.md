@@ -7,9 +7,8 @@ tags: ["table","tr","td","img"]
 slug: html/tablas/tablas-html-con-imagenes
 author: victor_cuervo
 type: doc
+id: e5da0fe2-2895-443a-8211-078665f84985
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/imagen-en-tabla.html
-topic: html
-
 ---
 
 Cuando estamos viendo [ejemplos en HTML](http://lineadecodigo.com/categoria/html/) sobre manejo de tablas siempre suelen aparecer datos ya sea texto o números. Si bien una de las cosas que podemos es crear tablas [HTML](http://www.manualweb.net/tutorial-html/) con imágenes. Es decir, que el contenido de las celdas de la tabla sean imágenes.

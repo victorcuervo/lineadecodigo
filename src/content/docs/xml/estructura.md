@@ -7,10 +7,7 @@ tags: []
 slug: xml/estructura
 author: victor_cuervo
 type: category
-
-topic: xml
-
-
+id: 2f2a9dfb-adca-8042-bb24-ec01eaef029b
 ---
 
 La validación en XML permite asegurar que un documento cumple una estructura predefinida. Mediante DTD o XML Schema (XSD), es posible definir reglas, tipos de datos y restricciones que garantizan la consistencia y calidad de la información.

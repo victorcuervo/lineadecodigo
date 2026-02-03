@@ -7,9 +7,8 @@ tags: ["intl","date","datetimeformat","datestyle","timestyle","calendar"]
 slug: javascript/fechas/formato-de-fechas-en-javascript
 author: victor_cuervo
 type: doc
+id: 046425cf-a28d-479c-aac6-7fa6a32ecb4a
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/fechas/formatear-fecha.js
-topic: javascript
-
 ---
 
 Algo que parece sencillo como el tratamiento de las fechas se puede volver algo complejo si no tenemos en cuenta cómo tratarlas a la hora de presentarlas al usuario. Es por ello que aquí vamos a ver cómo podemos dar formato de fechas en [Javascript](http://www.manualweb.net/javascript).

@@ -7,9 +7,8 @@ tags: ["json","api","rest","http","url","requests","get"]
 slug: python/json/cargar-json-desde-una-url-con-python
 author: victor_cuervo
 type: doc
+id: da241bb7-cbc0-4fa2-9cc7-bbdeff2889a1
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/json/cargar-json-url.py
-topic: python
-
 ---
 
 Cuando trabajamos con elementos JSON es muy probable que estos vengan de un servicio REST que esté ubicado en una URL si son datos que nos ofrecen otros sistemas, normalmente vía API. O en otros casos estarán en ficheros, si en esta situación hemos utilizado el JSON para almacenar información de configuración. En el ejemplo de hoy vamos a ver cómo podemos **cargar JSON desde una URL con Python**.

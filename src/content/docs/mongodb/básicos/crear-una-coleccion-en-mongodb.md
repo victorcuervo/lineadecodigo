@@ -7,11 +7,8 @@ tags: ["createcollection","db"]
 slug: mongodb/basicos/crear-una-coleccion-en-mongodb
 author: victor_cuervo
 type: doc
+id: 82728374-3ee5-4f58-b431-279a5b508bfd
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-basicos/crear-coleccion.js
-topic: mongodb
-
-
-
 ---
 
 Ya vimos en nuestro ejemplo de [crear una base de datos en MongoDB](http://lineadecodigo.com/mongodb/crear-una-base-de-datos-en-mongodb/) que al crear una colección en [MongoDB](https://www.manualweb.net/mongodb/) de manera indirecta estábamos creando una base de datos.

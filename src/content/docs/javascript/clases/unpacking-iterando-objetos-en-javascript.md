@@ -7,9 +7,8 @@ tags: ["unpacking","for-of","objetos","array"]
 slug: javascript/clases/unpacking-iterando-objetos-en-javascript
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8165-904a-f0a824aec610
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/unpacking-iterar-objetos.js
-topic: javascript
-
 ---
 
 Hemos visto múltiples formas de realizar un unpacking de objetos con [Javascript](https://www.manualweb.net/javascript/): [objetos sencillos](http://lineadecodigo.com/javascript/unpacking-objetos-javascript/), [objetos anidados](http://lineadecodigo.com/javascript/unpacking-objetos-anidados-javascript/),... pero, ¿qué sucede si dentro hay un array de objetos? En este caso vamos a ver cómo podemos realizar un unpacking iterando objetos en [Javascript](https://www.manualweb.net/javascript/).

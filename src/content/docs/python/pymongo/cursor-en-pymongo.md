@@ -7,9 +7,8 @@ tags: ["cursor","for-in","print","find","mongoclient"]
 slug: python/pymongo/cursor-en-pymongo
 author: victor_cuervo
 type: doc
+id: 4b648cee-9c75-4a82-bdf1-ed266d32f7bc
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/pymongo/cursor-pymongo.py
-topic: python
-
 ---
 
 Tendremos que saber manejar un cursor en Pymongo a la hora de realizar consultas de documentos sobre una base de datos en [MongoDB](https://www.manualweb.net/mongodb/) en [Python](http://www.manualweb.net/python/). 

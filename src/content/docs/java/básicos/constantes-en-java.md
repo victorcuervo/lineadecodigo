@@ -7,9 +7,8 @@ tags: ["constantes","static"]
 slug: java/basicos/constantes-en-java
 author: victor_cuervo
 type: doc
+id: 87338f9f-ba38-4d49-8d74-358ee55ef79f
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ConstanteEnJava.java
-topic: java
-
 ---
 
 Si queremos hablar de cómo definir constantes en [Java](https://www.manualweb.net/java/), lo primero que tenemos que saber es ¿qué es una constante en el mundo de la programación?

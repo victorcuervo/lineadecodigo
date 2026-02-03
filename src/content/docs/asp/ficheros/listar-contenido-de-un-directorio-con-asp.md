@@ -7,9 +7,8 @@ tags: ["filesystemobject","folder"]
 slug: asp/ficheros/listar-contenido-de-un-directorio-con-asp
 author: victor_cuervo
 type: doc
+id: 91150f03-8553-41e0-bcde-7bddeacc5c1f
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/ficheros/listar-contenido-directorio.asp
-topic: asp
-
 ---
 
 Una de las cosas que nos permite el objeto FileSystemObject es listar el contenido de un directorio. Esto nos puede servir si queremos implementar mediante [ASP](http://www.manualweb.net/asp/) una especie de navegador de carpetas del servidor o algo por el estilo. De esta manera y junto con el resto de características del objeto FileSystemObject podemos llegar a implementar un verdadero gestor de los ficheros de nuestro servidor. Lo primero que tenemos que hacer es obtener una referencia a dicho objeto:

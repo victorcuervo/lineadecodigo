@@ -7,9 +7,8 @@ tags: ["date","tolocaledatestring","bcp47","utc","intl","dateformat"]
 slug: javascript/i18n/fechas-en-formato-local-con-javascript
 author: victor_cuervo
 type: doc
+id: d613b0ef-af1a-43dc-ab6d-d5594c34b75c
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/fechas/formato-fecha-locale.js
-topic: javascript
-
 ---
 
 En los artículos que tenemos sobre [fechas en Javascript](http://lineadecodigo.com/tag/javascript-date/) nos faltaba uno acerca de cómo poder crear fechas en formato local con [Javascript](http://www.manualweb.net/javascript). Es decir poder **realizar una internacionalización (i18n)** de la fecha antes de imprimirla. Muchos os estaréis diciendo, "esto [ya lo hemos visto utilizando el objeto Java.Intl](http://lineadecodigo.com/javascript/formato-de-fechas-en-javascript/)". Y es verdad. Pero en este caso vamos a ver las capacidades que tiene directamente el objeto `Date` para poder realizar esta internacionalización (i18n).

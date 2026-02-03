@@ -7,9 +7,7 @@ tags: ["eventos"]
 slug: blog/congreso-ojo-buscador-20
 author: lineadecodigo
 type: blog
-
-topic: blog
-
+id: 2c8a9dfb-adca-816c-9a93-e6dac78488cc
 ---
 
 Los próximos días 8 y 9 de marzo de 2007 se celebra en el Hotel Auditorium de [Madrid](http://maps.google.com/maps?f=q&hl=es&q=madrid&ie=UTF8&om=1&z=12&ll=40.430224%2C-3.703423&spn=0.11159%2C0.346069&iwloc=addr) el **Congreso Ojo Buscador 2.0.**

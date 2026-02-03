@@ -7,9 +7,8 @@ tags: ["pow","bits","operadores"]
 slug: java/operadores/potencias-del-dos-con-desplazamiento-de-bits
 author: Víctor Cuervo
 type: doc
+id: 156f0ee5-fc41-4b28-bf4c-36bb7a0837af
 download: http://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_java/src/com/lineadecodigo/java/math/PotenciasDelDosConBits.java
-topic: java
-
 ---
 
 Hace unos días explicabamos el ejemplo de cómo obtener las [potencias del dos con Java](http://lineadecodigo.com/2009/01/16/potencias-del-dos-con-java/). Para ello nos apoyabamos sobre la clase [Math](https://www.w3api.com/Java/Math/) y el método [.pow](https://www.w3api.com/Java/Math/.pow()). Si bien, para el caso del número 2, y como nos comentaba Le Funes hay una forma de mostrar las potencias del dos con desplazamiento de bits. Y es que todo número tiene su representación en binario. Entendiendo que en el lenguaje binario se representa todo con ceros y unos. Así la representación en binario del 1 es 1, la del 3 es 11, la de 8 es 1000, la del 9 es 1001,... Para calcular el número decimal de un número binario es tan sencillo como obtener la posición del número, empezando por la derecha como posición cero, elevar su valor a la potencia del 2 y sumar todos los números. En el caso del 9 sería, que sería 1001, el calculo lo haríamos como:

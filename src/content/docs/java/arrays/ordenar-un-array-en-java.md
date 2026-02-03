@@ -7,9 +7,8 @@ tags: ["array","sort","for"]
 slug: java/arrays/ordenar-un-array-en-java
 author: victor_cuervo
 type: doc
+id: c5bc974c-b76c-40fe-98f9-86211710ff69
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/OrdernarArray.java
-topic: java
-
 ---
 
 Ya tenemos algún ejemplo en [Línea de Código](http://lineadecodigo.com/) que nos enseña [cómo podemos ordenar un Vector en Java](http://lineadecodigo.com/java/ordenar-un-vector-de-string-en-java/), pero algunos nos habéis comentado que no teníamos ninguno sobre cómo ordenar un array en [Java](https://www.manualweb.net/java/). Así que manos a la obra, veréis que es muy sencillo. Lo primero será definir un array en Java. En este caso vamos a crear un array de enteros

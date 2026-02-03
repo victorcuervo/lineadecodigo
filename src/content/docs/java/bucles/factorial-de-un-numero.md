@@ -7,8 +7,8 @@ tags: ["bucles","factorial","recursividad","while","math"]
 slug: java/bucles/factorial-de-un-numero
 author: victor_cuervo
 type: doc
+id: a13f6fd7-21ab-4e77-bb53-b605fd080d23
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/FactorialDeUnNumero.java
-topic: java
 ---
 
 El factorial de un número es la multiplicación de los número que van del 1 a dicho número. Para expresar el factorial se suele utilizar la notación n!. Así la definición es la siguiente:

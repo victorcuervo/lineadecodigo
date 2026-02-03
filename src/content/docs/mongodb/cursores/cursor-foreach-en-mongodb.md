@@ -7,11 +7,8 @@ tags: ["find","foreach"]
 slug: mongodb/cursores/cursor-foreach-en-mongodb
 author: victor_cuervo
 type: doc
+id: b3d983a4-ff5b-40ee-a31e-f7b14a98b948
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/cursorForEach.js
-topic: mongodb
-
-
-
 ---
 
 Ya hemos visto [como recorrer un cursor en MongoDB](http://lineadecodigo.com/mongodb/recorrer-un-cursor-en-mongodb/). Si bien tenemos un cursor forEach en [MongoDB](https://www.manualweb.net/mongodb/) que nos permite recorrer los documentos de una consulta de una forma sencilla y sin tener que realizar un bucle.

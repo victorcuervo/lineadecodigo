@@ -7,9 +7,7 @@ tags: ["premios"]
 slug: blog/linea-de-codigo-en-x-premios-aui
 author: lineadecodigo
 type: blog
-
-topic: blog
-
+id: 2c8a9dfb-adca-8136-929a-c951ef2f99d9
 ---
 
 Ya lo comentábamos, hace unos días, cuando presentamos X Edición Premios AUI, nuestra intención de presentarnos al premio. Es por ello que hemos incluido el logo de votación en la parte superior derecha de Linea de Codigo. Para que pincheis sobre el y votéis por nosotros.

@@ -7,9 +7,8 @@ tags: ["video","timeupdate","currenttime"]
 slug: html/video/tiempo-visualizado-del-video-en-html5
 author: victor_cuervo
 type: doc
+id: 79f7cd06-2860-49c3-be48-1edea9b96d21
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/tiempo-visualizado-video.html
-topic: html
-
 ---
 
 Seguimos con el análisis del manejo de vídeos en [HTML5](https://www.manualweb.net/html5/), así como con el manejo del elemento DOM HTMLMediaElement. En este caso vamos a ver cómo podemos ir viendo el tiempo visualizado del vídeo en [HTML5](https://www.manualweb.net/html5/). Es decir, según vaya avanzando la visualización del vídeo, calcular los segundos que hayan transcurrido de la visualización.

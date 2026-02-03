@@ -7,10 +7,8 @@ tags: ["HTML5 Microdata"]
 slug: html/semantica/definiendo-una-persona-con-microdata-en-html5
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-818e-aeff-ead574955a43
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Microdata/persona.html
-topic: html
-
-
 ---
 
 Dentro de la especificación de [HTML5](https://www.manualweb.net/html5/) aparece el concepto de **microdata** (o microdatos). Al igual que teníamos los microformatos, el microdata nos ayuda a dar información semántica a una estructura de datos. De esta forma conseguiremos dar información adicional a nuestra página. Esta información adicional servirá a otros, como puede ser el caso de los buscadores, a extraer información de la página.

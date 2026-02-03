@@ -7,8 +7,8 @@ tags: ["background","form","option","select","imagenes"]
 slug: html/formularios/combos-con-imagenes
 author: victor_cuervo
 type: doc
+id: c466e612-1802-44df-bf40-d5ecacd8322d
 download: https://github.com/victorcuervo/lineadecodigo/tree/master/lineadecodigo_html/formularios/combos-con-imagenes
-topic: html
 ---
 
 Mientras que esperamos a que [XForms](http://www.manualweb.net/xforms/) se convierta en el estándar soportado por los navegadores para el desarrollo de formularios (espero que XHTML 2.0 lo de el impulso necesario), nos vemos obligados a realizar verdaderas virguerías con los formularios de [HTML](http://www.manualweb.net/tutorial-html/) 4.01. En este caso lo que queremos es que nuestros combos de selección nos aparezcan con imágenes y que pueda seleccionar una de ellas. ¿Es esto posible? La respuesta a esta pregunta es difícil. Podríamos decir que imposible no es. Pero que el soporte que se da desde los navegadores a este caso es mínimo. Para que nos hagamos una idea, solo funciona con los motores[Mozilla](http://www.mozilla.org/) ([FireFox](http://www.getfirefox.com/) y compañía). La idea es la siguiente. En primer lugar, utilizando hojas de estilo [CSS](http://www.manualweb.net/css/) definiremos tres elementos cuadrado, circulo y triangulo. Estos tres elementos tendrán una imagen de fondo representativa. Para indicar la imagen de fondo de un elemento utilizamos el [atributo background-image](http://w3api.com/wiki/CSS:Background-image). Veamos como quedaría definido:

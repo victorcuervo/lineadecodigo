@@ -7,9 +7,8 @@ tags: ["funciones","arguments"]
 slug: javascript/funciones/valores-por-defecto-en-una-funcion-javascript
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81a3-881c-e95fdf0628f7
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/funciones/valores-por-defecto.js
-topic: javascript
-
 ---
 
 Ya hemos visto en un ejemplo cómo podíamos [construir una función con parámetros variables en Javascript](http://lineadecodigo.com/javascript/funcion-con-parametros-variables-en-javascript/). Esto requiere que el objeto `arguments` lo vayamos revisando para ver si contiene el argumento esperado. Una de las formas de simplificarlo a partir de ES2015 es el utilizar **valores por defecto en una función Javascript**. 

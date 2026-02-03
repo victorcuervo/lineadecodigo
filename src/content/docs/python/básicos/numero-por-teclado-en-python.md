@@ -7,9 +7,8 @@ tags: ["input","int","try-except","bucles","while","break"]
 slug: python/basicos/numero-por-teclado-en-python
 author: victor_cuervo
 type: doc
+id: 31d2efa0-3d71-4d39-a268-85cd632bc5bb
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/cadena_a_numero.py
-topic: python
-
 ---
 
 Cuando estás obteniendo números por parte del usuario puede ser que el valor introducido no sea realmente un número. Es por ello que en este artículo vamos a aprender cómo controlar cuando introduzcan un número por teclado en [Python](https://www.manualweb.net/python) que este sea realmente numérico.

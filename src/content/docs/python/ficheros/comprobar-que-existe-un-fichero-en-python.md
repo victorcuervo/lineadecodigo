@@ -7,8 +7,8 @@ tags: ["ficheros","os","path","exists"]
 slug: python/ficheros/comprobar-que-existe-un-fichero-en-python
 author: victor_cuervo
 type: doc
+id: 810091e2-187e-406f-b469-f29a91d44f53
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/validar-existe-fichero.py
-topic: python
 ---
 
 Ejemplo sencillo, pero muy útil, en el que vamos a ver cómo podemos comprobar que existe un fichero en [Python](https://www.manualweb.net/python/) previo a poder manipularlo.

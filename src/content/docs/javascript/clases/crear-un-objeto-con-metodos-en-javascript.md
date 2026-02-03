@@ -7,9 +7,8 @@ tags: ["function","objeto","clase","metodo"]
 slug: javascript/clases/crear-un-objeto-con-metodos-en-javascript
 author: victor_cuervo
 type: doc
+id: 2df3f81a-3a58-49ee-9789-d1067cfafb40
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/objeto-rectangulo.js
-topic: javascript
-
 ---
 
 En el artículo de cómo [crear un objeto en Javascript](http://lineadecodigo.com/javascript/crear-un-objeto-en-javascript/) podíamos ver como construir de una forma muy sencilla una clase con atributos, de tal manera que instanciásemos objetos de dicha clase y accediésemos a sus atributos. Ahora vamos a ver como podemos complicar la clase y añadirla métodos en [Javascript](https://www.manualweb.net/javascript/). 

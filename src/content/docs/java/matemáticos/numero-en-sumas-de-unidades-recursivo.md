@@ -7,9 +7,8 @@ tags: ["recursividad","sumas"]
 slug: java/matematicos/numero-en-sumas-de-unidades-recursivo
 author: victor_cuervo
 type: doc
+id: f220314f-d769-4549-99ec-e6ea64fc1287
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroSumasRecursivas.java
-topic: java
-
 ---
 
 En el ejemplo de hoy vamos a ver como sacar un número en sumas de unidades recursivo. Es decir, ver cuantas sumas de unidades dan como resultado un mismo número. Esto es un ejemplo que nos habéis pedido en nuestros foros, así que si tienes más preguntas no dudes en ponerlas en el foro. Un ejemplo de número en sumas de unidades recursivo sería si nos diesen el número 7 tendríamos que el 7 tiene tiene 3 sumas de números enteros.

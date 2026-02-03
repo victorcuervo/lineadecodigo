@@ -7,9 +7,8 @@ tags: ["circle","fill","line","opacity"]
 slug: svg/transparencia/transparencia-y-opacidad-en-svg
 author: victor_cuervo
 type: doc
+id: 9408ca54-b9aa-4811-94be-ea7a0ecb7352
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/transparencias/transparencia-opacidad.svg
-topic: svg
-
 ---
 
 El objetivo de este ejemplo es ver cómo podemos definir objetos que sean transparentes en [SVG](http://lineadecodigo.com/categoria/SVG/). Para ello crearemos tres círculos y una línea que los atraviese.Dichos círculos irán aumentando su nivel de transparencia. Es decir, el primero será el más opaco y el último circulo será el más transparente.

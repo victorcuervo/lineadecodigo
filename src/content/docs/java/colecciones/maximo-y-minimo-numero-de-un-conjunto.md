@@ -7,9 +7,8 @@ tags: ["comparator","max","min","hashset","set","integer","java-collection"]
 slug: java/colecciones/maximo-y-minimo-numero-de-un-conjunto
 author: victor_cuervo
 type: doc
+id: 600715ce-eecf-4a74-aa6e-8c32c8923a69
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/MaximoMinimoConjunto.java
-topic: java
-
 ---
 
 El objetivo de este ejemplo es solventar la necesidad de encontrar dentro de un conjunto el número mínimo y máximo del mismo. Podríamos implementar un algoritmo donde recorriendo todos los elementos del conjunto fuésemos preguntando si el elemento es el más pequeño o es el más grande. Si bien, vamos a apoyarnos en el [framework Collection](http://lineadecodigo.com/tag/java-collection/) para llevar a cabo esta casuistica. Dentro del [framework Collection](http://lineadecodigo.com/tag/java-collection/) encontramos dos operaciones:

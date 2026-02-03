@@ -7,9 +7,8 @@ tags: ["scanner","inputstream","string","next","input","do-while","java-io","con
 slug: java/basicos/lectura-de-datos-en-java-con-scanner
 author: victor_cuervo
 type: doc
+id: 2e1d2c49-0e2e-49a9-8332-39380ade188f
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/LecturaConsolaScanner.java
-topic: java
-
 ---
 
 Como bien me ha recordado mi amigo Jose Ignacio y [algún comentario de nuestros lectores](http://lineadecodigo.com/2008/12/30/multiplicar-dos-numeros-con-java/#45790), desde Java 1.5 disponemos de la clase [Scanner](https://www.w3api.com/Java/Scanner/next/). La cual nos va a ayudar a leer los datos de una forma más sencilla que el habitual manejo de [InputStream](https://www.w3api.com/Java/InputStream-java-io/ ""InputStream"), véase [Lectura de datos por Consola con Java](http://lineadecodigo.com/2006/12/16/lectura-de-datos-por-consola-en-java/). La utilización de la clase [Scanner](https://www.w3api.com/Java/Scanner/next/) es muy sencilla. Lo primero que tenemos que hacer es declarar un objeto [Scanner](https://www.w3api.com/Java/Scanner/next/) instanciándolo contra la consola, es decir, contra el objeto System.in

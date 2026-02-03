@@ -7,9 +7,8 @@ tags: ["array","aslist","contains"]
 slug: java/arrays/buscar-en-un-array
 author: victor_cuervo
 type: doc
+id: a4bc231b-618d-48e3-a3b6-803c29e8d963
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/BuscarEnArray.java
-topic: java
-
 ---
 
 En este artículo vamos a ver cómo podemos implementar buscar en un array con [Java](http://www.manualweb.net/java). La idea es cargar una serie de elementos, en este caso cadenas de texto, dentro de un array y luego buscar si hay uno de ellos presente dentro de dicho array o en caso contrario si no se encuentra dentro de la lista de elementos de array.

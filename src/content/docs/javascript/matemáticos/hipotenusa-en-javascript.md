@@ -7,9 +7,8 @@ tags: ["pow","sqrt","hypot","polyfill","arguments","math"]
 slug: javascript/matematicos/hipotenusa-en-javascript
 author: victor_cuervo
 type: doc
+id: 45552bd6-6e27-4ed4-bf3a-988a1a269041
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/matematicas/formulas.js
-topic: javascript
-
 ---
 
 Siguiendo con un conjunto de ejemplos matemáticos vamos a ver como calcular una hipotenusa en [Javascript](https://www.manualweb.net/javascript/). La buena noticia a la hora de calcular la hipotenusa en Javascript es que en **ECMAScript 6** está propuesta la función `Math.hypot` la cual ya implementan algunos de los motores Javascript.

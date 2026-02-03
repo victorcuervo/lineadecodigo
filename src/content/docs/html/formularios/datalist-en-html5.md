@@ -7,8 +7,8 @@ tags: ["formulario","datalist","input","option"]
 slug: html/formularios/datalist-en-html5
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81dd-a232-df2d0b1025f4
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/data-list.html
-topic: html
 ---
 
 Un [DataList](https://www.w3api.com/HTML/tag/html-5.1/) en [HTML5](https://www.manualweb.net/html5/) es una lista de opciones predefinidas que le podemos pasar al elemento [`input`](https://www.w3api.com/HTML/input/) le podemos aplicar un DataList en HTML5. Pues podemos aplicarlo al tipo text o aun tipo URL o al tipo range. Es decir, de [HTML5](https://www.manualweb.net/html5/). Es decir, el agente de usuario o navegador propocionará esa lista como posibles opciones.

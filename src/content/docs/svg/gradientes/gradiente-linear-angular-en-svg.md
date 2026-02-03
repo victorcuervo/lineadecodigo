@@ -7,8 +7,8 @@ tags: ["gradiente","lineargradient","offset","stop","vector"]
 slug: svg/gradientes/gradiente-linear-angular-en-svg
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8104-ab5c-dd204ae6d0ea
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/gradientes/gradiente-lineal-angular.svg
-topic: svg
 ---
 
 Dos buenos ejemplos para empezar aprendiendo de gradientes en SVG son [Circulo con Gradiente Lineal](http://lineadecodigo.com/2008/01/17/circulo-con-gradiente-lineal/) y [Gradiente Lineal Vertical](http://lineadecodigo.com/2008/01/28/gradiente-lineal-vertical/). Los cuales explican como hacer gradientes lineales horizontales y verticales respectivamente. A si que lo que nos queda por explicar es como hacer un gradiente lineal angular en SVG

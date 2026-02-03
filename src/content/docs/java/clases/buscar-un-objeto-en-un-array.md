@@ -7,9 +7,8 @@ tags: ["array","object","java-util","list","equals","contains","aslist"]
 slug: java/clases/buscar-un-objeto-en-un-array
 author: victor_cuervo
 type: doc
+id: 735fc7bc-8d93-43b6-80f8-bf03726431f8
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/BuscarEnArrayObjetos.java
-topic: java
-
 ---
 
 En [Línea de Código](http://lineadecodigo.com/) hemos visto cómo [realizar búsquedas en arrays](http://lineadecodigo.com/java/buscar-en-un-array/), [implementar búsquedas con diferentes algoritmos](http://lineadecodigo.com/java/implementar-una-busqueda-binaria-con-java/) y [localizar un número en un array](http://lineadecodigo.com/java/buscar-un-numero-en-un-array/). Pero qué sucede **si el contenido del array son objetos**, ¿cómo podríamos buscar un objeto en un array con [Java](http://www.manualweb.net/java/)? Lo primero será definir nuestro array de objetos [Java](http://www.manualweb.net/java/). Para ello definiremos un objeto sencillo Persona con un nombre y una edad.

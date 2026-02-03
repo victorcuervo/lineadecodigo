@@ -7,9 +7,8 @@ tags: ["random","jframe","actionlistener","actionevent","java-swing","jbutton","
 slug: java/swing/un-juego-sencillo-con-java-swing
 author: Feffo
 type: doc
+id: b8de5c8d-6155-4ac2-b01a-68402d5dc1ce
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/swing/JuegoBasico.java
-topic: java
-
 ---
 
 Vamos a realizar un programa de escritorio usando **Java Swing**. Consiste en hacer un **juego de adivinar la suma de dos números generados aleatoriamente**. 

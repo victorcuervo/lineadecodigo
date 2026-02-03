@@ -7,9 +7,8 @@ tags: ["Python Flask","Python Flask Rutas"]
 slug: flask/rutas/urls-de-rutas-en-flask
 author: victor_cuervo
 type: doc
+id: 5788c38a-fcda-4b2b-b048-b41e73955a90
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/urls.py
-topic: flask
-
 ---
 
 Una de las principales características que tiene [Flask](https://www.manualweb.net/flask/) y por lo cual es muy cómodo y sencillo de utilizar es la creación de rutas. La idea que subyace por debajo es que se define una ruta y a dicha ruta se le asigna un método que responde por ella.

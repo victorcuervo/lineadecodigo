@@ -7,9 +7,8 @@ tags: ["listas","slicing","concatenar","rotar"]
 slug: python/listas/rotar-listas-con-slicing-en-python
 author: victor_cuervo
 type: doc
+id: 263dc35e-87cb-420e-ab45-0cfbed37961c
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/rotar-lista-slicing.py
-topic: python
-
 ---
 
 En el artículo de hoy vamos a ver lo sencillo que es **rotar listas con slicing en Python**. Es decir, vamos a mover n elementos hacia izquierda o hacia derecha. De esta manera la idea es que si rotar hacia la derecha los elementos que vayan saliendo por la derecha vayan entrando por la izquierda y si estamos rotando a la izquierda, los elementos que salgan por la izquierda deberán de ir entrando por la derecha.

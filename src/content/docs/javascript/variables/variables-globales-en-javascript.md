@@ -7,9 +7,8 @@ tags: ["variables","var"]
 slug: javascript/variables/variables-globales-en-javascript
 author: victor_cuervo
 type: doc
+id: 7321eb24-5dd1-4bcd-b737-df965449d08e
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/variable-global.js
-topic: javascript
-
 ---
 
 Si ayer veíamos [qué eran las variables locales en Javascript](https://lineadecodigo.com/javascript/variables-locales-en-javascript/), hoy vamos a ver qué son las **variables globales en Javascript**. Las variables globales son aquellas variables que una vez definidas pueden ser accedidas y modificadas desde cualquier ámbito de nuestro programa.

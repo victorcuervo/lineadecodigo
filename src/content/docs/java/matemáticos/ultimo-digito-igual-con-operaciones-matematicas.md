@@ -7,9 +7,8 @@ tags: ["modulo","operadores","math"]
 slug: java/matematicos/ultimo-digito-igual-con-operaciones-matematicas
 author: victor_cuervo
 type: doc
+id: 6878b891-d173-4ce4-b9f0-2158e982f0d2
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/UltimoDigitoIgualSinString.java
-topic: java
-
 ---
 
 Ya habíamos visto [como podemos comprobar si dos números tienen el último dígito igual mediante el uso de la clase String](http://lineadecodigo.com/java/ultimo-digito-igual/). Pero que pasa, si nos ponen a prueba, y no nos dejan utilizar la clase [`String`](https://www.w3api.com/Java/String/). Cómo podemos comprobar si dos números tienen el último dígito igual con operaciones matemáticas en [Java](https://www.manualweb.net/java/), es decir, solo vamos a utilizar números. Pues bien, dados dos números, en este caso enteros:

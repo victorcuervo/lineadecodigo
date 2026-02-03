@@ -7,9 +7,8 @@ tags: ["table","tr","background-color","cursor","pointer","css","hover"]
 slug: css/buenas-practicas/resaltar-filas-de-tabla-con-css
 author: victor_cuervo
 type: doc
+id: d9452210-ab96-4c0e-97c8-04254bf917a0
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-resaltar-filas.html
-topic: css
-
 ---
 
 En este ejemplo vamos a ver cómo al mover el cursor sobre una tabla hagamos el efecto de resaltar filas de tabla con [CSS](http://www.manualweb.net/css/). Es decir, que se ilumine la fila sobre la que esté el cursor, o que cambie de color.

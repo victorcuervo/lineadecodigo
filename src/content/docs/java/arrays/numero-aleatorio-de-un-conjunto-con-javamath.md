@@ -7,9 +7,8 @@ tags: ["random","array","math"]
 slug: java/arrays/numero-aleatorio-de-un-conjunto-con-javamath
 author: victor_cuervo
 type: doc
+id: e1fc9e8f-4832-495e-9675-57850945120f
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/NumeroAzarDeUnConjunto.java
-topic: java
-
 ---
 
 Abraham [nos preguntaba en el artículo de Numero al Azar en Java](http://lineadecodigo.com/java/numero-al-azar-en-java/#16105) sobre cómo se podría sacar un número al azar de un subconjunto acotado de elementos. La verdad es que la pregunta es muy buena y es por ello por lo que me he decidido a explicar cómo conseguirlo.

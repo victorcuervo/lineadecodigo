@@ -7,9 +7,8 @@ tags: ["getelementbyid","getelementsbyname","input","checked"]
 slug: dom/formularios/campos-obligatorios-en-javascript
 author: victor_cuervo
 type: doc
+id: 23c71867-e867-4716-8bb5-556f51d61a48
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/campos-obligatorios.html
-topic: dom
-
 ---
 
 La obligatoriedad de los campos del formulario dependerá del tipo de campo que estemos utilizando. Así, la obligatoriedad de un campo de texto puede ser desde que tenga algún valor, hasta que su formato sea uno específico. Si hablamos de campos de selección o en un combo puede ser que esté alguna de las opciones marcada. Así con todos los tipos de elementos del formulario.

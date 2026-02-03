@@ -7,9 +7,8 @@ tags: ["string","stringbuilder","tolowercase","touppercase","character","charat"
 slug: java/strings/palabra-con-mayusculas-y-minusculas
 author: victor_cuervo
 type: doc
+id: 5595d272-f9f6-44d6-8601-8547e4bec4d1
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/CadenaMayusMinuscAlternativos.java
-topic: java
-
 ---
 
 El ejemplo que habéis pedido para poder poner una palabra con mayúsculas y minúsculas me ha resultado muy divertido y me ha dado pie a escribirlo de un par de formas. Una de ella apoyándose en los nuevos Stream de [Java 8](https://www.manualweb.net/java/). Así que los vamos a verlos en detalle. Pero empecemos por el más sencillo. En este caso vamos a convertir los caracteres de una palabra con mayúsculas y minúsculas de forma indistinta. Es decir, si tenemos la frase:

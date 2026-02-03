@@ -3,12 +3,11 @@ title: "Fecha en castellano con VBScript"
 description: ""
 date: 2007-01-18
 updatedDate: 2026-01-07
-tags: ["date","Day","Month","select-case","vbMonday","vbTuesday","vbWednesday","WeekDay","Year"]
+tags: ["date","Day","month","select-case","vbMonday","vbTuesday","vbWednesday","WeekDay","Year"]
 slug: vbscript/fechas/fecha-en-castellano-con-vbscript
 author: victor_cuervo
 type: doc
-
-topic: vbscript
+id: b4ea31ce-e5e0-46a2-a3ae-30e30a2ad379
 ---
 
 La idea de este ejemplo es el mostrar por pantalla una fecha con el formato domingo, 25 de agosto de 2002 mediante el lenguaje [VBScript](http://www.manualweb.net/vbscript/). Por defecto si usamos el objeto Date lo que obtendremos será el formato 25/08/02, del cual, mediante algunas funciones, podemos obtener acronimos de los días y los meses, eso si, en formato anglosajón. Lo primero a realizar es separar en 3 partes la fecha. Para ello utilizaremos las siguientes funciones...

@@ -7,9 +7,8 @@ tags: ["bits","checkbox","xor","operadores"]
 slug: dom/formularios/checkbox-y-operadores-dinamicos
 author: victor_cuervo
 type: doc
+id: 1ba6c11a-0cc0-4ad7-96ec-79d054d944f6
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/checkbox-y-operadores-binarios.html
-topic: dom
-
 ---
 
 Será algo muy normal que en el desarrollo de nuestras aplicaciones web tengamos que incluir un formulario para obtener datos del usuario y lo más probable es que dentro de dichos formularios tengamos que recoger datos mediante checkbox. Imaginemos, por ejemplo, obtener los gustos del usuario, los nombre de los boletines a los que se quiere apuntar,...

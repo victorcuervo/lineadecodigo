@@ -7,9 +7,8 @@ tags: ["array","matriz","bucles","for"]
 slug: java/arrays/rellenar-una-matriz-con-una-cadena-en-java
 author: victor_cuervo
 type: doc
+id: 0c6b831c-6526-43c6-9147-4aa2eb3aad44
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/ConvertirCadenaAMatriz.java
-topic: java
-
 ---
 
 Una de las [cosas que nos habéis pedido en los comentarios](https://lineadecodigo.com/java/crear-una-matriz-en-java/#comment-115738) es ¿cómo puedo Rellenar una matriz con una cadena en [Java](https://www.manualweb.net/java)? Es decir, si tengo una cadena de texto en plan _"Soy una cadena de texto"_, esta, nos sirva para rellenar a una matriz por columnas. De esta manera, si tenemos una matriz de 3 filas, la palabra "Soy" iría en la primera columna, es decir en las posiciones (0,0), (1,0) y (2,0), el siguiente tramo de 3 caracteres sería " un", ya que hay que tener en cuenta el espacio en blanco al ser un carácter, e iría en las posiciones (0,1), (1,2) y (2,1). Así sucesivamente hasta el final de la frase. Queda mejor explicado gráficamente de cómo quedaría la frase en la matriz de la siguiente forma:

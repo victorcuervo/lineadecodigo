@@ -7,9 +7,8 @@ tags: ["metodo","intval","trim","function"]
 slug: php/clases/crear-un-metodo-en-php
 author: xhrist14n
 type: doc
+id: 3b9138f3-7a84-4c45-914f-ef32dffaf465
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/crear-metodo.php
-topic: php
-
 ---
 
 Los métodos en [PHP](http://www.manualweb.net/php/) son bastante útiles para poder encapsular una funcionalidad especifica en un solo lugar y poder reutilizar ese código muchas veces. Es por ello que vamos a ver como podemos crear un método en [PHP](http://www.manualweb.net/php/). 

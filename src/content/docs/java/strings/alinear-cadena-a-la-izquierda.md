@@ -7,9 +7,8 @@ tags: ["string","format","cadena","formatter","java-util"]
 slug: java/strings/alinear-cadena-a-la-izquierda
 author: victor_cuervo
 type: doc
+id: 33dc7040-b892-4cf4-ab3c-d121109826e1
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/AlinearAIzquierda.java
-topic: java
-
 ---
 
 Seguimos con los ejemplos de transformación de cadenas y después de ver cómo [añadir ceros a la izquierda](http://lineadecodigo.com/java/anadir-ceros-a-la-izquierda/), ahora veremos como podemos alinear una cadena a la izquierda. Para ello vamos a volver a utilizar la clase Formatter y el método [format()](https://w3api.com/Java/Formatter-java-util/format/). Aunque podríamos utilizar el método [format](https://www.w3api.com/Java/String/.format()) directamente sobre la clase [String](https://www.w3api.com/Java/String/). Veremos el ejemplo de las dos formas, ya que lo importante es el patrón de formato a aplicar. Con la clase Formatter, lo primero será instanciarla.

@@ -7,8 +7,8 @@ tags: ["rmdir","listdir","os","remove","shutil","rmtree","join","isdir"]
 slug: python/ficheros/borrar-carpetas-de-forma-recursiva-en-python
 author: victor_cuervo
 type: doc
+id: 3a472ade-8bc7-4267-a234-8132977d50b6
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/borrar-carpeta-recursiva.py
-topic: python
 ---
 
 El proceso de borrar una carpeta cuando [aprendes a programar en diferentes lenguajes de programación](http://lineadecodigo.com/), siempre tiene un denominador común que son las carpetas con contenido en ellas. Es por ello que hoy vamos a ver cómo podemos borrar carpetas de forma recursiva en [Python](https://www.manualweb.net/python/).

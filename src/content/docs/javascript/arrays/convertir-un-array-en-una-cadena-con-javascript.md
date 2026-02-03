@@ -7,9 +7,8 @@ tags: ["array","join","new","document","write"]
 slug: javascript/arrays/convertir-un-array-en-una-cadena-con-javascript
 author: victor_cuervo
 type: doc
+id: ecaf3ed2-c893-448d-9ea9-977a3a399ee7
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/cadenas/convertir-array-en-cadena.html
-topic: javascript
-
 ---
 
 Si estamos manejando un array de elementos dentro de nuestra página [HTML](https://www.manualweb.net/html/) y queremos enviarlo al servidor, es bastante recomendable que lo convirtamos en una cadena. De esta forma facilitaremos el envío y recepción de este dato en el servidor. 

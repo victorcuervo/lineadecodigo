@@ -7,9 +7,8 @@ tags: ["php_self","request_uri","server","server_name","url"]
 slug: php/cadenas/obtener-la-url-actual-con-php
 author: Dave Rndn
 type: doc
+id: 279c026d-a81b-4e10-8f36-4cc99673b9e7
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/url/obtener-url.php
-topic: php
-
 ---
 
 En este post veremos cómo obtener la URL actual por medio de un par de funciones con [PHP](http://www.manualweb.net/php/), además de obtener la URL también podemos obtener ciertos detalles como el puerto, el protocolo y el host. En [PHP](http://www.manualweb.net/php/) existen varias variables que ofrecen datos sobre la URL que se está ejecutando. Nosotros podemos obtener diferentes datos a través de estas variables según nos convenga.

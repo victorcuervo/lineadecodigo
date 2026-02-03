@@ -7,9 +7,8 @@ tags: ["arraylist","add","list","java-collection"]
 slug: java/colecciones/insertar-un-elemento-dentro-de-un-arraylist
 author: victor_cuervo
 type: doc
+id: aa0d9df9-fadf-4854-8b53-baa888580e01
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/AddElementosPosicionLista.java
-topic: java
-
 ---
 
 ## ¿Qué es un ArrayList?

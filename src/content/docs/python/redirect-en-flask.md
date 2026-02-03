@@ -7,9 +7,8 @@ tags: ["route","url_for","redirect"]
 slug: python/redirect-en-flask
 author: victor_cuervo
 type: doc
+id: e84470f9-0991-4da2-a64b-8d372bc8a8ea
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/redirect.py
-topic: python
-
 ---
 
 Una de las cosas que se hace mucho en las aplicaciones web, por lo que se respecta al lado del servidor, es redireccionar un contenido. Veamos en este artículo como realizar un **Redirect en** [**Flask**](https://www.manualweb.net/flask/).

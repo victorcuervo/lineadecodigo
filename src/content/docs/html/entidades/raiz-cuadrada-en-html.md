@@ -7,9 +7,8 @@ tags: ["entidades","raiz-cuadrada"]
 slug: html/entidades/raiz-cuadrada-en-html
 author: victor_cuervo
 type: doc
+id: c405f94c-f2f4-4509-9779-3ba856b1a451
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/raiz-cuadrada.html
-topic: html
-
 ---
 
 Si está escribiendo fórmulas matemáticas es posible que te surja la duda de cómo poner una raíz cuadrada en tu página [HTML](https://www.manualweb.net/html/). Para poder hacer esto utilizamos las entidades HTML.

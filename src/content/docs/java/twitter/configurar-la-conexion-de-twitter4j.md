@@ -7,9 +7,8 @@ tags: ["twitter4j","twitter","twitterfactory"]
 slug: java/twitter/configurar-la-conexion-de-twitter4j
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-819d-92ba-ed298d35b847
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/twitter/ConectarTwitterConfig.java
-topic: java
-
 ---
 
 Ya [hemos visto varios artículos en los cuales manejábamos la librería Twitter4j](http://lineadecodigo.com/tag/java-twitter4j/), la cual nos sirve para poder utilizar [Twitter](http://www.ayudaenlaweb.com/microblogging/twitter/que-es-twitter/) desde [Java](http://www.manualweb.net/java). En todos estos ejemplos por simplicidad utilizábamos un fichero de propiedades para realizar la conexión. En este artículo vamos a ver **cómo podemos configurar la conexión de Twitter4j directamente desde el código fuente** y no necesitar de este fichero de propiedades. Y es que hasta ahora, cuando creábamos una instancia de la clase `Twitter` se producía la magia y se realizaba la conexión.

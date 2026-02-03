@@ -7,9 +7,8 @@ tags: ["array","bucles","for-of","objeto"]
 slug: javascript/bucles/estructura-javascript-for-of
 author: victor_cuervo
 type: doc
+id: f930f5cb-4638-4d90-a229-eb7860fba002
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/for-of.html
-topic: javascript
-
 ---
 
 El otro día veíamos [como realizar una estructura Javascript for in](http://lineadecodigo.com/javascript/estructura-javascript-for-in/?preview=true). Hoy vamos a hablar sobre la **estructura Javascript for of**. A día de hoy [la estructura Javascript for of está en formato experimental y propuesta para ser incluida dentro de Ecma Script 6](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Statements/for...of).

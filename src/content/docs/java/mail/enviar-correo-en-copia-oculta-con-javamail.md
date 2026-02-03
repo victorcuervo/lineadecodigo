@@ -7,8 +7,7 @@ tags: ["java-mail","message","mimemessage","bcc"]
 slug: java/mail/enviar-correo-en-copia-oculta-con-javamail
 author: victor_cuervo
 type: doc
-
-topic: java
+id: d14b4652-a931-46a1-8647-7738948265d8
 ---
 
 Una de las cosas que podemos hacer al enviar un correo es poner un email en copia oculta. Esto significa que la persona a la que pongamos en copia oculta recibirá el email sin que el resto de personas que van en el email sepan de tal hecho. Veremos que esto es muy sencillo de programar con [JavaMail](http://www.manualweb.net/javaee/). Esto suele ser de gran utilidad para avisar a alguien del contenido de un email. Por ejemplo, en las empresas una práctica muy habitual es copiar a tu jefe/a en copia oculta para que sea consciente de lo que se estás enviando. También se puede utilizar para validar que se ha enviado y en este caso, se suele poner uno mismo en copia oculta. Vamos, que las aplicaciones son de lo más variopintas. Si queremos implementar este comportamiento con [JavaMail](http://www.manualweb.net/javaee/) lo primero que debemos de aprender es a [Mandar emails con JavaMail](http://lineadecodigo.com/java/mandar-emails-con-javamail/). Para lo que os recomiendo encarecidamente la lectura de dicho artículo. Y es que cuando estamos configurando los campos del mensaje lo primero que hacemos es instanciar una clase `Message`.

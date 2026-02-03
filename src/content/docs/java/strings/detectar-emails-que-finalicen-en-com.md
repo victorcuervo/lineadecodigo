@@ -7,9 +7,8 @@ tags: ["email","array","string","bucles","for-each"]
 slug: java/strings/detectar-emails-que-finalicen-en-com
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81f4-9fb1-cd83e2b0b94b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/EmailsAcabadosEnDotCom.java
-topic: java
-
 ---
 
 En este ejemplo vamos a ver como, dada una lista de emails, podemos detectar mediante el lenguaje [Java](https://www.manualweb.net/java/) cual de ellos corresponden a direcciones .com Lo primero que haremos será definir un array con los emails.

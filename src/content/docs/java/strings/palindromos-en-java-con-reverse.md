@@ -7,9 +7,8 @@ tags: ["if","string","stringbuffer","reverse","replace"]
 slug: java/strings/palindromos-en-java-con-reverse
 author: victor_cuervo
 type: doc
+id: 98571c42-53f7-4566-9f48-8185634425cc
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/PalindromoConReverse.java
-topic: java
-
 ---
 
 En Linea de Código ya hemos escrito sobre como [saber si una palabra es un palindromo con Java](http://lineadecodigo.com/2007/09/19/saber-si-una-palabra-es-un-palindromo-con-java/). Pero gracias a las [contribuciones de nuestros lectores](http://lineadecodigo.com/2007/09/19/saber-si-una-palabra-es-un-palindromo-con-java/#45906) vamos a ver cómo resolverlo de una forma más sencilla. En este caso nos vamos a apoyar en el método [.reverse](https://www.w3api.com/Java/String/Buffer.reverse()) de la clase [StringBuffer](https://www.w3api.com/Java/String/Buffer). Este método invierte el contenido de la cadena. Pero vamos por partes. Lo primero será tener una palabra/frase que sea un palíndromo, e instanciarla en un [String](https://www.w3api.com/Java/String/).

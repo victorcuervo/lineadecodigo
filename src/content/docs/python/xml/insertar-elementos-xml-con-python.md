@@ -7,9 +7,8 @@ tags: ["xml","elementtree","parse","lista"]
 slug: python/xml/insertar-elementos-xml-con-python
 author: victor_cuervo
 type: doc
+id: f6e4bcdf-d35b-4220-9443-4fd2bae309bc
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/xml/insertar-elementos-xml.py
-topic: python
-
 ---
 
 Ya hemos visto cómo podemos [crear un fichero en XML con una estructura](https://lineadecodigo.com/python/crear-un-fichero-xml-con-python/). Así que ahora vamos a ver cómo podemos insertar elementos [XML](https://www.manualweb.net/xml/) con [Python](https://www.manualweb.net/python/) en un fichero ya existente.

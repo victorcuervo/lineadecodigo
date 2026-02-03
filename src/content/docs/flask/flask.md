@@ -7,8 +7,7 @@ tags: []
 slug: flask
 author: victor_cuervo
 type: category
-
-topic: flask
+id: 2dfa9dfb-adca-80c5-9b35-e79cba132928
 ---
 
 Flask es un microframework de Python basado en Werkzeug, Jinja 2 y buenas intenciones. Con Flask puedes construir aplicaciones web y RESTful en Python de forma sencilla.

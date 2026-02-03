@@ -7,8 +7,8 @@ tags: ["$F","formulario","id","form"]
 slug: prototype/formularios/obtener-elemento-de-un-formulario-con-prototype
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8162-a632-f73d775167cb
 download: https://github.com/victorcuervo/lineadecodigo_prototype/blob/master/formularios/obtener-elemento-formulario.html
-topic: prototype
 ---
 
 Muchas de nuestras páginas van a tener un formulario. Ya que esta es la forma estándar de obtener datos del usuario en un entorno web. A la hora de recuperar la información de dicho formulario nos tenemos que apoyar en el código [JavaScript](https://www.manualweb.net/javascript/).

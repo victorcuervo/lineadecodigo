@@ -7,8 +7,8 @@ tags: ["bucles","while","integer","string"]
 slug: java/numeros/numeros-con-digitos-iguales
 author: victor_cuervo
 type: doc
+id: 45680e52-7172-44e4-9cf5-a539289ecdea
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumerosMismoDigito.java
-topic: java
 ---
 
 Hace un tiempo [nos preguntabais en uno de los comentarios de la web](https://lineadecodigo.com/java/digitos-de-un-numero/#comment-120545) sobre cómo podemos saber si tenemos números con dígitos iguales mediante [Java](https://manualweb.net/java/), es decir, que si alguno de los dígitos del primer número se encuentra en el segundo. Así que manos a la obra para resolver este problema.

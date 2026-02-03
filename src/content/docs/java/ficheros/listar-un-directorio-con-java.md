@@ -7,9 +7,8 @@ tags: ["file","directorio","listfiles","exists","getname"]
 slug: java/ficheros/listar-un-directorio-con-java
 author: victor_cuervo
 type: doc
+id: c3680952-13d2-4dbe-9f19-8bc4fb7dc605
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/ListarContenidoDirectorio.java
-topic: java
-
 ---
 
 Mediante la clase [File](https://www.w3api.com/Java/File/exists/) podremos listar de forma sencilla el contenido de un directorio. Lo primero que tendremos que hacer es crear un objeto de tipo [File](https://www.w3api.com/Java/File/exists/) con el nombre del directorio a a listar.

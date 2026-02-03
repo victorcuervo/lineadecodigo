@@ -7,9 +7,7 @@ tags: ["eventos"]
 slug: blog/2007-technology-of-the-year-awards
 author: lineadecodigo
 type: blog
-
-topic: blog
-
+id: 2c8a9dfb-adca-81f4-805c-d64ed6cd389d
 ---
 
 La prestigiosa revista [InfoWorld](http://www.infoworld.com/) ha dado a conocer los ganadores de las mejores tecnologías del año. Existen premios en 8 categorías (desarrollo de aplicaciones, aplicaciones, gestión de datos, hardware, redes, plataformas, seguridad y almacenamiento). Las cuales, se dividen en diferentes subcategorias.

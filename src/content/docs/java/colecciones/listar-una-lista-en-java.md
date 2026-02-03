@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist","iterator"]
 slug: java/colecciones/listar-una-lista-en-java
 author: victor_cuervo
 type: doc
+id: b312195c-03f6-4d50-a8a3-252d8281368f
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/ListarLista.java
-topic: java
-
 ---
 
 Nuestro objetivo es el de recorrer los elementos de la lista en [Java](https://www.manualweb.net/java/). El ejemplo constará de dos partes. En la primera definiremos la lista y la cargaremos con elementos. En la segunda parte utilizaremos un iterador para recorrer la lista. Empecemos... Lo primero que deberemos de tener, obviamente, será una lista. Para ello utilizaremos una estructura del tipo ArrayList. Veamos como sería la [línea de código](http://lineadecodigo.com/):

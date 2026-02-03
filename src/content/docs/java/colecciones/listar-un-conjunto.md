@@ -7,9 +7,8 @@ tags: ["hashset","iterator","next","set","hasnext","java-collection"]
 slug: java/colecciones/listar-un-conjunto
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81aa-8cbb-eff3f63beaff
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/ListarConjunto.java
-topic: java
-
 ---
 
 En el siguiente ejemplo se muestra cómo volcar el contenido de un [conjunto de datos (HashSet)](https://www.w3api.com/Java/HashSet/). Los conjuntos tienen la propiedad de que no pueden albergar nunca dos elementos con el mismo valor. Lo primero que hacemos es cargar el conjunto...

@@ -7,9 +7,7 @@ tags: []
 slug: css/box-model
 author: victor_cuervo
 type: category
-
-topic: css
-
+id: 2eba9dfb-adca-80f4-8eeb-f97cf6b1af41
 ---
 
 # El Box Model de CSS explicado en profundidad

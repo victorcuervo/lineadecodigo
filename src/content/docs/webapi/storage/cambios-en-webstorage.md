@@ -7,9 +7,8 @@ tags: ["localstorage","addeventlistener","storageevent"]
 slug: webapi/storage/cambios-en-webstorage
 author: victor_cuervo
 type: doc
+id: dfac2d2f-6d39-4b3b-a9a7-4376766b662a
 download: https://github.com/victorcuervo/lineadecodigo_html5/tree/master/WebStorage/cambios-webstorage
-topic: webapi
-
 ---
 
 El uso del WebStorage en [HTML5](https://manualweb.net/html5/) nos permite cachear información en el navegador para poder ser utilizada durante las diferentes sesiones que establezca el usuario a nuestra web. De esta forma podremos disponer de información de una forma rápida e incluso en momentos en los cuales el usuario no tenga conexión. Una parte importante en ese proceso de almacenamiento de la información se produce cuando hay un cambios en WebStorage y queremos actualizar la información que de él estamos recopilando.

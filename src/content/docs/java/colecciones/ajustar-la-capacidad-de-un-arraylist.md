@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist","size","trimetosize"]
 slug: java/colecciones/ajustar-la-capacidad-de-un-arraylist
 author: victor_cuervo
 type: doc
+id: a5d06f62-85a8-4d5b-8342-a4faec6e976a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/AjustarCapacidadArrayList.java
-topic: java
-
 ---
 
 La capacidad de añadir y eliminar elementos en un [`ArrayList`](https://w3api.com/Java/ArrayList/) hace que el tamaño de memoria vaya cambiando de forma dinámica. De esa manera la máquina virtual se va adaptando y preparando para la carga que le puede ir llegando al array. Es por ello que hoy vamos a ver cómo podemos ajustar la capacidad de un ArrayList para que solo ocupe en memoria los elementos que tiene en un determinado momento. También hay que tener en cuenta que podemos haber definido un [`ArrayList`](https://w3api.com/Java/ArrayList/) que tenga un tamaño inicial y luego ver que realmente no necesitamos tanta capacidad. Además hay que tener en cuenta que, por defecto, **un** [**`ArrayList`**](https://w3api.com/Java/ArrayList/) **tiene preparado siempre en memoria la capacidad de 1,5 del tamaño actual que tenga el** [**`ArrayList`**](https://w3api.com/Java/ArrayList/). Y puede ser que nos interese ahorrar esa parte de la memoria. Como es habitual creamos un [`ArrayList`](https://w3api.com/Java/ArrayList/) y le añadimos elementos para poblarlo con una capacidad inicial:

@@ -7,9 +7,8 @@ tags: ["script","video","modernizr","canvas","cssanimations"]
 slug: javascript/librerias/modernizr-y-las-capacidades-html5-y-css3
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81fa-8afd-ccb0b48c442b
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/apis/modernizr/cargar-modernizr.html
-topic: javascript
-
 ---
 
 Modernizr es una librería Javascript que nos va a ayudar con la detección del soporte de capacidades [HTML5](https://www.manualweb.net/html5/) y [CSS3](http://www.manualweb.net/css/) de un navegador.

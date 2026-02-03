@@ -7,8 +7,8 @@ tags: ["Java Básicos"]
 slug: java/numeros/area-de-un-triangulo-con-java
 author: Víctor Cuervo
 type: doc
+id: bacbf430-b750-4830-9a79-8a3cfbc6573c
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/AreaTriangulo.java
-topic: java
 ---
 
 No es que este programa tenga mucha dificultad. Pero dos cosas me han llevado a explicarle. La primera que es la petición de una persona en los comentarios de otro artículo (y la verdad es que no cuesta mucho explicarlo). La segunda es que sirve para explicar el manejo de los tipos de datos y como saber cual utilizar. Los conocimientos para llevarle a cabo son mínimos. A si que pongámonos manos a la obra. Lo primero es saber la fórmula del área del triangulo. Que es la siguiente:

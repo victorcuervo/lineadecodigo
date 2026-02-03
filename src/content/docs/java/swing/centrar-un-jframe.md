@@ -7,9 +7,8 @@ tags: ["jframe","setlocationrelativeto","window"]
 slug: java/swing/centrar-un-jframe
 author: victor_cuervo
 type: doc
+id: 8e216054-1fcf-432f-90a9-d22aa3c67231
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/swing/CentrarJFrame.java
-topic: java
-
 ---
 
 Para explicar cómo centrar un [`JFrame`](https://www.w3api.com/Java/JFrame/) vamos a mostrar un ejemplo de ver cómo mostrar una aplicación [Java Swing](https://lineadecodigo.com/tag/java-swing/), en concreto un [`JFrame`](https://www.w3api.com/Java/JFrame/), al arrancar, centrado en la pantalla. Además, nos vamos a apoyar en el ejemplo [conocer la resolución de la pantalla con Java](https://lineadecodigo.com/java/conocer-la-resolucion-de-la-pantalla-con-java/) para darle forma al [`JFrame`](https://www.w3api.com/Java/JFrame/) que vamos a centrar.

@@ -7,9 +7,8 @@ tags: ["array","matriz","bucles","for","system"]
 slug: java/arrays/imprimir-una-matriz-con-java
 author: victor_cuervo
 type: doc
+id: 008d3e55-2c77-4d16-9d78-5f247c86bde1
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/ImprimirMatriz.java
-topic: java
-
 ---
 
 En [uno de los comentarios](http://lineadecodigo.com/java/cargar-una-matriz-por-teclado-en-java/#comment-50765) al artículo que explica cómo [cargar una matriz por teclado en Java](http://lineadecodigo.com/java/cargar-una-matriz-por-teclado-en-java/), nos preguntaban sobre cómo podíamos imprimir una matriz con [Java](https://www.manualweb.net/java/).

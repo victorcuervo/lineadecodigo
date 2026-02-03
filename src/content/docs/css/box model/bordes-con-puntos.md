@@ -7,9 +7,8 @@ tags: ["border-style","dotted"]
 slug: css/box-model/bordes-con-puntos
 author: victor_cuervo
 type: doc
+id: 5f9a8591-cb28-4fa7-9059-2c2153ea6441
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/bordes/borde-con-puntos.html
-topic: css
-
 ---
 
 Mediante este sencillo ejemplo veremos cómo podemos crear bordes con puntos. Los cuales podremos aplicar a múltiples objetos de nuestra página [HTML](https://www.manualweb.net/html/).

@@ -7,9 +7,8 @@ tags: ["html","a","href","try-catch","exception","jaunt"]
 slug: java/librerias/enlaces-de-una-web-con-java
 author: victor_cuervo
 type: doc
+id: abc63915-c825-43fd-9186-9cfe7d97d614
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/external/jaunt/ExtraerEnlaces.java
-topic: java
-
 ---
 
 En el ejemplo de hoy vamos a utilizar [la librería Jaunt](http://jaunt-api.com/) para poder recuperar los enlaces de una web con [Java](https://www.manualweb.net/java/). La idea del ejemplo es utilizar técnicas de screen scraping para poder recuperar una web y analizar su estructura. En este caso en el análisis de la estructura recuperaremos todos los elementos anchor que contenga.

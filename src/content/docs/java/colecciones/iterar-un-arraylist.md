@@ -7,9 +7,8 @@ tags: ["iterator","arraylist","next","hasnext","java-collection"]
 slug: java/colecciones/iterar-un-arraylist
 author: victor_cuervo
 type: doc
+id: b8546706-ed55-4045-91b3-49e907b2dc09
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/IterarSobreLista.java
-topic: java
-
 ---
 
 Para ver los elementos que contiene un [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/) podemos [recorrer sus elementos mediante un simple bucle for](http://lineadecodigo.com/java/recorrer-un-arraylist/). Otra de las formas es iterar un [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/). Es decir, crear un elemento Iterator que nos permita movernos por cada uno de los elementos del [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/). Lo primero que necesitamos es crear el [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/).

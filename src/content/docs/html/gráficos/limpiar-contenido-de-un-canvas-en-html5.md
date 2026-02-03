@@ -7,9 +7,8 @@ tags: ["canvas","width","addeventlistener","button","stroke"]
 slug: html/graficos/limpiar-contenido-de-un-canvas-en-html5
 author: victor_cuervo
 type: doc
+id: 182308bc-676f-47b6-a64c-e595ad5f4d94
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas/reiniciar-canvas.html
-topic: html
-
 ---
 
 En múltiples ejemplos hemos visto cómo poner contenido sobre un [CANVAS](https://www.w3api.com/HTML/canvas/) de [HTML5](https://www.manualweb.net/html5/). En este caso vamos a aprender como podemos limpiar el contenido del [CANVAS](https://www.w3api.com/HTML/canvas/). Es decir, eliminar cualquier dibujo o trazo que hayamos insertado en él.

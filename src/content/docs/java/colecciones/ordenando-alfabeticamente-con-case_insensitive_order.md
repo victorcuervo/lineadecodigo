@@ -7,9 +7,8 @@ tags: ["vector","string","comparator","sort","java-collection"]
 slug: java/colecciones/ordenando-alfabeticamente-con-caseinsensitiveorder
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8128-aa85-dbb7be9254bd
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/OrdenarVectorAlfabeticamente2.java
-topic: java
-
 ---
 
 En el artículo sobre cómo [ordenar un vector de forma alfabética con Java](http://lineadecodigo.com/java/ordenar-un-vector-de-forma-alfabetica-con-java/) veíamos como implementar un comparador alfabético utilizando el interface [Comparator](https://www.w3api.com/Java/Comparator/). Esto lo podemos realizar de otra forma mediante el campo [CASE_INSENSITIVE_ORDER](https://www.w3api.com/Java/String/.CASE_INSENSITIVE_ORDER) de la clase [String](https://www.w3api.com/Java/String/). Este campo nos permite realizar ordenaciones que ignoren las mayúsculas. Lo primero, el declarar el Vector e insertarle elementos:

@@ -7,8 +7,8 @@ tags: ["file","java-io","renameto"]
 slug: java/ficheros/renombrar-un-fichero-con-java-io
 author: victor_cuervo
 type: doc
+id: 43da5d57-9749-430c-a3d4-ccb635eb2f38
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/io/RenombrarFicheros.java
-topic: java
 ---
 
 Entre las muchas operativas que se pueden hacer sobre un fichero tenemos el **renombrado de un fichero**. Para ello la librería de [Java](https://www.manualweb.net/java/), [Java IO](https://w3api.com/Java/tag/java.io), nos ofrece un método sobre la clase [`File`](https://w3api.com/Java/File/). Así que vamos a ver cómo renombrar un fichero con Java IO. Si recordamos un poco la filosofía de la clase [Java IO](https://w3api.com/Java/tag/java.io) veremos que la clase [`File`](https://w3api.com/Java/File/) representa la abstracción de un fichero o directorio independientemente del sistema de ficheros que tengamos por debajo. Es decir, da igual que estemos ejecutando nuestro código fuente en una máquina que tenga un sistemas de ficheros de Windows o bien un sistema de ficheros de UNIX o Linux, ya que se comportará de la misma forma. Lo primero que tenemos que hacer es instanciar la clase [`File`](https://w3api.com/Java/File/) sobre el fichero que queramos realizar el renombrado. Para ello utilizamos [el constructor de la clase ](https://w3api.com/Java/File/File/)[`File`](https://w3api.com/Java/File/File/), como podemos ver en la siguiente [línea de código](/):

@@ -7,9 +7,8 @@ tags: ["bucles","while","for-each","array"]
 slug: java/arrays/numeros-repetidos-en-un-array-java
 author: victor_cuervo
 type: doc
+id: c62962ae-124a-4e47-bbf9-d11d306d012d
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/NumerosRepetidosArray.java
-topic: java
-
 ---
 
 Los ejercicios de manipulación de arrays son muy recomendables para aprender la lógica de programación [Java](https://www.manualweb.net/java/), así como sus estructuras. De esta forma tenemos algunos ejemplos como [encontrar el primer número repetido](http://lineadecodigo.com/java/primer-numero-repetido/), [encontrar el número mayor y su posición](http://lineadecodigo.com/java/numero-mayor-y-su-posicion/),...

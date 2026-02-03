@@ -7,9 +7,8 @@ tags: ["jsp","servlet","servletrequest","getparameter"]
 slug: javaee/jsp/recibir-parametros-en-una-jsp
 author: victor_cuervo
 type: doc
+id: 398f7434-0157-468f-8caa-8b4dffcb55fb
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/webapp/sumar-datos.jsp
-topic: javaee
-
 ---
 
 Una página [JSP](https://www.manualweb.net/javaee/) nos permite combinar la tecnología de las páginas web con la tecnología de las páginas de servidor. Es por ello que en una página [JSP](https://www.manualweb.net/javaee/) siempre veremos dos partes bien diferenciadas. El código relativo a la tecnología cliente: [HTML](https://www.manualweb.net/html/), XHTML, [SVG](https://www.manualweb.net/svg/),... y lo que denominaremos scriptlet. Estos scriptlet no deja de ser código [Java](https://www.manualweb.net/java/) que se ejecutará en el lado del servidor para añadirse al código cliente ya existente. Es decir, el navegador que ejecute nuestra [JSP](https://www.manualweb.net/javaee/) solo verá una página web (sea la tecnología que sea). Dicha página web se habrá compuesto en el servidor mediante código [Java](https://www.manualweb.net/java/) y código cliente. Una de las primera cosas que querremos hacer será pasarle información a esta página. Lo primero que conocer son las formas de pasar información a una página web (vía POST y vía GET). Las diferencias, a grandes rasgos, son que las peticiones vía GET encadenan los valores a pasar a la página web en la URL, mientras que si hacemos una petición vía POST se pasará la información de forma implícita. En el primer caso veremos URL del tipo...

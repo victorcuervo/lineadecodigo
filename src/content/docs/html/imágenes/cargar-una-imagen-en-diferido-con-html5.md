@@ -7,9 +7,8 @@ tags: ["img","loading","lazy"]
 slug: html/imagenes/cargar-una-imagen-en-diferido-con-html5
 author: victor_cuervo
 type: doc
+id: d68d29c2-5c31-43ff-9f20-931bbd7cc4f3
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Imagenes/carga-imagenes-diferida.html
-topic: html
-
 ---
 
 Un alto porcentaje de usuarios abandonan las páginas web si estas no han cargado en los primeros segundos. Cargar una imagen en diferido con [HTML5](https://www.manualweb.net/html5) permitirá que el usuario reciba el texto antes que las imágenes y por lo tanto tenga una rápida respuesta de la página web y no abandone nuestro sitio.

@@ -7,8 +7,8 @@ tags: ["select","option","form","selected"]
 slug: html/formularios/combos-de-seleccion
 author: victor_cuervo
 type: doc
+id: a70cfe76-0961-472e-b6b8-71632121e16d
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/formularios/combos-de-seleccion.html
-topic: html
 ---
 
 Una de las primeras cosas con la que nos encontraremos a la hora de [desarrollar una página HTML](http://lineadecodigo.com/categoria/html/) será la necesidad de crear un combo con opciones. Lo que son los combos de selección. Estos elementos los solemos encontrar en casi todos los formularios que hay dispersos por la web. Con ellos se busca que el usuario pueda seleccionar una de las opciones. Para codificarlos lo primero que tendremos que hacer es crear un elemento [FORM](http://w3api.com/wiki/HTML:FORM). Dicho elemento viene a representar un formulario.

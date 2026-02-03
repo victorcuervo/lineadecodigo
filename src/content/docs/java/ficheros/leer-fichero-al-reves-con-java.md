@@ -7,9 +7,8 @@ tags: ["java-collection","linkedlist","bufferedreader","java-io","filereader","i
 slug: java/ficheros/leer-fichero-al-reves-con-java
 author: victor_cuervo
 type: doc
+id: 48b727ee-e285-4b1f-93c5-ca2e2d41add1
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/LeerFicheroAlReves.java
-topic: java
-
 ---
 
 Ya vimos en su momento como podemos leer un fichero de texto en [Java](https://www.manualweb.net/java/). Pero como podemos hacer si queremos de forma inversa, es decir, leer fichero al revés con [Java](https://www.manualweb.net/java/). El funcionamiento para leer fichero al revés con [Java](https://www.manualweb.net/java/) es muy parecido al de leerlo de forma normal. Y es que el procedimiento será leerlo normalmente, almacenar su contenido en una lista y finalmente recorrer la lista de forma inversa para poder conseguir el efecto inverso. Así que lo primero será leerlo mediante un [`FileReader`](https://www.w3api.com/Java/File/exists/Reader) almacenándolo en un [`BufferedReader`](https://www.w3api.com/Java/BufferedReader/readLine/).

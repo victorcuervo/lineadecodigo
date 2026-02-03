@@ -7,11 +7,8 @@ tags: ["cursor","find","db","gt","gte"]
 slug: mongodb/consultas/consultas-mayor-que-en-mongodb
 author: victor_cuervo
 type: doc
+id: e92fe328-b001-44d9-9e40-cbd1a91b371c
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/mayorque.js
-topic: mongodb
-
-
-
 ---
 
 Siguiendo con las consultas en [MongoDB](https://www.manualweb.net/mongodb/) ahora vamos a ver como podemos realizar consultas mayor que en [MongoDB](https://www.manualweb.net/mongodb/).

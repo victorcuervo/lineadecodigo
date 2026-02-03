@@ -7,9 +7,8 @@ tags: ["array","matriz","bucles","for"]
 slug: java/arrays/rotar-una-matriz
 author: victor_cuervo
 type: doc
+id: 46829304-d01a-492e-97ea-30136484e918
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/RotarMatriz.java
-topic: java
-
 ---
 
 En el ejemplo de hoy vamos a ver cómo podemos rotar una matriz con [Java](http://www.manualweb.net/java). Ya vimos [cómo rotar los elementos de un array](http://lineadecodigo.com/java/rotar-un-array/), que era más sencillo. Pero en este caso veremos que se complica un poco más, aunque acaba siendo sencillo. Lo primero es definir qué significa rotar una matriz. La idea es rotar los elementos en la dirección de las agujas del reloj por 90º. Vamos a asumir que la matriz es de 3x3 para poder explicar de forma sencilla el ejemplo. A la hora de rotarla lo que hacemos es que la primera fila se convierta en la última columna, la segunda fila se convierta en la segunda columna y la última fila se convierta en la primera columna. Lo mismo si lo moramos por columnas, ya que la primera columna se convertirá en la primera fila, la segunda columna se convertirá en la segunda fila y la tercera columna será la última fila. Eso sí, siempre teniendo en cuenta que se gira 90º hacía la derecha. Y como una imagen vale más que mil palabras veamos cómo sería la rotación.

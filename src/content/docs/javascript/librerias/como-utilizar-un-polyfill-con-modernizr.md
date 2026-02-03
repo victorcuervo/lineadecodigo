@@ -7,9 +7,8 @@ tags: ["polyfill","placeholder","modernizr","jquery"]
 slug: javascript/librerias/como-utilizar-un-polyfill-con-modernizr
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81cb-b416-e6b5924f7819
 download: https://github.com/victorcuervo/lineadecodigo_javascript/tree/master/apis/modernizr/polyfills/placeholder
-topic: javascript
-
 ---
 
 [Modernizr](http://lineadecodigo.com/tag/javascript-modernizr/) como librería [Javascript](https://www.manualweb.net/javascript/) está orientada a poder conocer el soporte de las capacidades [CSS3](http://www.manualweb.net/css/) y [HTML5](https://www.manualweb.net/html5/) cuando nos ejecutemos en un determinado navegador.

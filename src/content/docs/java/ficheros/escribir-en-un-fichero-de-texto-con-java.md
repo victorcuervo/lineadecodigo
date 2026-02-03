@@ -7,9 +7,8 @@ tags: ["file","write","close","exists","bufferedwriter","fileoutputstream","for"
 slug: java/ficheros/escribir-en-un-fichero-de-texto-con-java
 author: victor_cuervo
 type: doc
+id: 9c072725-880b-4095-862c-46281eb4d201
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/io/EscribirFicheroTexto.java
-topic: java
-
 ---
 
 ## Validar la existencia del fichero

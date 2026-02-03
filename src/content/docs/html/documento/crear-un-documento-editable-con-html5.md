@@ -7,9 +7,8 @@ tags: ["document","designmode"]
 slug: html/documento/crear-un-documento-editable-con-html5
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8137-bc74-ea860f9cf6f1
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/documento-editable.html
-topic: html
-
 ---
 
 Ya veíamos en otro artículo como [en HTML5 tenemos la capacidad de definir áreas o elementos que sean editables](http://lineadecodigo.com/html5/crear-contenido-editable-en-html5/). Para ello nos basábamos en el atributo general de [HTML5](https://www.manualweb.net/html5/) [contentEditable](https://www.w3api.com/HTML/contentEditable).

@@ -7,9 +7,8 @@ tags: ["variables","float","boolean","integer","double","long","short","characte
 slug: java/variables/tipos-de-datos-objeto-en-java
 author: Víctor Cuervo
 type: doc
+id: 6772241d-41d5-488b-be22-2d5d10dad3d2
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/variables/TiposDatoObjeto.java
-topic: java
-
 ---
 
 Desde la versión Java 5 existen los tipos de datos objeto en [Java](https://www.manualweb.net/java/) dentro de la [librería java.lang](https://www.w3api.com/Java/tag/java.lang/). Aunque, quizás, siguen gozando poca popularidad quizás por cosas como el consumo de memoria o la complejidad a la hora de realizar operaciones de comparación. Entre los tipos de datos objeto en [Java](https://www.manualweb.net/java/) encontramos:

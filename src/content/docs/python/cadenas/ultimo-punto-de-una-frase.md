@@ -7,9 +7,8 @@ tags: ["rfind","cadena"]
 slug: python/cadenas/ultimo-punto-de-una-frase
 author: victor_cuervo
 type: doc
+id: ca13bc06-c6e1-471d-9d3c-fcb3a7ade7c3
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/ultimo-punto-frase.py
-topic: python
-
 ---
 
 Un problema que te puedes encontrar cuando queremos generar un extracto de un texto para ponerlo como resumen es el de ¿por dónde corto el texto? Una de las ideas es encontrar el último punto de una frase con [Python](https://www.manualweb.net/python/) para poder realizar el corte en ese punto y de esa manera no dejar el texto cortado por un punto que lo deje sin sentido.

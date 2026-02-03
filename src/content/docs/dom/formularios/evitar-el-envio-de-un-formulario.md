@@ -7,8 +7,8 @@ tags: ["eventtarget","addeventlistener","getelementbyid","preventdefault","parse
 slug: dom/formularios/evitar-el-envio-de-un-formulario
 author: victor_cuervo
 type: doc
+id: 228d90e9-ca6a-461a-9cec-f2ee308e49ab
 download: https://github.com/victorcuervo/lineadecodigo_dom/blob/main/eventos/evitar-envio-formulario-listener.html
-topic: dom
 ---
 
 Si estamos controlando datos en un [formulario HTML](https://manualweb.net/html/formularios-html/) se puede dar el caso de que si incluimos un botón se produzca el envío de la información a la hora de pulsarlo. Cuando quizás solo queramos realizar algún cálculo en el formulario antes de enviarlo. Es, en este caso, cuando tendremos que evitar el envío de un formulario al pulsar el botón.

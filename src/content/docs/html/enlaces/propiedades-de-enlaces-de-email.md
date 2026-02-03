@@ -7,8 +7,8 @@ tags: ["enlaces","a","mailto","subject","bcc","cc","body"]
 slug: html/enlaces/propiedades-de-enlaces-de-email
 author: victor_cuervo
 type: doc
+id: 5e8bee2a-b486-41a5-a4dd-0e3b50873bf3
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/propiedades-enlaces-email.html
-topic: html
 ---
 
 En muchas páginas [HTML](https://www.manualweb.net/html/) nos encontramos enlaces a un e-mail realizados con el mailto. Una vez que pulsamos sobre ellos y si tenemos un programa de correo electrónico instalado nos saldrá una ventana para enviar un mensaje a la dirección enlazada. El código que necesitamos para hacer esto es la siguiente línea de código:

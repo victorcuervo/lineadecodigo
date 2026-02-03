@@ -7,9 +7,8 @@ tags: ["variables","string","boolean","booleanvalue","tostring"]
 slug: java/variables/literal-booleano-en-java
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81ae-9f48-ce7d4791903b
 download: https://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_java/src/com/lineadecodigo/java/basico/variables/LiteralesBoolean.java
-topic: java
-
 ---
 
 Cuando estés trabajando con valores booleanos es fácil que tengas que manipular un Literal booleano en [Java](https://www.manualweb.net/java/). Es decir, que el contenido de los valores booleanos que manejes sean cadenas "true" o "false" en vez de un valor booleano en sí. Vamos a ver qué hacer en esos casos en los que contemos con un Literal booleano en [Java](https://www.manualweb.net/java/). ### Cargar un Literal booleano en Java

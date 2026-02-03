@@ -7,9 +7,8 @@ tags: ["string","touppercase","tochararray"]
 slug: java/strings/string-primera-letra-de-cada-palabra-en-mayuscula
 author: Feffo
 type: doc
+id: 2771a6e7-10a3-4dbe-ab01-8270982d48ee
 download: http://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_java/src/com/lineadecodigo/java/string/PrimeraMayuscula.java
-topic: java
-
 ---
 
 ¡Buenas! Como entrega final del set de 5 ejemplos de manipulación de cadenas de caracteres les voy a presentar una forma de poner la primera letra de cada palabra en mayúscula en una cadena de caracteres (se considerará como palabra todo aquel substring que siga después de un espacio, punto o coma). En el ejemplo partimos de la siguiente cadena de caracteres:

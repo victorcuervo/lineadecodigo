@@ -7,9 +7,8 @@ tags: ["eventos","frame","awt","window","windowadapter","windowevent"]
 slug: java/awt/cerrar-un-frame-en-awt
 author: victor_cuervo
 type: doc
+id: b6fe6ac1-ba02-45b4-bccc-a7f4d8305559
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/awt/CerrarUnFrame.java
-topic: java
-
 ---
 
 Crear un **frame con AWT** es muy sencillo, simplemente tendremos que crear una instancia de la clase `Frame` y con un par de líneas más tendremos visible nuestra ventana. Si todavía no has creado un frame en AWT te recomiendo que te leas "Crear un Frame con AWT".

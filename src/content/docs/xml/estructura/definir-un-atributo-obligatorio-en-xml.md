@@ -7,10 +7,8 @@ tags: ["dtd","atributo","required"]
 slug: xml/estructura/definir-un-atributo-obligatorio-en-xml
 author: xhrist14n
 type: doc
+id: 61216af6-b0ba-4bd2-9c4b-355d7c730560
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/dtd/atributo-obligatorio.dtd
-topic: xml
-
-
 ---
 
 Cuando estamos creando nuestras definiciones de tipo de documento o DTD para el uso de los ficheros [XML](http://www.manualweb.net/xml/) podemos tratar de definir un atributo obligatorio en [XML](http://www.manualweb.net/xml/). La idea es definir un atributo que siempre tenga que aparecer en el elemento. Lo primero será tener un elemento. En este caso un elemento sin contenido:

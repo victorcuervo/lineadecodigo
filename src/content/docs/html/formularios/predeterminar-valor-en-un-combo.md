@@ -7,8 +7,8 @@ tags: ["form","select","option"]
 slug: html/formularios/predeterminar-valor-en-un-combo
 author: victor_cuervo
 type: doc
+id: 27f093a6-89cc-4c91-9344-18c030885df1
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/formularios/predeterminar-valor-de-un-combo.html
-topic: html
 ---
 
 Cuando estamos poniendo un combo en nuestra página web nos ayudaremos de las etiquetas [SELECT](http://w3api.com/wiki/HTML:SELECT) y [OPTION](http://w3api.com/wiki/HTML:OPTION). La primera se encarga de definir el propio combo, mientras que la segunda se repetirá por cada una de las opciones que queramos añadir. Así, podríamos tener el siguiente combo:

@@ -7,9 +7,8 @@ tags: ["lambda","predicate","array","stream","filter","instream"]
 slug: java/stream/busqueda-en-un-array-con-streams
 author: victor_cuervo
 type: doc
+id: 667f2910-7f01-4ed8-acb0-5d5de076204a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/BusquedaConStreams.java
-topic: java
-
 ---
 
 En Java 8 [aparecieron los ](http://lineadecodigo.com/tag/java-stream/)[**Streams**](http://lineadecodigo.com/tag/java-stream/) **y las expresiones Lambda**. Gracias a ellos podemos resolver una búsqueda en un Array con [Streams](http://lineadecodigo.com/tag/java-stream/). Lo primero será ver un poco por encima ¿qué son los [Streams Java](http://lineadecodigo.com/tag/java-stream/)? Por decirlo de una manera muy general podríamos indicar que mediante los Streams podemos ejecutar funciones de forma anidada, como si recorriésemos los elementos. En dichas funciones podremos ejecutar expresiones orientando nuestro modelo de programación a una programación funcional. En el código vamos a implementar, como hemos hecho en otras ocasiones con la búsqueda de números, el método `searchNumber()` el cual recibe un array de números y el número a buscar.

@@ -7,9 +7,8 @@ tags: ["window","status","onmouseover","onmouseout"]
 slug: javascript/navegador/poner-texto-en-la-barra-de-estado
 author: victor_cuervo
 type: doc
+id: 8fb7768f-ed82-48ea-92ea-616067c6fc7b
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/poner-texto-barra-estado.html
-topic: javascript
-
 ---
 
 La barra de estado es el área que se encuentra en la parte inferior del navegador y en la que se suelen ver las URL de los enlaces, cuando pasamos sobre ellos. La idea de este ejemplo es la de poner texto en dicha barra.

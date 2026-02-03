@@ -7,9 +7,8 @@ tags: ["abbr"]
 slug: html/texto/abreviaturas-en-html
 author: victor_cuervo
 type: doc
+id: e2575450-df09-428b-b1f2-85ce2458f737
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/abreviaturas-en-html.html
-topic: html
-
 ---
 
 Mediante el lenguaje [HTML](https://www.manualweb.net/html/) podemos indicar, de una forma sencilla, que cierta parte de nuestro texto es una abreviatura. Y, ¿qué es una abreviatura? En estos casos nada mejor que remitirnos al Diccionario de la [Real Academia de la Lengua Española](http://www.rae.es/) y ver que una abreviatura es...

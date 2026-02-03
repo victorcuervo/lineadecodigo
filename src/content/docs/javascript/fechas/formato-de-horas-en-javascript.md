@@ -7,9 +7,8 @@ tags: ["fechas","locale","console","date","intl","tolocaletimestring"]
 slug: javascript/fechas/formato-de-horas-en-javascript
 author: victor_cuervo
 type: doc
+id: eaca2178-f9c4-409a-979d-96a79905b106
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/fechas/formatear-horas.js
-topic: javascript
-
 ---
 
 Siguiendo con el conjunto de [artículos que hablan de elementos de internacionalización](http://lineadecodigo.com/tag/javascript-intl/), como el anterior donde hablábamos sobre [cómo mostrar un número en Javascript según Locale](http://lineadecodigo.com/javascript/numeros-en-javascript-segun-locale/), veremos en este cómo dar formato de horas en [Javascript](http://www.manualweb.net/javascript/).

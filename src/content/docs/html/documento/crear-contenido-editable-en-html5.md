@@ -7,9 +7,8 @@ tags: ["contenteditable","div"]
 slug: html/documento/crear-contenido-editable-en-html5
 author: victor_cuervo
 type: doc
+id: 163d4411-bad1-47db-aab7-cf1cb9cf8d43
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/contenido-editable.html
-topic: html
-
 ---
 
 ## Introducción

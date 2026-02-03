@@ -7,9 +7,8 @@ tags: ["tinys3","fichero","delete"]
 slug: python/s3/borrar-un-fichero-de-s3-con-python
 author: victor_cuervo
 type: doc
+id: 41413de5-c4fd-4ec4-a32e-69a4d1774e39
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/tinys3/borrar_fichero_s3.py
-topic: python
-
 ---
 
 En este ejemplo vamos a seguir utilizando la librería **tinys3** para poder borrar un fichero de S3 con [Python](http://www.manualweb.net/python/). Lo primero que haremos será importar la librería tinys3 en nuestro programa.

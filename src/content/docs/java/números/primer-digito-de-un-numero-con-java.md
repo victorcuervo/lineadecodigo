@@ -7,9 +7,8 @@ tags: ["double","integer","math","string","scanner"]
 slug: java/numeros/primer-digito-de-un-numero-con-java
 author: victor_cuervo
 type: doc
+id: d21ca6ac-4439-4337-8fc8-96cf016db9f4
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ObtenerPrimerDigitoDeUnNumero.java
-topic: java
-
 ---
 
 Si ayer veíamos como [obtener el último dígito de un número con Java](http://lineadecodigo.com/2009/01/11/ultimo-digito-de-un-numero-con-java/). Eso sí, en este caso no será tan sencillo como utilizar el módulo de 10. Si bien, tampoco es un ejemplo muy complejo.

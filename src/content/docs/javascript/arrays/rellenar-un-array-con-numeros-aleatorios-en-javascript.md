@@ -7,9 +7,8 @@ tags: ["array","funcion-arrow","console-log","math","from","random"]
 slug: javascript/arrays/rellenar-un-array-con-numeros-aleatorios-en-javascript
 author: victor_cuervo
 type: doc
+id: 05254c08-dc74-485c-a523-ebe2027a50b3
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/rellenar-array-numeros-aleatorios.js
-topic: javascript
-
 ---
 
 Alguno podríais pensar que lo que explicábamos en [el artículo de cómo rellenar un array con números](http://lineadecodigo.com/javascript/rellenar-un-array-con-numeros-en-javascript/), a parte de la parte didáctica, no tendría mucha aplicabilidad ya que cargamos un array con el mismo número. Si que es verdad que los casos de uso son menos, pero para que le podáis sacar un verdadero partido vamos a ver cómo podemos **rellenar un array con números aleatorios** en [Javascript](http://www.manualweb.net/javascript).

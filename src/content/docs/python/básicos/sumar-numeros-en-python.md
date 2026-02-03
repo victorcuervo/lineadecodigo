@@ -7,9 +7,8 @@ tags: ["input","print","int","try-except","break","bucle","while"]
 slug: python/basicos/sumar-numeros-en-python
 author: victor_cuervo
 type: doc
+id: 45137095-9224-49f8-8e1f-40ff5da47e39
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/sumar_numeros.py
-topic: python
-
 ---
 
 Cuando estás empezando a programar [Python](http://www.manualweb.net/python) te encontrarás con problemas sencillos cómo puede ser sumar números en [Python](http://www.manualweb.net/python). La idea es pedir dos números por consola al usuario y posteriormente realizar la suma de estos dos números para acabar mostrándola nuevamente por consola. Algo que podría sonar sencillo, pero con lo que hay que tener cuidado para que no se nos complique.

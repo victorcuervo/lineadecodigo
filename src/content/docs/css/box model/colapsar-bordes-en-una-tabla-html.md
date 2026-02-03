@@ -7,9 +7,8 @@ tags: ["border","table","border-collapse","separate","collapse"]
 slug: css/box-model/colapsar-bordes-en-una-tabla-html
 author: victor_cuervo
 type: doc
+id: 805550fa-246d-44a4-8b77-47ab5943d635
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-border-collapse.html
-topic: css
-
 ---
 
 Cuando creamos una tabla [HTML](https://www.manualweb.net/html/) en una página web, estas, por defecto tienen un modelo de bordes independiente, es decir, podríamos modificar el contenido de los bordes de cada una de las celdas sin que las otras celdas se viesen afectadas. Si bien podemos colapsar bordes en una tabla [HTML](https://www.manualweb.net/html/) para que las celdas pasen a compartir los bordes.

@@ -7,8 +7,8 @@ tags: ["try-except","os","exists","remove","filenotfounderror"]
 slug: python/ficheros/borrar-un-fichero-en-python
 author: victor_cuervo
 type: doc
+id: b56fc25d-d4d4-415f-bbd6-d984715f6931
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/borrar-fichero.py
-topic: python
 ---
 
 Otro de los [ejemplos básicos sobre programación en Python](https://lineadecodigo.com/categoria/python/) que estamos revisando esta semana es el que explica cómo borrar un fichero en [Python](https://www.manualweb.net/python/).

@@ -7,9 +7,8 @@ tags: ["constantes","variables","integer","long","double"]
 slug: java/variables/valores-maximo-y-minimo-de-los-tipos-primitivos-java
 author: victor_cuervo
 type: doc
+id: e82931e1-38e3-4556-a849-d3b0f45da368
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/variables/ValoresMaxMin.java
-topic: java
-
 ---
 
 En algún ejemplo de [Línea de Código](http://lineadecodigo.com/) hemos explicado [los tipos de datos primitivos Java y sus valores por defecto](http://lineadecodigo.com/java/tipos-primitivos-de-datos-en-java/). En este caso vamos a ver como poder mostrar los valores máximo y mínimo de los tipos primitivos [Java](https://www.manualweb.net/java/), es decir, cual es el mayor y menor valor de los int, long, byte, double,...

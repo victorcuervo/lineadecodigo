@@ -7,9 +7,8 @@ tags: ["driver","jdbc","connection","resultset","statement","executequery","clos
 slug: java/jdbc/conectarnos-a-una-base-de-datos-con-jdbc
 author: victor_cuervo
 type: doc
+id: c319e291-0b9a-4f2b-a069-516f7cfc0678
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConexionBaseDatos.java
-topic: java
-
 ---
 
 El objetivo de nuestro ejemplo es el de ver qué tenemos que hacer para crear una conexión [JDBC](http://lineadecodigo.com/tag/java-jdbc/) con [Java](https://www.manualweb.net/java/) sobre una base de datos y ejecutar una consulta. 

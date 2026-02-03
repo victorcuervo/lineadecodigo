@@ -7,8 +7,8 @@ tags: ["jdbc","sqlwarning","sqlexception","getwarnings"]
 slug: java/jdbc/jdbc-sqlwarning
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-812c-8066-f58178580676
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/WarningSQL.java
-topic: java
 ---
 
 Dentro de los programas que acceden a las bases de datos con [Java](https://www.manualweb.net/java/) JDBC tenemos errores representados por `SQLException` y alertas representadas por JDBC SQLWarning. Una alerta JDBC SQLWarning representa una información sobre algo que no ha ocurrido de forma esperada, pero que no ha sido un impedimento para ejecutar la acción que se había realizado. Un ejemplo, y el que vamos a desarrollar aquí, es cuando insertamos campos de texto de un tamaño mayor al que se esperaba y se produce un truncado. En el artículo [Truncar campos SQL](http://lineadecodigo.com/java/truncar-campos-sql/) explica cómo realizar esto. En este caso la alerta genera información indicando que se insertó la información, pero que se tuvo que truncar.

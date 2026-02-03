@@ -7,9 +7,8 @@ tags: ["getbyname","byte","array","bits","operadores","java-net","inetaddres"]
 slug: java/redes/obtener-la-ip-de-un-host
 author: victor_cuervo
 type: doc
+id: 88ffdd1c-7960-42dd-823d-b90ac054037a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/net/ObtenerIPDelHost.java
-topic: java
-
 ---
 
 Para obtener la dirección IP de una máquina lo primero que debemos de hacer es construir una clase `InetAddress` a partir de una URL. Esta clase la encontraremos en el paquete [java.net](http://java.net/). Ejemplos de URL serían [www.lineadecodigo.com](http://www.lineadecodigo.com/), [www.google.com](http://www.google.com/), [www.w3api.com](http://www.w3api.com/)...

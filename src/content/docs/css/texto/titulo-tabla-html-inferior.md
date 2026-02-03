@@ -7,9 +7,8 @@ tags: ["table","caption","caption-side"]
 slug: css/texto/titulo-tabla-html-inferior
 author: victor_cuervo
 type: doc
+id: 4de88fed-9b15-4f65-b0cd-16f98b23aae6
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/titulo-tabla-inferior.html
-topic: css
-
 ---
 
 El otro día veíamos cómo podía [poner un título en tabla HTML](http://lineadecodigo.com/html/titulo-en-tabla-html/) mediante el elemento `caption`. En este ejemplo vamos a ver cómo tener un **título tabla HTML inferior**, es decir, que el título se vea después de la tabla.

@@ -7,9 +7,8 @@ tags: ["objeto","prototype"]
 slug: javascript/clases/crear-propiedades-dinamicas-en-javascript
 author: victor_cuervo
 type: doc
+id: 2c13128f-a25f-4782-a0b3-f88c0e03ec9e
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/crear-propiedades-dinamicas.js
-topic: javascript
-
 ---
 
 Una de las cosas que podemos hacer con los objetos en [Javascript](https://www.manualweb.net/javascript/) es **crear propiedades de forma dinámica**. Por ejemplo, podemos tener una definición de objeto persona con nombre, apellido y edad.

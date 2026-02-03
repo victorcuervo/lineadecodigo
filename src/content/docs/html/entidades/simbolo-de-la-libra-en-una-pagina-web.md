@@ -7,8 +7,8 @@ tags: ["HTML Entidades"]
 slug: html/entidades/simbolo-de-la-libra-en-una-pagina-web
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8100-8696-ca702c6055f8
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/simbolo-de-una-libra.html
-topic: html
 ---
 
 Ayer estaba escribiendo un artículo sobre unas noticias del Reino Unido. En dicho artículo se indicaban unas cuantías monetarias en libras (o como los ingleses dicen, pounds). Si tenemos que poner en una página web el símbolo de la libra nos podemos apoyar en las entidades [HTML](https://www.manualweb.net/html/).

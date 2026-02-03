@@ -7,8 +7,8 @@ tags: ["imagenes","texto","tooltip"]
 slug: html/imagenes/tooltip-texto-al-pasar-sobre-una-imagen
 author: victor_cuervo
 type: doc
+id: b1933a35-db63-4569-a3a6-80a797b0cdbd
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/imagenes/tooltip-texto-al-pasar-sobre-una-imagen.html
-topic: html
 ---
 
 Muchas veces habréis pasado sobre una imagen y habréis visto que sale como un pequeño texto en amarillo con un texto, normalmente relacionado con la imagen. Pues bien, eso es lo que se conoce como tooltip.

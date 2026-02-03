@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist","listiterator","previous","next","hasprevio
 slug: java/colecciones/recorrer-una-lista-con-listiterator
 author: victor_cuervo
 type: doc
+id: 1d271374-c0f0-43a3-9c4b-b738a6785994
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/IteradorLista.java
-topic: java
-
 ---
 
 Un ListIterator es un iterador [Java](https://www.manualweb.net/java/) que nos permite recorrer una lista de elementos en varias direcciones, bien hacia delante o bien hacía atrás. Para recorrer una lista con ListIterator lo primero que tenemos que hacer es crear una lista. En este caso vamos a crear un [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/).

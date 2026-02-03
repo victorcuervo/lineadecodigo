@@ -7,8 +7,8 @@ tags: ["border-radius"]
 slug: css/box-model/redondear-bordes-con-css
 author: victor_cuervo
 type: doc
+id: 4e5ccf31-2b3f-4d19-8378-d99d565666d4
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/bordes/bordes-redondeados.html
-topic: css
 ---
 
 Gracias a [CSS3](https://www.manualweb.net/css/) podemos redondear los bordes de los elementos. Y es que para redondear bordes con [CSS3](https://www.manualweb.net/css/) utilizaremos la propiedad [`border-radius`](https://w3api.com/CSS/border-radius/).

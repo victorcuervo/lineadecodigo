@@ -7,9 +7,8 @@ tags: ["string","touppercase","println"]
 slug: java/strings/convertir-una-cadena-a-mayusculas-en-java
 author: victor_cuervo
 type: doc
+id: f482c6c4-7560-4b9d-b759-7714f1879d2b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ConvertirAMayusculas.java
-topic: java
-
 ---
 
 Hay códigos que son realmente sencillos, como convertir una cadena a mayúsculas en [Java](http://www.manualweb.net/tutorial-java/), pero que cuando estamos aprendiendo un lenguaje de programación, en este caso [Java](http://www.manualweb.net/tutorial-java/), nos pueden dar más de un quebradero de cabeza, debido a que no nos acordemos de los métodos que nos permiten hacer cosas básicas.

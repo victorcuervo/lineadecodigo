@@ -7,9 +7,8 @@ tags: ["benchmark","jhm"]
 slug: java/rendimiento/pruebas-de-rendimiento-con-java-microbenchmark-harness
 author: victor_cuervo
 type: doc
+id: ecd7237e-f3e8-4c45-bb7a-5ea12e17a42d
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/benchmark/BenchmarkJHM.java
-topic: java
-
 ---
 
 Cuando estamos desarrollando nuestros programas es muy probable que, en algún momento, necesitemos realizar una prueba de rendimiento. En este artículo vamos a ver lo sencillo que es crear pruebas de rendimiento con **Java Microbenchmark Harness (JMH)**. **Java Microbenchmark Harness (JMH)** es un pequeño framework para realizar pruebas de rendimiento que nos ofrece las operaciones básicas como preparación de datos, cálculos de medias de rendimiento, posibilidad de dar información en nanosegundos,... y del cual podéis [encontrar mucha documentación en su página en GitHub](https://github.com/openjdk/jmh). En este caso vamos a realizar una prueba de rendimiento para ver qué [tipos de bucles en Java](http://www.manualweb.net/java/sentencias-bucle-java/) son más óptimos, si lo es un [bucle for](http://www.manualweb.net/java/sentencias-bucle-java/#for), un [bucle for each](http://lineadecodigo.com/java/bucle-for-each-en-java/) o un [bucle while](http://www.manualweb.net/java/sentencias-bucle-java/#while). Lo primero será descargar el framework para realizas las pruebas. Para ello, como no, utilizaremos Maven. Así que introduciremos su dependencia dentro de nuestro fichero **pom.xml**.

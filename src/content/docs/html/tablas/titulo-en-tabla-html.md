@@ -7,9 +7,8 @@ tags: ["table","tr","td","th","caption"]
 slug: html/tablas/titulo-en-tabla-html
 author: victor_cuervo
 type: doc
+id: f2061f8d-bd4a-4e37-8ab7-8eb1981f62ba
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/titulo-tabla.html
-topic: html
-
 ---
 
 En este ejemplo vamos a ver cómo podemos poner un título en tabla [HTML](https://www.manualweb.net/html/). Para ello vamos a ver cómo podemos utilizar el [elemento caption](https://www.w3api.com/HTML/caption/) de [HTML](https://www.manualweb.net/html/).

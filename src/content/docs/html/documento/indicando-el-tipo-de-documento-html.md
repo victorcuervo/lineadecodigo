@@ -7,10 +7,8 @@ tags: ["doctype","w3c","html5"]
 slug: html/documento/indicando-el-tipo-de-documento-html
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8102-bc73-ff684ec440c9
 download: https://github.com/victorcuervo/lineadecodigo_html/tree/master/basicos/doctype
-topic: html
-
-
 ---
 
 Cuando estamos creando un documento HTML lo primero que debemos indicar es el tipo de documento HTML del que se trata. Para ello deberemos de adjuntar en la primera línea del documento el **DOCTYPE** de dicho documento. 

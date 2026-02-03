@@ -7,9 +7,8 @@ tags: ["getproperty","file","java-io"]
 slug: java/ficheros/crear-la-ruta-de-un-fichero-con-java
 author: victor_cuervo
 type: doc
+id: e14f794b-d5e0-46e3-9ef8-000cd80afd3c
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/ConstruirPath.java
-topic: java
-
 ---
 
 Hoy un artículo sencillo pero de mucha utilidad. Como bien sabéis, dependiendo del sistema operativo que estemos utilizando en [Java](https://www.manualweb.net/java/), las rutas de los ficheros (llamados path) se crean de diferente forma. Veamos como podemos crear la ruta de un fichero con [Java](https://www.manualweb.net/java/). 

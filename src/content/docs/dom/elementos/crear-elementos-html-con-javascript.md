@@ -7,9 +7,8 @@ tags: ["h1","div","form","input","appendchild","createelement","getelementbyid",
 slug: dom/elementos/crear-elementos-html-con-javascript
 author: victor_cuervo
 type: doc
+id: 2bcce5c6-6938-4dd3-80b1-3082c3101418
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/dom/crear-elemento-html.html
-topic: dom
-
 ---
 
 Lo más normal es que el contenido de nuestra página lo hayamos definido en nuestro documento [HTML](https://www.manualweb.net/html/) antes de que la página sea cargada. Si bien, desde [JavaScript](http://www.manualweb.net/javascript/) tenemos un par de métodos muy potentes que nos permiten crear elementos [HTML](https://www.manualweb.net/html/) con [Javascript](http://www.manualweb.net/javascript/) una vez cargada la página. Los métodos en cuestión son:

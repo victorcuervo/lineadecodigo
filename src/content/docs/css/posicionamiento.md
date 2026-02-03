@@ -7,9 +7,7 @@ tags: []
 slug: css/posicionamiento
 author: victor_cuervo
 type: category
-
-topic: css
-
+id: 2eba9dfb-adca-80f2-8668-e93655ab202f
 ---
 
 # Posicionamiento en CSS: control absoluto de los elementos

@@ -7,9 +7,8 @@ tags: ["form","range","css","style","border-radius"]
 slug: html/formularios/modificando-propiedades-css-con-un-slider
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81b6-90dd-fb926904b014
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/range-modificando-css.html
-topic: html
-
 ---
 
 Una de las aplicaciones que podemos tener con un slider es la de modificar los valores de las propiedades CSS. Así los incrementaremos o decrementaremos, según vayamos moviendo el slider, aplicarán a ciertos valores de las hojas de estilo.

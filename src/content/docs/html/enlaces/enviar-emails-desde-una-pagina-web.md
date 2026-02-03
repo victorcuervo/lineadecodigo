@@ -7,10 +7,8 @@ tags: ["mailto","form","action","email"]
 slug: html/enlaces/enviar-emails-desde-una-pagina-web
 author: victor_cuervo
 type: doc
+id: c77ec9a8-b0cd-42cf-b213-16294b42afb8
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/enviar-emails-desde-pagina-web.html
-topic: html
-
-
 ---
 
 Aunque al día de hoy casi todas las páginas están versadas en uno u otro lenguaje de servidor: [ASP](http://www.manualweb.net/asp/), [PHP](http://www.manualweb.net/php/), [JSP](https://www.manualweb.net/javaee/),... existe un amplio espectro de páginas desarrolladas en [HTML](https://www.manualweb.net/html/). Casi siempre con la inestimable ayuda de un editor web. Y es que es mucha la gente, que con unos conocimientos mínimos de Internet, se lanza a este para contarle algo al ciber espacio. E incluso habrá sitios dónde podramos insertar código [HTML](https://www.manualweb.net/html/) y que no permite utilizar otro lenguaje.

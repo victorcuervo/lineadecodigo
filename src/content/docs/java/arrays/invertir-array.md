@@ -7,9 +7,8 @@ tags: ["array"]
 slug: java/arrays/invertir-array
 author: Pablo Ruiz
 type: doc
+id: 128f9059-c3e9-4a94-81c3-ca3e5a0e0906
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/InvertirArray.java
-topic: java
-
 ---
 
 Hoy les explicaré un método en [Java](https://www.manualweb.net/java/) que hice para invertir arrays simples. En él haremos lo siguiente

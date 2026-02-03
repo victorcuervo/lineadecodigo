@@ -7,9 +7,8 @@ tags: ["metodo","parametros","clase"]
 slug: java/clases/parametros-por-referencia-en-java
 author: Víctor Cuervo
 type: doc
+id: a083f659-2025-4d97-bf68-ffe03ad8cbad
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ParametrosReferencia.java
-topic: java
-
 ---
 
 En los lenguajes de programación suelen existir dos formas de pasar los parámetros a los métodos. Parámetros por valor (dónde se realiza una copia de las variables) o parámetros por referencia (dónde se pasa una referencia a la variable original). En [Java](https://www.manualweb.net/java/) solo ha paso de parámetros por copia. Pero entonces, por qué la gente habla del paso de parámetros por referencia en Java. Veamos en detalle por qué parece que realizamos un paso de parámetros por referencia en [Java](https://www.manualweb.net/java/).

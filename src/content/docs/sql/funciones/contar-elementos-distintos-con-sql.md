@@ -7,9 +7,8 @@ tags: ["select","count","distinct"]
 slug: sql/funciones/contar-elementos-distintos-con-sql
 author: victor_cuervo
 type: doc
+id: 8abe413c-8e85-43bf-bc1d-c514f4a17523
 download: https://github.com/victorcuervo/lineadecodigo_sql/blob/master/consultas/contar-elementos-distintos.sql
-topic: sql
-
 ---
 
 Ya hemos aprendido a [contar los elementos de una consulta con SQL](http://lineadecodigo.com/sql/contar-el-numero-de-registros-en-sql/). Ahora vamos a ver cómo contar elementos distintos con [SQL](https://www.manualweb.net/sql/). Pero, ¿qué significa elementos distintos? La búsqueda de elementos distintos nos permite calcular cuantos elementos de una tipología existen en una tabla.

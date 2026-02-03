@@ -7,9 +7,8 @@ tags: ["listas","random","sample","range"]
 slug: python/listas/lista-aleatoria-con-python
 author: victor_cuervo
 type: doc
+id: 84bf109c-d6fa-46cd-911a-8b2ed92bd896
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/matematicos/lista_aleatoria.py
-topic: python
-
 ---
 
 ## Generar lista aleatoria con Python

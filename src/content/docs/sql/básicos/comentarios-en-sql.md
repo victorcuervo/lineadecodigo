@@ -7,9 +7,8 @@ tags: ["comentarios","guion","ansi-sql","sql99"]
 slug: sql/basicos/comentarios-en-sql
 author: victor_cuervo
 type: doc
+id: e89fbf6e-0f3d-4119-b040-01db4a367f0f
 download: http://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_sql/src/com/lineadecodigo/sql/basicos/comentarios.sql
-topic: sql
-
 ---
 
 Al igual que cuando estás programando, cuando escribimos sentencias [SQL](http://www.manualweb.net/sql/) podemos (y debemos) de añadir comentarios sobre nuestro código. Para poder añadir comentarios en [SQL](http://www.manualweb.net/sql/) tenemos varias formas. La primera es la definida en el estándar ANSI/SQL que es mediante dos guiones al principio de una línea.

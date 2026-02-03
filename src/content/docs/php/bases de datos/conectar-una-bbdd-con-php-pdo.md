@@ -7,9 +7,8 @@ tags: ["pdo","getMessage","try-catch","pdoexception","getattribute"]
 slug: php/bases-de-datos/conectar-una-bbdd-con-php-pdo
 author: Víctor Cuervo
 type: doc
+id: 9314e14c-d789-4168-ab62-a85346771c4e
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/bbdd/pdo/conectar_pdo.php
-topic: php
-
 ---
 
 PDO es el acrónimo de _**PHP Data Object**_. PDO es la capa de abstracción de objetos para poder manipular los datos de las bases de datos de forma estándar. Es decir, no existen métodos propios de cada base de datos, si no que PDO define un interface estándar que las bases de datos tienen que soportar. De esta forma conseguiremos que un programa [PHP](http://www.manualweb.net/php/) construido con PDO sirva para acceder a cualquier base de datos. O, al menos, en teoría así sería. En este ejemplo vamos a conectar una BBDD con [PHP](http://www.manualweb.net/php/) PDO. Lo primero para establecer una conexión con PDO es crear un objeto PDO.

@@ -7,9 +7,8 @@ tags: ["applet","awt","graphics","paint","init","ellipse","mousemotionlistener",
 slug: java/applets/scrollbars-y-elipse
 author: victor_cuervo
 type: doc
+id: 696256b4-aa9b-4bd4-8fde-51f11742904a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/applet/ScrollbarElipse.java
-topic: java
-
 ---
 
 Por los emails recibidos parece que este ejemplo es solicitado en muchas Universidades y centros de enseñanza para el manejo de eventos y scrollbars en [Java](https://www.manualweb.net/java/) y con [AWT](https://www.w3api.com/Java/tag/java.awt/). Este ejercicio consiste en crear un Applet que contenga dos barras de desplazamiento (una vertical y otra horizontal) y una elipse en el área gráfica. Dependiendo del movimiento de las scrollbars, la elipse irá cambiando de tamaño. El cambio de su tamaño será directamente proporcional con el valor de las scrollbars. Para poder realizar esto deberemos de seguir los siguientes pasos: En primer lugar deberemos de crear un Applet. Para ello nuestra clase deberá de heredar de la clase Applet. Los métodos que utilizaremos en el applet serán paint(Graphics g) encargado de gestionar el área gráfica y el método init() para configurar los parametros generales. En la inicialización del Applet añadiremos las barras de scroll. Una vertical (Scrollbar.VERTICAL) y otra horizontal (Scrollbar.HORIZONTAL). Una vez cerradas las añadiremos al Applet mediante el método add(Sitio, Componente).

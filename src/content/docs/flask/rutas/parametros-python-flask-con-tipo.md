@@ -7,9 +7,8 @@ tags: ["tipo","variable","parametros","get","int","route"]
 slug: flask/rutas/parametros-python-flask-con-tipo
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81ac-8c41-fddc78e87a9c
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/tiposparametro.py
-topic: flask
-
 ---
 
 Ya hemos visto cómo podemos pasar parámetros GET en peticiones [Python](http://www.manualweb.net/python/) Flask. En este caso vamos a ver cómo podemos **forzar el tipo de parámetros** que se envían. Es decir, forzar a que el path de los parámetros de una petición GET sean de un tipo u otro.

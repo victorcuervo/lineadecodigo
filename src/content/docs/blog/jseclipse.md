@@ -7,9 +7,7 @@ tags: ["herramientas"]
 slug: blog/jseclipse
 author: lineadecodigo
 type: blog
-
-topic: blog
-
+id: 2c8a9dfb-adca-81af-99db-ec429a7e258e
 ---
 
 JSEclipse es un plugin para Eclipse que permite el manejar código [JavaScript](https://www.manualweb.net/javascript/) (tanto el código [JavaScript](https://www.manualweb.net/javascript/) básico, como el de algunas librerías construidas sobre [JavaScript](https://www.manualweb.net/javascript/), véase [DOJO](http://lineadecodigo.com/categoria/dojo/), [Prototype](http://lineadecodigo.com/categoria/prototype/),...) dentro de proyectos Eclipse de una forma muy sencilla.

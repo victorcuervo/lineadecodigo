@@ -7,11 +7,8 @@ tags: ["database","dropdatabase"]
 slug: mongodb/mantenimiento/renombrar-una-base-de-datos-en-mongodb
 author: victor_cuervo
 type: doc
+id: 69a59de0-ba19-40a9-b996-f3fbb348a466
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-basicos/renombrar-bd.js
-topic: mongodb
-
-
-
 ---
 
 Ya hemos aprendido a [crear](http://lineadecodigo.com/mongodb/crear-una-base-de-datos-en-mongodb/) y a [borrar](http://lineadecodigo.com/mongodb/borrar-una-base-de-datos-en-mongodb/) una base de datos en [MongoDB](https://www.manualweb.net/mongodb/). Así que ahora vamos a ver qué tenemos que hacer para renombrar una base de datos en [MongoDB](https://www.manualweb.net/mongodb/).

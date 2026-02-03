@@ -7,9 +7,8 @@ tags: ["print","input","int"]
 slug: python/basicos/leer-por-consola-en-python
 author: victor_cuervo
 type: doc
+id: cd83f127-903b-4914-b297-b8ec089886ad
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/leerconsola.py
-topic: python
-
 ---
 
 Si estás [empezando a programar con Python](https://lineadecodigo.com/tag/python-basicos/) una de las cosas que seguro que se te pasa por la cabeza es saber cómo se puede **leer por consola en Python**. Es decir, cómo puedo pedir al usuario un valor para, posteriormente, utilizarlo en nuestros programas.

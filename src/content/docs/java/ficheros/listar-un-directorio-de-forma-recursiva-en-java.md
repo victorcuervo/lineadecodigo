@@ -7,9 +7,8 @@ tags: ["recursividad","file","isdirectory","getname"]
 slug: java/ficheros/listar-un-directorio-de-forma-recursiva-en-java
 author: victor_cuervo
 type: doc
+id: 5aea0f07-bb10-46eb-962d-1839e9e220f5
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/ListarDirectorioRecursivamente.java
-topic: java
-
 ---
 
 Ayer veíamos como [listar el contenido de un directorio con Java](http://lineadecodigo.com/java/listar-un-directorio-con-java/). En este ejemplo listábamos el contenido, saliendo como resultado los ficheros y directorios que contenía este. En este caso lo que vamos a hacer es listar el contenido de los directorios de forma recursiva. Es decir, cada vez que nos encontremos un directorio dentro del directorio que estamos listando, entraremos en él y listaremos su contenido. Así de forma recursiva sobre todos los directorios. En este caso vamos a crear un método listarDirectorio, el cual reciba un elemento [File](https://www.w3api.com/Java/File/exists/) que sea un directorio y el separador.

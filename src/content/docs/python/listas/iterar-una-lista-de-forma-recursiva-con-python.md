@@ -7,9 +7,8 @@ tags: ["recursividad","listas","for-in","isinstance"]
 slug: python/listas/iterar-una-lista-de-forma-recursiva-con-python
 author: victor_cuervo
 type: doc
+id: 30c78282-3f40-4be0-9196-eea9434b8b93
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/lista_recursiva.py
-topic: python
-
 ---
 
 En este ejemplo vamos a ver cómo podemos **iterar una lista de forma recursiva con Python**. Las listas de Python pueden contener a su vez otras listas, por lo tanto deberemos de tener una forma de recorrer la lista principal e ir recorriendo, a su vez, las listas anidadas, independientemente del grado de anidación que tengamos.

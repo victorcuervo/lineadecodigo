@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist","list","size"]
 slug: java/colecciones/numero-de-elementos-de-una-lista-en-java
 author: victor_cuervo
 type: doc
+id: 83a6cd46-8d5d-42e6-98d7-1a4a08d1f82e
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/NumeroElementosLista.java
-topic: java
-
 ---
 
 Con este ejemplo vamos a ver como podemos saber el número de elementos que hay dentro de una lista en [Java](https://www.manualweb.net/java/). Para ello nos vamos a apoyar en el [interface List](http://www.w3api.com/Java/List-java-util/) y en la [clase ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/). Lo primero que hacemos es dar de alta la lista e insertarle los elementos. Con esto pretendemos simular una situación en la cual tengamos una lista cargada con elementos, pero sin saber cuantos son. Lo que hacemos es utilizar el [interface List](http://www.w3api.com/Java/List-java-util/), el cual representa una colección de elementos ordenados. Lo que denominaríamos secuencia. Pero solo es un interface. Lo que necesitamos es utilizar una clase que implemente dicho interface. Es por ello que utilizamos la [clase ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/). Veamos como serian las líneas de código para cargar la lista:

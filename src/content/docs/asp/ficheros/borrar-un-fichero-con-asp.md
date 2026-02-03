@@ -7,9 +7,8 @@ tags: ["fileexists","filesystemobject","deletefile","response","write","server",
 slug: asp/ficheros/borrar-un-fichero-con-asp
 author: victor_cuervo
 type: doc
+id: 7292fd81-67a6-4c60-972a-345899219596
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/ficheros/borrar-fichero.asp
-topic: asp
-
 ---
 
 Una de las operaciones que podemos hacer cuando estemos trabajando con un fichero será lde borrado. Borrar un fichero con [ASP](http://www.manualweb.net/asp/) será tan sencillo como invocar al método DeleteFile. El método DeleteFile depende del objeto FileSystemObjet. Es por ello que lo primero que tendremos que hacer será instanciar el fichero FileSystemObjet.

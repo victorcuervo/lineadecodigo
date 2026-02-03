@@ -7,8 +7,8 @@ tags: ["echo","cadena"]
 slug: php/cadenas/saltos-de-linea-en-php
 author: victor_cuervo
 type: doc
+id: 20292f02-8192-4d6d-8edd-896996a1e6cd
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/cadenas/salto-linea.php
-topic: php
 ---
 
 Un artículo sencillo que tenía por ahí guardado desde hace bastante tiempo y que seguro que sirve [a aquellos que estáis empezando con PHP](https://lineadecodigo.com/tag/php-basico/) es saber cómo se ponen los saltos de línea en [PHP](http://www.manualweb.net/php). Ya que seguro que cuando estáis mostrando vuestros primero resultados por consola os salen todos juntos y son difíciles de leer o interpretar.

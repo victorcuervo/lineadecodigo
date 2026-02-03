@@ -7,9 +7,8 @@ tags: ["java-collection","stack","integer","vector","string","lifo","push","pop"
 slug: java/colecciones/crear-una-pila-en-java
 author: victor_cuervo
 type: doc
+id: 52bab059-93ba-4445-ab0e-eac7ac7f6997
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/Pila.java
-topic: java
-
 ---
 
 Es bueno saber cómo crear una pila en [Java](https://www.manualweb.net/java/) ya que estas estructuras nos pueden ser muy útiles a la hora de gestionar datos. Pero, lo primero que necesitamos saber es, ¿qué es una pila en [Java](https://www.manualweb.net/java/)? Una pila es una estructura que nos permite apilar elementos y recopilarlos en el orden inverso al cual los apilamos mediante operaciones de desapilar. Esto es lo que se conoce como estructuras LIFO (Last In First Out). De esta manera, una pila suele tener 3 operaciones básicas:

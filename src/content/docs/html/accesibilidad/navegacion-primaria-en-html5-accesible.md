@@ -7,9 +7,8 @@ tags: ["accesibilidad","nav","aria-labelledby"]
 slug: html/accesibilidad/navegacion-primaria-en-html5-accesible
 author: victor_cuervo
 type: doc
+id: 04ebcbd3-3201-4f1b-a0c1-95f0153895de
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/navegacion-primaria.html
-topic: html
-
 ---
 
 ## Navegación primaria en HTML5

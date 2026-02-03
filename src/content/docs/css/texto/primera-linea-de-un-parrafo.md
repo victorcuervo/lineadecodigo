@@ -7,8 +7,8 @@ tags: ["first-line","pseudo-elemento"]
 slug: css/texto/primera-linea-de-un-parrafo
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81bb-b358-e690e42b5562
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/texto/pseudoelemento-primera-linea.html
-topic: css
 ---
 
 Dentro de las [propiedades de CSS que nos permiten manipular elementos de texto](https://lineadecodigo.com/tag/css-texto/) encontramos el pseudo-elemento [`first-line`](http://w3api.com/CSS/first-line/) del lenguaje [CSS](http://www.manualweb.net/css/). Con el pseudo-elemento [`first-line`](http://w3api.com/CSS/first-line/) podemos modificar las propiedades de la primera línea de un párrafo. Entendemos como primera línea, donde el navegador corta el párrafo por coincidir con el final del navegador.

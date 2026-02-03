@@ -7,9 +7,8 @@ tags: ["actionlistener","jbutton","jlabel","jframe","java-swing"]
 slug: java/swing/click-en-boton-con-java-swing
 author: victor_cuervo
 type: doc
+id: af78d585-049e-4b8a-bee1-25d69ac4b409
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/swing/ClickBoton.java
-topic: java
-
 ---
 
 En este ejemplo vamos a aprender a controlar que se haga click en botón con [Java Swing](https://www.manualweb.net/java/). De esta manera podremos reaccionar ante una acción de un usuario.

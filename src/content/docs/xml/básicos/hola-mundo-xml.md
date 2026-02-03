@@ -7,10 +7,8 @@ tags: ["dtd","elemento","atributo"]
 slug: xml/basicos/hola-mundo-xml
 author: xhrist14n
 type: doc
+id: 0ffc9887-718b-4674-89c3-2033aa1e6ebd
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/basicos/hola-mundo.xml
-topic: xml
-
-
 ---
 
 [XML](http://www.manualweb.net/xml/) es un lenguaje descriptivo que se puede utilizar para describir cualquier cosa. Con el ejemplo Hola Mundo [XML](http://www.manualweb.net/xml/) vamos a ver como podemos construir nuestro primer documento en [XML](http://www.manualweb.net/xml/) paso a paso.

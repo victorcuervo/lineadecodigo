@@ -7,9 +7,8 @@ tags: ["array","scanner","indexoutofboundsexception"]
 slug: java/arrays/arrays-dinamicos-en-java
 author: victor_cuervo
 type: doc
+id: 5dad22b7-12cc-4877-afaa-281a4c354026
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/ArrayTamanioDinamico.java
-topic: java
-
 ---
 
 Cuando estemos creando nuestros primeros arrays veremos que las estructura de array se crea con un tamaño fijo y que una vez creado el array no podremos cambiar su tamaño. Y que si queremos tener arrays dinámicos en [Java](http://www.manualweb.net/java/) deberemos de recurrir a [elementos como listas en Java](http://lineadecodigo.com/java/crear-un-arraylist-en-java/). Si bien podemos crear dinámicamente un array en [Java](http://www.manualweb.net/java/) asignándole el tamaño en tiempo de ejecución y no en tiempo de desarrollo. Pero lo primero será crear nuestro array básico:

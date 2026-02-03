@@ -4,11 +4,11 @@ description: "El Bucle for-each en Java nos permite recorrer de una forma sencil
 date: 2009-02-02
 updatedDate: 2026-01-07
 tags: ["bucles","java-collection","list","listiterator","for-each","array"]
-slug: java/bucles/bucle-foreach-en-java
+slug: java/bucles/bucle-for-each-en-java
 author: victor_cuervo
 type: doc
+id: 8fc99858-b680-408a-8b69-99a2954d9b5a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ForEach.java
-topic: java
 ---
 
 Una de las [cosas nuevas que se incorporó en Java 5](https://manualweb.net/java/historia-java/#java-5) fue el bucle for-each en [Java](http://www.manualweb.net/tutorial-java/). Esta estructura nos permite recorrer una Colección o un array de elementos de una forma sencilla. Evitando el uso de elementos como los iteradores o de [un bucle for normal](https://manualweb.net/java/sentencias-bucle-java/#for).

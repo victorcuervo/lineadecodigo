@@ -7,9 +7,8 @@ tags: ["bufferedreader","inputstreamreader","fileinputstream","encoding","iso","
 slug: java/ficheros/leer-fichero-iso-latin-1
 author: Víctor Cuervo
 type: doc
+id: 2c8a9dfb-adca-8135-a957-cc5b15112f98
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/encoding/LeerFicheroISO1.java
-topic: java
-
 ---
 
 El lenguaje [Java](https://www.manualweb.net/java/) nos da la capacidad de acceder a ficheros que tengan diferentes codificaciones. Posiblemente, muchos de nuestros ficheros vengan codificados en ISO Latin 1, o lo que es lo mismo ISO-8859-1, Latin Alphabet No. 1. Al existir diferentes codificaciones para el contenido, [Java](https://www.manualweb.net/java/) nos permite indicar el tipo de contenido al que accedemos, para poderlo leer los ficheros de la forma correcta. Pero vamos por partes, lo primero que haremos será abrir el fichero. Para ello y como vimos en el artículo [leer un fichero de texto con Java](http://lineadecodigo.com/java/leer-fichero-de-texto-con-java/), necesitaremos de un [BufferedReader](https://www.w3api.com/Java/BufferedReader/readLine/).

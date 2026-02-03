@@ -7,9 +7,8 @@ tags: ["prototype","clase","metodo","objeto","function"]
 slug: javascript/clases/crear-metodos-dinamicamente-en-javascript
 author: victor_cuervo
 type: doc
+id: efe8917b-fddb-48fe-8763-144ed4186d71
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/crear-metodos-dinamicamente.js
-topic: javascript
-
 ---
 
 Si ayer veíamos que podíamos [crear propiedades dinámicas en Javascript](http://lineadecodigo.com/javascript/crear-propiedades-dinamicas-en-javascript/) hoy veremos como crear métodos dinámicamente en [Javascript](https://www.manualweb.net/java/). Y es que el procedimiento es el mismo para este caso y volveremos a apoyarnos en la sentencia **prototype** para poder crear métodos dinámicamente.

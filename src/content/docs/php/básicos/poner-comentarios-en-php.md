@@ -7,8 +7,8 @@ tags: ["comentarios"]
 slug: php/basicos/poner-comentarios-en-php
 author: xhrist14n
 type: doc
+id: 6914a5f6-bfb0-4251-b0df-877f50ed7ae1
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/comentarios.php
-topic: php
 ---
 
 Poner comentarios en [PHP](http://www.manualweb.net/php/) como en todo lenguaje de programación es bastante útil para escribir detalles de implementación de nuestro de código ademas de otras referencias necesarias para entender el código escrito por nosotros. La forma más natural de escritura de comentarios en [PHP](http://www.manualweb.net/php) tiene dos formas básicas, comentarios largos en los que podemos introducir un bloque con varias frases explicativas o comentarios cortos dónde se explique la información en una sencilla frase. Para pode explicar la generación de comentarios vamos ha realizar un programa que [manipule números en PHP](http://lineadecodigo.com/tag/php-numeros/) e iremos introduciendo en el diferentes comentarios que hagan explicativo dicho código. Para escribir comentarios largos se hace uso de /* para iniciar la escritura y */ para finalizar la escritura del comentario de la siguiente manera:

@@ -7,9 +7,8 @@ tags: ["table","td","tr"]
 slug: html/tablas/crear-una-tabla-en-html
 author: victor_cuervo
 type: doc
+id: 32a8ea1f-7bc3-41f0-b4c1-2e5938cdcef1
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/tabla-en-html.html
-topic: html
-
 ---
 
 Las tablas son elementos que nos sirven en [HTML](https://www.manualweb.net/html/) para mostrar datos organizados. Si trabajas con programas de ofimática estarás familiarizado con su funcionamiento y las utilidades que puede tener una tabla.

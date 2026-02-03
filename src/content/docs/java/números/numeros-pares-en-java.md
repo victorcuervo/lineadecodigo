@@ -7,8 +7,8 @@ tags: ["operadores","pares"]
 slug: java/numeros/numeros-pares-en-java
 author: victor_cuervo
 type: doc
+id: b61f851f-5319-41e4-a9cb-d8102d8867f9
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroPar.java
-topic: java
 ---
 
 Hace unos días publicábamos el artículo [Números impares en Java](http://lineadecodigo.com/java/numeros-impares-en-java/). Ahora veremos el otro lado, cómo hacer un programa en [Java](https://www.manualweb.net/java/) que calcule los números pares en [Java](https://www.manualweb.net/java/). Para ello haremos una codificación ad hoc del mismo y por otro lado veremos cómo reutilizar este código para calcular si el número es impar, siendo una solución complementaria a la planteada en [Números impares en Java](http://lineadecodigo.com/java/numeros-impares-en-java/).

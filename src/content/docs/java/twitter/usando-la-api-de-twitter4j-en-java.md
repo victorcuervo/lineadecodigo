@@ -7,9 +7,8 @@ tags: ["twitter","twitter4j","twitterexception","list"]
 slug: java/twitter/usando-la-api-de-twitter4j-en-java
 author: Pablo Ruiz
 type: doc
+id: 2c8a9dfb-adca-8143-a9d2-c797a02acc14
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/twitter/TwitterJ.java
-topic: java
-
 ---
 
 Hola nuevamente acá estoy posteando de nuevo cómo cambiar el estado de Twitter con java gracias a la [API Twitter4J](https://twitter4j.org/en/index.html). Primeramente tenemos que tener descargarnos la [API Twitter4J 2.1.2](https://twitter4j.org/archive/twitter4j-4.0.7.zip) del siguiente link…

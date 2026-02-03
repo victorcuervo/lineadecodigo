@@ -7,8 +7,8 @@ tags: ["footer","semantica"]
 slug: html/semantica/pie-de-pagina-en-html5
 author: victor_cuervo
 type: doc
+id: 7caec74b-5863-4e60-94b2-59431b5cfbb3
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/piepagina-documento.html
-topic: html
 ---
 
 Siguiendo con el [uso de elementos semánticos de HTML5](http://lineadecodigo.com/tag/html5-semantica/) vamos a ver cómo podemos crear un pie de página en [HTML5](http://www.manualweb.net/html5/) mediante el elemento [`footer`](http://w3api.com/HTML/footer/). El elemento semántico [`footer`](http://w3api.com/HTML/footer/) nos permite agrupar los elementos que representen el pie de la página.

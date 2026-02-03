@@ -7,9 +7,8 @@ tags: ["embed","object"]
 slug: html/video/cargar-un-video-avi-asf-o-wmv-en-mi-pagina-web
 author: victor_cuervo
 type: doc
+id: 9376562d-61bc-4450-8a1d-c689258a99d6
 download: https://github.com/victorcuervo/lineadecodigo_html/tree/master/video-y-sonido/cargar-video
-topic: html
-
 ---
 
 ## Formatos de vídeo de Microsoft

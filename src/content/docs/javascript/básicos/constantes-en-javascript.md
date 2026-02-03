@@ -7,9 +7,8 @@ tags: ["constantes","const","try-catch"]
 slug: javascript/basicos/constantes-en-javascript
 author: victor_cuervo
 type: doc
+id: 89349214-84b3-429b-99c1-693cf193dcbd
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/constante-javascript.js
-topic: javascript
-
 ---
 
 En nuestros programas en Javascript [trabajaremos normalmente con variables](https://lineadecodigo.com/tag/javascript-variables/), asignando y modificando valores de las mismas. Si bien tenemos que saber que podemos definir **constantes en Javascript**. Es decir, definir unas variables las cuales tienen un valor fijo que no puede ser modificado a lo largo de la vida del programa.

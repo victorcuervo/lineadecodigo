@@ -7,8 +7,8 @@ tags: ["request","querystring"]
 slug: asp/basicos/paso-de-parametros-con-asp
 author: victor_cuervo
 type: doc
+id: 2818c608-a16e-47fd-8e84-be15bae4bd45
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/basico/paso-parametros-querystring/pasoparametros.asp
-topic: asp
 ---
 
 Dando vueltas a los artículos que tenía publicados en la sección [ASP](http://www.manualweb.net/asp/) me he dado cuenta que no había ninguno que explicase como diseñar páginas para el paso parámetros con [ASP](http://www.manualweb.net/asp/) entre ellas. Y es que, esto, es una de las primeras necesidades que cualquier desarrollador de páginas [ASP](http://www.manualweb.net/asp/) o de cualquier otra tecnología en el lado servidor, se va a preguntar. En este artículo vamos a ver como pasar información mediante los parámetros de una URL. Lo que se conoce como paso de parámetros vía GET. Es decir, si nos fijamos en las páginas que hay en Internet, suelen ser aquellas que son algo así como...

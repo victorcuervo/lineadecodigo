@@ -7,8 +7,8 @@ tags: ["list-style-image","lista","ul","ol","list-style-type","url"]
 slug: css/imagenes/imagenes-como-hitos-de-listas-con-css
 author: victor_cuervo
 type: doc
+id: 1c41ae53-b63c-4470-8354-95ab3b0d05bb
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/imagenes/imagenes-como-hitos-de-listas.html
-topic: css
 ---
 
 Cuando creamos una lista en [HTML](http://www.manualweb.net/html/), por cada elemento de la lista, podemos detectar dos partes: la **marca o hito** que inicia el elemento y el **texto del item** de la lista. Gracias a [CSS](http://www.manualweb.net/css/) podemos conseguir que los hitos de las listas sean imágenes, incrementando así el número de iconografías ofrecidas por la especificación de [HTML](http://www.manualweb.net/html/), que por defecto son circulo, cuadrado y elipse. Para tener imágenes como hitos de listas con [CSS](http://www.manualweb.net/css/) lo primero que tenemos que hacer es [crear una lista](http://www.manualweb.net/html/listas-html/). Para ello creamos una [lista desordenada](https://www.manualweb.net/html/listas-html/#listas-desordenadas), mediante el elemento [`ul`](https://w3api.com/HTML/ul/). El código [HTML](http://www.manualweb.net/html/) será el siguiente:

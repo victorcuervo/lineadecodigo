@@ -7,11 +7,8 @@ tags: ["find","skip"]
 slug: mongodb/consultas/mongodb-skip-omitir-resultados
 author: victor_cuervo
 type: doc
+id: 947b2497-3abf-429d-ac7d-9ac376a19793
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/skip.js
-topic: mongodb
-
-
-
 ---
 
 Cuando realizamos una [consulta MongoDB Find](http://lineadecodigo.com/mongodb/consultas-con-mongodb-find/), esta, nos devuelve el conjunto de documentos que cumplen la búsqueda. Si bien, mediante **MongoDB Skip** podemos omitir resultados y no recuperar ciertos documentos. Pero vamos por pasos.

@@ -7,9 +7,8 @@ tags: ["bucles","operadores","for","if","metodo","boolean","numero"]
 slug: java/numeros/numero-compuesto-en-java
 author: victor_cuervo
 type: doc
+id: 64380f67-21d9-469a-83a9-9508eb6f6d26
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroCompuesto.java
-topic: java
-
 ---
 
 Mediante este artículo vamos a conocer cómo se puede saber si tenemos un número compuesto en [Java](http://www.manualweb.net/java). Pero lo primero que tenemos que saber es **¿qué es un número compuesto?** Pues bien, un número compuesto es aquél número natural, no primo y a excepción del 1 que tiene uno o más divisores distintos a 1 y a si mismo. Es decir, aquel número que podemos escribir como multiplicación de dos números naturales menores que él.

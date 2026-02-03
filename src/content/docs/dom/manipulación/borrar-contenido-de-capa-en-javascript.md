@@ -7,9 +7,8 @@ tags: ["div","capa","getelementbyid","innerhtml","addeventlistener"]
 slug: dom/manipulacion/borrar-contenido-de-capa-en-javascript
 author: victor_cuervo
 type: doc
+id: 553f7910-afcd-4cce-a398-20f0622b1579
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/eliminar-contenido-capa.html
-topic: dom
-
 ---
 
 Si estás trabajando con aplicaciones del tipo **SPA (Single Page Application)** es fácil que se te de la situación en la cual tengas que borrar el contenido de una capa para cargar otro nuevo contenido. En este ejemplo vamos a ver cómo podemos **borrar contenido de capa en Javascript**.

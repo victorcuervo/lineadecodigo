@@ -7,9 +7,8 @@ tags: ["onmousedown","event","button"]
 slug: javascript/eventos/usar-javascript-para-saber-que-boton-del-raton-fue-pulsado
 author: victor_cuervo
 type: doc
+id: ddd9a5da-8db1-4bf9-80d3-e897af5c17f6
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/eventos/detectar-que-boton-fue-pulsado.html
-topic: javascript
-
 ---
 
 Mediante [JavaScript](https://www.manualweb.net/javascript/) podemos ejecutar funciones una vez que se produzca un evento. En el caso de que el evento haya sido del ratón podremos acceder a las propiedades asociadas al mismo. Por ejemplo, podremos saber que botón fue pulsado en el ratón.

@@ -7,10 +7,8 @@ tags: ["img","label","trigger"]
 slug: xml/formularios/botones-con-imagenes-en-xforms
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-816f-8449-cdde36e6d8ba
 download: https://github.com/victorcuervo/lineadecodigo_xforms/blob/master/botones-con-imagenes-xforms.xhtml
-topic: xml
-
-
 ---
 
 Si echamos la vista atrás podemos recordar que con los formularios [HTML](https://www.manualweb.net/html/) podíamos tener campos de texto de tipo "image". Estos campos de texto no eran más que una imagen sobre la que se podía pinchar. Luego aparecio la etiqueta [button](https://www.w3api.com/HTML/button/) que ya permitía anidar otros elementos. Mediante [CSS](http://www.manualweb.net/css/) se daba un nuevo salto y las propiedades permitían jugar con el color e imagen de fondo del botón. Con [XForms](http://www.manualweb.net/xforms/) vamos un paso más allá y aquí se pueden construir botones con imágenes, mediante la etiqueta IMG de [HTML](https://www.manualweb.net/html/). Algo parecido al elemento [button](https://www.w3api.com/HTML/button/) de [HTML](https://www.manualweb.net/html/). Y todo de una forma muy sencilla. Lo primero que tenemos que ver es cómo construir un botón. Para ello nos valemos de la etiqueta trigger. La verdad es que esto ha sido un cambio bastante sustancial con respecto a los [button](https://www.w3api.com/HTML/button/) del [HTML](https://www.manualweb.net/html/)Anidada a la etiqueta trigger utilizaremos [label](https://www.w3api.com/Java/JFrame/setLayout/) para indicar el texto que va sobre el botón. Teniendo un código similar al siguiente:

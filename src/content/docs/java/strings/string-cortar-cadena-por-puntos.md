@@ -7,9 +7,8 @@ tags: ["string","split","regexp","for","for-each","bucles","array"]
 slug: java/strings/string-cortar-cadena-por-puntos
 author: Feffo
 type: doc
+id: d28ef433-5e1b-4270-9d6f-a895e6f51aaf
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/CortarCadenaPorPuntos.java
-topic: java
-
 ---
 
 ¡Buenas! Este será el primer ejemplo de un set de 5 ejemplos sobre manipulación de cadenas de caracteres, específicamente, la clase [String](https://www.w3api.com/Java/String/) de [Java](https://www.manualweb.net/java/). En este primer ejemplo vamos a ver cómo cortar cadena por puntos con [Java](https://www.manualweb.net/java/). 

@@ -7,8 +7,8 @@ tags: ["frame","scrollbar","scrolling","frameset"]
 slug: html/frames/frames-sin-barra-de-scroll
 author: victor_cuervo
 type: doc
+id: 2c5a9dfb-adca-8027-84bd-eecbe17f3e0c
 download: https://github.com/victorcuervo/lineadecodigo/tree/master/lineadecodigo_html/frames/frame-sin-barra-de-scroll
-topic: html
 ---
 
 Cuando estamos diseñando una página [HTML](http://www.manualweb.net/tutorial-html/) con frames una de las cosas que nos puede suceder es que el contenido de uno de los frames sea demasiado grande. Es por ello que el navegador adaptará la página al frame y si hay un overflow del contenido, ponga scrolls. Pero, que sucede si no queremos que aparezcan los scrolls en el frame. La idea es sencilla. No queremos que aparezcan scrolls en nuestro frame. Ni verticales, ni horizontales. Para ello lo que tenemos que hacer es manipular el atributo scrolling de la etiqueta [FRAME](http://www.w3api.com/wiki/HTML:FRAME). Dicho atributo puede tener los siguientes valores:

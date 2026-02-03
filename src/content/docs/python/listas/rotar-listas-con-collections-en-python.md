@@ -7,9 +7,8 @@ tags: ["lista","deque","collections","rotate"]
 slug: python/listas/rotar-listas-con-collections-en-python
 author: victor_cuervo
 type: doc
+id: 25a53ad8-1830-4c13-817d-9d4aa3ed1771
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/rotar-lista-collections.py
-topic: python
-
 ---
 
 Ya hemos visto en un artículo anterior [cómo rotar listas con slicing en Pyhton](http://lineadecodigo.com/python/rotar-listas-con-slicing-en-python/). En este caso vamos a ver una alternativa para poder rotar listas con Collections en [Python](http://www.manualweb.net/python). Aunque el manejo del slicing sea sencillo quizás el uso de la librería Collections sea todavía más sencillo.

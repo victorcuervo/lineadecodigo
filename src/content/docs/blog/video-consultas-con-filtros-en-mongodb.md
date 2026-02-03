@@ -6,12 +6,8 @@ updatedDate: 2026-01-28
 tags: ["video"]
 slug: blog/video-consultas-con-filtros-en-mongodb
 author: victor_cuervo
-type: doc
-
-topic: blog
-
-
-
+type: blog
+id: 2c8a9dfb-adca-817e-a2df-d8c8a35248ac
 ---
 
 En este nuevo vídeo de Línea de código podemos ver cómo realizar consultas con filtros en [MongoDB](https://www.manualweb.net/mongodb/).

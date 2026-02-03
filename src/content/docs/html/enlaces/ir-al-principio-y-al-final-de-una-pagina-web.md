@@ -7,8 +7,8 @@ tags: []
 slug: html/enlaces/ir-al-principio-y-al-final-de-una-pagina-web
 author: victor_cuervo
 type: doc
+id: 166a4373-590e-4c49-95d3-634d6459e73b
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/enlaces/enlace-a-principio-y-fin.html
-topic: html
 ---
 
 Siempre tenemos que buscar que el usuario se sienta cómodo en nuestras páginas web. Para ello debemos de **proporcionarle enlaces que le permitan navegar a la página principal, a las categorías principales,…** y sobre todo, si la página que tenemos es muy grande, deberemos facilitarle **que suba al principio de la página sin que tenga que arrastrar el dichoso cursor**. En este punto hay que comentar que esta situación no debería de darse mucho. No nos interesa que haya páginas kilométricas. Por varias cosas, por ejemplo, porque el usuario no va a entender tanta información de golpe, posiblemente una lectura en varias páginas ayudará al lector, por el tamaño de la página. Cuanto más texto tenga la página, más pesará, lo cual hará más costosa la descarga de la página al navegador. Pero independientemente de lo grande que sea la página, siempre deberemos de facilitar ir al principio de esta. Para poder realizar esto utilizaremos el elemento [`A`](http://w3api.com/wiki/HTML:A). Y es que el “ancla” no solo nos sirve para enlazar páginas, sino para señalar un punto específico de esta. Así, si queremos señalar un punto en concreto utilizaremos el atributo [`name`](http://w3api.com/HTML/select/name/)

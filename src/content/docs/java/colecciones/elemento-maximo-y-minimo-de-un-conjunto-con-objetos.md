@@ -7,9 +7,8 @@ tags: ["java-collection","comparator","max","min","compare","equals","class"]
 slug: java/colecciones/elemento-maximo-y-minimo-de-un-conjunto-con-objetos
 author: victor_cuervo
 type: doc
+id: c51581ea-38fe-4565-bf7a-39cd339e9e1b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/ElementoMaximoMinimoConjunto.java
-topic: java
-
 ---
 
 En el ejemplo de [Calculo del número máximo y mínimo de un conjunto](http://lineadecodigo.com/java/maximo-y-minimo-numero-de-un-conjunto/) veíamos que el algoritmo de cálculo implementado por el FrameWork de las colecciones confiaba en que el tipo de dato utilizado en el conjunto tenía implementado la función compareTo. Lo cual sucede en los tipos de datos básicos. Esto no implica que aquellos tipos de datos que no lo implementen dicho método no puedan utilizar las funciones del FrameWork. Además de las funciones...

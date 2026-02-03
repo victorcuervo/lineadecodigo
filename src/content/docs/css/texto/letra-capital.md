@@ -7,8 +7,8 @@ tags: ["first-letter","color","float","font-size","class","letra-capital"]
 slug: css/texto/letra-capital
 author: victor_cuervo
 type: doc
+id: 6335a86d-d71d-48b2-9e82-6e704f603304
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/letra-capital.html
-topic: css
 ---
 
 Cuando nos referimos a una letra capital hablamos del estilo que se le da a la primera letra de un párrafo. Mediante el lenguaje de hojas de estilo [CSS](http://www.manualweb.net/css/) podemos darle un formato a dicha letra, para que resalte del resto del contenido. Lo que [CSS](http://www.manualweb.net/css/) nos ofrece es un pseudo-elemento para poder ser aplicado tanto a clases como a selectores. El pseudo-elemento en concreto que nos ofrece para gestionar la letra capital es [`first-letter`](https://w3api.com/CSS/first-letter/). De esta manera, el uso de la clase con el pseudo-elemento [`first-letter`](https://w3api.com/CSS/first-letter/) quedará de la siguiente forma.

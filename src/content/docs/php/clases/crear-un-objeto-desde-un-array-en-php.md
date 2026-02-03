@@ -7,9 +7,8 @@ tags: []
 slug: php/clases/crear-un-objeto-desde-un-array-en-php
 author: victor_cuervo
 type: doc
+id: 3e0513c9-26ed-437b-9301-46de57909b42
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/objetos/crear-objeto-de-array.php
-topic: php
-
 ---
 
 Ya hemos visto como podemos [crear un objeto en PHP](http://lineadecodigo.com/php/crear-un-objeto-en-php/) de una forma sencilla. Ahora vamos a ver como podemos crear un objeto desde un array en [PHP](http://www.manualweb.net/php/). Es decir, el objeto y las propiedades estarán definidas dentro de un array. El objeto que vamos a crear en [PHP](http://www.manualweb.net/php/) representa a un libro con las siguientes propiedades:

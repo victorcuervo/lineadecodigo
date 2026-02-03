@@ -7,9 +7,8 @@ tags: ["array","flat","polyfill","multidimensional"]
 slug: javascript/arrays/aplanar-arrays-en-javascript
 author: victor_cuervo
 type: doc
+id: 9f3e14e2-e753-4ac4-9cb3-dcdc0895bd3c
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/aplanar-array.js
-topic: javascript
-
 ---
 
 Cuando estamos manejando arrays que sean matrices o que tengan múltiples dimensiones nos puede ser muy útil el saber cómo aplanar array en [Javascript](http://www.manualweb.net/javascript). Es decir, conseguir mover todos los elementos a una única dimensión. Esto nos simplifica cosas como recorrer los elementos o poder volcarlos en algún sistema.

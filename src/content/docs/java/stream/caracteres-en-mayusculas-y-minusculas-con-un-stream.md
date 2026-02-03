@@ -7,9 +7,8 @@ tags: ["string","touppercase","tolowercase","stream","collector","intstream","ma
 slug: java/stream/caracteres-en-mayusculas-y-minusculas-con-un-stream
 author: victor_cuervo
 type: doc
+id: c0d47453-6a55-4916-af8e-eadcf4f87249
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/stream/MayusculasMinusculasStream.java
-topic: java
-
 ---
 
 Uno de los ejemplos que pedisteis hace tiempo fue el de [convertir los caracteres de una cadena a mayúsculas y minúsculas de forma secuencial](http://lineadecodigo.com/java/palabra-mayusculas-minusculas/). En este caso vamos a ver cómo manejar los caracteres en mayúsculas y minúsculas con un `Stream`. De esta forma podremos comparar cómo nos ayudan los `Stream` de Java 8 en vez de la programación imperativa normal del lenguaje Java.

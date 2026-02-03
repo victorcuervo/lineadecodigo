@@ -7,9 +7,8 @@ tags: ["window","open","close","settimeout"]
 slug: javascript/navegador/abrir-y-cerrar-una-ventana
 author: victor_cuervo
 type: doc
+id: df7ff69a-f285-4316-bd88-9130c82d2292
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/ventanas/abrir-y-cerrar-ventana.html
-topic: javascript
-
 ---
 
 Hace tiempo me llegaba un email que me pedía que le explicase como se abría y cerraba una ventana, pasado un tiempo. A primera vista puede parecer un poco absurdo ¿para que abrir una ventana y cerrarla después?. Pues si vuestras mentes son "maliciosas" podríamos pensar que es para abrir una ventana con banners de publicidad del tipo CPM - por impresión - o banners de intercambio que dan ratios de 3:1. Y la verdad es que no estaríamos muy desencaminados, ya que la gestión de la publicidad suele ser su fin más común de este ejemplo.

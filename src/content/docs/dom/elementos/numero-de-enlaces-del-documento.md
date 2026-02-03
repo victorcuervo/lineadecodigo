@@ -7,9 +7,8 @@ tags: ["document","length","write","anchors"]
 slug: dom/elementos/numero-de-enlaces-del-documento
 author: victor_cuervo
 type: doc
+id: e75e62c1-99b6-474a-ac8d-a3bf9f85edf2
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/numero-enlaces-del-documento.html
-topic: dom
-
 ---
 
 El manejo del modelo de objetos de la página (**DOM**) nos permite acceder a cualquier elemento que esté conformando la página. Esto nos proporciona una gran potencia a la hora de interactuar con los objetos que la conforman. 

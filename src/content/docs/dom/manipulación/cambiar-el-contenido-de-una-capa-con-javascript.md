@@ -7,9 +7,8 @@ tags: ["div","getelementbyid","innerhtml","textarea","onclick"]
 slug: dom/manipulacion/cambiar-el-contenido-de-una-capa-con-javascript
 author: victor_cuervo
 type: doc
+id: a3d969b6-cb11-46f9-89ac-9f4ed0a66204
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/cambiar-contenido-capa.html
-topic: dom
-
 ---
 
 Raro sería encontrarnos una nueva página que no estuviese diseñada basada en capas y lo estuviese en tablas como se diseñaba tiempo atrás. Y es que las capas conjunto con [las hojas de estilo CSS](http://www.manualweb.net/css/) son la base de toda página web con un buen diseño. 

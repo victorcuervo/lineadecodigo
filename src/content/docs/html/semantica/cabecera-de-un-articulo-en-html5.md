@@ -7,9 +7,8 @@ tags: ["header","article"]
 slug: html/semantica/cabecera-de-un-articulo-en-html5
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81de-be7f-ee6edf7d272c
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/cabecera-articulo.html
-topic: html
-
 ---
 
 Ya hemos visto [cómo utilizar el elemento `header` para definir la cabecera de un documento en HTML5](http://lineadecodigo.com/html5/cabecera-de-documento-en-html5/). Ahora vamos a ver cómo podemos utilizar el elemento `header` para poder definir la **cabecera de un artículo en** [**HTML5**](http://www.manualweb.net/html5/).

@@ -7,9 +7,8 @@ tags: ["section","article","h1"]
 slug: html/semantica/subsecciones-implicitas-en-html5
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81d8-b092-e94fa5169ce9
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/subseccion-implicita.html
-topic: html
-
 ---
 
 Puede ser que cuando estés dando forma a la estructura semántica a tu documento [HTML5](http://www.manualweb.net/html5/) te vuelvas loco con la organización de las secciones entre los elementos `section` y `article` combinados con los títulos de cabecera `h1` a `h6`. Es por ello que tienes que conocer cómo funcionan las subsecciones implícitas en [HTML5](http://www.manualweb.net/html5/).

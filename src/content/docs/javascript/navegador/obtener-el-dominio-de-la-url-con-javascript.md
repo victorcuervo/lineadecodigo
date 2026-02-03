@@ -7,9 +7,8 @@ tags: ["document","url","javascript","domain"]
 slug: javascript/navegador/obtener-el-dominio-de-la-url-con-javascript
 author: victor_cuervo
 type: doc
+id: 111ea573-36ec-44ec-96dc-2ac4097d8a5d
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/obtener-el-dominio-de-url.html
-topic: javascript
-
 ---
 
 Dentro de la URL el Host suele estar compuesto por el nombre del dominio, el servicio y el tipo de dominio que es. Así si tomamos como ejemplo a "[http://www.lineadecodigo.com](http://www.lineadecodigo.com/)" veremos que el servicio es "www", el nombre "lineadecodigo" y el tipo de dominio ".com".

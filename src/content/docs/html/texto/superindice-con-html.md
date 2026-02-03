@@ -7,9 +7,8 @@ tags: ["sup","superindice"]
 slug: html/texto/superindice-con-html
 author: victor_cuervo
 type: doc
+id: f83cfced-9694-4ec1-baee-e5f61f7378f2
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/superindice.html
-topic: html
-
 ---
 
 Si el otro día veíamos como poner un [subíndice en HTML](http://lineadecodigo.com/2009/01/15/subindice-en-html/), hoy vamos a ver como poner un superíndice en [HTML](https://www.manualweb.net/html/).

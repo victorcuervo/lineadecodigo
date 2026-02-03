@@ -7,9 +7,8 @@ tags: ["center","text-align"]
 slug: css/texto/centrar-texto-con-css-en-tu-pagina-web
 author: victor_cuervo
 type: doc
+id: 404ca26a-f7fd-422d-8b1e-b5864cda225f
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/texto/centrar-texto.html
-topic: css
-
 ---
 
 Una de las cosas más sencillas cuando queramos dar formato al texto será la de centrar el texto. Esto era más o menos sencillo en [HTML](http://www.manualweb.net/html/) mediante la etiqueta `center`. Si bien, esta etiqueta quedo obsoleta con la llegada de las hojas de estilo [CSS](http://www.manualweb.net/css/).

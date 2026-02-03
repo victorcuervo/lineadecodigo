@@ -7,8 +7,8 @@ tags: ["template","createelement","queryselector","queryselectorall","clonenode"
 slug: html/semantica/crear-una-plantilla-en-html5
 author: victor_cuervo
 type: doc
+id: eff9f1c3-bc91-47bf-8848-77063a5c521f
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/template-html5.html
-topic: html
 ---
 
 Uno de los elementos que aparece en [HTML5](https://www.manualweb.net/html5/) es el elemento [`template`](https://www.w3api.com/HTML/template/). Mediante este elemento podemos crear una plantilla en [HTML5](https://www.manualweb.net/html5/). Pero, ¿qué es una plantilla en [HTML5](https://www.manualweb.net/html5/)? Una plantilla es un conjunto de elementos que podemos reutilizar en diferentes partes de nuestra página.

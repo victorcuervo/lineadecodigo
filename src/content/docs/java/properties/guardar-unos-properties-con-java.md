@@ -7,9 +7,8 @@ tags: ["try-catch","file","java-io","fileoutputstream","ioexception","outputstre
 slug: java/properties/guardar-unos-properties-con-java
 author: victor_cuervo
 type: doc
+id: 2e2a9308-0b68-427a-ba61-f04ba2834e12
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/properties/GuardarProperties.java
-topic: java
-
 ---
 
 Hemos visto varios ejemplos sobre cómo leer el contenido de unos Properties o cómo modificar el contenido de unos Properties. Pero, qué tenemos que hacer si una vez modificados queremos guardarlos en el fichero. Ya que la modificación solo se aplica al tiempo de vida de la ejecución del programa [Java](https://www.manualweb.net/java/). Veamos ahora como podemos guardar unos Properties con Java. Lo primero será definir unos Properties mediante la clase Properties. Los vamos a generar vía código, aunque podíamos haberlos leído de un fichero.

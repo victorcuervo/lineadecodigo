@@ -7,8 +7,8 @@ tags: ["java-collection","arraylist","add","removeall","iterator"]
 slug: java/colecciones/eliminar-elementos-repetidos-de-un-arraylist
 author: victor_cuervo
 type: doc
+id: 0b91d227-c215-49bf-80e2-2734cd63a940
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/EliminarElementosRepetidosLista.java
-topic: java
 ---
 
 Dentro de los [diferentes ejemplos que tenemos de manejo de ArrayList](https://lineadecodigo.com/tag/java-collection-arraylist/), hoy vamos a ver, cómo podemos eliminar elementos repetidos de un ArrayList con [Java](https://www.manualweb.net/java). Es decir, cómo hacer que todas las ocurrencias de un elemento que existan en el [`ArrayList`](http://w3api.com/Java/ArrayList/) sean eliminadas. Aunque podríamos utilizar el método [`.remove()`](http://w3api.com/Java/ArrayList/remove) e ir buscando todas las ocurrencias que haya de un elemento e irlo eliminando uno a uno, veremos una forma más sencilla y con muchas menos líneas de código para poder realizarlo. Pero vamos paso a paso para ver cómo lo vamos a resolver. Lo primero será crear el [`ArrayList`](http://w3api.com/Java/ArrayList/) que contenga todos los elementos base. En este caso vamos a crear un [`ArrayList`](http://w3api.com/Java/ArrayList/) de tipo [`String`](https://w3api.com/Java/String/), pero podríamos crear un [`ArrayList`](http://w3api.com/Java/ArrayList/) del tipo que queramos.

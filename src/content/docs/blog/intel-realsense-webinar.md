@@ -7,9 +7,7 @@ tags: ["eventos"]
 slug: blog/intel-realsense-webinar
 author: lineadecodigo
 type: blog
-
-topic: blog
-
+id: 2c8a9dfb-adca-811b-bd1b-c042de557780
 ---
 
 Intel organizará la segunda edición de su serie de webinars dedicados a los **proyectos de la comunidad de desarrolladores de Intel RealSense** el próximo 14 de octubre, de 18:30 a 19:30 (CEST). Durante el **Intel RealSense Webinar** se presentarán proyectos innovadores iniciados en los talleres prácticos de la compañía.

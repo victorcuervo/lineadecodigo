@@ -7,9 +7,8 @@ tags: ["frame","awt","setsize","setvisible"]
 slug: java/awt/crear-un-frame-con-awt
 author: victor_cuervo
 type: doc
+id: eb15155d-10ba-49c8-843b-970c50799fa4
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/awt/MiFrame.java
-topic: java
-
 ---
 
 ## Creación de ventanas en Java AWT

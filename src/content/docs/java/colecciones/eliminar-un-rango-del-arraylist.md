@@ -7,8 +7,8 @@ tags: ["Java Collection","Java Collection ArrayList"]
 slug: java/colecciones/eliminar-un-rango-del-arraylist
 author: victor_cuervo
 type: doc
+id: 1aa158f9-0cab-4db0-bacb-f669e1f3eaea
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/EliminarRangoLista.java
-topic: java
 ---
 
 Ya hemos visto [cómo podemos eliminar un elemento de un ArrayList](https://lineadecodigo.com/java/eliminar-un-elemento-de-un-arraylist/) o [eliminar todas las ocurrencias de un elemento dentro del ArrayList](http://lineadecodigo.com/java/eliminar-elementos-repetidos-de-un-arraylist/). Ahora lo que vamos a ver es cómo podemos eliminar un rango del ArrayList con [Java](http://www.manualweb.net/java). Es decir, eliminar desde una posición hasta otra posición, ambas posiciones incluidas. Siempre empezamos creando el [`ArrayList`](http://w3api.com/Java/ArrayList/)y añadiendo información al mismo. En este caso vamos a crear una clase que extienda un [`ArrayList`](http://w3api.com/Java/ArrayList/). Y esto es así ya que **vamos apoyarnos en un método protegido** del [`ArrayList`](http://w3api.com/Java/ArrayList/) que no podemos invocar directamente. Así definiremos la clase `EliminarRangoLista` de la siguiente forma:

@@ -7,8 +7,8 @@ tags: ["margin","margin-top","margin-bottom","margin-left","margin-right"]
 slug: css/box-model/margenes-de-una-pagina-web
 author: victor_cuervo
 type: doc
+id: a470d614-cfe3-4609-b6be-303072f2da71
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/pagina/margenes-pagina-web.html
-topic: css
 ---
 
 Mediante las hojas de estilo [CSS](https://www.manualweb.net/css/) podemos modificar los márgenes de una página web. Esto hará que nuestro contenido se posicione en un lugar u otro de la página. Lo podremos pegar al borde superior, separarlo de la izquierda,... [Todo aquello que necesitemos para darle estilo a la página web](https://lineadecodigo.com/categoria/css/).

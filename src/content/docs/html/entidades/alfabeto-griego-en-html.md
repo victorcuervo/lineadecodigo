@@ -7,9 +7,8 @@ tags: ["entidades","alfabeto-griego"]
 slug: html/entidades/alfabeto-griego-en-html
 author: victor_cuervo
 type: doc
+id: 2aa5ce06-34e0-4603-8c6f-914eac1c75d7
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/alfabeto-griego.html
-topic: html
-
 ---
 
 Puede ser que no sea muy habitual el que tengamos que poner una letra griega en nuestros documentos [HTML](https://www.manualweb.net/html/). Pero, por ejemplo, si estamos trabajando con formulas científicas, es fácil que tengamos que utilizar letras como α, β, γ,... Es bueno saber que mediante [HTML](https://www.manualweb.net/html/) y las entidades podemos incluir de una forma sencilla cualquier letra del alfabeto griego en nuestra página [HTML](https://www.manualweb.net/html/), de una forma muy sencilla. Una entidad en [HTML](https://www.manualweb.net/html/) está compuesta por el símbolo and (&), el nombre de la entidad y, por último, un punto y coma (;).

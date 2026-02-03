@@ -7,9 +7,8 @@ tags: ["bucles","for","array","string","length","charat","stringtokenizer"]
 slug: java/strings/eliminar-espacios-en-blanco-con-java
 author: victor_cuervo
 type: doc
+id: dcf375e0-767e-4e96-829e-f0bfd47f26b6
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ElminarEspaciosEnBlanco.java
-topic: java
-
 ---
 
 Con el lenguaje [Java](https://www.manualweb.net/java/) podemos eliminar espacios en blanco de una cadena de diferentes formas. En este ejemplo vamos a ver cómo hacerlo de dos formas: recorriendo la cadena y buscando los espacios en blanco, y mediante la clase [StringTokenizer](https://www.w3api.com/Java/StringTokenizer/).

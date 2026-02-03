@@ -7,9 +7,8 @@ tags: ["java-io","ioexception","servlet","httpservlet","httpservletrequest","htt
 slug: javaee/servlet/recibir-parametros-en-un-servlet
 author: victor_cuervo
 type: doc
+id: 7e42d9b4-303d-4857-96a5-7d03ef91ec57
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/java/com/lineadecodigo/javaee/servlet/RecibirParametros.java
-topic: javaee
-
 ---
 
 A la hora de enviar información a un Servlet tenemos dos formas: mediante el **método GET** y mediante el **método POST**. Existen una serie de diferencias entre pasarlos de una forma u otra.

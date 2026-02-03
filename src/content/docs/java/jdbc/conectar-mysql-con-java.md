@@ -7,9 +7,8 @@ tags: ["mysql","jdbc","connection"]
 slug: java/jdbc/conectar-mysql-con-java
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8136-a1b6-eb0335f500dc
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConexionMySQL.java
-topic: java
-
 ---
 
 Para poder conectar MySQL con [Java](https://www.manualweb.net/java/) vamos a utilizar la tecnología JDBC de [Java](https://www.manualweb.net/java/). JDBC nos permite el acceso a los datos desde un [programa Java](https://lineadecodigo.com/categoria/java/).

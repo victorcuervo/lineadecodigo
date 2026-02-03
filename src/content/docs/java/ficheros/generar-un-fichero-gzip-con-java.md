@@ -7,9 +7,8 @@ tags: ["java-io","ioexception","outputstream","gzipoutputstream"]
 slug: java/ficheros/generar-un-fichero-gzip-con-java
 author: victor_cuervo
 type: doc
+id: 89dfe0f8-ca6f-4d04-92a3-79005c1307a0
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/zip/GenerarFicheroGZIP.java
-topic: java
-
 ---
 
 [GZIP](http://www.gzip.org/) es la abreviatura de GNU ZIP. [GZIP](http://www.gzip.org/) se basa en el algoritmo Deflate (combinación de los algoritmos LZ77 y Huffman). [GZIP](http://www.gzip.org/) solo sirve para comprimir ficheros, pero no los comprime. Esto si que lo hace otras herramientas como ZIP. La idea es utilizar el [lenguaje Java](https://www.manualweb.net/java/) para generar un fichero [GZIP](http://www.gzip.org/) a partir de un fichero de nuestros discos. 

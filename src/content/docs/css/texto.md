@@ -7,9 +7,7 @@ tags: []
 slug: css/texto
 author: victor_cuervo
 type: category
-
-topic: css
-
+id: 2eba9dfb-adca-80f0-a08c-ec7042d6dd90
 ---
 
 # Estilos de texto y tipografía en CSS

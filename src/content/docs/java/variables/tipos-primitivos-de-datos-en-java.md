@@ -7,9 +7,8 @@ tags: ["variables","char","byte","short","long","double","int","float"]
 slug: java/variables/tipos-primitivos-de-datos-en-java
 author: victor_cuervo
 type: doc
+id: b43b4bbd-0b0e-4d3d-a8af-149d41a703f8
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/variables/ValoresPorDefecto.java
-topic: java
-
 ---
 
 En este ejemplo vamos a ver los tipos primitivos de datos en [Java](https://www.manualweb.net/java/) que existen y cuales son sus valores por defecto.

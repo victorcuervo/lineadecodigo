@@ -7,9 +7,8 @@ tags: ["while","try-catch","variable","bucle","error","console-log"]
 slug: javascript/variables/variables-locales-en-javascript
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8115-9225-c61fce553310
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/variable-local.js
-topic: javascript
-
 ---
 
 Las variables locales en Javascript nos sirven para ajustar el ámbito de validez de una variable al bloque en el que se ejecuta. De esta manera las variables locales en Javascript no pueden ser accedidas fuera del bloque en el que se definen, a no ser que sea un bloque anidado. Y es que en [Javascript](https://www.manualweb.net/javascript), por defecto, las variables son definidas de ámbito global, es decir, una vez definidas pueden ser accedidas desde cualquier sitio. Para definir una variable local en Javascript vamos a utilizar el modificador `let` de la siguiente manera:

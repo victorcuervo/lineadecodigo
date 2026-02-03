@@ -7,9 +7,8 @@ tags: ["innerhtml","asincrono","xmlhttprequest","getelementbyid","open","send"]
 slug: javascript/navegador/repaginar-datos-con-ajax
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8149-a2ab-fc8707901529
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/xmlhttrequest/repaginar-con-ajax.html
-topic: javascript
-
 ---
 
 Una de las cosas que nos permite [AJAX](http://www.manualweb.net/javascript/) es realizar peticiones asíncronas, las cuales solo recarguen una parte de la página. Esto nos da la posibilidad de dar la sensación de velocidad de cara al usuario.

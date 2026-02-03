@@ -7,10 +7,8 @@ tags: ["HTML Form Input","HTML5 Form","HTML5 Form Range","Javascript Eventos","J
 slug: html/formularios/elemento-rango-en-formularios-html5
 author: victor_cuervo
 type: doc
+id: ce4ef2ca-33cc-4839-8df5-c2609d858a28
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/elemento-formulario-range.html
-topic: html
-
-
 ---
 
 Una de las novedades que tenemos dentro de los formularios [HTML5](https://www.manualweb.net/html5/) son los elementos input de tipo rango. Estos elementos son unos sliders que nos permiten seleccionar un valor desplazando un puntero sobre el slider.

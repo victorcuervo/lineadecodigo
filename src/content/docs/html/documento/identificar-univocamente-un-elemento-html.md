@@ -7,10 +7,8 @@ tags: ["div","img","id"]
 slug: html/documento/identificar-univocamente-un-elemento-html
 author: victor_cuervo
 type: doc
+id: 608898b1-cf78-40f4-b929-914059435999
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/basicos/identificar-univocamente.html
-topic: html
-
-
 ---
 
 Cuando conformamos nuestra página [HTML](https://www.manualweb.net/html/), esta se conforma de un conjunto de elementos [HTML](https://www.manualweb.net/html/) los cuales consiguen la representación gráfica de la página.

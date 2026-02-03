@@ -7,11 +7,8 @@ tags: ["update","unset"]
 slug: mongodb/actualizaciones/eliminar-campo-de-un-documento-en-mongodb
 author: victor_cuervo
 type: doc
+id: 0e9d66cd-d195-41fd-b92b-d065efdec94d
 download: https://github.com/victorcuervo/lineadecodigo_mongodb/blob/master/mongodb-crud/borrar-campo.js
-topic: mongodb
-
-
-
 ---
 
 Una de las cosas más potentes de [MongoDB](https://www.manualweb.net/mongodb/) es la capacidad de crecimiento de sus documentos, lo cual permite ir añadiendo campos con diferentes valores atendiendo a las necesidades que nos vayan apareciendo.

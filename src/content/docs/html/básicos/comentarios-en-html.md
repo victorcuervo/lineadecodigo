@@ -7,8 +7,8 @@ tags: ["comentarios"]
 slug: html/basicos/comentarios-en-html
 author: victor_cuervo
 type: doc
+id: 2c5a9dfb-adca-8058-bc0a-ea9f79e1e878
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/basicos/comentarios-en-html.html
-topic: html
 ---
 
 Los comentarios en [HTML](http://www.manualweb.net/tutorial-html/) se utilizan para explicar que se está haciendo con el código de nuestros programas o páginas web. Aunque no somos muy dados a utilizar este tipo de artefactos, estos se convierten en una especial ayuda cuando nos encontramos en entornos donde hay muchos programadores tocando un mismo desarrollo.

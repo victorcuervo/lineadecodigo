@@ -7,9 +7,8 @@ tags: ["string","length","charat","ascii","cadena"]
 slug: java/strings/obtener-los-codigos-ascii-de-una-cadena-de-texto
 author: victor_cuervo
 type: doc
+id: 6427f4da-8918-4d44-afb8-e2b0358f9f93
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/CodigosASCIICadena.java
-topic: java
-
 ---
 
 En este ejemplo vamos a ver cómo obtenemos los códigos ASCII de una cadena de texto con [Java](https://www.manualweb.net/java/). Para ello recorreremos los caracteres de la cadena e iremos obteniendo el código. Para ello nos apoyamos en el método [`.codePointAt()`](http://www.w3api.com/Java/String/codePointAt). El método [`.codePointAt()`](http://www.w3api.com/Java/String/codePointAt) devuelve el código ASCII de un carácter en concreto. El carácter será el que coincida con el índice que se pasa como parámetro al método. Empezamos definiendo la cadena:

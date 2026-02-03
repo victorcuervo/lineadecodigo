@@ -7,9 +7,8 @@ tags: ["gmail","imap","java-mail","email","folder","session","mail"]
 slug: java/mail/obtener-cantidad-de-email-sin-leer-en-gmail-con-java
 author: Feffo
 type: doc
+id: 2c8a9dfb-adca-8198-82c0-fc5a0ebde653
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/mail/GMail.java
-topic: java
-
 ---
 
 Hoy les traigo una forma fácil de obtener la cantidad de mails sin leer en nuestra casilla de Gmail con [Java](https://www.manualweb.net/java/); en este caso, usaremos la librería JavaMail la cual es bastante conocida y se han hecho muchas publicaciones en [Linea de Código](http://lineadecodigo.com/tag/java-mail/) y también usaremos el [protocolo imaps](http://es.wikipedia.org/wiki/Internet_Message_Access_Protocol). Para empezar debemos establecer ciertos atributos que son necesarios para la conexión (**usuario**, **password**, **servidor**), los cuales los estableceremos mediante un constructor:

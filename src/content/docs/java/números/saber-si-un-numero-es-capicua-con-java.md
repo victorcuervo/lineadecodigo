@@ -7,9 +7,8 @@ tags: ["while","modulo","capicua"]
 slug: java/numeros/saber-si-un-numero-es-capicua-con-java
 author: victor_cuervo
 type: doc
+id: 50c2252c-f154-4879-b096-1dd9d983bfa5
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroCapicua.java
-topic: java
-
 ---
 
 Un número capicúa es aquél que se lee igual de izquierda a derecha, que de derecha a izquierda. Por ejemplo 22,101, 202, 343, 3443, 12233221,... Una de las formas de saber si un número es capicúa es pasándolo a una cadena y utilizando el código para detectar si la palabra es un palindromo. Para ello puedes leerte el artículo ["Saber si una palabra es un palindromo con Java"](http://lineadecodigo.com/java/saber-si-una-palabra-es-un-palindromo-con-java/). Pero es este caso vamos ha realizarlo mediante operaciones matemáticas. La idea es muy sencilla. Tomaremos el número inicial, le daremos la vuelta y comprobaremos que siguen siendo iguales. En este caso tendremos un número capicúa. Lo primero será definir nuestro número. Para ello podemos utilizar cualquier tipo de dato nativo: int, double, long,... En nuestro ejemplo vamos a utilizar un long.

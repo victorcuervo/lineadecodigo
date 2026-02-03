@@ -7,11 +7,8 @@ tags: ["db","findone"]
 slug: mongodb/consultas/consultar-un-documento-con-mongodb-findone
 author: victor_cuervo
 type: doc
+id: 03aa5e5e-ed93-4eae-9223-355c6313230f
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/findOne.js
-topic: mongodb
-
-
-
 ---
 
 Ya hemos visto [como podemos hacer una consulta general con MongoDB find](http://lineadecodigo.com/mongodb/consultas-con-mongodb-find/). Pero hay una forma todavía más sencilla que es consultar un único documento mediante MongoDB findOne.

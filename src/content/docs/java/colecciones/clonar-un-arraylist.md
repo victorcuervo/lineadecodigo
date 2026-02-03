@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist","add","clone","iterator","remove"]
 slug: java/colecciones/clonar-un-arraylist
 author: victor_cuervo
 type: doc
+id: 299af343-84ab-449f-9ad5-77f9847db333
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/ClonarArrayList.java
-topic: java
-
 ---
 
 Si estamos [manejando un ArrayList](https://lineadecodigo.com/tag/java-collection-arraylist/) y queremos manipular su contenido, mientras que por otro lado queremos mantener una copia de seguridad del mismo, nos vendrá muy bien el saber cómo clonar un ArrayList en [Java](https://www.manualweb.net/java). Hay que recordar que la clase ArrayList representa una estructura de elementos en forma de array, los cuales, pueden ser redimensionados. Es decir, puede crecer o decrecer de cantidad de elementos a lo largo de la vida del programa. Para [definir un ArrayList](https://lineadecodigo.com/java/crear-un-arraylist-en-java/) de tipo [`String`](http://www.w3api.com/Java/String) haremos lo siguiente:

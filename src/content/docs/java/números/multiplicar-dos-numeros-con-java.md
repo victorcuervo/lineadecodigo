@@ -7,9 +7,8 @@ tags: ["string","ioexception","inputstream","bufferedreader","integer"]
 slug: java/numeros/multiplicar-dos-numeros-con-java
 author: victor_cuervo
 type: doc
+id: 7a09182d-86cc-49dd-86b7-eb461c64414b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/MultiplicarNumerosTeclado.java
-topic: java
-
 ---
 
 Multiplicar dos números con [Java](https://www.manualweb.net/java/), posiblemente  sea uno de los artículos más solicitados. Así que voy a ver si lo explicamos bien. La idea es pedir dos números por teclado, multiplicarlos y mostrarlos por consola.

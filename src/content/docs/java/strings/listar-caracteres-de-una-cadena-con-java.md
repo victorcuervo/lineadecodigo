@@ -7,9 +7,8 @@ tags: ["for","charat","string","bucles","length"]
 slug: java/strings/listar-caracteres-de-una-cadena-con-java
 author: victor_cuervo
 type: doc
+id: d44a35a9-d4c2-41a8-b403-93a745387355
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ListarCaracteresCadena.java
-topic: java
-
 ---
 
 ## Acceso a caracteres de una cadena

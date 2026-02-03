@@ -7,8 +7,8 @@ tags: ["jdbc","update","connection","executeupdate","preparedstatement","sqlexce
 slug: java/jdbc/actualizar-datos-con-jdbc
 author: victor_cuervo
 type: doc
+id: c8fcc1aa-5db4-467e-a245-cfa133996c7e
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ActualizarDatos.java
-topic: java
 ---
 
 Uno de los procesos habituales, a la hora de realizar mantenimiento sobre una tabla, es el de la actualización. Así que hoy veremos cómo actualizar datos con JDBC mediante [Java](http://www.manualweb.net/java/). Mediante las actualizaciones podremos modificar los valores de datos que ya tengamos insertados en nuestras tablas. Para este menester, [SQL](http://lineadecodigo.com/categoria/sql/) nos proporciona la sentencia `UPDATE`. Veamos un poco más en detalle cómo construir este tipo de sentencias.

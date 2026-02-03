@@ -7,8 +7,8 @@ tags: ["texto","negrita","b","strong"]
 slug: html/texto/texto-en-negrita-con-html
 author: victor_cuervo
 type: doc
+id: c5418167-6730-47d0-aaa0-03c24fb22fd4
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/texto-en-negrita.html
-topic: html
 ---
 
 La [W3C](http://www.w3.org/) recomienda el uso de [CSS](https://www.manualweb.net/css/) para realizar acciones de estilo y en este caso el uso de la negrita sobre el texto. Si bien, en este artículo vamos a ver cómo poner texto en negrita con [HTML](http://www.manualweb.net/tutorial-html/).

@@ -7,9 +7,8 @@ tags: ["regexp","string","validation","Java Básicos","java-util","matcher","pat
 slug: java/expresiones-regulares/validar-si-un-dato-es-numerico-con-patrones-en-java
 author: victor_cuervo
 type: doc
+id: 631051c6-075c-43fe-bf96-9ed06cd4190e
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/IsNumericPattern.java
-topic: java
-
 ---
 
 En el artículo [Validar si un dato es numérico en Java](http://lineadecodigo.com/2006/12/29/validar-si-un-dato-es-numerico-en-java/) veíamos como de una forma muy sencilla y mediante la transformación de cadenas en enteros podíamos validar si un dato es numérico en [Java](https://www.manualweb.net/java/). Si bien, ese ejemplo, válido para aprender a programar con [Java](https://www.manualweb.net/java/), se nos quedaría corto para ejemplos reales. Una buena forma, [como han apuntado algunos de nuestros visitantes](http://lineadecodigo.com/2006/12/29/validar-si-un-dato-es-numerico-en-java/#comments), es utilizar patrones sobre las cadenas de texto. Lo primero que vamos a definir es el patrón que detecte que una cadena sea un número. Para ello indicaremos que la cadena tenga dígitos y que estos puedan aparecer N veces. De esta manera nuestro patrón sería el siguiente:

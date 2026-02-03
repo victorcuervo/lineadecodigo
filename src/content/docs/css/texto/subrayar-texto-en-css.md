@@ -7,8 +7,8 @@ tags: ["text-decoration","underline"]
 slug: css/texto/subrayar-texto-en-css
 author: victor_cuervo
 type: doc
+id: 5280d15b-575a-4c39-af82-365f256cab56
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/subrayando-texto.html
-topic: css
 ---
 
 En las primeras versiones del [HTML](http://www.manualweb.net/html/) apareció el elemento [`u`](https://w3api.com/HTML/u/) la cual nos permitía subrayar texto en la web de forma muy sencilla. Pero en posteriores versiones del [HTML](http://www.manualweb.net/html/) dicha etiqueta ha quedado obsoleta, pasándose ahora a realizar el subrayado de texto mediante [CSS](http://www.manualweb.net/css/).

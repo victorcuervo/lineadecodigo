@@ -7,9 +7,8 @@ tags: ["array","recursividad","busqueda","busqueda-binaria","arrays","copyofrang
 slug: java/arrays/implementar-una-busqueda-binaria-con-java
 author: victor_cuervo
 type: doc
+id: b814ef9a-c6e4-4d3b-944b-b5a75d6a3126
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/BusquedaBinariaImplementada.java
-topic: java
-
 ---
 
 En otro artículo ya vimos [cómo podemos realizar una búsqueda binaria con Java mediante el método .binarySearch()](http://lineadecodigo.com/java/busqueda-binaria-con-java/) la cual utiliza el algoritmo de búsqueda binaria para poder localizar un número dentro de un array. En este caso vamos a ver cómo podemos implementar una búsqueda binaria con [Java](http://www.manualweb.net/java) de forma directa.

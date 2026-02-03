@@ -7,8 +7,8 @@ tags: ["gradiente","lineal","lineargradient","offset","stop-color"]
 slug: svg/gradientes/gradiente-lineal-vertical
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8184-be13-d3b120f9f660
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/gradientes/gradiente-lineal-vertical.svg?short_path=dc66b72
-topic: svg
 ---
 
 Un gradiente lineal es una transición de colores a lo largo de un vector. Normalmente de dos colores, aunque puede ser de tantos como queramos.

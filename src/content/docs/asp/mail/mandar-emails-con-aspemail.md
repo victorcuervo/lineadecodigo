@@ -7,8 +7,8 @@ tags: ["createobject","server","mail","smtp","form","error","response"]
 slug: asp/mail/mandar-emails-con-aspemail
 author: victor_cuervo
 type: doc
+id: ec2a338f-8819-406f-96e5-cd03462d7cf7
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/email/mandar-email/mandar-email.asp
-topic: asp
 ---
 
 Quien no quiere tener en su página un apartado que nos permita enviar noticias, textos,... mediante un email. El envío de email desde la páginas es muy sencillo utilizando el componente activo de servidor ASPEMail desarrollado por la empresa [Persits Software, Inc](http://www.persits.com/).

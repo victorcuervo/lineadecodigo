@@ -7,9 +7,8 @@ tags: ["metodo","public","protected","private"]
 slug: java/clases/crear-un-metodo-en-java
 author: victor_cuervo
 type: doc
+id: fb9d2120-237e-40a5-9bff-870587a45a45
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/CrearMetodo.java
-topic: java
-
 ---
 
 En este artículo vamos a ver cómo podemos crear un método en [Java](https://www.manualweb.net/java/). Un método es una estructura del l[enguaje Java](https://lineadecodigo.com/categoria/java/) que nos sirve para encapsular cierta funcionalidad, la cual podemos llamar desde diferentes sitios y así no tener que repetir el código. Para la creación de un método en [Java](https://www.manualweb.net/java/) debemos conocer la estructura del mismo:

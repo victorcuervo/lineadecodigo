@@ -7,9 +7,8 @@ tags: ["file","delete"]
 slug: java/ficheros/borrar-un-fichero-con-java
 author: Víctor Cuervo
 type: doc
+id: 48ea8571-2a79-43ab-b5cd-5cd90f3cb933
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/BorrarFichero.java
-topic: java
-
 ---
 
 Borrar un fichero con [Java](https://www.manualweb.net/java/) es una actividad bastante sencilla, ya que mediante la clase [File](https://www.w3api.com/Java/File/exists/), la cual nos abstrae de la manipulación de ficheros, se nos ofrece un método para llevar a cabo tal cometido. Lo primero que deberemos de hacer es instanciar una clase [File](https://www.w3api.com/Java/File/exists/). Para instanciar esta clase deberemos de pasar al constructor el nombre del fichero sobre el que queremos trabajar.

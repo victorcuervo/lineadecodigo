@@ -7,8 +7,8 @@ tags: ["line","stroke-width"]
 slug: svg/lineas/dibujar-una-linea-en-svg
 author: Víctor Cuervo
 type: doc
+id: 2c8a9dfb-adca-811b-9dbe-de3ed6621a68
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/figuras/dibujar-una-linea.svg
-topic: svg
 ---
 
 Este es uno de los ejemplos más sencillos de SVG. Consiste en dibujar una línea dentro de un lienzo. Es para ello que explicaremos cómo poner una línea de color rojo que vaya de las coordenadas (10,10) a las (100,100).

@@ -7,9 +7,8 @@ tags: ["sup","font-size"]
 slug: css/estilo-a-un-superindice
 author: victor_cuervo
 type: doc
+id: 523a5632-9126-49b8-8a20-8b1f01b40e88
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/formato-superindice.html
-topic: css
-
 ---
 
 Una de las [cosas que me habéis pedido en los comentarios](112396) es saber cómo dar estilo a un superíndice mediante [CSS](http://www.manualweb.net/css). La verdad que al principio se me hacía raro encontrar un caso de uso, pero quizás los superíndices que aparecen en las páginas web pueden aparecer demasiado pequeños y es por ello que pueda ser de utilidad modificar su tamaño y hacerlos más grandes.

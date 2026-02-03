@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist","size"]
 slug: java/colecciones/numero-de-elementos-en-un-arraylist
 author: victor_cuervo
 type: doc
+id: 186a7373-7df3-4471-8166-f53f2b6f4799
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/TamanioLista.java
-topic: java
-
 ---
 
 Cuando estemos manipulando una lista será muy útil saber cuál es el número de elementos en un [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/). Ya que lo normal es que operaciones del usuario estén añadiendo y eliminando elementos de forma continua. Lo primero, crear el [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/).

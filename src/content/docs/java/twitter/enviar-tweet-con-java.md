@@ -7,9 +7,8 @@ tags: ["twitter4j","tweet","twitterexception","try-catch"]
 slug: java/twitter/enviar-tweet-con-java
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81b8-8813-e21983b73ceb
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/twitter/EnviarTweet.java
-topic: java
-
 ---
 
 En un anterior artículo hemos visto [lo sencillo que es conectarse a Twitter utilizando Java](http://lineadecodigo.com/java/conectarse-a-twitter-con-java/). Una vez conectados vamos a dar un siguiente paso y enviar un tweet con [Java](http://www.manualweb.net/java/). Para ello vamos a apoyarnos en la librería Twitter4j. Para poder utilizar la librería Twitter4j deberemos de añadir la dependencia. Esto lo haremos creando una nueva entrada dentro de nuestro fichero pom.xml de maven.

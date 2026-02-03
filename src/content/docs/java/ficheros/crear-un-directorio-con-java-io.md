@@ -7,9 +7,8 @@ tags: ["mkdir","directorio","file","java-io","ioexception"]
 slug: java/ficheros/crear-un-directorio-con-java-io
 author: victor_cuervo
 type: doc
+id: 975e0760-75d4-4c7b-a3d8-761a9267dda9
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/io/CrearDirectorio.java
-topic: java
-
 ---
 
 Para crear un directorio con [Java](https://www.manualweb.net/java/) deberemos de utilizar un [objeto File](https://www.w3api.com/Java/File/exists/). La ruta que debe de contener dicho objeto deberá de hacer referencia a un directorio en vez de a un archivo.

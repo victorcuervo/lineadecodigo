@@ -3,13 +3,12 @@ title: "Contador de Ocurrencias en Java"
 description: "Cómo utilizar el código para poder crear un contador de ocurrencias en Java."
 date: 2007-08-19
 updatedDate: 2026-01-08
-tags: ["string","indexof","substring","length"]
+tags: ["string","indexof","substr","substring","length"]
 slug: java/strings/contador-de-ocurrencias-en-java
 author: Víctor Cuervo
 type: doc
+id: c82613b0-162e-4083-967e-99a71d1e5e62
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ContadorDePalabras.java
-topic: java
-
 ---
 
 La idea consiste en ver cuantas veces se repite una ocurrencia (o palabra) dentro de una frase utilizando el lenguaje [Java](https://www.manualweb.net/java/). Para buscar el texto dentro de una frase utilizaremos el [método .indexOf()](https://www.w3api.com/Java/String/.indexOf()) la cual devuelve la posición de la cadena a partir de la cual empieza la cadena buscada. En el caso de que no encuentre la cadena devolverá el valor -1.

@@ -7,8 +7,8 @@ tags: ["error","abort","errorhandler","401"]
 slug: flask/errores/personalizar-errores-en-flask
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8196-91c8-eac841e84984
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/error_personalizado.py
-topic: flask
 ---
 
 Ya hemos visto en un artículo [cómo podemos manejar las páginas de error en Flask](http://lineadecodigo.com/python/paginas-error-flask/). Si bien, lo que veíamos era cómo generar páginas de error estándares. En este caso vamos a ver cómo podemos personalizar errores en [Flask](https://www.manualweb.net/flask/). Para gestionar el error vamos a utilizar el método `abort()`, al cual le pasaremos el código del error a devolver.

@@ -7,9 +7,8 @@ tags: ["array","length","elementos","arraycopy"]
 slug: java/arrays/copiar-dos-arrays-en-uno-con-java
 author: victor_cuervo
 type: doc
+id: 30143c5d-0c8f-43db-adab-89f3faa66399
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/CopiarArrays.java
-topic: java
-
 ---
 
 En este caso lo que vamos a hacer es a partir de dos arrays, copiar el contenido de ambos dentro de un tercer array. Todo ello utilizando el lenguaje [Java](https://www.manualweb.net/java/). Lo primero será definir los dos arrays de origen:

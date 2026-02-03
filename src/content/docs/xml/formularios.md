@@ -7,10 +7,7 @@ tags: []
 slug: xml/formularios
 author: victor_cuervo
 type: category
-
-topic: xml
-
-
+id: 2f2a9dfb-adca-8089-9b05-e97cb24ae983
 ---
 
 XForms

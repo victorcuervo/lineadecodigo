@@ -7,9 +7,8 @@ tags: ["border","border-style","groove","border-color","border-width","img"]
 slug: css/box-model/bordes-3d-con-css
 author: Víctor Cuervo
 type: doc
+id: 1e4dbcb3-d678-47c3-9059-2ab52f12476e
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/bordes/borde-3d.html
-topic: css
-
 ---
 
 Mediante [CSS](http://www.manualweb.net/css/) podemos llegar a [configurar los bordes de múltiples maneras](https://lineadecodigo.com/tag/css-border/). Una de ellas es hacer que los bordes tengan un efecto 3D. Así que hoy vamos a ver cómo podemos definir bordes 3D con [CSS](http://www.manualweb.net/css/). Lo primero que hay que recordar que el borde es un atributo [CSS](http://www.manualweb.net/css/) que puede ser aplicado a varios elementos de una página [HTML](http://www.manualweb.net/html/): [tablas](http://www.manualweb.net/html/tablas-html/), [imágenes](http://www.manualweb.net/html/imagenes-html/), [capas](http://www.manualweb.net/html/agrupaciones-html/),... El atributo que nos permite modificar la apariencia del borde es [`border-style`](http://w3api.com/CSS/border-style/). Para poder utilizarlo simplemente tendremos que definir una clase [CSS](http://www.manualweb.net/css/). El código para bordes 3D con [CSS](http://www.manualweb.net/css/) sería similar al siguiente:

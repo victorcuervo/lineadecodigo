@@ -7,9 +7,8 @@ tags: ["header"]
 slug: html/semantica/cabecera-de-documento-en-html5
 author: victor_cuervo
 type: doc
+id: d37e0529-58fd-4e61-8fce-54159fc1fcf2
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/cabecera-documento.html
-topic: html
-
 ---
 
 Semánticamente, el uso del elemento **header** nos permite definir una cabecera de documento en HTML5. De esta forma podemos identificar cuáles son los elementos introductorios de la página.

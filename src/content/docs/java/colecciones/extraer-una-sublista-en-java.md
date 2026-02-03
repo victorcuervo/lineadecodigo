@@ -7,9 +7,8 @@ tags: ["java-collection","list","arraylist","sublist","iterator","size"]
 slug: java/colecciones/extraer-una-sublista-en-java
 author: Víctor Cuervo
 type: doc
+id: eced210b-fe0f-46f0-89bc-085be10cddea
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/ExtraerSublista.java
-topic: java
-
 ---
 
 Hemos trabajado [muchos artículos que nos han enseñado a manejar ArrayList en Java](https://lineadecodigo.com/tag/java-collection-arraylist/). En este caso vamos a ver uno más y es uno que nos ayude a extraer una sublista en [Java](https://www.manualweb.net/java). Es decir, partiremos de una lista que hayamos creado, por ejemplo, con un [`ArrayList`](http://w3api.com/Java/ArrayList/) y nos quedaremos con parte de esta lista en una nueva sublista. Lo primero será crear la lista inicial en [Java](https://www.manualweb.net/java) e insertar en ella una serie de elementos:

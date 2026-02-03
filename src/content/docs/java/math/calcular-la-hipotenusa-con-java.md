@@ -7,9 +7,8 @@ tags: ["math","hipotenusa","sqrt","hypot","pow"]
 slug: java/math/calcular-la-hipotenusa-con-java
 author: Víctor Cuervo
 type: doc
+id: d45d9450-8fa6-4c29-b56d-114d2d2790a1
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/Hipotenusa.java
-topic: java
-
 ---
 
 La hipotenusa es el lado del triangulo opuesto al ángulo recto. Dados los valores de los catetos podemos aplicar el Teorema de Pitágoras para realizar el cálculo del valor de la hipotenusa. El Teorema de Pitágoras dice que "la suma de los cuadrados de los catetos es igual al cuadrado de la hipotenusa". Es por ello que esta formula matemática la podemos expresar de una forma sencilla en [Java](https://www.manualweb.net/java/). Lo primero que tenemos que hacer es definir la variables que almacenaran los valores de la hipotenusa (vacía inicialmente) y de sus respectivos catetos.

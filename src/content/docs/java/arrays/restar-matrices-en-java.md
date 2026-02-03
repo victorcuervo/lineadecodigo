@@ -7,9 +7,8 @@ tags: ["matriz","bucles","for","array","restas"]
 slug: java/arrays/restar-matrices-en-java
 author: victor_cuervo
 type: doc
+id: 3d96c38d-78a0-4f88-b141-9f0af0715443
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/RestarMatriz.java
-topic: java
-
 ---
 
 En este ejemplo vamos a ver como podemos manipular un para de matrices para poder realizar la operación de restar matrices en [Java](https://www.manualweb.net/java/). Lo primero que tenemos que saber es cómo se representa una matriz en [Java](https://www.manualweb.net/java/). Una matriz en [Java](https://www.manualweb.net/java/) no deja de ser más que un array bidimensional. Es decir un array que contiene arrays en cada una de sus posiciones. De esta forma podemos crear una matriz en [Java](https://www.manualweb.net/java/) mediante el siguiente código:

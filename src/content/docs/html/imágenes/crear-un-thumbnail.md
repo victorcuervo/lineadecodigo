@@ -7,8 +7,8 @@ tags: ["imagenes","css","height","width","margin"]
 slug: html/imagenes/crear-un-thumbnail
 author: victor_cuervo
 type: doc
+id: 8005cbb2-afc6-4ec2-9f34-0c97ff4b544f
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/imagenes/crear-un-thumbnail.html
-topic: html
 ---
 
 Un thumbnail es una versión reducida de una imágen, para que sea más fácil su carga, renderizado e identificación. Esta suele ser una técnica muy utilizada cuando queremos cargar una gran cantidad de imágenes dentro de una página.

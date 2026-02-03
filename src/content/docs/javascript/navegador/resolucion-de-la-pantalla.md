@@ -7,9 +7,8 @@ tags: ["screen","width","height","availablewidth","availableheight"]
 slug: javascript/navegador/resolucion-de-la-pantalla
 author: victor_cuervo
 type: doc
+id: af976270-961d-492d-91d5-32e7d2d6b4e6
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/resolucion-de-pantalla.html
-topic: javascript
-
 ---
 
 Los diseños que hagamos de páginas web siempre van a quedar supeditados a la resolución de pantalla que tenga el usuario final. Si nuestro entorno de desarrollo es acotado (por ejemplo, dentro de una empresa que controle la resolución de sus ordenadores) nos será más sencillo el diseñar nuestras páginas web, si por el contrario desarrollamos páginas para la web, deberemos buscar que nuestra página se adapte a todas las resoluciones y que aproveche el máximo de ellas.

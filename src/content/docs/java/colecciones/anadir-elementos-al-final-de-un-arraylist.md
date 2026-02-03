@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist","vector","add","addall"]
 slug: java/colecciones/anadir-elementos-al-final-de-un-arraylist
 author: victor_cuervo
 type: doc
+id: 7a475bad-71a3-4eb3-bc95-52f0162e8ded
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/AddElementosFinalLista.java
-topic: java
-
 ---
 
 Ya hemos visto como insertar elementos en un [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/) con el lenguaje [Java](https://www.manualweb.net/java/), ahora vamos a ver como podemos añadir elementos al final de un [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/). Para ello nos vamos a basar en tener elementos en una colección, con dicha colección podremos añadir elementos al final de un [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/). Así, lo primero será crear una colección con elementos. Por ejemplo un [Vector](https://www.w3api.com/Java/Vector/add/):

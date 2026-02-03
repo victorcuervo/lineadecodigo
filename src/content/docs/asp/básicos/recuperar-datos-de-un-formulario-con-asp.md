@@ -7,8 +7,8 @@ tags: ["form","input","label","method","post","get","password","querystring","re
 slug: asp/basicos/recuperar-datos-de-un-formulario-con-asp
 author: victor_cuervo
 type: doc
+id: c778e98a-b3d6-4974-8d44-7f3268685caf
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/generales/recuperar-datos-formulario/recuperar-datos-formulario.asp
-topic: asp
 ---
 
 Vamos a construir un ejemplo mediante el cual podamos recuperar datos de un formulario con [ASP](http://www.manualweb.net/asp/). Posteriormente mostraremos los datos en una la pantalla. Para ello vamos a crear un formulario que contenga dos campos del tipo `input`. Uno de los campos será de tipo texto, mientras que el otro campo será del tipo password. Es muy importante el que demos un nombre a cada uno de los campos mediante el atributo `name`.

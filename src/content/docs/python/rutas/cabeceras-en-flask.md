@@ -7,9 +7,8 @@ tags: ["response","http","cabeceras","make_response","headers"]
 slug: python/rutas/cabeceras-en-flask
 author: victor_cuervo
 type: doc
+id: 8571b965-437d-496d-a309-48a8223606b6
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/cabeceras.py
-topic: python
-
 ---
 
 Cuando respondemos un contenido desde un servidor a un cliente, uno de los contenidos que va en la respuesta (o **response**) son las **cabeceras**. Las cabeceras suelen llevar información sobre el contenido de la petición o sobre el servidor que está sirviendo la petición.

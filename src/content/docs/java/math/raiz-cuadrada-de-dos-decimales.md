@@ -7,9 +7,8 @@ tags: ["math","sqrt","numberformat","decimalformat","format","raiz-cuadrada"]
 slug: java/math/raiz-cuadrada-de-dos-decimales
 author: victor_cuervo
 type: doc
+id: b3e19aad-b3da-4202-8076-17e9c52714e4
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/RaizCuadradaDecimales.java
-topic: java
-
 ---
 
 Una de las preguntas que nos habéis hecho en los comentarios es sobre cómo poder calcular una raíz cuadrada de dos decimales (o tres, o los que necesites) en [Java](https://www.manualweb.net/java/). El código para conseguir calcular la raíz cuadrada de dos decimales es sencillos, solo tenemos que saber utilizar la librería `Math` combinado con las capacidades de formato de números que nos ofrece `NumberFormat`. Lo primero que tenemos que hacer es calcular la raíz cuadrada, para ello vamos a utilizar la clase estática `Math` y en concreto su método `.sqrt()` el cual recibe como parámetro el número del que queremos calcular la raíz cuadrada.

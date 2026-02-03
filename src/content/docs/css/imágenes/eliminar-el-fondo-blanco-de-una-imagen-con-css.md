@@ -7,9 +7,8 @@ tags: ["background-color","filter","brightness","mix-blend-mode"]
 slug: css/imagenes/eliminar-el-fondo-blanco-de-una-imagen-con-css
 author: victor_cuervo
 type: doc
+id: a48842b8-659b-4be4-9e81-2fb393efd5e2
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/imagenes/fondo-blanco-transparente.html
-topic: css
-
 ---
 
 Seguro que más de una vez has tenido que acudir a un software de edición de imágenes para poder manipular una imagen y lo más probable que fuese para convertirla en transparente. Y, aunque no va a ser la panacea para no tener que utilizar una de estas herramientas, vamos a ver cómo podemos **eliminar el fondo blanco de una imagen con CSS,** lo cual nos puede resultar útil en algunas circunstancias.

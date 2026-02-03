@@ -7,9 +7,8 @@ tags: ["bufferedreader","filereader","stream","file","fichero","count","java-io"
 slug: java/stream/numero-de-lineas-de-un-fichero-con-un-stream
 author: victor_cuervo
 type: doc
+id: 4bb92889-e946-41fd-afa0-7dbb58eb8798
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/NumeroDeFilasStream.java
-topic: java
-
 ---
 
 En el ejemplo [Número de líneas de un fichero con Java](http://lineadecodigo.com/java/numero-de-lineas-de-un-fichero/) veíamos como podíamos calcular el número de líneas que contenía el fichero leyendo el contenido del mismo. Hoy veremos otra forma alternativa de realizarlo, para ello vamos a calcular el número de líneas de un fichero con un Stream. Es decir, simplemente vamos a volcar el fichero sobre un [`BufferReader`](https://www.w3api.com/Java/BufferedReader/readLine/) y vamos a aprovecharnos de las capacidades del los Stream para saber cuántas líneas tiene el fichero. Esta es una **nueva funcionalidad que viene con los Stream de Java 1.8** y que facilita la programación funcional.. Lo primero será acceder al fichero. Para ello vamos a utilizar un [`FileReader`](https://www.w3api.com/Java/File/exists/Reader) sobre el path en el que se encuentre el fichero.

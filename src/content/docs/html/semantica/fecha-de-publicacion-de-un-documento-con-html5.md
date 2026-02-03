@@ -7,10 +7,8 @@ tags: ["time","pubdate","datetime"]
 slug: html/semantica/fecha-de-publicacion-de-un-documento-con-html5
 author: victor_cuervo
 type: doc
+id: 53dc1a75-41c8-4f2c-9ccc-52f0282ebb2b
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/fecha-publicacion-documento.html
-topic: html
-
-
 ---
 
 El otro día veíamos [como podemos dar de alta fechas en documentos HTML5](http://lineadecodigo.com/html5/fechas-en-html5/). Estas fechas las podemos utilizar para proporcionar información dentro del documento sobre el contenido del mismo. Por ejemplo, si estamos hablando de un evento, utilizaremos las fechas para indicar los días en los cuales se produce el evento.

@@ -7,9 +7,8 @@ tags: ["array","push","bucles","for"]
 slug: javascript/arrays/anadir-elementos-a-un-array-con-javascript-push
 author: victor_cuervo
 type: doc
+id: 7d52c423-72be-4722-8289-c63caa72d4d1
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/array-push.js
-topic: javascript
-
 ---
 
 Cuando trabajamos con [Javascript](https://www.manualweb.net/javascript/), una de las formas que tenemos para añadir elementos a un array es el **método Javascript push**. El método [Javascript](https://www.manualweb.net/javascript/) [push](https://www.w3api.com/Javascript/Array/push/) lo que hace es añadir un elemento al final del array que tengamos.

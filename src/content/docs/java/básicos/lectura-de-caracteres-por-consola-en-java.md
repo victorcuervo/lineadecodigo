@@ -7,9 +7,8 @@ tags: ["java-io","ioexception","java-system","read","ascii","casting","inputstre
 slug: java/basicos/lectura-de-caracteres-por-consola-en-java
 author: Víctor Cuervo
 type: doc
+id: 7086dd24-a5c8-4786-b8f7-0835ef658515
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/LecturaDatosConsola.java
-topic: java
-
 ---
 
 La idea de este ejemplo es simple. Consiste en realizar una lectura de un caracteres por consola en [Java](https://www.manualweb.net/java/). Posteriormente mostraremos, nuevamente por la consola, los caracteres leídos. Esto lo podríamos hacer apoyándonos sobre las librerías de streaming de [Java](https://www.manualweb.net/java/). Pero con este simple código podremos leer de la consola sin tener mucho conocimiento. Lo primero que tendremos que hacer es crear una aplicación [Java](https://www.manualweb.net/java/) de consola. Para ello simplemente necesitaremos de una clase y un método main. Por ejemplo:

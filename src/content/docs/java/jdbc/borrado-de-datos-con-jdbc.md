@@ -7,8 +7,8 @@ tags: ["delete","jdbc","drivemanager","executeupdate","preparedstatement","sqlex
 slug: java/jdbc/borrado-de-datos-con-jdbc
 author: victor_cuervo
 type: doc
+id: 1eb07fc2-e456-4805-8c56-dc0a465f3773
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/BorrarDatos.java
-topic: java
 ---
 
 Una de las operaciones que podemos realizar sobre una base de datos es el borrado de datos. Es decir, eliminar parte o la totalidad de la información contenida en una o varias tablas. Veamos cómo podemos hacer un borrado de Datos con JDBC. Para poder llevar esto a cabo fuera de un programa [Java](http://www.manualweb.net/tutorial-java/), por ejemplo, si estuviésemos en una consola de administración de la base de datos, nos bastaría con ejecutar una sentencia `DELETE` de [SQL](http://lineadecodigo.com/categoria/sql/). Por ejemplo:

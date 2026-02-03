@@ -7,9 +7,8 @@ tags: ["lista","ul","li","bullet","bull","entidades"]
 slug: html/listas/poner-bullets-en-html
 author: victor_cuervo
 type: doc
+id: 78e38317-87b8-43d3-b168-1b183a0ac45d
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/bullet-con-entidades.html
-topic: html
-
 ---
 
 ## Introducción

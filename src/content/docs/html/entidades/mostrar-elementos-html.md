@@ -7,8 +7,8 @@ tags: []
 slug: html/entidades/mostrar-elementos-html
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81e8-ac99-e2ac5a60b1d2
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/mostrar-elementos-html.html
-topic: html
 ---
 
 Si estamos escribiendo artículos técnicos sobre [HTML](https://www.manualweb.net/html/) nos encontraremos con un pequeño inconveniente. Y es que si ponemos directamente la etiqueta tal cual es en [HTML](https://www.manualweb.net/html/), esta, no será mostrada por el navegador, sino que el navegador intentará ejecutarla para cumplir la funcionalidad. Por ejemplo, imaginemos que queremos contar que la [etiqueta BR](https://www.w3api.com/HTML/br/) sirve para crear un salto de línea. Si nuestro código es el siguiente:

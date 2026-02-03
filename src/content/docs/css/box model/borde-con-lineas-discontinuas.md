@@ -7,8 +7,8 @@ tags: ["border","border-style","dashed","style"]
 slug: css/box-model/borde-con-lineas-discontinuas
 author: victor_cuervo
 type: doc
+id: 347ec9cf-55fe-4b70-844f-9d61d230cdea
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/bordes/borde-con-lineas-discontinuas.html
-topic: css
 ---
 
 Mediante [CSS](https://www.manualweb.net/css) podemos manipular los bordes de los elementos [HTML](http://www.manualweb.net/html/), que sean de formato caja, de una forma muy sencilla. La propiedad [CSS](http://www.manualweb.net/css/) que nos permite indicar qué tipo de borde queremos es [`border-style`](http://w3api.com/CSS/border-style/). En este caso vamos a ver cómo podemos crear un borde con líneas discontinuas en [CSS](https://www.manualweb.net/css). Y en concreto para nuestro objetivo y así poder tener un borde con líneas discontinuas, el valor a aplicar a la propiedad [`border-style`](http://w3api.com/CSS/border-style/) es **"dashed"**. Pero vamos por partes, lo primero que tenemos que hacer es definir el estilo. Para ello, podemos crearnos un estilo propio, o bien aplicárselo directamente a uno de los elementos. En el caso que queramos definir un estilo propio lo haremos de la siguiente forma:

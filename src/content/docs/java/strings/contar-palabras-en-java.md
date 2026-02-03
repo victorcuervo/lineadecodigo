@@ -7,9 +7,8 @@ tags: ["stringtokenizer","string","counttokens"]
 slug: java/strings/contar-palabras-en-java
 author: Víctor Cuervo
 type: doc
+id: 3bcdbb3f-a8f0-4ebb-88bc-ed3c15a744ee
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ContarPalabras.java
-topic: java
-
 ---
 
 La idea del ejemplo es ver como podemos contar las palabras de un texto en [Java](https://www.manualweb.net/java/). Podríamos hacerlo de diferentes formas, pero vamos a utilizar [la clase StringTokenizer](https://www.w3api.com/Java/StringTokenizer/) para solucionar nuestro problema. Lo primero que tenemos que hacer es definir una frase dentro de una cadena de texto:

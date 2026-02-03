@@ -7,9 +7,8 @@ tags: ["bgsound"]
 slug: html/audio/bgsound-musica-de-fondo-en-tu-pagina-web
 author: victor_cuervo
 type: doc
+id: 0d3782f0-00ea-4829-80eb-7cc3bb4dd929
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/video-y-sonido/bgsound-musica-de-fondo.html
-topic: html
-
 ---
 
 Cuando las páginas web empezaban su alza en Internet la música de fondo era partícipe de todas ellas. Era muy curioso. Tu estabas con tu ordenador navegando de un sitio a otro... y si habías sido descuidado dejando tus altavoces encendidos... de repente.... chan ta ta ta chan.... la música de la guerra de las galaxias de fondo.

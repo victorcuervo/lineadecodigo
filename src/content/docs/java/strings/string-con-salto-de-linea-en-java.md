@@ -7,9 +7,8 @@ tags: ["string"]
 slug: java/strings/string-con-salto-de-linea-en-java
 author: victor_cuervo
 type: doc
+id: 7139f411-fc13-43b2-af10-e9414ef489eb
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/SaltoDeLinea.java
-topic: java
-
 ---
 
 En el ejemplo de hoy vamos a ver cómo podemos crear una cadena o **String con salto de línea en Java**. Es decir, una cadena que al imprimirla por consola aparezca en varias líneas.

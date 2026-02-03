@@ -7,9 +7,7 @@ tags: []
 slug: java/basicos
 author: victor_cuervo
 type: category
-
-topic: java
-
+id: 2dea9dfb-adca-8062-883c-c29087d0a646
 ---
 
 ## ¿Qué son los ejemplos Java Básicos?

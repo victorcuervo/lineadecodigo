@@ -7,9 +7,8 @@ tags: ["touppercase","indexof","string"]
 slug: java/strings/string-convertir-cadena-a-mayusculas-hasta-encontrar-un-punto
 author: Feffo
 type: doc
+id: 11189277-931d-4bbe-b7b8-4abbf1f1e1d1
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/MayusculasHastaPunto.java
-topic: java
-
 ---
 
 ¡Buenas! Como segundo ejemplo del set de manipulación de cadenas con [Java](https://www.manualweb.net/java/) de caracteres les voy a mostrar una forma de convertir cadena a mayúsculas hasta encontrar un punto. El ejemplo de convertir cadena a mayúsculas hasta encontrar un punto busca que dada la siguiente cadena de caracteres:

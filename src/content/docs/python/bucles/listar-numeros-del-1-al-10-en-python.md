@@ -7,8 +7,8 @@ tags: ["bucles","while","for","range"]
 slug: python/bucles/listar-numeros-del-1-al-10-en-python
 author: victor_cuervo
 type: doc
+id: 1fae69c0-2063-4a9b-af88-312785011fba
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/recorrer-numeros.py
-topic: python
 ---
 
 Hoy vamos a revisar un ejemplo sencillo a dar cuando empecemos a [aprender a desarrollar en Python](https://lineadecodigo.com/categoria/python/) y es cómo listar números del 1 al 10 en [Python](https://www.manualweb.net/python/).

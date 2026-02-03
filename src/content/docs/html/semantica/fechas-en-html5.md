@@ -7,10 +7,8 @@ tags: ["time","datetime","iso8601","gtm","utc"]
 slug: html/semantica/fechas-en-html5
 author: victor_cuervo
 type: doc
+id: 701bfc05-8f06-4681-9918-b9fc49962471
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/fechas-html5.html
-topic: html
-
-
 ---
 
 Hay múltiples motivos por los que tenemos que añadir fechas a nuestras páginas web, desde el típico de indicar cuándo fue creada o modificada la página, para reseñar la fecha de publicación de un artículo, para poner la fecha de un comentario, reseñar un acontecimiento,...

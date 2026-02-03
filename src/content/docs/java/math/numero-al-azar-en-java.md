@@ -7,9 +7,8 @@ tags: ["math","random","sysyem","read"]
 slug: java/math/numero-al-azar-en-java
 author: victor_cuervo
 type: doc
+id: 8c26ad11-2db0-444b-8f94-ba3c5ec3450b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroAzar.java
-topic: java
-
 ---
 
 Seguro que más de una vez habéis jugado a esto. La idea es simple. Una persona piensa un número entre 1 y 10, mientras que otra persona intenta adivinarlo. Para ello, la persona que conoce el número le va diciendo si el número que busca es mayor o menor que el que ha dicho. En nuestro caso, quien pensará en el número y dirá si lo dicho es mayor o menor será un programa [Java](https://www.manualweb.net/java/). Es recomendable el leer los artículos ["Leer caracteres por consola en Java"](http://lineadecodigo.com/java/lectura-de-caracteres-por-consola-en-java/) y ["Número aleatorio en Java"](http://lineadecodigo.com/java/numero-aleatorio-en-java/). Los cuales nos ayudarán mucho en la realización de nuestro juego. Lo primero será generar un número aleatorio entre 1 y 10. Para ello utilizaremos [el método .random()](https://www.w3api.com/Java/Math/.random()) de la [clase Math](https://www.w3api.com/Java/Math/). Como esta clase genera números aleatorios del 0.1 al 0.9 tendremos que multiplicarlo por 10 y sumarle un 1.

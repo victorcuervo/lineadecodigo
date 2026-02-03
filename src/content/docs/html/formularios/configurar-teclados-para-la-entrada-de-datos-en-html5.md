@@ -7,9 +7,8 @@ tags: ["form","input","autocapitalize"]
 slug: html/formularios/configurar-teclados-para-la-entrada-de-datos-en-html5
 author: victor_cuervo
 type: doc
+id: 0465d2b7-9e51-4230-a3cf-2efabc55d41b
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/autocapitalize.html
-topic: html
-
 ---
 
 Una de las cosas que nos permite [HTML5](https://www.manualweb.net/html5) es poder configurar teclados para la entrada de datos en [HTML5](https://www.manualweb.net/html5) de tal manera que podemos forzar a que el teclado esté configurado en mayúsculas, a que la primera letra de una frase sea en mayúsculas o bien que todas las palabras que insertemos empiecen en mayúsculas.

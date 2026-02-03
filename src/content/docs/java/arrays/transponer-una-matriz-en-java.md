@@ -7,9 +7,8 @@ tags: ["matriz","array","for","bucles","length"]
 slug: java/arrays/transponer-una-matriz-en-java
 author: victor_cuervo
 type: doc
+id: 978485ba-be24-4fb5-9e4a-33927f10b70f
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MatrizTranspuesta.java
-topic: java
-
 ---
 
 En este ejemplo vamos a transponer una matriz en [Java](https://www.manualweb.net/java/). A la hora de transponer una matriz lo que estamos haciendo es convertir todas sus filas en columnas:

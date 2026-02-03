@@ -7,8 +7,8 @@ tags: ["entidades","pi"]
 slug: html/entidades/letra-pi-en-una-pagina-web
 author: victor_cuervo
 type: doc
+id: d8a857e8-06f1-494c-be50-2c38bb63a9cd
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/texto/letra-pi.html
-topic: html
 ---
 
 Si estamos montando una web [HTML](http://www.manualweb.net/tutorial-html/) orientada a temas de ciencias: matemáticas, químicas, físicas,… es muy probable que nos encontremos ante la necesidad de utilizar una serie de símbolos estándar, entre los cuales, seguro que está la letra PI (Π).

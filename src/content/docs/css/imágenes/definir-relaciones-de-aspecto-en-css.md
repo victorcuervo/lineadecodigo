@@ -7,8 +7,8 @@ tags: ["imagenes","aspect-ratio","object-fit"]
 slug: css/imagenes/definir-relaciones-de-aspecto-en-css
 author: victor_cuervo
 type: doc
+id: f53d33a8-e113-4745-87a7-dce62f9a0f0c
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/imagenes/aspect-ratio-imagen.html
-topic: css
 ---
 
 Mediante la propiedad [`aspect-ratio`](https://www.w3api.com/CSS/aspect-ratio/) podremos definir relaciones de aspecto en [CSS](https://www.manualweb.net/css/) de los elementos caja de una página. Esto nos permite, por ejemplo, ajustar imágenes para que se puedan ver mejor atendiendo al dispositivo en el que se esté renderizando nuestro contenido.

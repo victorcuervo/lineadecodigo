@@ -7,10 +7,8 @@ tags: ["action","form","input","instance","label","method","model","namespace","
 slug: xml/formularios/mi-primer-formulario-xforms
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81e6-9b6a-fb58a22591ed
 download: https://github.com/victorcuervo/lineadecodigo_xforms/blob/master/mi-primer-formulario-xforms.xhtml
-topic: xml
-
-
 ---
 
 [XForms](http://www.manualweb.net/xforms/), otra tecnología X*. Un amigo mío dice, en broma, que toda tecnología que evoluciona el [W3C](http://www.w3c.org/) le pega la X. Ya lo hizo al evolucionar su [HTML](https://www.manualweb.net/html/) al XHTML, las Querys al XQuery y claro está los formularios (Form) a [XForms](http://www.manualweb.net/xforms/). Vamos, que podríamos decir que estamos delante de una verdadera generación X.

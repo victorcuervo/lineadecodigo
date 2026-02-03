@@ -7,9 +7,8 @@ tags: ["jdbc","driver","drivermanager","mysql","class"]
 slug: java/jdbc/listar-los-drivers-con-jdbc
 author: victor_cuervo
 type: doc
+id: 91e5aeb7-3eb3-46c6-a01b-1c38c5447fec
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ListarDrivers.java
-topic: java
-
 ---
 
 El API [JDBC](http://lineadecodigo.com/tag/java-jdbc/) propone un interface estándar de acceso a bases de datos. Los vendedores de bases de datos implementan dicho interface. Para ello lo que hacen es crear drivers. Por lo tanto el driver son el conjunto de clases que implementan el interface [JDBC](http://lineadecodigo.com/tag/java-jdbc/) para una determinada base de datos.

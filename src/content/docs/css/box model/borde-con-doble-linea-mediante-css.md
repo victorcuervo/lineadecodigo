@@ -7,8 +7,8 @@ tags: ["border","border-style","double"]
 slug: css/box-model/borde-con-doble-linea-mediante-css
 author: victor_cuervo
 type: doc
+id: 888c092e-3f11-4c50-b5c9-223489ef6ec6
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/bordes/borde-con-linea-doble.html
-topic: css
 ---
 
 Vamos a seguir con los [ejemplos CSS de tipos de bordes](https://lineadecodigo.com/tag/css-border/) en los que ya hemos visto cómo insertar [imágenes con borde](http://lineadecodigo.com/css/imagenes-con-borde/) en nuestras páginas web y cómo crear un [borde con líneas discontinua](http://lineadecodigo.com/css/borde-con-lineas-discontinuas/) para poder aplicarlo en cualquier elemento de tipo caja de nuestros diseños.

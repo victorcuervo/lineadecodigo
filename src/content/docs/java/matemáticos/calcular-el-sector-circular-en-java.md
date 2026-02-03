@@ -7,9 +7,8 @@ tags: ["class","scanner","math"]
 slug: java/matematicos/calcular-el-sector-circular-en-java
 author: ARIEL
 type: doc
+id: 2c8a9dfb-adca-8191-899d-fbc716f11389
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/CalcularSectorCircular.java
-topic: java
-
 ---
 
 **Sector circular**, es la relación que existe entre el arco, el radio y el ángulo central de una circunferencia.

@@ -4,12 +4,10 @@ description: ""
 date: 2013-11-08
 updatedDate: 2026-01-10
 tags: ["celebración"]
-slug: blog/7-aos-de-linea-de-codigo
+slug: blog/7-anos-de-linea-de-codigo
 author: lineadecodigo
 type: blog
-
-topic: blog
-
+id: 2c8a9dfb-adca-8135-9022-f3e0bcf775d5
 ---
 
 El pasado 2 de noviembre se cumplían 7 años de [Línea de Código](http://lineadecodigo.com/). Ya sumamos unos cuantos, más si le ponemos los 5 años de [Aulambra](http://www.aulambra.com/).

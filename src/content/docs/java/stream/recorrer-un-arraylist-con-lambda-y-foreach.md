@@ -7,9 +7,8 @@ tags: ["java-collection","lambda","arraylist","add","foreach","consumer"]
 slug: java/stream/recorrer-un-arraylist-con-lambda-y-foreach
 author: victor_cuervo
 type: doc
+id: f7eb2566-b245-43bb-af2e-8e34d339764e
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/RecorrerArrayListForEach.java
-topic: java
-
 ---
 
 Existen muchas formas de recorrer un ArrayList para poder mostrar los elementos que contiene. Podemos [recorrer un ArrayList con un bucle for](https://lineadecodigo.com/java/recorrer-un-arraylist/), podemos [recorrerlo con un Iterador](https://lineadecodigo.com/java/iterar-un-arraylist/), [recorrerlo mediante un ListIterator](https://lineadecodigo.com/java/recorrer-una-lista-con-listiterator/), o bien, [podemos utilizar una estructura foreach para recorrer el ArrayList.](https://lineadecodigo.com/java/bucle-for-each-en-java/) Si bien, quizás no sepas que la clase [`ArrayList`](http://w3api.com/Java/ArrayList/) tiene un método que nos permite manipularlo mediante funciones lambda. Así que en este ejemplo vamos a ver cómo recorrer un ArrayList con lambda y foreach en [Java](https://www.manualweb.net/java). Lo primero es tener nuestro [`ArrayList`](http://w3api.com/Java/ArrayList/). Así que lo [creamos y cargamos una serie de elementos](https://lineadecodigo.com/java/crear-un-arraylist-en-java/):

@@ -7,9 +7,8 @@ tags: ["mongodb","mongoclient","find_one","hola-mundo"]
 slug: python/pymongo/hola-mundo-con-pymongo
 author: victor_cuervo
 type: doc
+id: c5177e91-b244-4c58-ae51-12844d3948d1
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/pymongo/hola-mundo-pymongo.py
-topic: python
-
 ---
 
 **Pymongo** es una librería de [Python](http://www.manualweb.net/python/) para poder conectarnos a una base de datos [MongoDB](https://www.manualweb.net/mongodb/). En este ejemplo vamos a ver cómo podemos crear el primer programa que se conecte desde [Python](http://www.manualweb.net/python/) a [MongoDB](https://www.manualweb.net/mongodb/).

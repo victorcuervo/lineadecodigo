@@ -7,9 +7,8 @@ tags: ["bucles","for","modulo","operadores","numeros","division"]
 slug: java/matematicos/numeros-que-contengan-un-cero
 author: victor_cuervo
 type: doc
+id: 6173f350-3ab1-4109-b92f-b4e44b158e80
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumerosConCeroHasta100.java
-topic: java
-
 ---
 
 ¿Podemos listar todos los números que contengan un cero desde el 1 al 100 con [Java](http://www.manualweb.net/java/) sin utilizar ninguna función de manejo de cadenas y solo utilizando operaciones matemáticas? Es [una de las preguntas que nos hacíais en los comentarios de un artículo](http://lineadecodigo.com/java/leer-numeros-teclado-java/#comment-112575) y que seguro más de uno está dándole vueltas a como resolverlo. Y es que una de las cosas que se nos puede venir a la cabeza con [Java](http://www.manualweb.net/java/) es utilizar la función `.indexOf()` sobre una cadena, es decir, convertiríamos primero el número en cadena, y buscaríamos si esta contiene el carácter 0 dentro de ella. Si bien, en este caso, nos vamos a apoyar sobre funciones matemáticas para averiguar si el número contiene ese cero. Pero lo primero será iterar sobre los 100 primeros números. Esto es algo realmente sencillo, y para ello un bucle `for` nos va a ayudar.

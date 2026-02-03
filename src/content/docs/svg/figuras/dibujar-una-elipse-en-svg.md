@@ -7,8 +7,8 @@ tags: ["fill","elipse","ellipse"]
 slug: svg/figuras/dibujar-una-elipse-en-svg
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8194-b9cb-d4bd50c511f8
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/figuras/dibujar-una-elipse.svg
-topic: svg
 ---
 
 Si queremos dibujar una elipse en SVG deberemos de utilizar la etiqueta `ellipse`. En este caso lo que vamos a hacer es dibujar una elipse de 50x100 de color rojo.

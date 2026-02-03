@@ -7,9 +7,8 @@ tags: ["objeto","instanceof","string"]
 slug: javascript/clases/tipo-de-objeto-en-javascript
 author: victor_cuervo
 type: doc
+id: 2d962533-a253-4c35-b3b6-a39cef17dfec
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/tipo-objeto.js
-topic: javascript
-
 ---
 
 Si estamos trabajando con objetos en [Javascript](https://www.manualweb.net/javascript/) puede darse el caso de que necesitemos conocer el tipo de objeto con el que estamos tratando. En este caso podemos utilizar la sentencia **instanceof** para contrastar el tipo de dato que manejamos.

@@ -7,9 +7,8 @@ tags: ["entidades","flechas"]
 slug: html/entidades/poner-flechas-en-html
 author: victor_cuervo
 type: doc
+id: 5af54f70-9053-4639-af0d-8bd3c0102033
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/flechas-como-entidades.html
-topic: html
-
 ---
 
 En algunos artículos de Linea de Código hemos podido ver que mediante las entidades [HTML](https://www.manualweb.net/html/) podemos hacer cosas muy curiosas. Por ejemplo Alfabeto Griego en HTML, © de Copyright, la letra π en una página web,... Hay que recordar que una entidad se compone de la siguiente forma:

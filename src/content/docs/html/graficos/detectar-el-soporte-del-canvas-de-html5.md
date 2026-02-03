@@ -7,9 +7,8 @@ tags: ["canvas","getelementbyid","modernizr"]
 slug: html/graficos/detectar-el-soporte-del-canvas-de-html5
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81ee-a666-fd89de9d7bd3
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas/comprobar-soporte-canvas.html
-topic: html
-
 ---
 
 Hemos visto [múltiples ejemplos para manipular el CANVAS](https://lineadecodigo.com/tag/html5-canvas/). Pero ¿cómo podemos saber si nuestro navegador soporta el elemento [CANVAS](https://w3api.com/HTML/canvas/) de [HTML5](https://www.manualweb.net/html5/)? 

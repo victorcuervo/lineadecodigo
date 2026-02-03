@@ -7,9 +7,8 @@ tags: ["array","variables"]
 slug: javascript/arrays/desestructurar-arrays-en-javascript
 author: victor_cuervo
 type: doc
+id: 68b2a2d4-cd95-4fd0-808b-bb7dbf508eaf
 download: https://github.com/victorcuervo/lineadecodigo_javascript
-topic: javascript
-
 ---
 
 El acto de **desestructurar arrays** en [Javascript](https://www.manualweb.net/javascript/) es el proceso por el cual podemos convertir el contenido de un array en variables simples. De esta manera podemos acceder al contenido del array de una forma sencilla.

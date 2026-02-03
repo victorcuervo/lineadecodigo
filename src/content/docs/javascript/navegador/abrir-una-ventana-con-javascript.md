@@ -7,9 +7,8 @@ tags: ["window","open","eventos","enlaces"]
 slug: javascript/navegador/abrir-una-ventana-con-javascript
 author: victor_cuervo
 type: doc
+id: 51cf1020-21d8-4a15-9aac-98a347a1c344
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/ventanas/abrir-ventana.html
-topic: javascript
-
 ---
 
 La idea de este ejemplo es ver qué código [JavaScript](https://www.manualweb.net/javascript/) se necesita para abrir una ventana nueva cuando pinchemos sobre un enlace. De esta manera conseguiremos más funcionalidades que [abriendo una nueva ventana con HTML](http://lineadecodigo.com/2006/12/22/abrir-enlace-en-una-nueva-ventana/).

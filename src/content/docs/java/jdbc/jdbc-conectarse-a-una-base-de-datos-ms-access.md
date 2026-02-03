@@ -7,8 +7,8 @@ tags: ["jdbc","ms-access","drivemanager","connection"]
 slug: java/jdbc/jdbc-conectarse-a-una-base-de-datos-ms-access
 author: victor_cuervo
 type: doc
+id: 905b5642-5d92-4c1f-9027-3d9b13f02d03
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConexionBaseDatosMSAccess.java
-topic: java
 ---
 
 No es que MS Access sea una base de datos que sirva para grandes volúmenes de datos, ni que se la pueda pedir una gran concurrencia de peticiones. Si bien, su gran baza, es el ser una base de datos con la que empezar a aprender, además de dar funcionalidad a usuarios domésticos. Algunos de los límites de MS Access son los siguientes: - Número de caracteres en un campo tipo texto: 255

@@ -7,8 +7,8 @@ tags: ["window","alert","prompt"]
 slug: dom/window/protegiendo-la-pagina-en-javascript
 author: victor_cuervo
 type: doc
+id: 2f022d8a-bb53-496d-8aac-ada53a0fee84
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/pagina-con-pwd.html
-topic: dom
 ---
 
 La verdad es que [JavaScript](https://www.manualweb.net/javascript/) no es el lenguaje que deberíamos de utilizar para proteger nuestras páginas web. Ya que es altamente vulnerable. Pero para, al menos, hacer que nuestras páginas no sean leídas por curiosos, puede sernos de gran ayuda. Y todo de una manera muy sencilla. Así que vamos a ver cómo podemos estar protegiendo la página en [JavaScript](https://www.manualweb.net/javascript/)

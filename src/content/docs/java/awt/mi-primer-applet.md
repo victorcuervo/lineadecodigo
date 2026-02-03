@@ -7,9 +7,8 @@ tags: ["applet","awt","graphics","paint"]
 slug: java/awt/mi-primer-applet
 author: victor_cuervo
 type: doc
+id: 2ff9e905-1cbe-4e30-bb5d-d1a85eb48809
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/applet/MiPrimerApplet.java
-topic: java
-
 ---
 
 Cuando hablamos de un [applet](http://www.manualweb.net/java/applets-java/), hablamos de aplicaciones [Java](https://www.manualweb.net/java/) que se ejecutan en el cliente. Desde el primer momento en que aparecieron parecía que iba a ser la panacea de la ejecución de las aplicaciones en remoto. No tener nada instalado en tu máquina y solo descargarte aquello que el usuario necesitase. Con el paso del tiempo, y tras múltiples traspiés, los [applets](http://www.manualweb.net/java/applets-java/) no han cuajado mucho en Internet. Si es verdad que podemos encontrar muchas aplicaciones de diversos usos. Además no deberemos de perderles de vista, ya que su evolución sigue con paso firme. Una vez nos pongamos a desarrollar un [applet](http://www.manualweb.net/java/applets-java/), lo primero que tenemos que hacer es extender [la clase Applet]( "Clase Java Applet"). Con ello indicaremos que nuestro código podrá utilizar las facilidades para manipular un applet.

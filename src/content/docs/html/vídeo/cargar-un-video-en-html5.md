@@ -7,9 +7,8 @@ tags: ["video","source","type"]
 slug: html/video/cargar-un-video-en-html5
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8196-9e99-f93488763d86
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/video-html5.html
-topic: html
-
 ---
 
 [Cargar un vídeo en HTML 4.01 era una misión quizás un poco compleja](http://lineadecodigo.com/html/cargar-un-video-avi-asf-o-wmv-en-mi-pagina-web/). Esto era por varias cosas, por un lado no existía código estándar para cargar vídeos, si no que se utilizaba un código para cargar cualquier tipo de objeto. Por otro lado existía diferentes formatos de vídeos a cargar que se soportaban dependiendo del navegador y plugin que tuvieses: RealTime, QuickTime, Windows Media Player,...

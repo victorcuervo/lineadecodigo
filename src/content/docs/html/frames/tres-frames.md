@@ -7,9 +7,8 @@ tags: ["frame","frameset","rows","cols","noframes"]
 slug: html/frames/tres-frames
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8156-b1e7-fa1b5e161fb3
 download: https://github.com/victorcuervo/lineadecodigo_html/tree/master/frames/tres-frames
-topic: html
-
 ---
 
 La idea de este ejemplo es ver cómo montar una página que contenga tres frames. La disposición de la página será la siguiente: en el lado izquierdo tendremos un frame de ancho 20% del total, en el lado derecho tendremos dos frames en disposición horizontal. El superior ocupará el 90% del espacio, mientras que el inferior ocupará el 10% restante.

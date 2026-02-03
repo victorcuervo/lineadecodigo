@@ -7,8 +7,8 @@ tags: ["character","isdigit"]
 slug: java/numeros/es-ese-caracter-un-numero
 author: victor_cuervo
 type: doc
+id: 0f97c082-9cff-4d36-95e4-27967756ef4a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/EsUnDigito.java
-topic: java
 ---
 
 Ayer publicábamos el artículo "[Validar si un dato es numérico en Java](http://lineadecodigo.com/java/validar-si-un-dato-es-numerico-en-java/)" que explica como controlar si una cadena es o no un número. Pero para ciertos casos podemos anticiparnos hasta el origen de dato. Por ejemplo si estamos obteniéndole por pantalla. En este caso podemos controlar cada uno de los caracteres tecleados. La idea es que por cada carácter tecleado podemos utilizar [el método isDigit(char)](https://www.w3api.com/Java/Character/.isDigit()) el cual nos dirá si el carácter que se pasa por parámetro es un dígito o no, es decir, si va del 0 al 9.

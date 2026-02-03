@@ -7,9 +7,8 @@ tags: ["cursor","style","enlaces","pointer"]
 slug: css/buenas-practicas/punteros-del-raton-con-css
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81f7-b7e1-c5fc87b80e43
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/raton/punteros-del-raton.html
-topic: css
-
 ---
 
 Gracias a la especificación [CSS](http://www.manualweb.net/css/) vamos a poder modificar las propiedades referentes al puntero del ratón. Y, de esta forma, tener múltiples formas de ver los punteros del ratón con [CSS](http://www.manualweb.net/css/). Estas formas las podremos ir modificando atendiendo al elemento sobre el que estemos. Es decir, no es lo mismo que queramos modificarlo para ofrecer una ayuda, para poder indicarle que el objeto se puede mover por la página o que podemos seleccionar un contenido. Las posibilidades son muchas.

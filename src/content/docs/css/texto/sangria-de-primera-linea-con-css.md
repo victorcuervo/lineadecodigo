@@ -7,9 +7,8 @@ tags: ["sangria","text-indent"]
 slug: css/texto/sangria-de-primera-linea-con-css
 author: victor_cuervo
 type: doc
+id: f066ac28-fa06-428c-a867-3f36cfa9bb11
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/sangria-primera-linea.html
-topic: css
-
 ---
 
 En tipografía, una sangría es la introducción de uno o varios caracteres en blanco delante de una línea. Se suele emplear en textos que están alineados a la izquierda. Este ejemplo vamos a ver cómo crear una sangría de primera línea con [CSS](http://www.manualweb.net/css/). En el caso de la sangría de primera línea, los caracteres en blanco solo se introducen en la primera de un párrafo. Un ejemplo de sangría de primera línea sería el siguiente: 

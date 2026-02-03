@@ -7,10 +7,8 @@ tags: ["dtd","atributos","attlist"]
 slug: xml/estructura/definir-una-lista-de-valores-en-atributo-xml
 author: xhrist14n
 type: doc
+id: 2c8a9dfb-adca-8137-949e-dfc621a2f1f3
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/dtd/atributo-lista.dtd
-topic: xml
-
-
 ---
 
 Cuando estamos definiendo un atributo dentro de un DTD podemos hacer que los valores del atributo sean una lista de valores. Así podemos definir una lista de valores en atributo [XML](http://www.manualweb.net/xml/) para que el usuario no se salga de este listado de valores.

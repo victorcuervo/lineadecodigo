@@ -7,9 +7,8 @@ tags: ["jdbc","connection","resultset","statement","executequery","executeupdate
 slug: java/jdbc/truncar-campos-sql
 author: victor_cuervo
 type: doc
+id: 2b467955-d95b-44e4-970e-e7f4a71008ee
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/TruncarCampos.java
-topic: java
-
 ---
 
 Vamos a ver cómo podemos truncar campos SQL cuando estemos haciendo una inserción de datos mediante [Java](https://www.manualweb.net/java/) JDBC. Pero pongámonos en situación. La idea es que cuando definas un campo de la base de datos le asignes suficiente tamaño como para que los datos que insertes dentro entren sin problema. Pero la realidad es que hay ciertas situaciones en las que esto no sucede y acabamos realizando modificaciones sobre la estructura de la base de datos. Una de las situaciones que más quebraderos da es en las cargas masivas, ya que un problema de tamaño nos puede echar atrás, si no tenemos bien montado nuestro programa, toda la carga. En el caso de que estas cargas se tengan que hacer sí o sí podemos tomar la estrategia de forzar la inserción del campo de texto, independientemente de que sea más grande que el campo, forzando un truncado del campo. Lógicamente deberemos de controlar el warning que genere para tomar las acciones correctoras a posteriori. Para demostrar cómo gestionar para truncar campos SQL en un programa [Java](https://www.manualweb.net/java/) vamos a dar los siguientes pasos. 

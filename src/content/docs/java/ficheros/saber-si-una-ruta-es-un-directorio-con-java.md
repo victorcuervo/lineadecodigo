@@ -7,9 +7,8 @@ tags: ["file","directorio","isdirectory"]
 slug: java/ficheros/saber-si-una-ruta-es-un-directorio-con-java
 author: victor_cuervo
 type: doc
+id: c52de193-e53f-47e2-a1d8-40fddadd61c5
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/EsUnDirectorio.java
-topic: java
-
 ---
 
 La clase File nos permite en [Java](https://www.manualweb.net/java/) instanciar cualquier elemento del sistema de ficheros y trabajar con él de una forma genérica. A la hora de instanciar el elemento podremos pasar al constructor bien un directorio o bien un fichero. La instanciación de un objeto [File](https://www.w3api.com/Java/File/exists/) sería de la siguiente forma:

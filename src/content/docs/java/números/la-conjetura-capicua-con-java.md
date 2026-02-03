@@ -7,9 +7,8 @@ tags: ["bucles","while"]
 slug: java/numeros/la-conjetura-capicua-con-java
 author: victor_cuervo
 type: doc
+id: a0fe32b6-65df-4822-bf3d-8cae6e288b47
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ConjeturaCapicua.java
-topic: java
-
 ---
 
 Un número capicúa es aquel que se lee igual de derecha a izquierda que de izquierda a derecha (véase [Saber si un número es capicúa con Java](http://lineadecodigo.com/java/saber-si-un-numero-es-capicua-con-java/)). La conjetura capicua dice que partiendo de un número natural podemos llegar a obtener un número capicua en un número finito de sumas.

@@ -7,11 +7,8 @@ tags: ["find","or","cursor"]
 slug: mongodb/operadores/operador-mongodb-or
 author: victor_cuervo
 type: doc
+id: 8529a83a-3a9b-4013-87c3-748417c6c86a
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/or.js
-topic: mongodb
-
-
-
 ---
 
 Ya hemos visto [el funcionamiento del Operador MongoDB AND](http://lineadecodigo.com/mongodb/operador-mongodb-and/) en el cual podíamos realizar operaciones en las cuales se cumpliesen dos condiciones o filtros. En este caso vamos a ver como realizar operaciones que se pueden realizar cuando se cumpla un campo u otro. Para ello vamos revisar el uso del **operador** [**MongoDB**](https://www.manualweb.net/mongodb/) **OR**.

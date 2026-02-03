@@ -7,9 +7,8 @@ tags: ["counter-reset","list-style","before","counter-increment"]
 slug: css/listas/numero-de-inicio-de-una-lista-con-css
 author: victor_cuervo
 type: doc
+id: 88248daa-ec8c-4d38-879c-cb1307409f42
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/listas/valor-inicio-lista.html
-topic: css
-
 ---
 
 El elemento [`ol`](http://www.w3api.com/HTML/ol/) nos sirve, en [HTML](http://www.manualweb.net/html/), para crear [listas ordenadas](https://lineadecodigo.com/html/listas-ordenadas-en-html/). Es decir, los elementos van antecedidos de un número que indica su orden. Asignándole el número 1 al primer elemento de la lista. En este caso vamos a ver cómo podemos modificar el número de inicio de una lista con [CSS](http://www.manualweb.net/css/).

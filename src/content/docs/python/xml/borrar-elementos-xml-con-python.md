@@ -7,8 +7,8 @@ tags: ["elementtree","parse","getroot","write"]
 slug: python/xml/borrar-elementos-xml-con-python
 author: victor_cuervo
 type: doc
+id: ac5a0959-d880-4dd0-b0ef-a74f3e42d30f
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/xml/borrar-elementos-xml.py
-topic: python
 ---
 
 En este ejemplo vamos a ver como utilizar el módulo [`xml.etree.ElementTree`](https://www.w3api.com/Python/xml-etree-ElementTree/) para poder borrar elementos [XML](https://www.manualweb.net/xml/) con [Python](https://www.manualweb.net/python/) de un fichero con el contenido.

@@ -7,9 +7,8 @@ tags: ["lista","foreach","for-in"]
 slug: python/listas/iterar-una-lista-en-python
 author: victor_cuervo
 type: doc
+id: df48da0f-ed49-4391-9395-686cc28b904c
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/iterar_lista.py
-topic: python
-
 ---
 
 En el ejemplo de hoy vamos a iterar una lista en [Python](http://www.manualweb.net/python/). Lo primero que haremos será definir una lista, para, a posteriori recorrer todos los elementos que esta contiene y mostrarlos por pantalla.

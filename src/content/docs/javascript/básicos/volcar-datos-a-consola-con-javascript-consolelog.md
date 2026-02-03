@@ -7,9 +7,8 @@ tags: ["console-log","chrome","firefox","firebug"]
 slug: javascript/basicos/volcar-datos-a-consola-con-javascript-consolelog
 author: victor_cuervo
 type: doc
+id: 721c6ce1-ea0c-4669-93f1-38e96cb96a8c
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/console-log.html
-topic: javascript
-
 ---
 
 Todo buen programador debe depurar sus programas. Si estamos trabajando con [Javascript](https://www.manualweb.net/javascript/) es muy útil volcar datos a consola con [Javascript](https://www.manualweb.net/javascript/) console.log

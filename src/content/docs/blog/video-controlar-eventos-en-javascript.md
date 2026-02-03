@@ -6,10 +6,8 @@ updatedDate: 2026-01-13
 tags: ["video"]
 slug: blog/video-controlar-eventos-en-javascript
 author: lineadecodigo
-type: doc
-
-topic: blog
-
+type: blog
+id: 2c8a9dfb-adca-8171-892f-e56c34175e3f
 ---
 
 En el vídeo controlar eventos en [Javascript](https://www.manualweb.net/javascript/) se nos presentan las nociones básicas para poder controlar un evento dentro de una página [HTML](https://www.manualweb.net/html/).

@@ -7,9 +7,8 @@ tags: ["tfoot","table","thead","html","tr","td"]
 slug: html/tablas/pie-de-tabla-html
 author: victor_cuervo
 type: doc
+id: 83711615-0207-4a46-983e-4001b676dcc3
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/pie-de-tabla.html
-topic: html
-
 ---
 
 Ya hemos visto cómo podemos poner una cabecera a una tabla [HTML](http://www.manualweb.net/tutorial-html/), ahora vamos a poner un pie de tabla [HTML](http://www.manualweb.net/tutorial-html/). Los pie de tabla [HTML](http://www.manualweb.net/tutorial-html/) se suelen utilizar para poner resúmenes, totalizadores,…

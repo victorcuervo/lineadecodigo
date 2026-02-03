@@ -7,9 +7,8 @@ tags: ["apache-commons","ftpclient","connect","login","ioexception","try-catch",
 slug: java/redes/conectarse-a-un-ftp-con-java
 author: victor_cuervo
 type: doc
+id: 84b86cef-0f52-41db-9a05-aaad00511e62
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/net/ftp/ConectarFTP.java
-topic: java
-
 ---
 
 La posibilidad de conectarse a un FTP con [Java](https://www.manualweb.net/java/) no es una utilidad que nos den las librerías base de [Java](https://www.manualweb.net/java/). Es por ello que para poder acometer esta tarea y conectarnos a un FTP con Java deberemos de utilizar las librerías de [Apache Commons](http://commons.apache.org/). En concreto el [componente Net](http://commons.apache.org/net/). Así que lo primero que hay que hacer para pode crear nuestro programa que se conecte a un FTP con [Java](https://www.manualweb.net/java/) es [decargarnos la librería Net de Apache Commons](http://commons.apache.org/net/download_net.cgi). En nuestro código fuente deberemos de realizar un import de esta librería:

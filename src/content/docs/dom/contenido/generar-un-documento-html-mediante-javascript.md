@@ -7,9 +7,8 @@ tags: ["document","write","open"]
 slug: dom/contenido/generar-un-documento-html-mediante-javascript
 author: victor_cuervo
 type: doc
+id: 92b73820-7ca9-4bb5-aa65-c83b76b8429a
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/dom/crear-documento-html-dinamicamente.html
-topic: dom
-
 ---
 
 Aunque parezca raro, desde código [JavaScript](https://www.manualweb.net/javascript/) podemos generar dinámicamente una página [HTML](https://www.manualweb.net/html/). Esto nos dará un gran potencial a la hora de devolver respuestas al usuario. Típicamente le devolveremos un alert o crearemos un nuevo elemento dentro de la página con el resultado de la respuesta. Pero, por qué no, la respuesta puede ser una nueva página [HTML](https://www.manualweb.net/html/), creada dinámicamente.

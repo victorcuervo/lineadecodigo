@@ -7,8 +7,8 @@ tags: ["text-align"]
 slug: css/texto/alinear-texto-al-centro-con-css
 author: Víctor Cuervo
 type: doc
+id: 8b80e023-6a1c-4f44-a841-f6a0d1013670
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/alinear-texto-centro.html
-topic: css
 ---
 
 En las [primeras versiones del HTML](http://www.manualweb.net/html/historia-html-inicios/) existía el atributo `align`, el cual, mediante diferentes valores nos permitía alinear el texto a la _izquierda_, _centro_ o _derecha_. Con la llegada de las hojas de estilo [CSS](http://www.manualweb.net/css/) este atributo se convierte en obsoleto y la alineación pasa a ser controlada por atributos [CSS](http://www.manualweb.net/css/). En este ejemplo vamos a ver cómo podemos alinear texto al centro con [CSS](http://www.manualweb.net/css/). La propiedad [CSS](http://www.manualweb.net/css/) que nos permite alinear el texto es [`text-align`](http://w3api.com/CSS/text-align/). Dicha propiedad la podemos aplicar a los diferentes elementos [HTML](http://www.manualweb.net/html/) que gestionen bloques: cabeceras, párrafos, [capas](https://lineadecodigo.com/tag/css-capas/),... La sintaxis de la propiedad [`text-align`](http://w3api.com/CSS/text-align/) es la siguiente:

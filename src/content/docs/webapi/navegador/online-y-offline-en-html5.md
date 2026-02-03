@@ -7,9 +7,8 @@ tags: ["navigator","online","offline"]
 slug: webapi/navegador/online-y-offline-en-html5
 author: victor_cuervo
 type: doc
+id: bbdcf763-2ee3-4eab-961d-22c25af9e8ff
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Device/Offline/detectar-offline.html
-topic: webapi
-
 ---
 
 Muchas de las aplicaciones web que desarrollamos son para móviles. En este sentido es bueno saber, de cara a poder ofrecer más o menos funcionalidades, si el dispositivo que carga la página tiene conexión a internet o está desconectado. Es por ello que vamos a revisar y conocer un poco más cómo funciona el modo online y offline en [HTML5](https://www.manualweb.net/html5/).

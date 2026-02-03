@@ -7,9 +7,8 @@ tags: ["java-io","bufferedwriter","fileoutputstream","ioexception","outputstream
 slug: java/ficheros/escribir-un-fichero-iso-latin-1
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81cb-b437-cd8de7397137
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/encoding/EscribirFicheroISO1.java
-topic: java
-
 ---
 
 Si aprendiste a [leer un fichero con un enconding ISO Latin 1](http://lineadecodigo.com/java/leer-fichero-iso-latin-1/), ahora vamos a ver cómo podemos escribir un fichero ISO Latin 1 con [Java](https://www.manualweb.net/java/). El punto en el que hay que especificar el encoding es con la clase [OutputStreamWriter](https://www.w3api.com/Java/OutputStream-java-io/). Y es que la clase [OutputStreamWriter](https://www.w3api.com/Java/OutputStream-java-io/) recibe el fichero al que queremos escribir y el encoding con el que escribimos.

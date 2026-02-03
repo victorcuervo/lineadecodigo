@@ -7,9 +7,8 @@ tags: ["footer","header","article","time"]
 slug: html/semantica/pie-de-pagina-de-un-articulo-html5
 author: victor_cuervo
 type: doc
+id: 0c29fb63-f6af-40e0-bcc0-f6a9dacd0e47
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/piepagina-articulo.html
-topic: html
-
 ---
 
 Ya hemos visto [cómo podemos crear un pie de página de un documento HMTL5](http://lineadecodigo.com/html5/pie-de-pagina-en-html5/), pero mediante el elemento `footer` también podemos crear un pie de página de un artículo [HTML5](http://www.manualweb.net/html5/). Digamos que el funcionamiento es similar al que se hace mediante el elemento `header` el cual nos sirve para crear cabeceras de documentos y de artículos en [HTML5](http://www.manualweb.net/html5/).

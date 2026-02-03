@@ -7,9 +7,8 @@ tags: ["for","in"]
 slug: python/diccionarios/comprobar-claves-en-diccionario-python
 author: victor_cuervo
 type: doc
+id: e87fd2f9-30da-4c60-8266-a319bfa3f2d1
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/diccionarios/existe_clave.py
-topic: python
-
 ---
 
 Los diccionarios [Python](http://www.manualweb.net/python/) son unas estructuras que almacenan conjuntos de pares clave/valor. Cuando operemos con ellos será muy recomendable comprobar claves en diccionario [Python](http://www.manualweb.net/python/) para evitar errores en ejecución.

@@ -7,10 +7,7 @@ tags: []
 slug: xml/namespaces
 author: victor_cuervo
 type: category
-
-topic: xml
-
-
+id: 2f2a9dfb-adca-8037-ae96-fe5e28faeb0b
 ---
 
 Los namespaces en XML permiten evitar colisiones de nombres cuando se combinan vocabularios distintos. Son esenciales en documentos complejos y en integraciones donde intervienen múltiples esquemas o estándares.

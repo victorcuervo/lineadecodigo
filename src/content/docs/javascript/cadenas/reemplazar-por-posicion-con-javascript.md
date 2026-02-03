@@ -7,9 +7,8 @@ tags: ["string","replaceat","substr"]
 slug: javascript/cadenas/reemplazar-por-posicion-con-javascript
 author: victor_cuervo
 type: doc
+id: db3d9734-b8be-4818-8a35-e1ae62eed657
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/cadenas/reemplazar-caracter.js
-topic: javascript
-
 ---
 
 La [función replace en Javascript nos permite reemplazar una cadena por otra](https://lineadecodigo.com/javascript/funcion-replace-en-javascript/), ya sea utilizando cadenas de texto o expresiones regulares. Si bien no nos ofrece indicar una posición concreta para poder reemplazar un elemento por otro. Así que vamos a ver cómo podemos reemplazar por posición con [Javascript.](https://www.manualweb.net/javascript/)

@@ -4,11 +4,11 @@ description: "Cómo tenemos que codificar nuestra página web para poder utiliza
 date: 2010-01-25
 updatedDate: 2026-01-05
 tags: ["entidades","letra-ñ"]
-slug: html/entidades/utilizar-la--en-html
+slug: html/entidades/utilizar-la-n-en-html
 author: victor_cuervo
 type: doc
+id: b7421529-a34e-45d7-a0da-4a9f95c38677
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/n-en-html.html
-topic: html
 ---
 
 Es posible que te hayas encontrado en un caso en el que has creado alguna página web en la que has querido utilizar la ñ en [HTML](https://www.manualweb.net/html/) y cuando la has ido a visualizar en algún navegador en concreto no se visualizaba de la forma correcta, mostrando un carácter raro.

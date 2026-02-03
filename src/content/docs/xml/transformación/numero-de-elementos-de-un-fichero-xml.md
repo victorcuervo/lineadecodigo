@@ -7,10 +7,8 @@ tags: ["count","xsl:value-of","xsl:for-each","xpath"]
 slug: xml/transformacion/numero-de-elementos-de-un-fichero-xml
 author: victor_cuervo
 type: doc
+id: 1e79bf56-9741-421a-9acf-f808c651229a
 download: https://github.com/victorcuervo/lineadecodigo_xml/tree/master/xslt/numero-de-elementos
-topic: xml
-
-
 ---
 
 Si estás tratando un fichero XML es muy probable que necesites conocer el número de elementos que lo componen, de cara a poderlo manipular de una forma más sencilla. Sobre todo si están iterando en un bucle por el número de elementos de un determinado nodo. Saber el número de elementos de un fichero [XML](http://www.manualweb.net/xml/) dado un nodo en concreto es una tarea muy sencilla.

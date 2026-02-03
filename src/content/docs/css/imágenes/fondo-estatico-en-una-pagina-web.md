@@ -7,8 +7,8 @@ tags: ["url","background","background-image","background-attachment","background
 slug: css/imagenes/fondo-estatico-en-una-pagina-web
 author: victor_cuervo
 type: doc
+id: 8626016f-f412-41bb-a591-7f59e64eca11
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/imagenes/fondo-con-imagen-fija.html
-topic: css
 ---
 
 A la hora de realizar diseños mediante [HTML](https://www.manualweb.net/html) y [CSS](https://www.manualweb.net/css) podemos conseguir tener un fondo estático en una página web, independientemente del scroll que el usuario realice sobre dicha página. Conseguir este efecto dentro una página web nos será útil en muchos casos, por ejemplo cuando queramos tener de fondo un escudo, un logo,... Hay que tener en cuenta que [si ponemos una imagen de fondo](https://lineadecodigo.com/css/poner-un-fondo-en-mi-pagina-web/), por defecto, el fondo, se repetirá tantas veces como extensa sea la página web. Para tener un fondo estático en una página web nos basaremos en el atributo [CSS](http://www.manualweb.net/css/) [`background`](http://w3api.com/CSS/background/). El primer atributo que debemos conocer es [`background-image`](http://w3api.com/CSS/background-image/). Este atributo nos permite especificar la imagen que se va a poner en el fondo de la página web. De esta forma el código a utilizar será el siguiente:

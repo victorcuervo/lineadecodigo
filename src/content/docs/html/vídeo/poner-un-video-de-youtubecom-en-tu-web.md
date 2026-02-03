@@ -7,8 +7,8 @@ tags: ["youtube","object","embed","param"]
 slug: html/video/poner-un-video-de-youtubecom-en-tu-web
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81a2-a67a-f14712940942
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/video-y-sonido/poner-video-youtube.html
-topic: html
 ---
 
 Raro es encontrar a una persona que no haya oído hablar o haya visto un vídeo de [YouTube](http://www.ayudaenlaweb.com/gestores-de-videos/que-es-youtube/). Y es que no hace falta ni estar conectado a Internet para tenerlo que ver, ya que todos los zapping de televisión utilizan a [YouTube](http://www.ayudaenlaweb.com/gestores-de-videos/que-es-youtube/) como base de sus programas. Si estás haciendo una web, poner un vídeo de [YouTube](http://www.ayudaenlaweb.com/gestores-de-videos/que-es-youtube/) es muy sencillo. Lo que tienes que hacer es buscar el vídeo que más te guste por la web de [YouTube](http://www.ayudaenlaweb.com/gestores-de-videos/que-es-youtube/). En la página del vídeo encontrareis un formulario donde viene un código llamado embeded. Como el que viene a continuación:

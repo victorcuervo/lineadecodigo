@@ -7,9 +7,8 @@ tags: ["window","javascript","alert","addfavorite"]
 slug: javascript/navegador/anadir-la-pagina-a-favoritos
 author: victor_cuervo
 type: doc
+id: 4a96c768-0701-4537-8409-bae63c37f662
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/anadir-pagina-a-favoritos.html
-topic: javascript
-
 ---
 
 Posibilitar el añadir la página a favoritos es otro claro ejemplo de código [JavaScript](https://www.manualweb.net/javascript/) que solo funciona en **Internet Explorer**. No vamos a poner en tela de juicio la funcionalidad en cuestión, si bien es cierto que todo código que manipule la estructura del navegador (o agente web) queda fuera, de momento, de los modelos de objetos y por lo tanto de su manipulación mediante [JavaScript](https://www.manualweb.net/javascript/).

@@ -7,9 +7,8 @@ tags: ["arraylist","java-collection","list","size","clear"]
 slug: java/colecciones/eliminar-todos-los-elementos-de-un-arraylist
 author: victor_cuervo
 type: doc
+id: af6e9a98-1b0e-4348-8a0c-24d9f18a1b81
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/EliminarTodosElementosLista.java
-topic: java
-
 ---
 
 En este ejemplo vamos a ver como podemos **eliminar todos los elementos** de un [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/). De esta manera dejaremos el [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/) totalmente vacío.

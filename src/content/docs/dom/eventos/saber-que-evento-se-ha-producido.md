@@ -7,9 +7,8 @@ tags: ["window","event","getelementbyid","onclick"]
 slug: dom/eventos/saber-que-evento-se-ha-producido
 author: victor_cuervo
 type: doc
+id: ee5e4dae-67d9-447d-8c97-8b0c33002321
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/eventos/conocer-que-evento-se-ha-lanzado.html
-topic: dom
-
 ---
 
 El lenguaje [JavaScript](https://www.manualweb.net/javascript/) basa una gran parte de su potencia en el control de eventos. Mediante el cual permite ejecutar todas las operaciones que nos imaginemos dentro de una página web. Cuando hablamos de eventos nos referimos a los `onClick`, `onMouseOver`, `onMouseDown`,... 

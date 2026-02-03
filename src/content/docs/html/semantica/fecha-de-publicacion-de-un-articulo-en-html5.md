@@ -7,10 +7,8 @@ tags: ["time","datetime","article","header"]
 slug: html/semantica/fecha-de-publicacion-de-un-articulo-en-html5
 author: victor_cuervo
 type: doc
+id: 61655561-c4ae-4a90-b8c5-551cf1f5415f
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/fecha-publicacion-articulo.html
-topic: html
-
-
 ---
 
 De una forma muy sencilla hemos visto [como podemos identificar la fecha de publicación de un documento con HTML5](http://lineadecodigo.com/html5/fecha-de-publicacion-de-un-documento-con-html5/). Para ello simplemente nos hemos tenido que apoyar en el [atributo pubdate](https://www.w3api.com/HTML/time/.pubdate) del elemento [time](https://www.w3api.com/HTML/time/) de [HTML5](https://www.manualweb.net/html5/).

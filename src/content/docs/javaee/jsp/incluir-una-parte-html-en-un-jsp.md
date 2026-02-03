@@ -7,8 +7,8 @@ tags: ["jsp","include"]
 slug: javaee/jsp/incluir-una-parte-html-en-un-jsp
 author: victor_cuervo
 type: doc
+id: 2826d4ce-7a3b-4e52-b8c9-bbb84feb4ee8
 download: https://github.com/victorcuervo/lineadecodigo_javaee/tree/master/src/main/webapp/include-jsp
-topic: javaee
 ---
 
 Cuando nos pongamos a codificar páginas [JSP](http://lineadecodigo.com/tag/java-jsp/) nos vamos a encontrar en muchos casos con que parte de nuestro código se está repitiendo. Es por ello que vamos a ver cómo podemos incluir una parte [HTML](http://www.manualweb.net/html/) en un [JSP](http://lineadecodigo.com/tag/java-jsp/) y de esta forma optimizar nuestros desarrollos. La repetición de código se nos puede dar por ejemplo en cabeceras, botoneras, menús,… En esta situación no parece de recibo el que tengamos que poner este código en todas las páginas. Sobre todo porque tenemos que pensar en que una modificación a dicho código habría que tocar todas nuestras páginas. Y dependiendo de lo grande que sea nuestro site, esto podría ser inmanejable. Es por ello que podemos utilizar la inclusión de código [HTML](http://www.manualweb.net/html/) en las páginas [JSP](http://lineadecodigo.com/tag/java-jsp/). Para ello lo primero que tenemos que hacer es crear una página [HTML](http://www.manualweb.net/html/) con el código. En nuestro caso vamos a codificar un pie de página, con un copyright,… Este sería nuestro código, el cual salvaremos como **piedepagina.html**:

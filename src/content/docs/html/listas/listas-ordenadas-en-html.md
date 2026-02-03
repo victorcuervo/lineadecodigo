@@ -7,9 +7,8 @@ tags: ["ol","li"]
 slug: html/listas/listas-ordenadas-en-html
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81cc-95e7-e147b929f156
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/listas/lista-ordenada.html
-topic: html
-
 ---
 
 ## Listas ordenadas en HTML

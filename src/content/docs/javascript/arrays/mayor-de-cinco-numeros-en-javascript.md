@@ -7,9 +7,8 @@ tags: ["array","for","if","console-log","numeros","mayor","bucles"]
 slug: javascript/arrays/mayor-de-cinco-numeros-en-javascript
 author: victor_cuervo
 type: doc
+id: 5fcbcde4-0499-4736-9b78-f2b69cfe4285
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/mayor-cinco-numeros.js
-topic: javascript
-
 ---
 
 Una de las peticiones que nos habéis hecho en los comentarios es cómo poder calcular el mayor de cinco números en [Javascript](https://www.manualweb.net/javascript/). Y aunque es un ejemplo sencillo a resolver, vamos a ver paso a paso cómo deberíais de enfocarlo.

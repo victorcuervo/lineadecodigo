@@ -7,9 +7,8 @@ tags: ["tinys3","open","upload"]
 slug: python/s3/subir-un-fichero-a-amazon-s3-con-python
 author: victor_cuervo
 type: doc
+id: b1a67206-7e5a-40d1-b8c2-0f2a1b2a6c5f
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/tinys3/subir_fichero_s3.py
-topic: python
-
 ---
 
 Cuando estemos trabajando con el almacenamiento de ficheros en la web una buena alternativa puede ser **Amazon S3**. Amazon S3 es un sistema de almacenamiento de ficheros en Cloud. En este ejemplo vamos a ver como subir un fichero a Amazon S3 con [Python](http://www.manualweb.net/python/).

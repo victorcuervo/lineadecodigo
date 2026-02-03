@@ -7,9 +7,8 @@ tags: ["hashmap","java-collection","password","string","java-util","exception","
 slug: java/seguridad/criptografia-algoritmos-de-digestion-de-mensajes
 author: Feffo
 type: doc
+id: 61973911-cb0d-4b25-b57e-c8e49d9a4937
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/crypto/Digestion.java
-topic: java
-
 ---
 
 ¡Buenas! Hoy les voy a traer algunos conceptos de encriptación y cómo [Java](https://www.manualweb.net/java/) los soporta. Supongamos que tenemos una aplicación en la que almacenamos información confidencial y no queremos que sea mostrada como [texto plano](http://www.alegsa.com.ar/Dic/texto%20plano.php) o en el código de la aplicación, entonces es aquí donde entra la criptografía. Dentro de la criptografía existen varios algoritmos con diferentes características. Nosotros hoy veremos los **Algoritmos de Digestión de Mensajes o de Hash** acompañados de una pequeña implementación sobre su uso en Java.

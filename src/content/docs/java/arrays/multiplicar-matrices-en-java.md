@@ -7,9 +7,8 @@ tags: ["matriz","bucles","for","exception","length","array"]
 slug: java/arrays/multiplicar-matrices-en-java
 author: victor_cuervo
 type: doc
+id: 6f4f99ca-1377-4552-b006-16cf31813c4c
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MultiplicarMatriz.java
-topic: java
-
 ---
 
 Ya hemos visto en otros ejemplos como podemos [sumar una matriz en Java](http://lineadecodigo.com/java/sumar-matrices-en-java/) o como podemos [restar dos matrices con Java](http://lineadecodigo.com/java/restar-matrices-en-java/). En este caso vamos a dar un paso más y vamos a ver como podemos multiplicar matrices en [Java](https://www.manualweb.net/java/). La multiplicación de matrices en [Java](https://www.manualweb.net/java/) es un poco más compleja. Pero solo por la mera forma de lo que significa una multiplicación. Y es que para multiplicar matrices lo que se realiza es una multiplicación de las filas por las columnas.

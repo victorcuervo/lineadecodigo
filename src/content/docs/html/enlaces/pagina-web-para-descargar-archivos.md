@@ -7,8 +7,8 @@ tags: ["a","enlaces"]
 slug: html/enlaces/pagina-web-para-descargar-archivos
 author: victor_cuervo
 type: doc
+id: a34b703b-7366-424d-a1fe-96c1fa0d93f5
 download: http://lineadecodigo.com/wp-content/uploads/2007/07/pagina-web-para-descargar-archivos.html
-topic: html
 ---
 
 Una de las cosas que más pregunta la gente cuando está aprendiendo a hacer páginas web es sobre cómo puede poner ficheros para ser descargados. Yo me pregunto que cuantas de estas personas están pensado en poner canciones, videos o fotos más o menos picantes a descargar desde su página. Pero tenemos que tener claro que Internet se fundamenta y subsiste por el intercambio de información. Y estas descargas no dejan de ser otra forma de intercambio de información. Aunque desde el punto de vista judicial se esté intentando “poner puertas al campo”. Pero, bueno, esto es para un post sobre “pajas mentales en la internet”. Crear un enlace para descargar un fichero es muy sencillo. Lo primero que tenemos que hacer es subir el fichero a nuestro servidor. Esto lo podemos hacer de dos formas: 

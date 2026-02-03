@@ -7,10 +7,8 @@ tags: ["xsl:for-each","xsl:if","xsl:value-of"]
 slug: xml/transformacion/filtrar-informacion-en-una-xslt
 author: victor_cuervo
 type: doc
+id: 2bfa9dfb-adca-80da-ab2e-c409814aed51
 download: https://github.com/victorcuervo/lineadecodigo_xml/tree/master/xslt/filtrar-informacion-en-xslt
-topic: xml
-
-
 ---
 
 Nuestras hojas de transformación no se tienen que limitar a recuperar toda la información de un fichero [XML](http://www.manualweb.net/xml/) y a ponerla en otro tipo de formato. Puede ser que cierta información del documento no nos interese, o tenga que ser evaluada. Es por ello que puede darse el caso de que necesitemos filtrar información en una [XSLT](http://www.manualweb.net/xslt/). Para poder realizar esa evaluación de datos nos podemos apoyar en estructuras condicionales como [xsl:if](http://w3api.com/wiki/XSLT:Xsl:if), [xsl:choose](http://w3api.com/wiki/XSLT:Xsl:choose) y las funciones que tiene el lenguaje [XSL](http://www.manualweb.net/xsl/).

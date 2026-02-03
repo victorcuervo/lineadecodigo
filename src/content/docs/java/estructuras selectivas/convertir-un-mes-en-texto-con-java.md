@@ -7,9 +7,8 @@ tags: ["date","calendar","switch","fechas","month"]
 slug: java/estructuras-selectivas/convertir-un-mes-en-texto-con-java
 author: xhrist14n
 type: doc
+id: 3e648df0-f2a1-4344-8b73-1c9149dab44b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/MesEnTexto.java
-topic: java
-
 ---
 
 Para convertir un mes en texto con [Java](https://www.manualweb.net/java/) necesitamos una fecha en formato adecuado por tanto usaremos la implementación de [Java](https://www.manualweb.net/java/) llamada [Date](https://www.w3api.com/Java/Date-java-util/).

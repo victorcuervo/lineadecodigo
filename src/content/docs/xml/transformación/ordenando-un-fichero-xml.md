@@ -7,10 +7,8 @@ tags: ["xsl:sort","xsl:value-of","xsl:for-each"]
 slug: xml/transformacion/ordenando-un-fichero-xml
 author: victor_cuervo
 type: doc
+id: 4b2f0f65-47ff-4472-9a72-c3545e1faf78
 download: https://github.com/victorcuervo/lineadecodigo_xml/tree/master/xslt/ordenar-xml
-topic: xml
-
-
 ---
 
 Cada día tratamos más fuentes de información basadas en [XML](http://www.manualweb.net/xml/). Ficheros que intercambiamos, bases de datos basadas en [XML](http://www.manualweb.net/xml/) o simplemente registros que contienen información variopinta. Podemos apoyarnos en [XSLT](http://www.manualweb.net/xslt/) para dejar ordenado un fichero [XML](http://www.manualweb.net/xml/). Y al igual que cuando tratamos una base de datos, podemos dejarle ordenado por el campo que nosotros queramos.

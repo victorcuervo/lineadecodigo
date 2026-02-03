@@ -7,8 +7,8 @@ tags: ["circulo","fill","radio","style","circle"]
 slug: svg/figuras/dibujar-un-circulo-en-svg
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81d6-8630-ced2ee1bdab5
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/figuras/dibujando-un-circulo.svg
-topic: svg
 ---
 
 Para completar esta sencilla tarea nos valdremos de la etiqueta SVG circle. Vamos, que para pintar un circulo en SVG no nos tenemos que comer mucho la cabeza.

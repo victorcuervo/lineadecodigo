@@ -7,11 +7,8 @@ tags: ["math","random","parseint"]
 slug: javascript/numeros/numero-aleatorio-javascript
 author: victor_cuervo
 type: doc
+id: 1c3b3edb-580a-4d10-ae14-2a53407596b5
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/matematicas/formulas.js
-topic: javascript
-
-socialImage: ../../../../assets/javascript/covers/numero-aleatorio-javascript.webp
-socialImageAlt: Número aleatorio Javascript
 ---
 
 En este ejemplo vamos a ver como podemos generar un número aleatorio [Javascript](https://www.manualweb.net/javascript/). Para ello nos vamos a apoyar sobre [la función random](https://www.w3api.com/Javascript/Math/ceil/.random()) del [objeto Math](https://www.w3api.com/Javascript/Math/ceil/).

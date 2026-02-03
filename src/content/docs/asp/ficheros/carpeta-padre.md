@@ -7,8 +7,8 @@ tags: ["carpeta","filesystemobject","createobject"]
 slug: asp/ficheros/carpeta-padre
 author: victor_cuervo
 type: doc
+id: 2c5a9dfb-adca-8020-bb1b-d4af490a59e3
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/ficheros/carpeta-padre.asp
-topic: asp
 ---
 
 La idea es utilizar el lenguaje [ASP](http://www.manualweb.net/asp/) para extraer información del sistema de archivos de nuestro servidor. Y que a partir de una ruta dada obtengamos el nombre del directorio padre de dicha ruta. Hay que tener en cuenta que la ruta puede acabar con el nombre de un fichero o el nombre de un directorio. Así podríamos estar buscando el nombre de un directorio padre de una de estas dos rutas:

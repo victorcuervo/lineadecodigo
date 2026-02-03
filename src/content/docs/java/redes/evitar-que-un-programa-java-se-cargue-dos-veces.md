@@ -7,9 +7,8 @@ tags: ["java-net","serversocket","javawebstart"]
 slug: java/redes/evitar-que-un-programa-java-se-cargue-dos-veces
 author: victor_cuervo
 type: doc
+id: 01fb2d24-8707-4ee8-a492-f95c2d5fe38c
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/UnaInstancia.java
-topic: java
-
 ---
 
 Algunos de vosotros nos habéis preguntado sobre cómo controlar que un programa [Java](https://www.manualweb.net/java/) se cargue dos veces. Es decir, que si ya lo hemos lanzado, evitemos que se vuelva a lanzar. Existen formas desde Java Web Start y el modo SingleInstanceService para evitar que un programa se cargue dos veces. Pero en nuestro caso vamos a realizarlo de una forma "más manual" en [Java](https://www.manualweb.net/java/), pero muy efectiva. El truco es que el programa [Java](https://www.manualweb.net/java/) cree un objeto que esté escuchando a un puerto específico del ordenador. Para ello utilizamos un ServerSocket, objeto que nos permite crear un objeto escuchando a un determinado puerto.

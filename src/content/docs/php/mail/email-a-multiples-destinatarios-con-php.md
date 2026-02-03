@@ -7,9 +7,8 @@ tags: ["email","mail"]
 slug: php/mail/email-a-multiples-destinatarios-con-php
 author: Víctor Cuervo
 type: doc
+id: 4f1f1147-ddc8-41b3-a7cc-f69501114c5b
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/email/multiples-destinatarios.php
-topic: php
-
 ---
 
 Ya hemos visto [lo sencillo que es enviar un email en PHP](http://lineadecodigo.com/php/enviar-email-con-php/), pero cómo tenemos que hacer para poder enviar un email a múltiples destinatarios con [PHP](http://www.manualweb.net/php/). Pues veamos lo sencillo que es realizar esta tarea. Lo primero que nos tenemos que fijar es en el método que se utiliza en [PHP](http://www.manualweb.net/php/) para enviar emails, este es a función `mail()`. Si analizamos los parámetros que nos ofrece esta función veremos que son muy sencillos de entender:

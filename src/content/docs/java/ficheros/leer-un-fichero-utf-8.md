@@ -4,12 +4,11 @@ description: "El documento explica cómo leer un fichero UTF-8 en Java utilizand
 date: 2011-09-22
 updatedDate: 2026-01-10
 tags: ["java-io","bufferedreader","fileinputstream","inputstreamreader","ioexception"]
-slug: java/ficheros/leer-un-fichero-utf8
+slug: java/ficheros/leer-un-fichero-utf-8
 author: victor_cuervo
 type: doc
+id: 0d20959f-227e-4405-bc4d-fa16a6e6f475
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/encoding/LeerFicheroUTF8.java
-topic: java
-
 ---
 
 Cuándo accedemos a un fichero tenemos que tener cuidado en su codificación. Como ya vimos al [leer un fichero en ISO Latin 1](http://lineadecodigo.com/java/leer-fichero-iso-latin-1/). En este caso vamos a leer un fichero UTF-8.

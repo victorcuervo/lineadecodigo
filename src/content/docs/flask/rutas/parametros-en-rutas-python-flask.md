@@ -7,8 +7,8 @@ tags: ["route","get","def","parametros"]
 slug: flask/rutas/parametros-en-rutas-python-flask
 author: victor_cuervo
 type: doc
+id: 170afe0b-fa9b-413f-882f-747e4812a62f
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/parametroget.py
-topic: flask
 ---
 
 Cuando estemos creando nuestras rutas en Flask es muy probable que necesitemos el pasar parámetros. Lo que vamos a ver en este ejemplo es como podemos pasar parámetros en rutas [Python](http://www.manualweb.net/python/) Flask. Lo primero habrá sido instalar el microframework de Flask.

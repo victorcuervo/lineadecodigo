@@ -7,8 +7,8 @@ tags: ["ficheros","os","listdir","exists"]
 slug: python/ficheros/listar-un-directorio-en-python
 author: victor_cuervo
 type: doc
+id: 3afb432d-9140-412a-96f9-e10170bc22cb
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/listar-directorio.py
-topic: python
 ---
 
 En el artículo de hoy vamos a ver cómo podemos listar un directorio en [Python](https://www.manualweb.net/python/) para poder comprobar cual es el contenido del mismo. Y es que la sencillez que nos ofrece el [lenguaje de programación Python](https://lineadecodigo.com/categoria/python/) lo hace realmente útil para poder desarrollar utilidades de gestión de fichero ya sea en máquinas locales o en servidores.

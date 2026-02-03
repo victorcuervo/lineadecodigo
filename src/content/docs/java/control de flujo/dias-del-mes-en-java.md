@@ -7,9 +7,8 @@ tags: ["switch","case","break"]
 slug: java/control-de-flujo/dias-del-mes-en-java
 author: victor_cuervo
 type: doc
+id: 65486c5e-7192-4fdb-8845-7b38350c655c
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/DiasDelMes.java
-topic: java
-
 ---
 
 Este ejemplo está enfocado al aprendizaje básico con [Java](https://www.manualweb.net/java/) y al uso, menos común, de las sentencias case dentro de la sentencia switch que consiste en agrupar varias sentencias case. Para ello vamos a utilizar el ejemplo que nos calcula los días de la semana en [Java](https://www.manualweb.net/java/). Lo primero que haremos será definir una variable `int` con el número del mes del cual queremos conocer los días que tiene.

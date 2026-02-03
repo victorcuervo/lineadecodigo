@@ -7,9 +7,8 @@ tags: ["switch","do-while","while","inputstream","read","bucles","ascii","castin
 slug: java/estructuras-selectivas/notas-americanas
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81a3-8177-de334e9b4b54
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NotasAmericanas.java
-topic: java
-
 ---
 
 El ejemplo consiste en pedir un carácter por teclado que corresponderá con una nota de calificación según el sistema americano, es decir, A, B, C, D o E. Y según la letra introducida se mostrará por pantalla su equivalencia en el sistema de calificación español. El programa terminará cuando el usuario introduzca un cero. Es un ejercicio pensado para aprender el desarrollo de la estructura de selección switch y la estructura de repetición while. Lo primero será obtener la nota americana. Para ello utilizamos [la clase System.in](https://www.w3api.com/Java/System/in/) y en concreto su [método .read()](https://w3api.com/Java/InputStream-java-io/read/). Hay que tener en cuenta que el carácter leído se almacena en formato ASCII, es por ello que tendremos que hacer un casting a un tipo de dato carácter.

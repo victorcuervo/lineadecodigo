@@ -7,9 +7,8 @@ tags: ["array","math","random","bucles","for"]
 slug: java/arrays/llenar-un-array-con-numeros-aleatorios-en-java
 author: victor_cuervo
 type: doc
+id: 497f7fde-62c3-4658-b575-efd8a81fdbf2
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/CargarArrayNumerosAleatorios.java
-topic: java
-
 ---
 
 En el siguiente ejemplo, vamos a explorar en detalle cómo podemos llenar un array con números aleatorios en [Java](https://www.manualweb.net/java/). Para ser más precisos, lo que vamos a hacer es [inicializar el array](https://lineadecodigo.com/java/inicializar-un-array-en-java/) y posteriormente ir insertando una serie de números aleatorios en él.

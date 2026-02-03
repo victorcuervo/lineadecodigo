@@ -7,8 +7,8 @@ tags: ["table","th","td","style","width","height","id"]
 slug: css/tablas/alto-y-ancho-de-una-tabla-en-html
 author: victor_cuervo
 type: doc
+id: 71eab17e-8bf3-4342-a513-af2b72b156c5
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-ancho-alto.html
-topic: css
 ---
 
 Mediante [el lenguaje CSS](https://www.manualweb.net/css/) podemos definir el alto y ancho de una tabla en [HTML](https://www.manualweb.net/html/) de una forma muy sencilla. Lo primero que tenemos que saber es cómo [crear una tabla en HTML](http://lineadecodigo.com/html/crear-una-tabla-en-html/).

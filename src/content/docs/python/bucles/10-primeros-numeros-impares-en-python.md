@@ -7,8 +7,8 @@ tags: ["bucles","for","range","step"]
 slug: python/bucles/10-primeros-numeros-impares-en-python
 author: victor_cuervo
 type: doc
+id: 2a664d48-8b3b-49fd-923f-88aa93895fc0
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/listar-numeros-impares.py
-topic: python
 ---
 
 En nuestros [ejemplos básicos para aprender a programar en Python](https://lineadecodigo.com/categoria/python/) hemos visto ya cómo utilizar bucles para poder listar los números del 1 al 10, en este caso vamos a ver cómo podemos listar los 10 primeros números impares en [Python](https://www.manualweb.net/python/).

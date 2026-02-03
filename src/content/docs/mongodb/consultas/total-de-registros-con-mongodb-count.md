@@ -7,11 +7,8 @@ tags: ["count","find","database"]
 slug: mongodb/consultas/total-de-registros-con-mongodb-count
 author: victor_cuervo
 type: doc
+id: b1c35657-d58b-4bfd-b529-c199e11fd19e
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/count.js
-topic: mongodb
-
-
-
 ---
 
 Cuando realizamos consultas en [MongoDB](https://www.manualweb.net/mongodb/) una de las cosas que querremos **saber es el número total de registros de una colección o el número total de registros afectados por una consulta**. Para ello tenemos el método **MongoDB count**.

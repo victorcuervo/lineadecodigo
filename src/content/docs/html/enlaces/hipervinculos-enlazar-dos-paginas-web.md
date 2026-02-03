@@ -7,8 +7,8 @@ tags: ["a","href","target","title","type"]
 slug: html/enlaces/hipervinculos-enlazar-dos-paginas-web
 author: victor_cuervo
 type: doc
+id: 24b3045d-32fa-4f90-a9aa-9bb00c57275b
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/enlazar-dos-paginas.html
-topic: html
 ---
 
 Uno de los principios sobre los que se sustenta la WWW es el enlazado de documentos. Así que vamos a aprender a enlazar dos páginas web. Esto se basa en el concepto de Hipertexto, que viene a decir algo así como presentar documentos que puedan bifurcarse o ejecutarse cuando sea solicitado. Esta definición se data en 1963 por **el sociólogo Theodore Holm Nelson**, mucho antes de que naciese la WWW.

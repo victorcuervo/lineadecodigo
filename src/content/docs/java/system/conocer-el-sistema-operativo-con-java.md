@@ -7,9 +7,8 @@ tags: ["properties","java-system","getproperty"]
 slug: java/system/conocer-el-sistema-operativo-con-java
 author: victor_cuervo
 type: doc
+id: 65387058-f6b9-421f-be4f-688157746bce
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/system/SistemaOperativo.java
-topic: java
-
 ---
 
 La clase System de [Java](https://www.manualweb.net/java/) nos va a permitir de una forma sencilla conocer el sistema operativo con Java. Y es que accediendo a las propiedades del sistema podemos encontrarnos con la que nos da el nombre del sistema operativo. Lo primero que tenemos que saber es que la clase System.getProperty.

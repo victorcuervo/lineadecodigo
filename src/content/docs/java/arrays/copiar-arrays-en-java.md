@@ -7,9 +7,8 @@ tags: ["arraycopy","exception","indexoutofboundsexception","array","bucles","for
 slug: java/arrays/copiar-arrays-en-java
 author: victor_cuervo
 type: doc
+id: 5fcb0da1-3841-4cbf-b72b-853434bb9739
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/CopiarArrays.java
-topic: java
-
 ---
 
 Muchas veces nos vamos a encontrar ante la disyuntiva de tener que copiar los elementos de un array en otros. Normalmente será para manipular el contenido del mismo guardando en uno de los arrays los datos originales. Asumida ya la situación, lo primero que se nos ocurriría, independientemente del lenguaje en el que nos encontremos, será el montar un algoritmo que recorriendo el primer array vaya copiando dichos elementos en el segundo. En [Java](https://www.manualweb.net/java/) nos quedaría un código como este:

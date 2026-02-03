@@ -7,9 +7,8 @@ tags: ["regexp","html","pattern"]
 slug: python/expresiones-regulares/eliminar-etiquetas-html-con-python
 author: victor_cuervo
 type: doc
+id: 17e591da-0781-4aaf-99e3-6e3c63aaac72
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/eliminar-etiquetas-html.py
-topic: python
-
 ---
 
 Seguro que más de una vez te has encontrado una cadena de texto con código [HTML](https://www.manualweb.net/html/) de la que quieres extraer las etiquetas [HTML](https://www.manualweb.net/html/) para quedarte solo con el contenido y así poder procesarlo. Pues aquí llega [Python](https://www.manualweb.net/pyhton/) al rescate, ya que eliminar [etiquetas HTML](https://manualweb.net/html/sintaxis-html/) con [Python](https://www.manualweb.net/pyhton/) es algo realmente sencillo.

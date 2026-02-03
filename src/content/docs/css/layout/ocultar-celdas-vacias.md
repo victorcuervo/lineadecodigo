@@ -7,9 +7,8 @@ tags: ["tabla","background-color","empty-cells","hide"]
 slug: css/layout/ocultar-celdas-vacias
 author: victor_cuervo
 type: doc
+id: c031c8f7-f4cb-43e7-ae2c-c2d3f8f0a393
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/ocultar-celdas-vacias.html
-topic: css
-
 ---
 
 Cuando estamos manipulando datos en una tabla [HTML](https://www.manualweb.net/html/) puede darse el caso que no nos interesen que se muestren ciertas celdas carentes de contenido y queramos ocultar celdas vacías. Posiblemente esto mejore la estética a la hora de presentar nuestros datos.

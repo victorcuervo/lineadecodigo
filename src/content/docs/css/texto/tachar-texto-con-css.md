@@ -7,8 +7,8 @@ tags: ["strike","text-decoration","line-through","class"]
 slug: css/texto/tachar-texto-con-css
 author: victor_cuervo
 type: doc
+id: 47700609-afe2-490e-80c4-22f3c922fc29
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/tachar-texto.html
-topic: css
 ---
 
 En las [primeras versiones del lenguaje HTML](http://www.manualweb.net/html/historia-html-inicios/) existían las etiquetas [`strike`](https://w3api.com/HTML/strike/) y [`s`](https://w3api.com/HTML/s/), las cuales nos permitían tachar texto dentro de nuestra página web, ya que en estas versiones estaba mezclado la estructura con la forma en la que se representaba. A partir de [HTML 4.01](http://www.manualweb.net/html/historia-html-estandar/) se establece la separación del contenido y la representación del mismo con la creación de [CSS](http://www.manualweb.net/css/), y es este el que nos permite tachar texto con CSS. Para tachar texto con [CSS](http://www.manualweb.net/css/) nos tenemos que basar en la propiedad [`text-decoration`](http://w3api.com/CSS/text-decoration/) y en el valor "**line-through"**. En primer lugar definiremos el estilo que va a representar el texto tachado. Para ello utilizamos el elemento [`style`](http://w3api.com/HTML/style/) de [HTML](http://www.manualweb.net/html/) dentro de la cabecera de la página [HTML](http://www.manualweb.net/html/). Dentro insertaremos el código [CSS](http://www.manualweb.net/css/).

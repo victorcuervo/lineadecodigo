@@ -7,9 +7,8 @@ tags: ["try-catch","exception","sqlexception","resultset"]
 slug: java/jdbc/controlar-sqlexception
 author: victor_cuervo
 type: doc
+id: d84afafd-5b6c-4764-9fc4-8b698b375af2
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ControlarSQLException.java
-topic: java
-
 ---
 
 Si estás trabajando con un programa que acceda a una base de datos con Java JDBC seguro que has tenido que enfrentarte a controlar SQLException. SQLException es la excepción que se lanza cuando hay algún problema entre la base de datos y el programa [Java](https://www.manualweb.net/java/) JDBC. 

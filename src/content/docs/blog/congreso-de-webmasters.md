@@ -7,9 +7,7 @@ tags: ["eventos"]
 slug: blog/congreso-de-webmasters
 author: lineadecodigo
 type: blog
-
-topic: blog
-
+id: 2c8a9dfb-adca-812c-8ff9-fbd54e9b988d
 ---
 
 Los próximos dias 17 y 18 de Noviembre, 2007 se celebra en el [Palacio de Congresos de Madrid](http://maps.google.es/maps?hl=es&q=Palacio%20de%20Congresos%20de%20Madrid&ie=UTF8&ll=40.487432%2C-3.695526&spn=0.10079%2C0.233459&z=12&iwloc=A&om=1) el **Congreso de Webmasters**.

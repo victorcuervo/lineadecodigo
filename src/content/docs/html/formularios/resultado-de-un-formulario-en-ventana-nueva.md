@@ -7,9 +7,8 @@ tags: ["form","target","_blank"]
 slug: html/formularios/resultado-de-un-formulario-en-ventana-nueva
 author: victor_cuervo
 type: doc
+id: ee4810fe-8d5c-4a18-8c33-833cd0830ebd
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/formularios/abrir-formulario-en-nueva-ventana.html
-topic: html
-
 ---
 
 La verdad es que el titulo del ejemplo es casi más largo que su solución. Lo que buscamos es ver como abrir el resultado del formulario en una ventana nueva y no en la que contiene el formulario [HTML](https://www.manualweb.net/html/).

@@ -7,9 +7,8 @@ tags: ["java-io","inputstream","process","runtime","exec"]
 slug: java/system/como-ejecutar-un-comando-del-sistema-desde-java
 author: Feffo
 type: doc
+id: afe03bfe-ea62-4bf5-8dd3-21d2e2b6f7a8
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/system/EjecutarUnComando.java
-topic: java
-
 ---
 
 Hoy les traigo una forma de poder ejecutar un comando de consola en [Java](https://www.manualweb.net/java/). La clave para ejecutar un comando en [Java](https://www.manualweb.net/java/) está en los métodos [exec(String command)](https://w3api.com/Java/Runtime-java-lang/exec/) y [exec(String[] cmdarray)](https://w3api.com/Java/Runtime-java-lang/exec/).

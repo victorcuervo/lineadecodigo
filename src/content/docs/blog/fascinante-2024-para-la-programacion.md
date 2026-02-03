@@ -7,13 +7,7 @@ tags: ["editorial"]
 slug: blog/fascinante-2024-para-la-programacion
 author: victor_cuervo
 type: blog
-
-topic: blog
-cover:
-  alt: "Artículo sobre Fascinante 2024 para la programación"
-  image: ../../../assets/blog/covers/fascinante-2024.webp
-socialImage: ../../../assets/blog/covers/fascinante-2024.webp
-socialImageAlt: Fascinante 2024 para la programación
+id: 168a9dfb-adca-804a-8e09-cfed9c5931a6
 ---
 
 Se acaba un año y empezamos otro nuevo. Un buen momento para echar una vista atrás y analizar cuales han sido los 5 hitos relevantes en un fascinante 2024 para la programación.

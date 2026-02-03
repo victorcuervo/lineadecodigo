@@ -7,8 +7,8 @@ tags: ["blockquote","q","cite"]
 slug: html/texto/poner-citas-en-html
 author: victor_cuervo
 type: doc
+id: 1dc8e8c4-d84b-40cc-8028-df6efd8a9a72
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/texto/poner-citas-en-html.html
-topic: html
 ---
 
 En [HTML](http://www.manualweb.net/tutorial-html/) tenemos dos formas de poner citas. Es decir, hacer referencia a textos que se han dicho por otros. Para ello el lenguaje [HTML](http://www.manualweb.net/tutorial-html/) nos ofrece los elementos [Q](http://www.w3api.com/wiki/HTML:Q) y [BLOCKQUOTE](http://www.w3api.com/wiki/HTML:BLOCKQUOTE). La principal diferencia entre estos elementos es que [Q](http://www.w3api.com/wiki/HTML:Q) nos sirve para citas pequeñas y que van en la propia línea de texto, mientras que [BLOCKQUOTE](http://www.w3api.com/wiki/HTML:BLOCKQUOTE) se utiliza para citas largas, las cuales requieren de un salto de parrafo. Su uso es muy sencillo, ya que nos bastará con poner la cita entre los elementos de inicio y fin. De esta forma una cita corta nos quedará de la siguiente forma:

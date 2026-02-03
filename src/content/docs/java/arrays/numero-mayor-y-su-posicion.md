@@ -7,9 +7,8 @@ tags: ["array","bucles","for","if"]
 slug: java/arrays/numero-mayor-y-su-posicion
 author: victor_cuervo
 type: doc
+id: 50fd819f-a2a6-4820-84db-6aa608c93230
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/NumeroMayorPosicion.java
-topic: java
-
 ---
 
 Este es un problema básico a la hora de trabajar con arrays en [Java](https://www.manualweb.net/java/). La idea es buscar el número más grande del array y la posición que ocupa. Lo primero es declarar el array de números e inicializarlo con una secuencia cualquiera:

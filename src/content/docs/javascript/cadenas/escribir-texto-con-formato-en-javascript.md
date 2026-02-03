@@ -7,9 +7,8 @@ tags: ["document","write"]
 slug: javascript/cadenas/escribir-texto-con-formato-en-javascript
 author: victor_cuervo
 type: doc
+id: 8bd38143-74da-41ab-828d-571b8f44cf9a
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/cadenas/texto-con-formato-en-javascript.html
-topic: javascript
-
 ---
 
 Empiezo a aprender [JavaScript](https://www.manualweb.net/javascript/), ya me he creado mi primera página web y he incluido el código necesario para poner mi código [JavaScript](https://www.manualweb.net/javascript/).

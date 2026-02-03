@@ -7,8 +7,8 @@ tags: ["HTML Entidades"]
 slug: html/entidades/simbolo-del-euro-en-html
 author: Víctor Cuervo
 type: doc
+id: fe18dc28-77b9-49ca-bb53-a83b1c03c360
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/simbolo-del-euro-en-html.html
-topic: html
 ---
 
 Si estamos haciendo una web donde tengan que aparecer cantidades monetarias, es muy posible que tengamos la necesidad de insertar la moneda euro (€). Sobre todo si estás desarrollando una web dentro de la Comunidad Económica Europea (EU), ya que dentro de ella el euro es su moneda oficial. En este caso debes de saber varias cosas. La representación del euro puede hacerse de varias formas:

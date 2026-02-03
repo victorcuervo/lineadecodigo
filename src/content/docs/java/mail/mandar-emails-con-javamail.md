@@ -7,8 +7,8 @@ tags: ["java-mail","email"]
 slug: java/mail/mandar-emails-con-javamail
 author: victor_cuervo
 type: doc
+id: a7b94c04-4cce-4c94-8f48-a9fbd9cff52d
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/mail/MandarEmail.java
-topic: java
 ---
 
 Una buena funcionalidad a incluir dentro de cualquier página web es el envío de correos. El poder adjuntarla información que estamos leyendo en ese momento, vía correo a otra persona (o a sí mismo). Así que vamos a ver cómo podemos mandar emails con [JavaMail](http://lineadecodigo.com/tag/java-mail/). El [API de JavaMail](http://lineadecodigo.com/tag/java-mail/) nos permite el envío de correos. Abstrayéndonos de los protocolos de comunicación para el envío de emails (SMTP, POP3, MAIL,…). Con muy pocas líneas de código nos permite el enviar un mensaje a una dirección de correo electrónico. Los pasos a seguir serán:

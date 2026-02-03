@@ -7,8 +7,8 @@ tags: ["filesystemobject","response","write","server","createobject"]
 slug: asp/ficheros/borrar-un-directorio-en-asp
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81f6-b4b5-fc619589090c
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/ficheros/borrar-directorio.asp
-topic: asp
 ---
 
 El borrado de un directorio consiste en una operación muy similar al borrado de un fichero. Si para este segundo usamos en [ASP](http://www.manualweb.net/asp/) la función `DeleteFile`, para borrar un directorio en [ASP](http://www.manualweb.net/asp/) usaremos la función `DeleteFolder`. Los argumentos que reciben ambas funciones son exactamente los mismos:

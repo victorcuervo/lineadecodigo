@@ -7,8 +7,8 @@ tags: ["acronym"]
 slug: html/texto/la-etiqueta-acronym
 author: victor_cuervo
 type: doc
+id: 2c5a9dfb-adca-800c-afc2-d4976375f3af
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/texto/acronimos-en-html.html
-topic: html
 ---
 
 Si nos vamos al Diccionario de la Lengua Española de la Real Academia Española nos encontramos una definición curiosa de lo que es un acrónimo. Veámosla… 1. m. Tipo de sigla que se pronuncia como una palabra; p. ej., o(bjeto) v(olante) n(o) i(dentificado). Dentro del [HTML](http://www.manualweb.net/tutorial-html/) podemos denotar texto que sean siglas. Para ello utilizamos la etiqueta [ACRONYM](http://w3api.com/wiki/HTML:ACRONYM).

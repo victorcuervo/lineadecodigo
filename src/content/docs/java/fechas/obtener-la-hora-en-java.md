@@ -7,9 +7,8 @@ tags: ["java-util","calendar","gregoriancalendar"]
 slug: java/fechas/obtener-la-hora-en-java
 author: victor_cuervo
 type: doc
+id: 2c78183f-86d0-475e-8e39-c0163b4f1575
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/dates/ObtenerLaHora.java
-topic: java
-
 ---
 
 Para obtener la hora del sistema, [Java](https://www.manualweb.net/java/) nos proporciona [la clase Calendar](https://www.w3api.com/Java/Calendar/). Mediante dicha clase podremos obtener de una forma separada cada uno de los valores que componen una hora. Entendiendo como hora los segundos, minutos y hora. Lo primero que tendremos que hacer será instanciar la clase [Java](https://www.manualweb.net/java/) [Calendar](https://www.w3api.com/Java/Calendar/). Para ello podemos hacerlo de dos formas. La primera consiste en obtener una instancia directamente de [Calendar](https://www.w3api.com/Java/Calendar/):

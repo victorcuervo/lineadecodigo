@@ -7,9 +7,8 @@ tags: ["window","location","regexp"]
 slug: javascript/navegador/ver-el-codigo-fuente
 author: victor_cuervo
 type: doc
+id: 62c119ed-23b2-4ab4-b0f8-96e003a5cbce
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/ver-codigo-fuente.html
-topic: javascript
-
 ---
 
 El objetivo de este ejercicio es el de mostrar el código fuente de una página. Está claro que siempre lo podremos obtener mediante el menú de nuestro navegador o mediante el botón derecho (si este está disponible). Pero nosotros vamos a hacer que desde nuestra página web podamos mostrar los códigos fuente de otras páginas.

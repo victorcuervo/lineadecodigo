@@ -2,20 +2,22 @@
 title: "Leer números por teclado con Java"
 description: "Ejemplo que explica cómo utilizar la clase Scanner y su método .nextInt() para poder leer números por teclado con Java de una forma sencilla."
 date: 2016-10-23
-updatedDate: 2026-01-11
-tags: ["scanner","arraylist","nextint","do-while","try-catch","inputmismatchexception","Java Collection","bucles"]
+updatedDate: 2026-01-08
+tags: ["java-collection","arraylist","scanner"]
 slug: java/basicos/leer-numeros-por-teclado-con-java
 author: victor_cuervo
 type: doc
+id: f6f26303-b9d0-4dbf-b2a1-9f55ffb460bd
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/LeerNumerosConsola.java
-topic: java
-
 ---
+
+## ¿Cómo leer números por teclado con Java?
+
 
 Un ejemplo sencillo, pero muy útil y que todos deberíamos controlar, es el de leer números por teclado con [Java](https://www.manualweb.net/java/). La idea en este caso es ver cómo podemos pedir al usuario números enteros e irlos leyendo por teclado. Esto lo repetiremos hasta que el usuario inserte el 0. A partir de este momento le [mostraremos al usuario la suma de todos los números insertados](https://lineadecodigo.com/java/sumatorio-de-un-numero-en-java/).
 
 
-Además, será crucial y necesario que implementemos un mecanismo de control en nuestro sistema. Este mecanismo de control tendrá la tarea de verificar que la información que el usuario inserta en los campos de entrada sea realmente un número entero. Esto es importante para prevenir errores o malfuncionamientos en el sistema debido a la inserción de datos no válidos, como, por ejemplo, una letra en lugar de un número. Esta es una tarea que no podemos pasar por alto para asegurar que nuestro sistema funcione correctamente y de manera eficiente.
+Además, será crucial y necesario que implementemos un mecanismo de control en nuestro sistema. Este mecanismo de control tendrá la tarea de verificar que la información que el usuario inserta en los campos de entrada sea realmente un número entero. Esto es importante para prevenir errores o malfuncionamientos en el sistema debido a la inserción de datos no válidos, como por ejemplo, una letra en lugar de un número. Esta es una tarea que no podemos pasar por alto para asegurar que nuestro sistema funcione correctamente y de manera eficiente.
 
 
 ## Manejando la clase Scanner para leer números por teclado con Java
@@ -25,7 +27,7 @@ Lo primero que tenemos que conocer es que la clase [`Scanner`](https://www.w3api
 
 
 ```java
-Scanner reader = new Scanner([System.in](http://system.in/));
+Scanner reader = new Scanner(System.in);
 ```
 
 
@@ -37,12 +39,11 @@ Aquí hay un ejemplo de cómo podríamos usar este método:
 
 ```java
 int numero = 0;
-System.out.println("Introduce un número: ");
 numero = reader.nextInt();
 ```
 
 
-En este fragmento de código, inicializamos una variable de tipo `int` llamada `numero` y le asignamos el valor 0. Luego, solicitamos al usuario que ingrese un número a través del teclado. Esa entrada pasa al método [`.nextInt()`](https://www.w3api.com/Java/Scanner/nextInt/), que luego la convierte en un entero. Finalmente, ese entero se almacena en nuestra variable `numero`.
+En este fragmento de código, inicializamos una variable de tipo `int` llamada `numero` y le asignamos el valor 0. Luego, solicitamos al usuario que ingrese un número a través del teclado. Esa entrada se pasa al método [`.nextInt()`](https://www.w3api.com/Java/Scanner/nextInt/), que luego la convierte en un entero. Finalmente, ese entero se almacena en nuestra variable `numero`.
 
 
 Es importante destacar que con este método, la entrada del usuario se deposita directamente en una variable de tipo `int`. Esto significa que no necesitamos hacer ninguna conversión adicional, ya que [`.nextInt()`](https://www.w3api.com/Java/Scanner/nextInt/) se encargará de ese proceso por nosotros.
@@ -55,11 +56,16 @@ Siguiendo con nuestro ejemplo para leer números por teclado con [Java](https://
 
 
 ```java
+List lista = new ArrayList();
+Scanner reader = new Scanner(System.in);
+int numero = 0;
+
+System.out.println("Introduce números. El cero para salir");
+
 do {
-    System.out.println("Introduce un número: ");
     numero = reader.nextInt();
-    numeros.add(numero);
-} while (numero != 0);
+    lista.add(numero);
+} while (numero!=0);
 ```
 
 
@@ -73,13 +79,21 @@ Es muy importante que cuando estemos codificando el ejemplo de leer números por
 
 
 ```java
-try {
+List lista = new ArrayList();
+Scanner reader = new Scanner(System.in);
+int numero = 0;
+
+System.out.println("Introduce números. El cero para salir");
+
+do {
+  try {
     numero = reader.nextInt();
-    numeros.add(numero);
-} catch (InputMismatchException ime) {
-    System.out.println("El valor introducido no es un número");
-    [reader.next](http://reader.next/)();
-}
+    lista.add(numero);
+  } catch (InputMismatchException ime){
+    System.out.println("¡Cuidado! Solo puedes insertar números. ");
+    reader.next();
+  }
+} while (numero!=0);
 ```
 
 
@@ -94,10 +108,11 @@ Lo último que haremos con nuestro ejemplo de leer números por teclado con [Jav
 
 ```java
 int suma = 0;
-for (int num : numeros) {
-    suma += num;
+for(int num:lista) {
+  suma += num;
 }
-System.out.println("La suma de los números es: " + suma);
+
+System.out.println("La suma de los números es " + suma);
 ```
 
 

@@ -7,9 +7,8 @@ tags: ["hola-mundo","install","route"]
 slug: python/basicos/hola-mundo-con-python-flask
 author: victor_cuervo
 type: doc
+id: e853f8d3-00d0-47d3-96ab-f9538535fa03
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/holamundo.py
-topic: python
-
 ---
 
 **Flask** es un microframework de [Python](http://www.manualweb.net/python/) que está basado en **Werkzeug**, **Jinja 2** y buenas intenciones. Mediante Flask podemos construir aplicaciones Web y Restful con [Python](http://www.manualweb.net/python/) de una forma extraordinariamente sencilla.

@@ -4,11 +4,11 @@ description: "Código que explica cómo definir el tamaño de una imagen con CSS
 date: 2007-12-09
 updatedDate: 2026-01-07
 tags: ["width","height","class","style","imagenes"]
-slug: css/imagenes/definir-el-tamao-de-una-imagen-con-css
+slug: css/imagenes/definir-el-tamano-de-una-imagen-con-css
 author: victor_cuervo
 type: doc
+id: 5a607c69-f5f2-456b-be95-53c4f6456cdd
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/imagenes/tamanio-imagen-con-css.html
-topic: css
 ---
 
 En las primeras versiones del lenguaje [HTML](https://www.manualweb.net/html/) cuando se mezclaba el contenido como el diseño lo más normal es apoyarnos en el lenguaje [HTML](https://www.manualweb.net/html/) para definir el tamaño de una imagen. Si bien, una vez que se separa el diseño del contenido y aparece [CSS](http://www.manualweb.net/css/) como lenguaje de definición de estilos la idea es utilizar estilos [CSS](http://www.manualweb.net/css/) para definir el alto y ancho de una imagen. En este artículo vamos a ver cómo podemos definir el tamaño de una imagen con [CSS](http://www.manualweb.net/css/).

@@ -7,9 +7,8 @@ tags: ["audio","controls","getelementbyid","math","random","play"]
 slug: html/audio/musica-aleatoria-con-html5
 author: victor_cuervo
 type: doc
+id: a8c99d59-25a4-4141-b726-f018b2d9e06b
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Audio/musica-aleatoria.html
-topic: html
-
 ---
 
 Algunos nos habéis pedido sobre cómo poner música aleatoria con [HTML5](https://www.manualweb.net/html5/) o música al azar, dentro de vuestras páginas web. En este artículo vamos a ver cómo podemos llevarlo a cabo.

@@ -4,11 +4,11 @@ description: "Ejemplo que nos muestra cómo añadir contenido a un fichero con P
 date: 2024-04-02
 updatedDate: 2026-01-05
 tags: ["os","path","exists","open","write"]
-slug: python/ficheros/aadir-contenido-a-un-fichero-con-python
+slug: python/ficheros/anadir-contenido-a-un-fichero-con-python
 author: victor_cuervo
 type: doc
+id: 525d90f8-496a-41b7-a0a1-f46591bf9a82
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/a%C3%B1adir-contenido-fichero.py
-topic: python
 ---
 
 En este ejemplo vamos a ver cómo podemos añadir contenido a un fichero con [Python](https://www.manualweb.net/python/). La idea es partir de un fichero existente que ya tenga contenido y añadirle más contenido.

@@ -7,8 +7,8 @@ tags: ["math","pi","pow","area"]
 slug: java/math/area-de-un-circulo-en-java
 author: victor_cuervo
 type: doc
+id: 76b4b6c7-8de8-4ff9-978b-f1ae7a4481da
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/AreaCirculo.java
-topic: java
 ---
 
 En Java podemos encontrar [la librería Java Math](http://lineadecodigo.com/tag/java-math/) la cual nos ayuda a realizar **cálculos matemáticos**. Por ejemplo, nos podría ayudar en el **cálculo del área de un círculo en Java**. Y no es que el [lenguaje de programación Java](https://lineadecodigo.com/categoria/java/) tenga un método o una clase especializada en cálculo de áreas, si no que nos ofrece una serie de métodos y constantes para ayudarnos en su cálculo. Pero vayámoslo viendo paso a paso.

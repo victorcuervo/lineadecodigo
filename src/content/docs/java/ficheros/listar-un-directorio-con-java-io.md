@@ -7,9 +7,8 @@ tags: ["file","list","directorio","listar","java-io","nullpointerexception"]
 slug: java/ficheros/listar-un-directorio-con-java-io
 author: victor_cuervo
 type: doc
+id: adbe837c-7b72-4949-8fbb-2f40cfb53279
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/io/ListarDirectorio.java
-topic: java
-
 ---
 
 Mediante la librería [Java IO](%22Clases%20de%20Java%20IO%22) vamos a listar el contenido de un directorio con el fin de mostrarlo por pantalla. Para ello, lo primero que haremos será obtener una referencia al directorio que queremos listar. Utilizaremos, en este caso, la clase `File` para almacenar la referencia.

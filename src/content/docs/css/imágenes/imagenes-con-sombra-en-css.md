@@ -7,8 +7,8 @@ tags: ["imagenes","sombra"]
 slug: css/imagenes/imagenes-con-sombra-en-css
 author: victor_cuervo
 type: doc
+id: b8d312cc-faca-48da-ae09-68be68e9a8e3
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/imagenes/imagenes-sombra.html
-topic: css
 ---
 
 [CSS](https://www.manualweb.net/css/) nace con la idea de ayudarnos en el diseño de nuestras páginas web [tal y cómo podemos ver en los diferentes ejemplos de CSS de Línea de Código](https://lineadecodigo.com/categoria/css/). Con la finalidad de dar vida y colorido a las encorsetadas páginas [HTML](https://www.manualweb.net/html/). Este ejemplo nos explica cómo crear imágenes con sombra en CSS, de tal manera, que esta, nos quede más "resultona". La idea general para poder crear imágenes con sombra en [CSS](http://www.manualweb.net/css/) será la de poner una imagen dentro de una capa. Posteriormente mover la imagen hacia la izquierda y hacia arriba. De esta manera queda "como por encima" de la capa. De esta manera podremos utilizar la capa para crear la sombra. Lo primero que tenemos que hacer para tener imágenes con sombra en [CSS](http://www.manualweb.net/css/) es crear una capa con una imagen dentro.

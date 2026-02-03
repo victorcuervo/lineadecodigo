@@ -7,9 +7,8 @@ tags: ["bucles","while","cadena","rand","preg_replace"]
 slug: php/cadenas/reemplazar-caracteres-en-una-cadena-php
 author: victor_cuervo
 type: doc
+id: ec20c39e-84b6-4aa7-af99-c8a6a9ed4989
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/cadenas/reemplazar-cadenas.php
-topic: php
-
 ---
 
 Una de las preguntas que nos habéis hecho es cómo podéis reemplazar caracteres en una cadena [PHP](http://www.manualweb.net/php). Así que vamos a ponernos manos a la obra. La idea es que empezamos con una cadena en la que hay números y caracteres en 'x'. La idea es poder reemplazar los caracteres 'x' de la cadena por número y así poder tener un número completo. Es decir, partiríamos de algo así como '1245xxxx' y obtendremos algo como '12458937'. Lo primero será definir la cadena base:

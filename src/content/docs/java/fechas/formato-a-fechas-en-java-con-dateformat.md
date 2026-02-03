@@ -7,9 +7,8 @@ tags: ["date","fechas","dateformat","format","java-util","locale"]
 slug: java/fechas/formato-a-fechas-en-java-con-dateformat
 author: Emmanuel Ramos
 type: doc
+id: 7e809b47-4bfa-4775-8268-e5cef36b1143
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/dates/FormatoDeFechas.java
-topic: java
-
 ---
 
 En el día de hoy les explicaré cómo formatear una fecha en [Java](https://www.manualweb.net/java/). Lo primero que haremos será usar una de las clases del paquete `java.text`. Esta clase es `DateFormat`. De igual manera utilizaremos la clase [Date](https://www.w3api.com/Java/Date-java-util/) y `Locale` del paquete `java.util`.

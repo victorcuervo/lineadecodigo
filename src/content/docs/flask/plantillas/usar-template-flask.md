@@ -7,9 +7,8 @@ tags: ["template","render_template"]
 slug: flask/plantillas/usar-template-flask
 author: victor_cuervo
 type: doc
+id: fd270f01-1434-409a-9da0-592642ccef13
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/template.py
-topic: flask
-
 ---
 
 Una de las cosas más sencillas que se pueden hacer en [Flask](https://www.manualweb.net/flask/) es crear una página web ante una petición. Es decir, usar un template en [Flask](https://www.manualweb.net/flask/) que sea una página [HTML](https://www.manualweb.net/html/) a la cual podemos insertar contenido recuperado desde nuestro programa [Python](http://www.manualweb.net/python/).

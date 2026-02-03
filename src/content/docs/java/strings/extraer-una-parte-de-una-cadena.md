@@ -7,9 +7,8 @@ tags: ["string","substring"]
 slug: java/strings/extraer-una-parte-de-una-cadena
 author: victor_cuervo
 type: doc
+id: 90efac9a-a638-48c1-8ec9-8bf3d1a0a5cd
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ExtraerCadena.java
-topic: java
-
 ---
 
 Una cosa muy sencilla de hacer con [Java](https://www.manualweb.net/java/) y que la utilizaremos en muchos ejemplo es la de extraer una parte de una cadena cuando estemos manipulando su contenido. Ya que esto nos permite quedarnos con una parte del contenido de una cadena para hacer un uso adicional del mismo.

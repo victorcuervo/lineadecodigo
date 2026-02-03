@@ -7,8 +7,8 @@ tags: ["get","route","render_template","request"]
 slug: flask/basicos/parametros-get-con-flask
 author: victor_cuervo
 type: doc
+id: d0a08e40-822b-4e3d-8074-06e055e86c5c
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/parametroget.py
-topic: flask
 ---
 
 Crear una aplicación web y pasar parámetros entre las páginas es la acción más normal. Aquí vamos a explicar cómo manejar parámetros GET con [Flask](https://www.manualweb.net/flask/). Lo primero de todo será crear una ruta que nos pinte un formulario. Esta ruta lo que hace es renderizar un template con un formulario mediante el método `render_template()`

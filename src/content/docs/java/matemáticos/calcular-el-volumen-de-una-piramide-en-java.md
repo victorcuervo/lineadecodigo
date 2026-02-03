@@ -7,9 +7,8 @@ tags: ["interface","volumen","formula","math","piramide"]
 slug: java/matematicos/calcular-el-volumen-de-una-piramide-en-java
 author: ARIEL
 type: doc
+id: 7bd20679-02f4-4b78-b3ba-759786593b46
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/VolumenPiramide.java
-topic: java
-
 ---
 
 Para calcular el volumen de una pirámide en [Java](https://www.manualweb.net/java/) vamos a crear tres archivos:

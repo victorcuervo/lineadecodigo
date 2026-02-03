@@ -4,12 +4,11 @@ description: "Explicación paso a paso de cómo podemos crear objeto JSON con JS
 date: 2020-09-09
 updatedDate: 2026-01-09
 tags: ["Java JSON"]
-slug: java/json/crear-objeto-json-con-jsonsimple
+slug: java/json/crear-objeto-json-con-json-simple
 author: victor_cuervo
 type: doc
+id: 687d04ba-06af-4907-a534-043807bc252c
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/json/CrearJSON.java
-topic: java
-
 ---
 
 Existen [múltiples librerías para poder manipular contenido en JSON con Java](http://lineadecodigo.com/tag/java-json/) y ya hemos visto cómo podemos [crear objeto JSON con GSON](http://lineadecodigo.com/java/crear-objeto-json-con-gson/). En este caso vamos vamos a **crear objeto JSON con JSON-Simple** mediante código [Java](http://www.manualweb.net/java/). Así podremos comparar ambas librerías y ver cuál se adapta más a nuestras necesidades. [JSON-Simple](https://cliftonlabs.github.io/json-simple/) es una librería ligera que nos permite serializar y deserializar contenido en JSON. A día de hoy es mantenida por los [Clifton Labs](https://cliftonlabs.com/). Lo primero de todo será importar la librería **JSON-Simple**. Para ello lo que hemos hecho es **añadir una dependencia Maven en nuestro pom.xml**.

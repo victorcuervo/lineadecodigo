@@ -7,9 +7,8 @@ tags: ["java-io","file","getabsolutepath"]
 slug: java/ficheros/obtener-la-ruta-absoluta-de-un-fichero-con-java
 author: victor_cuervo
 type: doc
+id: e19eb3db-f64c-44a6-95bf-c8e71e362a53
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/RutaAbsoluta.java
-topic: java
-
 ---
 
 Si queremos saber dónde se encuentra un fichero ubicado en el disco duro deberemos de obtener la ruta absoluta del fichero. Para poder llevar a cabo esto nos vamos a basar en los métodos de la clase [File](https://www.w3api.com/Java/File/exists/) de [Java](https://www.manualweb.net/java/). Lo primero será instanciar la clase [File](https://www.w3api.com/Java/File/exists/) con el fichero del que queremos obtener la ruta absoluta.

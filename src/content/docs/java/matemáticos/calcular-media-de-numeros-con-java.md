@@ -7,9 +7,8 @@ tags: ["array","for","double","length","sumas","division","bucles"]
 slug: java/matematicos/calcular-media-de-numeros-con-java
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-817f-96e1-d3065191fbbe
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/MediaDeNumeros.java
-topic: java
-
 ---
 
 Mediante este sencillo código [Java](https://www.manualweb.net/java/) vamos a poder calcular la media de una lista de números. Con ello pondremos en juego nuestras habilidades para el manejo básico del [lenguaje Java](https://www.manualweb.net/java/), así como el manejo de arrays. Lo primero que haremos será declarar un array de 10 elementos. Para ello hay que declarar el array:

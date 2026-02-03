@@ -7,8 +7,8 @@ tags: ["carpeta","exists","os","mkdir","fileexistserror"]
 slug: python/carpeta/crear-una-carpeta-en-python
 author: victor_cuervo
 type: doc
+id: 315320fa-74b4-4b52-b107-f2b9aae8df2b
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/crear-carpeta.py
-topic: python
 ---
 
 Ya hemos visto algunos[ ejemplos de código en Línea de Código](https://lineadecodigo.com/) que nos permiten, por ejemplo, [crear un fichero en Python](https://lineadecodigo.com/blog/crear-un-fichero-en-python/). En este caso vamos a ver cómo crear una carpeta en [Python](https://www.manualweb.net/python/).

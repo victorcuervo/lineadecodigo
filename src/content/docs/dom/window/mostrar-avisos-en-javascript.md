@@ -7,8 +7,8 @@ tags: ["DOM Window","window","alert"]
 slug: dom/window/mostrar-avisos-en-javascript
 author: victor_cuervo
 type: doc
+id: 26175d7f-abea-48ce-8cc3-c40d7b52c164
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/avisos.html
-topic: dom
 ---
 
 Si estamos pensando el mostrar avisos en [Javascript](https://www.manualweb.net/javascript/) caeremos en la cuenta de que dentro de un formulario de datos en una página [HTML](https://www.manualweb.net/html/) se nos va a dar el caso en el que avisemos al usuario del resultado de la validación del mismo. Una de las soluciones, veremos que quizás no la mejor según el caso, será el sacar un aviso en una ventana o cuadro emergente, utilizando técnicas [JavaScript](https://www.manualweb.net/javascript/).

@@ -7,9 +7,8 @@ tags: ["integer","tostring","charat","string","length"]
 slug: java/numeros/ultimo-digito-igual
 author: victor_cuervo
 type: doc
+id: 51546917-d4bd-45e1-b4ac-76a8463c4b96
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/UltimoDigitoIgual.java
-topic: java
-
 ---
 
 Algunos nos habéis preguntado por este sencillo programa en [Java](https://www.manualweb.net/java/), pero que a alguno se le está atragantando. La idea es cómo dados dos números podemos comprobar que tienen el último dígito igual. Veamos como podemos llevarlo a cabo. Lo primero será convertir los dos números en cadenas de texto para poder manipularlos de una forma más sencilla. Para ello, si los números son enteros puedes utilizar el objeto [`Integer`](https://www.w3api.com/Java/Integer/) o `Long` o ... para convertirlos en cadenas de texto [`String`](https://www.w3api.com/Java/String/) mediant el método [`.toString()`](https://www.w3api.com/Java/Integer/.toString()). Por ejemplo si manejamos enteros podríamos hacer lo siguiente:

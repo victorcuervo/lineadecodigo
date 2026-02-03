@@ -7,9 +7,7 @@ tags: []
 slug: css/transformaciones-y-animaciones
 author: victor_cuervo
 type: category
-
-topic: css
-
+id: 2eba9dfb-adca-80ad-b228-e5f80914f26b
 ---
 
 # Transformaciones, transiciones y animaciones en CSS

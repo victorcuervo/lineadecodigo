@@ -7,9 +7,8 @@ tags: ["string","tabulador"]
 slug: java/strings/tabular-cadenas-en-java
 author: Víctor Cuervo
 type: doc
+id: fee3461f-22e4-4700-9506-60774cc51481
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/TabularCadena.java
-topic: java
-
 ---
 
 Tabular un texto consiste en separar dos cadenas de texto un espacio concreto. Este espacio es el comprendido entre un tabulador y otro. Y es que dependiendo del programa que trate el tabulador, esta distancia puede variar. Incluso algunos programas ignoran las tabulaciones. Si nos centramos en el lenguaje [Java](https://www.manualweb.net/java/), lo primero que tenemos es una cadena de texto, la cual definiremos mediante la [clase String](https://www.w3api.com/Java/String/).

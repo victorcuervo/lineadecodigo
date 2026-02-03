@@ -7,9 +7,8 @@ tags: ["java-io","file"]
 slug: java/ficheros/saber-si-existe-un-fichero-con-java
 author: victor_cuervo
 type: doc
+id: 71b0489b-be50-429c-b7c6-03bb0a3cdbec
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/ExisteFichero.java
-topic: java
-
 ---
 
 Por nuestro bien, cuando estamos trabajando con ficheros, deberíamos de validar la existencia o no del fichero o directorio con el que vamos a trabajar. Ahora, que hay mucho lanzado en esta vida, que puede pensar que que más da. Claro, que si instanciamos la clase File, en Java, con un fichero que no existe y por ejemplo, intentamos recuperar el tamaño del mismo, no nos vamos a llevar ninguna desagradable sorpresa de que salte una excepción y nos desmonte el "chiringuito". Pero, como más vale prevenir que curar, en primer lugar instanciaremos la clase File con el path que queramos investigar:

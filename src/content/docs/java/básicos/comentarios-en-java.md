@@ -7,8 +7,8 @@ tags: ["comentarios"]
 slug: java/basicos/comentarios-en-java
 author: victor_cuervo
 type: doc
+id: 56dc1184-dcc9-4c79-a43e-185cd1996d2a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ComentariosEnJava.java
-topic: java
 ---
 
 Cuando estamos programando una de las cosas que siempre nos olvidamos es la de poner comentarios. Esta claro que cuando nos midan nuestro rendimiento por líneas de código escritas, los comentarios no entraran en la estadística. En el lenguaje [Java](http://www.manualweb.net/tutorial-java/) existen tres formas de poner comentarios. La primera es cuando la línea de comentario solo ocupa una [línea de código](http://lineadecodigo.com/). En este caso deberemos de anteponer dos barras inclinadas (//) antes del texto.

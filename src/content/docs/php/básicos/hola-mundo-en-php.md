@@ -7,9 +7,8 @@ tags: ["hola-mundo"]
 slug: php/basicos/hola-mundo-en-php
 author: victor_cuervo
 type: doc
+id: 980ec2d6-6a5e-47bb-9f6a-386452ceb467
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/hola-mundo.php
-topic: php
-
 ---
 
 Es, muy probablemente, el programa más universal que exista en todos los lenguajes de programación. Es la forma de escribir nuestro primer programa ejecutable en un lenguaje que estamos aprendiendo. Y en [PHP](http://www.manualweb.net/php/) no iba a ser diferente. [PHP](http://www.manualweb.net/php/), como lenguaje de servidor, añade funcionalidad dinámica a las páginas web. Es decir, lo que se generará es una página web, con su parte en [HTML](https://www.manualweb.net/html/) puro y con su parte en código [PHP](http://www.manualweb.net/php/).

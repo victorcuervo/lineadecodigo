@@ -7,9 +7,8 @@ tags: ["log","logger","info","basicconfig"]
 slug: python/basicos/logs-en-flask
 author: victor_cuervo
 type: doc
+id: b262a87b-31e2-4df5-9949-a1a3cc8b84b6
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/logs.py
-topic: python
-
 ---
 
 Cuando estemos trabajando con una aplicación de Flask es muy común que necesitemos analizar su comportamiento, es por ello que deberemos de saber cómo se gestionan los logs en Flask.

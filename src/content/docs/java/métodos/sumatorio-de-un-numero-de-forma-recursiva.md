@@ -7,9 +7,8 @@ tags: ["recursividad","bucles","while"]
 slug: java/metodos/sumatorio-de-un-numero-de-forma-recursiva
 author: victor_cuervo
 type: doc
+id: 799ce57a-0a3b-4954-b09d-2ba446581af8
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/SumatorioDeUnNumero.java
-topic: java
-
 ---
 
 Hace unos días escribíamos el ejemplo de cómo [calcular el sumatorio de un número en Java](http://lineadecodigo.com/java/sumatorio-de-un-numero-en-java/). Para ello utilizábamos un bucle while en el que iterábamos desde el número 1 hasta el sumatorio. En cada una de las iteraciones íbamos realizando sumas. Otra forma de resolver este ejemplo es mediante programación recursiva. La programación recursiva consiste en llamar de forma iterativa a un método. Es decir, se llama por primera vez a un método, el cual hará algo y se llamará a si mismo. Si nos paramos a pensar, esto significa que entraremos en un bucle infinito y, claro está, no nos llevará lejos. Es por ello que dentro del método habrá una condición de guarda para parar las iteraciones. En el caso del sumatorio lo que el método hará será sumar un número y llamarse a si mismo decrementando el número que le entra como valor.

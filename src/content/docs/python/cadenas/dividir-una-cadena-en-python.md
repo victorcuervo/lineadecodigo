@@ -7,9 +7,8 @@ tags: ["split","strip","for-in","print"]
 slug: python/cadenas/dividir-una-cadena-en-python
 author: victor_cuervo
 type: doc
+id: 92707703-5280-4427-b9a4-8cffbf072864
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/dividir-cadena-comas.py
-topic: python
-
 ---
 
 Estos días estoy desarrollando un proyecto en [Python](http://www.manualweb.net/python) para [W3Api](http://www.w3api.com/) y la estandarización de APIs. Una cosa muy sencilla pero útil que me surgió fue el tener que dividir una cadena de [Python](http://www.manualweb.net/python) de elementos separados por comas para poder asignar una serie de valores.

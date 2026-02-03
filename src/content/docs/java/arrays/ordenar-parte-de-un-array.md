@@ -7,9 +7,8 @@ tags: ["array"]
 slug: java/arrays/ordenar-parte-de-un-array
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-814e-8956-ee916144b527
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/OrdernarParteArray.java
-topic: java
-
 ---
 
 Cuando estemos ejecutando ordenaciones sobre un Array en [Java](https://www.manualweb.net/java/) no hace falta que lo hagamos sobre todos los elementos, si no que también tenemos la opción de ordenar parte de un array. Lo primero será crear nuestro array [Java](https://www.manualweb.net/java/) de enteros:

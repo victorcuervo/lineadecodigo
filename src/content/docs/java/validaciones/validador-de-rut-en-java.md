@@ -7,9 +7,8 @@ tags: ["operadores","integer","modulo","valueof","equals","rut"]
 slug: java/validaciones/validador-de-rut-en-java
 author: Pablo Ruiz
 type: doc
+id: 497f6d78-e7ae-4081-9e07-3e97e3bb4e3a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/validadores/ValidadorDeRut.java
-topic: java
-
 ---
 
 El RUT es el Rol Único Tributario es un número único Chileno que sirve como identificador tributario. El RUT consta de dos partes, el número y el dígito verificador separados por un guión. En el siguiente ejemplo se toma como RUT el número 30.686.957-X, donde 30.686.957 es el número del RUT y X es el dígito verificador que no conocemos o que queremos verificar: Se procede a tomar el número de RUT de derecha a izquierda, multiplicando cada dígito por los números que componen la serie numérica 2,3,4,5,6,7; y sumando el resultado de estos productos, como se muestra a continuación (si se ha aplicado la serie hasta el 7 y quedan dígitos por multiplicar, se comienza la serie nuevamente):

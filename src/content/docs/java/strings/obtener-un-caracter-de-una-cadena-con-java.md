@@ -7,9 +7,8 @@ tags: ["string","char","charat","println"]
 slug: java/strings/obtener-un-caracter-de-una-cadena-con-java
 author: victor_cuervo
 type: doc
+id: 416d851a-e1b4-4930-b0af-fe49d8997bbc
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ObtenerCaracterCadena.java
-topic: java
-
 ---
 
 En este artículo vamos a ver cómo podemos obtener un carácter de una cadena con [Java](https://www.manualweb.net/java/). Esto nos puede ser útil si queremos conocer el valor de un carácter en concreto o si bien queremos modificarlo por un nuevo valor.

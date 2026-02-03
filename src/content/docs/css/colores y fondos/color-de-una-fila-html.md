@@ -7,9 +7,8 @@ tags: ["nth-child","tr","table","background-color","color"]
 slug: css/colores-y-fondos/color-de-una-fila-html
 author: victor_cuervo
 type: doc
+id: c8078847-3129-4281-ba39-ed824134d72a
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-color-fila.html
-topic: css
-
 ---
 
 En el ejemplo de hoy vamos a ver como podemos poner color de una fila [HTML](https://www.manualweb.net/html/) utilizando [hojas de estilo CSS](http://www.manualweb.net/css/). Lo que haremos será poner color de una fila HTML atendiendo a la posición que ocupa dentro de la tabla.

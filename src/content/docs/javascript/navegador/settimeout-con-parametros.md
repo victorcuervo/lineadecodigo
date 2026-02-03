@@ -7,9 +7,8 @@ tags: ["window","settimeout","funcion-anonima","funciones"]
 slug: javascript/navegador/settimeout-con-parametros
 author: victor_cuervo
 type: doc
+id: e161d82d-90f6-42dc-99ba-ffbb697f15e2
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/timers/settimeout-con-parametros.html
-topic: javascript
-
 ---
 
 Hemos visto [muchos ejemplos en los que utilizamos un timer en Javascript](http://lineadecodigo.com/tag/javascript-dom-window-settimeout/) para lanzar un método una vez transcurridos cierto milisegundos. Son muy conocidos los ejemplos para [construir un reloj](http://lineadecodigo.com/javascript/reloj-javascript-en-una-capa/), [contando caracteres online](http://lineadecodigo.com/javascript/contar-caracteres-on-line/). En todos estos ejemplos veíamos que había una invocación a la función `.setTimeout()` del siguiente estilo:

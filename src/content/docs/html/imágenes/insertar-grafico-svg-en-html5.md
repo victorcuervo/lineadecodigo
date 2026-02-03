@@ -7,8 +7,8 @@ tags: ["svg","img","object","embed","imagenes"]
 slug: html/imagenes/insertar-grafico-svg-en-html5
 author: victor_cuervo
 type: doc
+id: adb460b6-87fd-45f5-b3c5-d4b7300e0fff
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Imagenes/insertar-svg.html
-topic: html
 ---
 
 La creación de contenido web visualmente atractivo y altamente performante es una piedra angular en el desarrollo moderno. En este contexto, la capacidad de integrar gráficos escalables y flexibles es fundamental. Este artículo se sumerge profundamente en el arte y la ciencia de insertar gráficos SVG en [HTML5](https://www.manualweb.net/html5/), una práctica esencial para cualquier desarrollador que aspire a construir experiencias de usuario excepcionales. Exploraremos diversas metodologías, desde las más sencillas hasta las que ofrecen un control granular, garantizando que los elementos visuales de tu proyecto no solo sean estéticos, sino también eficientes y accesibles.

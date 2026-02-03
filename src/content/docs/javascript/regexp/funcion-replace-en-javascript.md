@@ -7,9 +7,8 @@ tags: ["replace","regexp","string","javascript"]
 slug: javascript/regexp/funcion-replace-en-javascript
 author: victor_cuervo
 type: doc
+id: 1908e548-0c43-45ca-af45-31e97d32bece
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/cadenas/funcion-replace-javascript.html
-topic: javascript
-
 ---
 
 La función `replace` de [JavaScript](https://www.manualweb.net/javascript/) nos permite realizar sustituciones dentro de cadenas de texto de grupos de caracteres. La sintaxis de la función replace en [JavaScript](https://www.manualweb.net/javascript/) es la siguiente:

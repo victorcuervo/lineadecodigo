@@ -7,9 +7,8 @@ tags: ["if","java-swing","joptionpane"]
 slug: java/matematicos/calcular-el-indice-de-masa-corporal-con-java
 author: victor_cuervo
 type: doc
+id: d0608462-2902-4dd5-830c-541ffdafc245
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/swing/CalculoIMC.java
-topic: java
-
 ---
 
 ### ¿Qué es el índice de masa corporal?

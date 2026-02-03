@@ -7,9 +7,8 @@ tags: ["button","form","formaction","formmethod"]
 slug: html/formularios/asociar-un-boton-a-cualquier-formulario-con-html5
 author: victor_cuervo
 type: doc
+id: 8d80fa23-1c4f-437f-bd24-24e3e6cd7dc8
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/asociar-boton-formulario.html
-topic: html
-
 ---
 
 Quizás uno de los nuevos atributos de [HTML5](https://www.manualweb.net/html5) que nos haya pasado por alto, aunque es de gran utilidad, es [el atributo `form`](https://www.w3api.com/HTML/button/form/) del [elemento `button`](https://www.w3api.com/HTML/button/). Esto nos va a permitir asociar un botón a cualquier formulario con [HTML5](https://www.manualweb.net/html5).

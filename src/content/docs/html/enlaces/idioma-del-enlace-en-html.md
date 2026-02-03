@@ -7,10 +7,8 @@ tags: ["a","href","hreflang"]
 slug: html/enlaces/idioma-del-enlace-en-html
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81d0-ac8a-f3ad386e24b4
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/idioma-del-enlace.html
-topic: html
-
-
 ---
 
 En [HTML](https://www.manualweb.net/html/) podemos indicar el idioma del enlace, es decir, podemos indicar en qué lenguaje se encuentra el elemento enlazado mediante el elemento [anchor A](https://www.w3api.com/HTML/a/). 

@@ -7,9 +7,8 @@ tags: ["template","render_template","lista","for"]
 slug: flask/plantillas/templates-con-listas-en-flask
 author: victor_cuervo
 type: doc
+id: 13c01a28-0aa8-4050-9394-8f5cbdb57f1f
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/lista.py
-topic: flask
-
 ---
 
 Cuando estamos desarrollando páginas web con el framework Flask en [Python](http://www.manualweb.net/python/) podremos crear de una forma sencilla templates. Y es muy típico que queramos listar un conjunto de elementos dentro del template. En este ejemplo vamos a ver cómo podemos crear templates con listas en Flask.

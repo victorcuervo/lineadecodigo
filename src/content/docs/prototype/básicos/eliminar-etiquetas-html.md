@@ -7,8 +7,8 @@ tags: ["input","form","striptags","$F","textarea"]
 slug: prototype/basicos/eliminar-etiquetas-html
 author: victor_cuervo
 type: doc
+id: 5c04fe49-6818-4607-aba7-e02c1d8ac03c
 download: https://github.com/victorcuervo/lineadecodigo_prototype/blob/master/basico/eliminar-etiquetas-html.html
-topic: prototype
 ---
 
 En ciertas situaciones manejamos contenidos de texto que van mezclados con etiquetas [HTML](http://www.manualweb.net/html). Los cuales nos interesa que sean procesados sin dichas etiquetas.

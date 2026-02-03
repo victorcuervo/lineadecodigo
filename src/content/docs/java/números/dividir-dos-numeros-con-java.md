@@ -7,8 +7,8 @@ tags: ["scanner","java-util","long","integer","float","inputmismatchexception"]
 slug: java/numeros/dividir-dos-numeros-con-java
 author: victor_cuervo
 type: doc
+id: 613a3ea5-8d25-4c7e-89fc-a85bac31dec8
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/DividirNumeros.java
-topic: java
 ---
 
 Dentro del grupo de [ejemplos básicos en Java](https://lineadecodigo.com/tag/java-basicos/) y siendo otro que nos pide mucha gente que empieza con la programación en [Java](https://www.manualweb.net/java/), hoy vamos a explicar cómo hacer un programa que nos ayude a dividir dos números con [Java](https://www.manualweb.net/java/). (Discúlpenme los expertos).

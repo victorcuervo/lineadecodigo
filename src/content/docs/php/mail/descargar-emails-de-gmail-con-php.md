@@ -7,9 +7,8 @@ tags: ["descargar","email","gmail","imap","imap_close","imap_fetch_overview","im
 slug: php/mail/descargar-emails-de-gmail-con-php
 author: victor_cuervo
 type: doc
+id: fa0787cd-fce6-4841-8ad1-549ddd602e61
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/email/descagar-email-de-gmail.php
-topic: php
-
 ---
 
 Una aplicación práctica para [descargarte emails con IMAP y PHP](http://lineadecodigo.com/php/descargar-emails-con-imap-y-php/) es decargarnos los correos de [GMail](http://www.ayudaenlaweb.com/correo-electronico/que-es-gmail/). Lo primero que tenemos que hacer es confirmar que tenemos activado el acceso por IMAP en nuestra cuenta de [GMail](http://www.ayudaenlaweb.com/correo-electronico/que-es-gmail/). Para ello tenemos que ir a:

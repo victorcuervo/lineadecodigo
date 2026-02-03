@@ -7,10 +7,8 @@ tags: ["doctype","element","encoding","standalone","version","dtd"]
 slug: xml/sintaxis/documento-xml-bien-formado-y-documento-xml-mal-formado
 author: xhrist14n
 type: doc
+id: a8f78ba5-c604-4cb6-8f8a-d08c5185715a
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/basicos/documento-bien-formado.xml
-topic: xml
-
-
 ---
 
 Antes de ver qué es un documento [XML](http://www.manualweb.net/xml/) bien formado y un documento [XML](http://www.manualweb.net/xml/) mal formado primeramente debemos saber cómo es un documento [XML](http://www.manualweb.net/xml/). Para poder tener en claro cómo funciona esto, el documento [XML](http://www.manualweb.net/xml/) es lenguaje descriptivo en algunos casos de información o bien de elementos con algún uso específico.

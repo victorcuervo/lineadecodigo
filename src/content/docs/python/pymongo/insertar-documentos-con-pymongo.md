@@ -7,9 +7,8 @@ tags: ["mongodb","mongoclient","insert_one","insertoneresult","inserted_id"]
 slug: python/pymongo/insertar-documentos-con-pymongo
 author: victor_cuervo
 type: doc
+id: c38bad50-d3be-4f4c-88e2-69510231a6e9
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/pymongo/insert-pymongo.py
-topic: python
-
 ---
 
 En este ejemplo vamos a ver qué pasos son necesarios para poder insertar un documento en MongoDB mediante Pymongo. Para insertar documentos con Pymongo lo primero que tendremos que hacer es importar la librería.

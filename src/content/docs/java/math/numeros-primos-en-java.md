@@ -7,8 +7,8 @@ tags: ["bucles","while","if","operadores"]
 slug: java/math/numeros-primos-en-java
 author: victor_cuervo
 type: doc
+id: 5ce6b5a4-5f09-4359-a4f3-17ce09f9faca
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumerosPrimos.java
-topic: java
 ---
 
 Para poder calcular los números primos en [Java](https://www.manualweb.net/java/) lo primero que tenemos que saber es ¿qué es un número primo? Un número primo es aquel número que solo es divisible por si mismo y por la unidad. Por convención se asume que el número 1 es también primo. Así, los veinte primeros números primos son: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67 y 71.

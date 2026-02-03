@@ -7,9 +7,8 @@ tags: ["twitter4j","showstatus","getuser","gettext"]
 slug: java/twitter/informacion-de-un-tweet-con-java
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-816d-a11b-c6414fd7017f
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/twitter/InformacionTweet.java
-topic: java
-
 ---
 
 La librería Twitter4j nos puede facilitar de una forma sencilla extraer información de un Tweet con [Java](http://www.manualweb.net/java). De esta manera conseguiremos obtener dado un tweet el texto que lo compone así como del usuario que lo ha escrito. Para ello solo necesitaremos conocer el ID del tweet. Si cargais un tweet en el navegador vereis que tiene la siguiente estructura. El identificador es el número que va al final de la URL.

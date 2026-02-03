@@ -7,9 +7,8 @@ tags: ["java-net","inetadress","try-catch","getbyname","gethostname","unknownhos
 slug: java/redes/obtener-el-nombre-de-un-host
 author: victor_cuervo
 type: doc
+id: 648f7cb3-c8a0-4eaf-b4a5-94c2c9d308e0
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/net/ObtenerNombreDelHost.java
-topic: java
-
 ---
 
 En este ejemplo vamos a obtener el nombre de un host a partir de una IP. Lo primero que haremos será instanciar la clase InetAddress. Esta clase del paquete [java.net](http://java.net/) es la que contiene toda la información sobre una IP. La clase InetAddress la instanciaremos mediante el método .getByName(IP), que recibe la IP como parámetro. Una vez que tenemos los datos cargados en la clase InetAddress simplemente tendremos que invocar el método .getHostName() que nos devolerá una cadena con el nombre del host perteneciente a dicha IP. El código será el siguiente:

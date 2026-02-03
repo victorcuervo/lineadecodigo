@@ -7,9 +7,8 @@ tags: ["arrays","tostring","println","array"]
 slug: java/arrays/volcar-array-como-cadena
 author: victor_cuervo
 type: doc
+id: cd568154-bf57-495c-93da-04915998c4b1
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/ArraytoString.java
-topic: java
-
 ---
 
 Volcar Array como cadena en [Java](http://www.manualweb.net/java) puede ser una buena opción si queremos realizar depuración en la ejecución de programas [Java](http://www.manualweb.net/java), ya que podremos ver y analizar el contenido del array en todo momento con un formato legible.

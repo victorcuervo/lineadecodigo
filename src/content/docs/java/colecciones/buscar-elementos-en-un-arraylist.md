@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist","indexof"]
 slug: java/colecciones/buscar-elementos-en-un-arraylist
 author: victor_cuervo
 type: doc
+id: 334a1d5b-199d-4d0c-b828-5272a0383d62
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/BuscarElementoArrayList.java
-topic: java
-
 ---
 
 Cuando utilizamos listas de elementos en Java puede ser de mucha utilidad el poder buscar elementos en un ArrayList en [Java](https://www.manualweb.net/java). La idea es poder comprobar si dentro de la lista existe un determinado elemento o no y si es posible saber en qué posición se encuentra. > Hay que recordar que las listas [`ArrayList`](http://w3api.com/Java/ArrayList/) pueden contener un mismo elemento las veces que queramos, a diferencia de los conjuntos o [`Set`](http://w3api.com/Java/Set/) dónde solo puede existir una única vez la clave del elemento.

@@ -7,8 +7,8 @@ tags: ["file_get_contents","var_dump"]
 slug: php/basicos/leer-el-stream-de-entrada-en-php
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-811d-8263-f20b6bd4e06a
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/leer-stream-entrada.php
-topic: php
 ---
 
 Cuando estamos leyendo una petición sobre un fichero [PHP](http://www.manualweb.net/php/) lo más normal es leer las variables _GET y _POST.

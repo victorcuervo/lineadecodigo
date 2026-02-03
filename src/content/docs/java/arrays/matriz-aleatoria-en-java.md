@@ -7,9 +7,8 @@ tags: ["array","matriz","bucles","for"]
 slug: java/arrays/matriz-aleatoria-en-java
 author: victor_cuervo
 type: doc
+id: b339e84b-7ce9-443b-b493-450001b48e3d
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MatrizAleatoria.java
-topic: java
-
 ---
 
 En el ejemplo de hoy vamos a crear una matriz aleatoria en [Java](https://www.manualweb.net/java/). Para ello vamos a utilizar técnicas de generación de números aleatorios para poder rellenar el contenido de la matriz. Lo primero será definir la matriz. Para ello, y como ejemplo vamos a crear una matriz de 5x5.

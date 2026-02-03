@@ -7,9 +7,8 @@ tags: ["jdbc","connection","sqlexception","statement","create","table","driverma
 slug: java/jdbc/crear-una-base-de-datos-en-java
 author: victor_cuervo
 type: doc
+id: de2ac572-40d9-4365-8e16-0626957d342b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/CrearBaseDeDatos.java
-topic: java
-
 ---
 
 La [librería Java JDBC](https://lineadecodigo.com/tag/java-jdbc/) nos permite realizar cualquier tipo de operación sobre una base de datos, ya sean consultas, inserciones, borrados,... una de estas operaciones que podemos hacer es crear una base de datos en [Java](https://www.manualweb.net/java). La creación de una base de datos puede que sea algo más inusual, ya que normalmente nos encontraremos en la situación de que ya existe y solo necesitaremos lanzar operaciones de consulta o actualización sobre la misma. Si bien es verdad que en un proceso inicial de la aplicación y si queremos mantener una coherencia entre el software y los datos, puede ser una buena práctica el realizar la creación de la base de datos por código y no mediante script con un administrador de base de datos o DBA. Lo primero que tenemos que saber para poder crear una base de datos en [Java](https://www.manualweb.net/java) es que hay que importar la [librería Java JDBC](https://lineadecodigo.com/tag/java-jdbc/). Aunque podemos importarla entera, lo suyo es importar solo las clases que vayamos a utilizar, a la sazón:

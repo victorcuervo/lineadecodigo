@@ -7,9 +7,8 @@ tags: ["template","url_for","static"]
 slug: flask/plantillas/usar-estaticos-en-aplicacion-flask
 author: victor_cuervo
 type: doc
+id: 4bc191e1-0c23-449b-bbc9-51a015776c91
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/estaticos.py
-topic: flask
-
 ---
 
 Si estás trabajando con [Flask](https://www.manualweb.net/flask/) ya sabes que lo primero que hay que hacer para usar estáticos en aplicación [Flask](https://www.manualweb.net/flask/) es guardarlos en la carpeta `/static`. De esta manera cuando estemos creando plantillas sabremos dónde se encuentran estos ficheros: imágenes, librerías javascript, hojas de estilo,...

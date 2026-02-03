@@ -7,9 +7,8 @@ tags: ["dl","dt","dd","glosario","diccionario"]
 slug: html/listas/listas-de-definiciones-en-html
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81ff-8e47-d996d090af06
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/listas/lista-definiciones.html
-topic: html
-
 ---
 
 Quizás una de las listas más desconocidas son las listas de definiciones en [HTML](https://www.manualweb.net/html/), ya que lo normal es maquetar mediante [listas ordenadas](http://lineadecodigo.com/html/listas-ordenadas-en-html/) o [listas desordenadas](http://lineadecodigo.com/html/listas-desordenadas-en-html/). Las listas de definiciones en [HTML](https://www.manualweb.net/html/) nos permiten crear listas con pares de término/definición. Algo así como un glosario o diccionario.

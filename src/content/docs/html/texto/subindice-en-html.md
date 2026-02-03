@@ -7,9 +7,8 @@ tags: ["sub","subindice"]
 slug: html/texto/subindice-en-html
 author: victor_cuervo
 type: doc
+id: 3a4f64f6-3ae6-4cd7-bbc6-2163a75fe67e
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/subindice.html
-topic: html
-
 ---
 
 Y si tuviésemos que escribir la fórmula del agua en un artículo [HTML](https://www.manualweb.net/html/)... Nos encontraríamos en la necesidad de saber cómo se crea un subíndice en [HTML](https://www.manualweb.net/html/).

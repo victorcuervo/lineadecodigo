@@ -7,9 +7,8 @@ tags: ["jfreechart","java-swing","jpanel","jframe"]
 slug: java/swing/graficos-de-torta-y-barras-con-jfreechart
 author: Feffo
 type: doc
+id: 4893ba00-9d07-4614-8b36-72c97f83ef9b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/graficos/GraficosTortaYBarra.java
-topic: java
-
 ---
 
 El otro día veíamos como [crear, de una forma sencilla, un gráfico con JFreeChart](http://lineadecodigo.com/java/graficos-en-java-con-jfreechart/). Hoy les presento una forma muy fácil para crear y mostrar un gráfico de torta y uno de barras en [Java](https://www.manualweb.net/java/) con JFreeChart. Recordar que lo primero es [descargarse las librerías de JFreeChart](http://sourceforge.net/projects/jfreechart/files/). Vamos a necesitar las siguientes librerías [JFreeChart](http://www.jfree.org/jfreechart/) y [JCommon](http://www.jfree.org/jcommon/).

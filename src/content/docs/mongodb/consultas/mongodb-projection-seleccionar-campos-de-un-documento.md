@@ -7,11 +7,8 @@ tags: ["find","projection","id"]
 slug: mongodb/consultas/mongodb-projection-seleccionar-campos-de-un-documento
 author: victor_cuervo
 type: doc
+id: a6d1aa43-7879-4d0b-a772-29a6dcbfe890
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/projection.js
-topic: mongodb
-
-
-
 ---
 
 Si realizamos una [consulta MongoDB Find](http://lineadecodigo.com/mongodb/consultas-con-mongodb-find/) lo que retornara dicha consulta es el conjunto de documentos que correspondan a dicha consulta. Se devolverán los documentos completos con todos sus campos. Si bien podemos realizar **MongoDB Projection**, que es seleccionar los campos de un documento que queremos devuelva la consulta.

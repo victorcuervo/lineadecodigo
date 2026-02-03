@@ -7,9 +7,8 @@ tags: ["document","write","url"]
 slug: javascript/navegador/obtener-la-url-del-documento-con-javascript
 author: victor_cuervo
 type: doc
+id: 421d8a5f-d788-40f1-8030-2eb27991a73a
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/url-del-documento.html
-topic: javascript
-
 ---
 
 Mediante código [JavaScript](https://www.manualweb.net/javascript/) existe una forma muy sencilla de acceder a la URL de la página. Esto nos permitirá realizar acciones asociadas a dicho dato, aunque en nuestro ejemplo, simplemente, la vamos a mostrar por pantalla.

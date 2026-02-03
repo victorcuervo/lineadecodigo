@@ -7,9 +7,8 @@ tags: ["applet","awt","mouseadapter","mouselistener","mouseevent"]
 slug: java/awt/detectando-un-doble-click-con-awt
 author: victor_cuervo
 type: doc
+id: 9bc72ad8-0f98-42c5-b1be-db2b51493125
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/awt/DobleClick.java
-topic: java
-
 ---
 
 Cuando estamos haciendo aplicaciones gráficas con [Java](https://www.manualweb.net/java/) utilizando [AWT](http://lineadecodigo.com/tag/java-awt/), muchas veces nos interesará realizar unas operaciones u otras dependiendo de si el usuario ha realizado un click simple o un doble click.

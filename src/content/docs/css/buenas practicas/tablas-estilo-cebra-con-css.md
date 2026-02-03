@@ -7,9 +7,8 @@ tags: ["background-color","nth-child","table","tr","even","odd"]
 slug: css/buenas-practicas/tablas-estilo-cebra-con-css
 author: victor_cuervo
 type: doc
+id: fcc3df15-ca93-45d5-8bb9-cc000ffcdc9e
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/striped-table.html
-topic: css
-
 ---
 
 Las tablas estilo cebra son aquellas que tiene una alternancia en los colores de las líneas, suelen presentan las líneas impares de un color y las líneas pares de otro. En este artículo vamos a ver cómo podemos crear tablas estilo cebra con [CSS](http://www.manualweb.net/css/).

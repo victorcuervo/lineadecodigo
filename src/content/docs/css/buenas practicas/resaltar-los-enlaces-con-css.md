@@ -7,9 +7,8 @@ tags: ["background-color","enlaces"]
 slug: css/buenas-practicas/resaltar-los-enlaces-con-css
 author: victor_cuervo
 type: doc
+id: 27f91804-90f1-4c53-81b5-06255671fd91
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/enlaces/resaltado-de-enlaces.html
-topic: css
-
 ---
 
 Los [enlaces son los elementos que ayudaron a construir la red](https://lineadecodigo.com/tag/html-enlaces/) que conocemos a día de hoy. Parece que ahora otras tecnologías son las que están ayudando a crecer a "la red", como las peticiones de datos asíncronas estilo [AJAX](http://www.manualweb.net/javascript/), los mashup de aplicaciones,... Si bien en el fondo siempre seguiremos teniendo enlaces.

@@ -7,9 +7,8 @@ tags: ["table","td","color","background-color","first-child","thead"]
 slug: css/colores-y-fondos/color-del-encabezado-en-una-tabla-html
 author: victor_cuervo
 type: doc
+id: bb0300dd-2cac-447b-9b1f-fbed9d019555
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-color-cabecera.html
-topic: css
-
 ---
 
 Los encabezados de las tablas suelen contener la información semántica relativa al contenido de las tabla. Es por ello que muchas veces nos interese tener un color del encabezado en una tabla HTML, el cual sea diferente al resto de la tabla.

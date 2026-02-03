@@ -7,9 +7,8 @@ tags: ["array","regexp"]
 slug: javascript/expresiones-regulares/unpacking-de-valores-con-expresiones-regulares-en-javascript
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8129-8784-fe285012c02f
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/regexp/unpacking-regexp.js
-topic: javascript
-
 ---
 
 El unpacking de valores con expresiones regulares en [Javascript](https://www.manualweb.net/javascript/) nos permite analizar una cadena de texto y extraer partes de ellas dejándolas directamente en variables que podamos utilizar en nuestro código fuente. Esto es posible gracias a los operadores de desestructuración que nos ofrece [Javascript](https://www.manualweb.net/javascript/).

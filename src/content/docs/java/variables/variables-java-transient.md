@@ -7,9 +7,8 @@ tags: ["variables","transient"]
 slug: java/variables/variables-java-transient
 author: victor_cuervo
 type: doc
+id: 004c728d-33c1-46c6-b5a2-782d70eb9d3b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/variables/VariablesTransitorias.java
-topic: java
-
 ---
 
 Uno de los modificadores que podemos aplicar a una **variable** [**Java**](https://www.manualweb.net/java/) **es el transient. Las variables** [**Java**](https://www.manualweb.net/java/) **transient** sirven para demarcar el carácter temporal o transitorio de dicha variable, es decir, que no siempre se tendrá acceso al valor de la variable. Pero, realmente, **¿qué implican las variables** [**Java**](https://www.manualweb.net/java/) **transient?** Cuando definimos variables Java transient lo que estamos indicando es que en caso de que serialicemos el objeto que contiene esa variable transient, si valor no se serializará. Vamos a pensar en un usuario con nombre y contraseña que definamos de la siguiente forma:

@@ -7,8 +7,8 @@ tags: ["printwriter","servlet","response","get","post"]
 slug: javaee/servlet/servlet-que-devuelve-xml
 author: victor_cuervo
 type: doc
+id: e577c3e8-54d2-4026-994d-a2b0a44d6dc1
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/java/com/lineadecodigo/javaee/servlet/RespuestaXML.java
-topic: javaee
 ---
 
 La necesidad de saber cómo podemos construir un [Servlet](https://www.manualweb.net/javaee/introduccion-servlets/) que devuelve [XML](https://www.manualweb.net/xml/) viene dada de las necesidades de los entornos SOA. Ahora que los desarrollos se están moviendo a arquitecturas SOA empezamos a ver que nos aparecen servicios por todos los lados. Es cierto que no se habla mucho de cómo se desarrollan dichos servicios, ya que las presentaciones de arquitectura SOA suponen que "estaban ahí".

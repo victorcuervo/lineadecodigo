@@ -7,8 +7,8 @@ tags: ["font-family","font-size","font-style","color","text-decoration","text-al
 slug: css/texto/formato-de-texto-por-defecto-con-css
 author: victor_cuervo
 type: doc
+id: 5df33694-ab1c-4149-a4ed-215c30e16037
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/fuente-por-defecto.html
-topic: css
 ---
 
 Cuando carguemos una página web en nuestro navegador, el formato de texto que se utilizará por defecto será el que indique las propiedades del navegador. Esto sucederá siempre y cuando la página web no indique nada al respecto. 

@@ -7,8 +7,8 @@ tags: ["a","enlaces","name","id"]
 slug: html/enlaces/enlace-a-una-parte-concreta-de-la-pagina
 author: victor_cuervo
 type: doc
+id: 4782f7de-4edd-4428-9c12-f9422d0a62ce
 download: https://github.com/victorcuervo/lineadecodigo_html/tree/master/enlaces/enlace-a-una-parte-concreta-de-la-pagina
-topic: html
 ---
 
 En varios artículos de [Linea de Código](https://lineadecodigo.com/) hemos visto la [importancia de los enlaces](https://lineadecodigo.com/tag/html-enlaces/) dentro de la **World Wide Web** y en particular dentro de la creación de páginas web [HTML](https://www.manualweb.net/html/). Lo más normal suele ser el enlazar una página con otra. De esta forma, una vez que pulsemos en el enlace, nos posicionaremos en el principio de la página enlazada. Pero puede ser que lo que nos interese sea llevar al usuario a una parte en concreto del nuevo documento. Por lo que vamos a ver cómo podemos crear un enlace a una parte concreta de la página.

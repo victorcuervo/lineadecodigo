@@ -7,8 +7,8 @@ tags: ["circle","defs","fill","gradiente","lineal","lineargradient","offset","st
 slug: svg/gradientes/circulo-con-gradiente-lineal
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8105-908a-e8ed6359ac5b
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/gradientes/circulo-con-gradiente-lineal.svg
-topic: svg
 ---
 
 Un gradiente lineal es una variación de color entre dos puntos de forma linear. Aunque, estoy seguro que la palabra gradiente tendrá múltiples interpretaciones dependiendo del área donde lo apliquemos, aquí vamos a ver como lo trata el lenguaje [SVG](http://lineadecodigo.com/categoria/SVG/).

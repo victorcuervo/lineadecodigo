@@ -7,8 +7,8 @@ tags: ["hola-mundo","println","system","javac"]
 slug: java/basicos/hola-mundo-en-java
 author: victor_cuervo
 type: doc
+id: 5fc5ba74-7682-436b-8a20-fe70ae58ad27
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/HolaMundo.java
-topic: java
 ---
 
 Sin duda alguna el ejercicio más simple, y a la par, el que nunca puede faltar en cualquier lenguaje de programación es el programa Hola Mundo. Este consiste en sacar por pantalla la archiconocida frase de "Hola Mundo". Así que vamos a realizar el Hola Mundo en [Java](https://www.manualweb.net/java/).

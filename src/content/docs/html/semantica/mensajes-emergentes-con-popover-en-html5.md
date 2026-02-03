@@ -7,9 +7,8 @@ tags: ["popover","popovertarget","showpopover"]
 slug: html/semantica/mensajes-emergentes-con-popover-en-html5
 author: victor_cuervo
 type: doc
+id: 87fc57e5-753b-4f1e-a107-9d242bec230c
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/P%C3%A1gina/mensajes-emergentes-con-popover.html
-topic: html
-
 ---
 
 Los que hemos trabajado en el desarrollo web desde sus principios hemos vivido lo complejo que era gestionar una ventana emergente en una web. En este artículo vamos a ver lo sencillo que es crear mensajes emergentes con popover en [HTML5](https://www.manualweb.net/html5/) siguiendo un estándar.

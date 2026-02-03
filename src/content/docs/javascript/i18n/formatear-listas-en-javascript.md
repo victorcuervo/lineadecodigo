@@ -7,9 +7,8 @@ tags: ["intl","listformat","bcp47","format"]
 slug: javascript/i18n/formatear-listas-en-javascript
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81af-b224-ef7c1a8077f3
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/i18n/formatear-lista.js
-topic: javascript
-
 ---
 
 En el artículo de hoy vamos a seguir viendo cómo se puede [seguir utilizando el objeto Intl](http://lineadecodigo.com/tag/javascript-intl/) para dar formatos atendiendo a un modelo i18n. En este caso vamos a ver cómo **formatear listas en Javascript**. En concreto vamos a utilizar el objeto [`Intl.ListFormat`](http://w3api.com/Javascript/Intl/ListFormat/).

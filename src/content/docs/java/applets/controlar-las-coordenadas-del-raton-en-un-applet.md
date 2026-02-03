@@ -7,9 +7,8 @@ tags: ["applet","awt","graphics","paint","init","showstatus","eventos","mouseeve
 slug: java/applets/controlar-las-coordenadas-del-raton-en-un-applet
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8154-b550-cc6e67514809
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/applet/CoordenadasRaton.java
-topic: java
-
 ---
 
 Mediante este ejemplo vamos a controlar las coordenadas del ratón mientras este se va moviendo por el lienzo de un Applet. Lo primero será crear nuestro Applet. Para ello nuestra clase heredará de la Applet.

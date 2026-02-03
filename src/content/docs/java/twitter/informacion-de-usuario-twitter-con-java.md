@@ -7,9 +7,8 @@ tags: ["twitter4j","twitter","twitterfactory","showuser"]
 slug: java/twitter/informacion-de-usuario-twitter-con-java
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8196-a88b-c711f2a12f00
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/twitter/InformacionUsuario.java
-topic: java
-
 ---
 
 Ya hemos visto algunos artículos del [uso de Twitter4j para poder conectarnos a Twitter](http://lineadecodigo.com/java/conectarse-a-twitter-con-java/) y para [poder enviar un Tweet](http://lineadecodigo.com/java/enviar-tweet-con-java/). En el artículo de hoy vamos a ver **cómo podemos obtener información de usuario Twitter con** [**Java**](http://www.manualweb.net/java). Lo primero será conectarnos a Twitter mediante [la librería Twitter4j](http://twitter4j.org/en/). Para ello deberemos de incluirla en nuestras dependencias para poder utilizarla. Así nuestro fichero **pom.xml** quedaría de la siguiente forma.

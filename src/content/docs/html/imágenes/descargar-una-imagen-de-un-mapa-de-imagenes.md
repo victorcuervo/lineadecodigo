@@ -7,9 +7,8 @@ tags: ["img","map","donwload"]
 slug: html/imagenes/descargar-una-imagen-de-un-mapa-de-imagenes
 author: victor_cuervo
 type: doc
+id: 5b27dbc3-10f9-4f2b-b590-9a0b29e6a8b1
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Imagenes/descargar-mapa-imagenes.html
-topic: html
-
 ---
 
 El uso del elemento [`area`](https://w3api.com/HTML/area/) nos sirve para optimizar la carga y la visualización de imágenes mostrando varias imágenes en una y generando áreas enlazables. En este artículo vamos a ver cómo podemos descargar una imagen de un mapa de imágenes utilizando [código HTML5](https://lineadecodigo.com/categoria/html5/). Es decir, que cuando se pinche sobre un área enlazable se descargue la imagen asociada a dicho área.

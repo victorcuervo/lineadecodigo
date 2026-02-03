@@ -7,9 +7,8 @@ tags: ["internal-server-error","debug"]
 slug: flask/basicos/depurar-una-aplicacion-flask
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81c2-ad02-c6b533c7332c
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/debugflask.py
-topic: flask
-
 ---
 
 Cuando estemos trabajando con aplicaciones Flask puede darnos múltiples errores que tengamos que depurar. En este ejemplo vamos a ver cómo podemos depurar una aplicación Flask de una forma sencilla.

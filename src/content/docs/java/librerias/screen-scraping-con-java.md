@@ -7,9 +7,8 @@ tags: ["try-catch","innerhtml","jaunt","useragent"]
 slug: java/librerias/screen-scraping-con-java
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8114-9091-d78561b388a7
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/external/jaunt/ScreenScraping.java
-topic: java
-
 ---
 
 El concepto de screen scrapping es el de obtener la información de una web y manipularla como si fuese un usuario, pero de forma automática por una máquina. En este artículo vamos a ver cómo podemos hacer screen scrapping con [Java](https://www.manualweb.net/java/). Lo primero que deberemos de conocer es que nos vamos a apoyar en la [librería Jaunt](http://jaunt-api.com/) para poder hacer el screen scrapping con [Java](https://www.manualweb.net/java/). Jaunt lo primero define una clase `UserAgent` que es la que simula el agente de usuario o navegador. Así que lo primero será crear dicha clase.

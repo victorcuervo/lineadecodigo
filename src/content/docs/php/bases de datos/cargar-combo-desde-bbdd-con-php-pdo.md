@@ -7,9 +7,8 @@ tags: ["form","select","option","pdo","query","foreach"]
 slug: php/bases-de-datos/cargar-combo-desde-bbdd-con-php-pdo
 author: Víctor Cuervo
 type: doc
+id: 65cd229f-469a-40b7-b9ba-9076ed4c4491
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/bbdd/pdo/cargar_combo_pdo.php
-topic: php
-
 ---
 
 A la hora de construir un formulario web es posible que los valores estén guardados en una base de datos. Es por ello que vamos a ver cómo podemos cargar combo desde BBDD con [PHP](http://www.manualweb.net/php/) PDO. Lo primero será conectarnos a la base de datos utilizando un objeto PDO.

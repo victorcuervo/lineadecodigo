@@ -7,9 +7,8 @@ tags: ["textarea","background-color","color","style"]
 slug: css/colores-y-fondos/color-de-fondo-del-textarea
 author: victor_cuervo
 type: doc
+id: 23a308ef-2295-489f-b272-f7f87fe9233a
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/formularios/fondo-textarea.html
-topic: css
-
 ---
 
 Una área de texto en [HTML](https://www.manualweb.net/html/), por defecto, no trae asociado ningún color. Mediante [CSS](http://www.manualweb.net/css/) tenemos la posibilidad de modificar el color de fondo del [`textarea`](http://w3api.com/HTML/textarea/), así como el color del texto que va a ir dentro de la misma. Así que, en este ejemplo, vamos a ver paso a paso cómo definir el color de fondo del textarea.

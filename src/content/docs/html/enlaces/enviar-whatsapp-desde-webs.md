@@ -7,8 +7,8 @@ tags: ["link","whatsapp"]
 slug: html/enlaces/enviar-whatsapp-desde-webs
 author: victor_cuervo
 type: doc
+id: 629535a7-51c4-4805-bfd6-58fdc2f46259
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/enlace-whatsapp.html
-topic: html
 ---
 
 Uno de los mecanismos de comunicación que más se está utilizando en los últimos años es la **mensajería por WhatsApp**. Es por ello que se convierte en primordial el **poder enviar WhatsApp desde Webs** más aún cuando estas Webs están visualizando en móviles.

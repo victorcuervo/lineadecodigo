@@ -7,8 +7,8 @@ tags: ["HTML Entidades"]
 slug: html/entidades/c-de-copyright
 author: victor_cuervo
 type: doc
+id: 784985a7-cf8d-4311-9461-b99f8f763cdc
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/c-de-copyright.html
-topic: html
 ---
 
 Es muy normal que estemos haciendo un [pie de página en nuestra web](https://lineadecodigo.com/html5/pie-de-pagina-en-html5/) y que en dicho [pie de página](https://lineadecodigo.com/html5/pie-de-pagina-en-html5/) queramos poner la referencia al copyright de la página. Lo que se conoce como © de copyright. El copyright viene a reflejar los derechos de autor sobre la obra literaria, artística o científica, tanto publicada como aquellas que todavía no se han publicado.

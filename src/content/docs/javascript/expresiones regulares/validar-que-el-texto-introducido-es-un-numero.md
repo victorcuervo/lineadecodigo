@@ -7,8 +7,8 @@ tags: ["eventos","form","input","regexp"]
 slug: javascript/expresiones-regulares/validar-que-el-texto-introducido-es-un-numero
 author: victor_cuervo
 type: doc
+id: 84f68d8e-fc5b-43f4-a5e9-8a2d33e32183
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/validar-numerico.html
-topic: javascript
 ---
 
 Validar que el texto introducido es un número en un formulario [HTML](https://www.manualweb.net/html/) es, quizás, el código [JavaScript](https://www.manualweb.net/javascript/) más utilizado a lo largo de la red. No en vano, si nos ponemos a pensar en el tipo de validaciones que se hacen dentro de un formulario, estas se limitaran a _**tamaños de cadenas**_, _**validaciones de número**_ o, en los casos más avanzados, en _**patrones o expresiones regulares**_.

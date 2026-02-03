@@ -7,8 +7,8 @@ tags: ["template","substitute"]
 slug: python/cadenas/plantillas-en-cadenas-python
 author: victor_cuervo
 type: doc
+id: 305d472b-f339-4112-81ed-1512044b4faa
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/plantillas-cadenas.py
-topic: python
 ---
 
 Ya hemos visto como manejar el formato de las cadenas de texto en [Python](https://www.manualweb.net/python/) de varias formas, por un lado tenemos [el uso de las fString que nos ayuda a añadir contenido variable de forma sencilla](https://lineadecodigo.com/python/fstring-o-interpolacion-de-cadenas-en-python/), por otro tenemos [el operador módulo](https://lineadecodigo.com/python/formato-de-cadenas-en-python/) `%` y el método [`.format()`](https://www.w3api.com/Python/str/format/). En este caso vamos a otra forma que es el uso de plantillas en cadenas [Python](https://www.manualweb.net/python/).

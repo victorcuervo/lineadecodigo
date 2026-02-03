@@ -7,8 +7,8 @@ tags: ["open","for","print","os","exists","with","iobase","textiobase","rawiobas
 slug: python/ficheros/leer-ficheros-con-python
 author: victor_cuervo
 type: doc
+id: 5cea5d16-6144-451a-aa19-9f2a90406acf
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/leer-fichero.py
-topic: python
 ---
 
 En el artículo de hoy vamos a ver cómo podemos leer ficheros con [Python](https://www.manualweb.net/python/). Analizaremos las dos formas en las que podemos leer su contenido, bien sea de forma completa o línea por línea.

@@ -7,8 +7,8 @@ tags: ["operador-porcentaje","format"]
 slug: python/cadenas/formato-de-cadenas-en-python
 author: victor_cuervo
 type: doc
+id: 24f69db4-b047-42f4-a6c5-732123fcd5bd
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/formato-cadenas.py
-topic: python
 ---
 
 En este artículo vamos a revisar cómo podemos gestionar el formato de cadenas en [Python](https://www.manualweb.net/python/) o cómo crear templates dentro de las cadenas de texto para luego poder insertarle valores antes de visualizar o almacenar la cadena.

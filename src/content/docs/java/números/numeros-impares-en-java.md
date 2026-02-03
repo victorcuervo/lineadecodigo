@@ -7,8 +7,8 @@ tags: ["bucles","while","operadores","impares"]
 slug: java/numeros/numeros-impares-en-java
 author: victor_cuervo
 type: doc
+id: cfe2d8be-8387-426f-87df-ba2218e3f21f
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroImpar.java
-topic: java
 ---
 
 Un número impar es aquel que no es múltiplo de dos. Es decir, todos aquellos números que no son pares. Mediante el lenguaje [Java](https://www.manualweb.net/java/) podremos calcular de una forma muy sencilla qué números son impares y cuáles no.

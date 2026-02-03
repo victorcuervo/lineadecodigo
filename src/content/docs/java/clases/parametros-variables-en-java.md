@@ -7,9 +7,8 @@ tags: ["metodo","parametros","bucles","for"]
 slug: java/clases/parametros-variables-en-java
 author: victor_cuervo
 type: doc
+id: cef76b1b-e24b-428d-a4ef-f3d1db64ba35
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ParametrosVariables.java
-topic: java
-
 ---
 
 Cuando definimos un método en Java debemos de indicar el número de parámetros mediante su tipo y nombre. Si bien existe una forma de poder definir métodos con parámetros variables en [Java](https://www.manualweb.net/java/). Es decir, métodos a los cuales podamos invocar con más o menos parámetros dependiendo de la ocasión. Para explicar cómo podemos definir métodos con parámetros variable en [Java](https://www.manualweb.net/java/) vamos a implementar un método el cual nos sume todos los parámetros que le lleguen, independiente del número que sean. Un sumador. Lo primero que tenemos que saber es como definir la signatura del método para que este acepte parámetros variables en [Java](https://www.manualweb.net/java/). Para ello deberemos de apoyarnos en el operador tres puntos (...). Al asignar el operador de tres puntos a un tipo conseguimos indicar que podrán llegar N parámetros.

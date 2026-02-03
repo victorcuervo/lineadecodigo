@@ -7,9 +7,8 @@ tags: ["video","error"]
 slug: html/video/controlar-un-error-de-carga-de-un-video-en-html5
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-815b-9598-e1d1e5bb8dc6
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/controlar-error-video.html
-topic: html
-
 ---
 
 ¿Por qué cuando se carga mi página web en [HTML5](https://www.manualweb.net/html5/) no se ve el vídeo? ¿Cómo puedo controlar un error de carga de un vídeo en HTML5? Estas pueden ser algunas de las preguntas que nos hagamos cuándo vemos que nuestros vídeos no están funcionando.

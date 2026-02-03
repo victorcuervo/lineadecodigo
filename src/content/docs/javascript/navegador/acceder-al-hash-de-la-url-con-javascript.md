@@ -7,9 +7,8 @@ tags: ["location","hash"]
 slug: javascript/navegador/acceder-al-hash-de-la-url-con-javascript
 author: victor_cuervo
 type: doc
+id: ebc1aa7c-0bf7-4095-9b39-8a650c41a1e4
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/obtener-hash.html
-topic: javascript
-
 ---
 
 Si miras una URL el final de esta puede contener una palabra separada por un símbolo de almohadilla (#). Esto es lo que se conoce como **elemento hash de la URL** y nos sirve para posicionarnos dentro de una parte determinada de la página.

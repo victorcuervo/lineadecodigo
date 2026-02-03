@@ -7,9 +7,8 @@ tags: ["java-collection","vector","comparable","string","java-util","comparator"
 slug: java/colecciones/ordenar-un-vector-de-forma-alfabetica-con-java
 author: Víctor Cuervo
 type: doc
+id: 10396393-e605-4bb0-976a-0bf1763343e5
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/OrdenarVectorAlfabeticamente.java
-topic: java
-
 ---
 
 El otro día veíamos [cómo ordenar un vector de string con Java](http://lineadecodigo.com/2009/03/22/ordenar-un-vector-de-string-en-java/). Si bien, teníamos como limitante que el método sort de Collections realizaba una ordenación atendiendo a los caracteres ASCII. Mediante este ejemplo veremos cómo ordenar un Vector de forma alfabética con [Java](https://www.manualweb.net/java/). Para ello nos aprovecharemos de que el método sort tiene dos formas de llamarse. En la primera, y ya utilizada, se le pasa la lista que contiene los elementos a ordenar:

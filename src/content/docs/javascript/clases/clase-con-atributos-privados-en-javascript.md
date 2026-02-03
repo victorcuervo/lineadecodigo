@@ -7,9 +7,8 @@ tags: ["clases","objetos","atributos"]
 slug: javascript/clases/clase-con-atributos-privados-en-javascript
 author: victor_cuervo
 type: doc
+id: 0e8a56b4-ee74-41ee-900b-fc20be17b8ff
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/objeto-rectangulo-atributos-privados.js
-topic: javascript
-
 ---
 
 En los ejemplos que hemos visto de orientación a objetos con Javascript: [Crear un objeto en Javscript](http://lineadecodigo.com/javascript/crear-un-objeto-en-javascript/) y [Crear un objeto con métodos en Javascript](http://lineadecodigo.com/javascript/crear-un-objeto-con-metodos-en-javascript/), hemos podido comprobar que los atributos de la clase eran variables públicas. Es decir, podían ser accedidas desde el código [Javascript](https://www.manualweb.net/javascript/) de manera directa.

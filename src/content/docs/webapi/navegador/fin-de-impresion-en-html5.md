@@ -7,9 +7,8 @@ tags: ["onafterprint","body"]
 slug: webapi/navegador/fin-de-impresion-en-html5
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81f8-a3fb-ee74d419c02f
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Impresi%C3%B3n/control-fin-impresion.html
-topic: webapi
-
 ---
 
 En este artículo vamos a ver cómo podemos controlar el fin de impresión en [HTML5](http://www.manualweb.net/html5) para poder interactuar con nuestros usuarios y avisarlos que la impresión del documento ha terminado de forma correcta o no.

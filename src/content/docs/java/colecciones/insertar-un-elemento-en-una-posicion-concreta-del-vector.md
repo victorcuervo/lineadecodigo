@@ -7,9 +7,8 @@ tags: ["vector","add","java-collection"]
 slug: java/colecciones/insertar-un-elemento-en-una-posicion-concreta-del-vector
 author: victor_cuervo
 type: doc
+id: 3dda7cf4-e28f-45c6-a591-f704f54a28ae
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/InsertarElementoVectorPosicionConcreta.java
-topic: java
-
 ---
 
 En uno de nuestros artículos podemos leer cómo [insertar elementos en un Vector](http://lineadecodigo.com/2006/12/17/insertar-elementos-en-un-vector/). Y uno de nuestros lectores [nos preguntaba cómo insertar un elemento en una posición concreta de Vector](http://lineadecodigo.com/2006/12/17/insertar-elementos-en-un-vector/#45881). Veamos como hacerlo... Lo primero será declarar un Vector. Para ello utilizamos la clase Vector del paquete java.util. Hay que recordar que desde la versión 5 de Java tenemos que indicar el tipo de elementos que instanciamos dentro del Vector. En nuestro caso insertaremos cadenas de texto:

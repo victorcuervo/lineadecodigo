@@ -7,9 +7,8 @@ tags: ["event","target","onmousedown","tagname"]
 slug: dom/eventos/que-elemento-fue-pulsado
 author: victor_cuervo
 type: doc
+id: 942a83c0-d349-4084-a9b7-5707266ca50c
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/eventos/detectar-que-elemento-fue-selecionado.html
-topic: dom
-
 ---
 
 ## El DOM de una página web

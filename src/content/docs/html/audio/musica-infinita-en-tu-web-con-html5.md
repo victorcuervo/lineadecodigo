@@ -7,9 +7,8 @@ tags: ["audio","autoplay","loop"]
 slug: html/audio/musica-infinita-en-tu-web-con-html5
 author: victor_cuervo
 type: doc
+id: 7e076feb-2f24-46e7-9a94-d2f77542452a
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Audio/musica-infinita.html
-topic: html
-
 ---
 
 Ya hemos visto cómo [Poner música en tu web con HTML5](http://lineadecodigo.com/html5/poner-musica-en-tu-web-con-html5/) de una forma sencilla manejando el elemento AUDIO. Ahora vamos a dar un pequeño paso más y es que vamos a poner música infinita en tu web con [HTML5](https://www.manualweb.net/html5/). Es decir, la canción que pongamos de fondo sonará una y otra vez de forma infinita.

@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist","spliterator"]
 slug: java/colecciones/recorrer-una-lista-con-spliterator
 author: victor_cuervo
 type: doc
+id: 545779f8-e6cd-42eb-8cb3-70f0ff00f2b2
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/RecorrerListaSpliterator.java
-topic: java
-
 ---
 
 En Línea de Código hemos visto [muchas formas de recorrer una lista con Java](https://lineadecodigo.com/tag/java-collection-list/). En este caso vamos a utilizar el interface [`Spliterator`](https://w3api.com/Java/Spliterator/) y vamos a ver cómo podemos recorrer una lista con Spliterator. Lo primero que tenemos que saber es qué es el interface [`Spliterator`](https://w3api.com/Java/Spliterator/). Pues el interface [`Spliterator`](https://w3api.com/Java/Spliterator/) es un interface que se introduce en [Java 8](https://www.manualweb.net/java/historia-java/) y que nos permite recorrer y dividir una secuencia de elementos. En nuestro caso no va a ser necesario el dividir la lista en partes ya que utilizaremos una lista de un tamaño pequeño, si bien para grandes volúmenes de datos podría ser interesante el dividir la lista para poder procesarla. Con estos conocimientos previos vamos manos a la obra y nos ponemos a codificar en [Java](https://www.manualweb.net/java/). El primer paso será definir una lista. En nuestro caso nos vamos a apoyar en el método [`.asList()`](http://www.w3api.com/Java/Arrays/asList) de la clase [`Arrays`](http://www.w3api.com/Java/Arrays/) para poder construir una lista de números enteros.

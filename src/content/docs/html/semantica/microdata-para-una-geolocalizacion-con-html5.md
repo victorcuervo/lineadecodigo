@@ -7,9 +7,8 @@ tags: ["microdata","geocoordinates","itemscope","itemtype","itemprop"]
 slug: html/semantica/microdata-para-una-geolocalizacion-con-html5
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-812e-8b01-ee25d32fbaa6
 download: http://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_web/WebContent/markup/HTML5/Microdata/geolocalizacion.html
-topic: html
-
 ---
 
 Seguimos con más [ejemplos sobre microdata en HTML5](http://lineadecodigo.com/tag/html5-microdata) para aprender a definir nuevas entidades semánticas dentro de nuestros documentos [HTML5](https://www.manualweb.net/html5/).

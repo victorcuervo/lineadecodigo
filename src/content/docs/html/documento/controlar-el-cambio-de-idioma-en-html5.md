@@ -7,9 +7,8 @@ tags: ["navigator","language","onlanguagechange"]
 slug: html/documento/controlar-el-cambio-de-idioma-en-html5
 author: victor_cuervo
 type: doc
+id: 8d21d5ac-4d43-46ce-aa72-5677760dad40
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/P%C3%A1gina/cambio-idioma.html
-topic: html
-
 ---
 
 Utilizar el idioma que tiene el usuario configurado en el navegador para presentar el contenido de nuestra web puede ser una buena alternativa sobre todo si es la primera vez que accede a nuestro sitio web o si no lo tenemos identificado. Es por ello que si seguimos esta técnica nos puede servir el saber cómo controlar el cambio de idioma en [HTML5](https://manualweb.net/html5/).

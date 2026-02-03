@@ -7,10 +7,8 @@ tags: ["xslt","xsl:template","xsl:value-of","xml","xsl:for-each","table","td"]
 slug: xml/transformacion/crear-una-tabla-a-partir-de-datos-xml
 author: victor_cuervo
 type: doc
+id: 43306174-d8c1-49b3-a519-8ee0f6c7c83c
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xslt/crear-una-tabla/
-topic: xml
-
-
 ---
 
 A la hora de presentar datos una de los artificios más usados son las tablas. Con el lenguaje [HTML](http://www.manualweb.net/tutorial-html/) es muy sencillo el montar una de ellas. Nos basta con controlar las etiquetas [TABLE](http://w3api.com/wiki/HTML:TABLE), [TR](http://w3api.com/wiki/HTML:TR) y [TD](http://w3api.com/wiki/HTML:TD). En el siguiente ejemplo utilizaremos [XSLT](http://www.manualweb.net/xslt/) para montar una tabla XHTML. Los datos de dicha tabla serán los datos que vayan en el [XML](http://www.manualweb.net/xml/).

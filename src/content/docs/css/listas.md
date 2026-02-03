@@ -7,9 +7,7 @@ tags: []
 slug: css/listas
 author: victor_cuervo
 type: category
-
-topic: css
-
+id: 2eba9dfb-adca-80eb-8869-df7993e0acb5
 ---
 
 # Listas en CSS: personalización y control visual

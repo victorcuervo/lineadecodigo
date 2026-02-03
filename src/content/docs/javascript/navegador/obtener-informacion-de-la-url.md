@@ -7,9 +7,8 @@ tags: ["document","location","url"]
 slug: javascript/navegador/obtener-informacion-de-la-url
 author: victor_cuervo
 type: doc
+id: 01304ead-3f56-4df5-9671-e442ae01a520
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/obtener-informacion-de-la-url.html
-topic: javascript
-
 ---
 
 Como vimos en el artículo [Obtener la URL del documento con JavaScript](http://lineadecodigo.com/2007/06/11/obtener-la-url-del-documento-con-javascript/), mediante la propiedad `document.URL` podemos obtener la URL asociada a un documento. 

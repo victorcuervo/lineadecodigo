@@ -7,8 +7,8 @@ tags: ["fill","stroke","stroke-width","triangulo","polygon"]
 slug: svg/figuras/dibujando-un-poligono-triangulo
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8123-a9b9-c09c8f783dc7
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/figuras/dibujar-un-poligono-triangulo.svg
-topic: svg
 ---
 
 En este ejemplo vamos a ver los pasos necesarios para poder pintar un Triángulo en [SVG](http://lineadecodigo.com/categoria/svg/) utilizando el elemento POLYGON. Para ello lo único que necesitamos conocer los vértices de nuestro polígono. El polígono elegido es un Triángulo. Como su nombre bien dice, tendremos tres lados y consecuentemente tres vértices que tendremos que indicar al elemento POLYGON para que este se pueda pintar. Los vértices de nuestro polígono son indicados mediante el atributo points. Para ello bastará dar las coordenadas de los puntos. Estas separadas entre comas y a su vez, cada coordenada, separada por un espacio. Las coordenadas elegidas para nuestro Triángulo son: (100,100) (100,200) y (200,200). La etiqueta nos quedará de la siguiente forma:

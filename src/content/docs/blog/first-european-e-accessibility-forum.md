@@ -4,12 +4,10 @@ description: "El First European e-Accessibility Forum en París abordará temas 
 date: 2007-01-12
 updatedDate: 2026-01-10
 tags: ["eventos"]
-slug: blog/first-european-eaccessibility-forum
+slug: blog/first-european-e-accessibility-forum
 author: lineadecodigo
 type: blog
-
-topic: blog
-
+id: 2c8a9dfb-adca-81b1-be5a-c40105f55388
 ---
 
 El 29 de enero se celebra en [París](http://maps.google.com/maps?f=q&hl=es&q=paris%20france&ie=UTF8&om=1&z=12&ll=48.868328%2C2.351074&spn=0.096431%2C0.346069&iwloc=addr) el **First European e-Accessibility Forum "Accessible on-line services, a benefit for all"** promovido por [Braille Net](http://www.braillenet.org/).

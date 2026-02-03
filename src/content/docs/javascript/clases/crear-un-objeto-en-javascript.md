@@ -7,9 +7,8 @@ tags: ["clase","objeto","propiedades"]
 slug: javascript/clases/crear-un-objeto-en-javascript
 author: victor_cuervo
 type: doc
+id: 5b0f98af-1045-49de-bc72-2476ea38c795
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/objeto-persona.js
-topic: javascript
-
 ---
 
 Aunque [Javascript](https://www.manualweb.net/javascript/) no es un lenguaje orientado a objetos, por lo menos en sus versiones 1.x, podemos crear objetos y gestionar nuestro código mediante estos mismos.

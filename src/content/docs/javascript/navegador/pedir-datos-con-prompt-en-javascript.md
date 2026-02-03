@@ -7,9 +7,8 @@ tags: ["window","prompt","parseint"]
 slug: javascript/navegador/pedir-datos-con-prompt-en-javascript
 author: victor_cuervo
 type: doc
+id: a78197e4-8b69-4b53-8bd8-b7dbb53b692e
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/pedir-datos.js
-topic: javascript
-
 ---
 
 Me encuentro estos días [preparando un sencillo manual de Javascript que en breve encontrareis en Manual Web](https://www.manualweb.net/javascript/) y al cual quiero ir acompañando con ejemplos sencillos sobre [Javascript](https://www.manualweb.net/javascript/). Es por ello que iré publicando por aquí algunas cosas que a algunos os parecerán demasiado básicas y a otros os servirán para iniciaros en el mundo de la programación en [Javascript](https://www.manualweb.net/javascript/). Así, que se lean al gusto del consumidor. En este caso vamos a empezar con algo sencillo que será el saber cómo pedir datos con prompt al usuario en [Javascript](https://www.manualweb.net/javascript/). Es decir, si estoy haciendo una página web cómo puedo pedirle un dato al usuario.

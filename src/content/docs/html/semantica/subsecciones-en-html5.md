@@ -7,9 +7,8 @@ tags: ["section","h1"]
 slug: html/semantica/subsecciones-en-html5
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8132-8b55-cf8d8a615349
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/definir-subseccion.html
-topic: html
-
 ---
 
 Ya hemos visto cómo podemos crear [una sección en HTML5](http://lineadecodigo.com/html5/secciones-en-html5/), ahora vamos a ver la forma en la cual podemos crear subsecciones en [HTML5](http://www.manualweb.net/html5/).

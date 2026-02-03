@@ -7,9 +7,8 @@ tags: ["java-util","properties","try-catch","ioexception","fileinputstream","key
 slug: java/properties/leer-valores-de-fichero-de-properties
 author: victor_cuervo
 type: doc
+id: b96826fa-13a4-4737-ad0a-a036308ac993
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/properties/PropertiesClaveValor.java
-topic: java
-
 ---
 
 Cuando accedemos a un fichero de propiedades en [Java](https://www.manualweb.net/java/) podemos recuperar uno de sus valores a partir de una clave conocida. Si bien, podemos recuperar todos sus pares clave/valor (puede darse el caso de que no sepamos la clave a buscar o bien que queramos volcar en pantalla los todos valores,...). Para mostrar todos los valores lo que tenemos que hacer es recuperar todas las claves y mostrar el valor asociado para cada una de ellas. Partimos de la base de que hemos leído el fichero de propiedades y lo hemos cargado en una clase Properties.

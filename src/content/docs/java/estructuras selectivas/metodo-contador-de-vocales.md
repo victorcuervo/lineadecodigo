@@ -7,9 +7,8 @@ tags: ["array","bucles","for","switch","metodo","string","tolowercase","charat"]
 slug: java/estructuras-selectivas/metodo-contador-de-vocales
 author: victor_cuervo
 type: doc
+id: 39e3ac03-5ec5-4d0e-aea4-f72ab11f2a1c
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/ContadorDeVocales.java
-topic: java
-
 ---
 
 Uno de nuestros visitantes nos preguntaba acerca de cómo podría hacer un método contador de vocales en [Java](https://www.manualweb.net/java/). Dicho método recibiría una cadena como parámetro y devolvería un array de 5 posiciones en las cuales iría el sumatorio de las vocales que hubiese en la palabra.

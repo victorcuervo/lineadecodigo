@@ -7,9 +7,8 @@ tags: ["template","include","render_template"]
 slug: python/include-en-un-template-flask
 author: victor_cuervo
 type: doc
+id: 89d39240-8781-44ce-b898-e89408f823b5
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/template_inc.py
-topic: python
-
 ---
 
 Si te has liado a realizar templates en [Flask](https://www.manualweb.net/flask/) es fácil que quieras reutilizar código y necesites meter un include en un template [Flask](https://www.manualweb.net/flask/). En este ejemplo vamos a explicar cómo se puede llevar a cabo esta tarea.

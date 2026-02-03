@@ -7,9 +7,8 @@ tags: ["hashmap","iterator","hasnext","mapa","clave","valor","java","entryset"]
 slug: java/colecciones/listar-un-mapa-con-java-util
 author: victor_cuervo
 type: doc
+id: 54a7f02a-2ab6-45a9-b15b-4a83a202162c
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/ListarUnMapa.java
-topic: java
-
 ---
 
 Un mapa es una estructura de [Java](https://www.manualweb.net/java/) que nos permite almacenar pares clave/valor. De tal manera que para una clave solamente tenemos un valor. Si añadimos un nuevo elemento clave/valor cuando la clave ya existe, se sobrescribe el valor almacenado anteriormente. La estructura a listar que utilizamos como mapa es un [HashMap](https://www.w3api.com/Java/HashMap/). Lo primero que tenemos que hacer es crear el mapa y añadirle elementos:

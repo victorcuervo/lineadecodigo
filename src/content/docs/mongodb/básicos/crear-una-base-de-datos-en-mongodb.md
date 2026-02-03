@@ -7,11 +7,8 @@ tags: ["db","save"]
 slug: mongodb/basicos/crear-una-base-de-datos-en-mongodb
 author: victor_cuervo
 type: doc
+id: 4271698b-8284-473b-8762-9c4a3b627550
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-basicos/crear-db.js
-topic: mongodb
-
-
-
 ---
 
 Si ya has leido el primer artículo con el [Hola Mundo en MongoDB](http://lineadecodigo.com/mongodb/hola-mundo-con-mongodb/) estarás ansioso de crear tu primeros códigos con MongoDB 😉

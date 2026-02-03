@@ -7,9 +7,8 @@ tags: ["fichero","filter","lambda","stream","filereader","bufferedreader","java-
 slug: java/stream/lineas-vacias-de-un-fichero-con-un-stream
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8169-bb76-f9a9d682f11b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/NumeroDeFilasVaciasStream.java
-topic: java
-
 ---
 
 Una de las cosas buenas de la programación funcional, cuando se entiende, es la facilidad de programar las cosas. Hoy vamos a ver como podemos contar las líneas vacías de un fichero con un `Stream` mediante programación funcional. Y así lo podremos comparar con el anterior [artículo sobre Cómo contar líneas vacías de un fichero con Java](http://lineadecodigo.com/java/numero-de-lineas-vacias-de-un-fichero/). Inicialmente vamos a realizar la apertura del fichero mediante un [`FileReader`](https://www.w3api.com/Java/File/exists/Reader) y un [`BufferedReader`](https://www.w3api.com/Java/BufferedReader/readLine/).

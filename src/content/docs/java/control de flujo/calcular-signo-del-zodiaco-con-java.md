@@ -7,9 +7,8 @@ tags: ["if","switch","scanner"]
 slug: java/control-de-flujo/calcular-signo-del-zodiaco-con-java
 author: victor_cuervo
 type: doc
+id: e84953ee-70ca-4e3b-a935-e20fa7baf0a9
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/SignoZodiaco.java
-topic: java
-
 ---
 
 En este ejemplo vamos a ver como, mediante el lenguaje [Java](https://www.manualweb.net/java/), podemos saber el signo del zodiaco de una persona, dada su fecha de nacimiento (día y mes). Lo primero será pedirle al usuario su día y mes de nacimiento. Esto lo hacemos [accediendo a la consola con la clase Scanner](http://lineadecodigo.com/java/lectura-de-datos-en-java-con-scanner/):

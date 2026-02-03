@@ -7,9 +7,8 @@ tags: ["visibility","imagenes","display"]
 slug: css/imagenes/ocultar-imagenes-con-css
 author: victor_cuervo
 type: doc
+id: ca21cf00-0941-44db-8eac-201110b1208f
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/imagenes/ocultar-imagenes.html
-topic: css
-
 ---
 
 Gracias a [CSS](http://www.manualweb.net/css/) tenemos la posibilidad de ocultar/mostrar las imágenes de un documento. Las utilidades de este proceso de ocultar y mostrar pueden ser diversas. Por un lado podemos eliminar las imágenes del texto, dejándolo preparado como "texto limpio" a imprimir. Esto lo podemos hacer justo antes de enviar el documento a la cola de impresión. Por otro podemos utilizar para hacer que la carga en el navegador sea más rápida, al evitarnos tiempo de renderizado de la pantalla. Si bien esto sería útil en menos casos. Y seguro que hay más casos en los que se puede aplicar el proceso. Lo primero que tenemos que saber a la hora de ocultar las imágenes con [CSS](http://www.manualweb.net/css/) es que tenemos dos propiedades [CSS](http://www.manualweb.net/css/) que nos ayudan con este procesos. Estas dos propiedades son [`visibility`](https://w3api.com/CSS/visibility/) y [`display`](https://w3api.com/CSS/display/). Mediante [`visibility`](https://w3api.com/CSS/visibility/) lo que podemos modificar es la visibilidad de la imagen. Es decir, la imagen siempre ocupa espacio, aunque puede ser que no se muestre. Los valores posibles de este campo son _**hidden**_ y _**visible**_. Así podremos definirnos dos estilos con estos valores:

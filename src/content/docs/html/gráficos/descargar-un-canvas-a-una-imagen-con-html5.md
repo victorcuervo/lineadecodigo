@@ -7,10 +7,8 @@ tags: ["canvas","todataurl","image"]
 slug: html/graficos/descargar-un-canvas-a-una-imagen-con-html5
 author: victor_cuervo
 type: doc
+id: d936780c-6a41-48de-b5a1-a8a2d8687c07
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas/guardar-canvas-en-imagen.html
-topic: html
-
-
 ---
 
 En el artículo [Exportar el contenido de un Canvas HTML5 a una imagen](http://lineadecodigo.com/html5/exportar-el-contenido-de-un-canvas-html5-a-una-imagen/) veíamos como podíamos convertir el contenido del Canvas en una imagen y cargar dicha imagen dentro de un elemento IMG de nuestra página. En este vamos a ver como podemos descargar el contenido del [Canvas](https://www.w3api.com/HTML/canvas/) a un fichero.

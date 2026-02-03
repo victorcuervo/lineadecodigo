@@ -7,8 +7,8 @@ tags: ["vbCrLf","salto-de-linea"]
 slug: vbscript/basicos/vbcrlf-saltos-de-linea-en-una-cadena
 author: victor_cuervo
 type: doc
+id: baec54d6-36fb-462d-b2c5-b0b5841487a2
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/basico/saltos-linea.asp
-topic: vbscript
 ---
 
 El uso de la constante `vbCrL` para saltos de línea en una cadena de texto cuando [programemos con VBScript](https://lineadecodigo.com/vbscript/) es algo bastante común. Y es que no siempre nos encontraremos generando contenido [HTML](https://www.manualweb.net/html/) desde nuestras páginas [ASP](https://www.manualweb.net/asp/).

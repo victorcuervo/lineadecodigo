@@ -7,9 +7,8 @@ tags: ["hilos","thread","runtime","addshutdownhook","exit"]
 slug: java/concurrencia/finalizar-un-programa-java
 author: victor_cuervo
 type: doc
+id: e25fad07-0f09-4d01-8b94-14d40fbd25a9
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/hilos/CierreAplicacion.java
-topic: java
-
 ---
 
 ¿Qué pasa si mi programa Java finaliza de forma inesperada? o ¿Cómo puedo realizar una serie de operaciones al finalizar un programa [Java](https://www.manualweb.net/java/)? Es muy normal que nos hagamos estas preguntas si nos preocupa que el programa [Java](https://www.manualweb.net/java/) se cierre y nos deje las conexiones a la base de datos abiertas o puertos de sockets colgados.

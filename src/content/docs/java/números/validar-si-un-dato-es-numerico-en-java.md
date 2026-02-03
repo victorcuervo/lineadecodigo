@@ -7,8 +7,8 @@ tags: ["integer","numberformatexception","apache-commons"]
 slug: java/numeros/validar-si-un-dato-es-numerico-en-java
 author: victor_cuervo
 type: doc
+id: 8856cb41-20bf-4602-b36e-ef34a17949f1
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/IsNumeric.java
-topic: java
 ---
 
 Navegando por los diferentes foros de la red me encuentro con la siguiente pregunta. ¿Cómo puedo validar si un dato es numérico en [Java](https://www.manualweb.net/java/)? A uno le puede parecer una pregunta muy básica y típica de alguien que ni siquiera se ha leído la documentación, pero la cuestión es que es una duda que existe.

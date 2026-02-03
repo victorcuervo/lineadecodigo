@@ -7,10 +7,8 @@ tags: ["atributo"]
 slug: xml/estructura/atributo-con-valor-por-defecto-en-xml
 author: xhrist14n
 type: doc
+id: cdb2a7b9-131a-42f5-9701-8bbed4556b71
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/dtd/atributo-valor-por-defecto.dtd
-topic: xml
-
-
 ---
 
 Cuando definimos un atributo [XML](http://www.manualweb.net/xml/) dentro de un DTD podemos hacer que el atributo tenga un valor por defecto en [XML](http://www.manualweb.net/xml/). Lo primero es recordar que para definir un atributo [XML](http://www.manualweb.net/xml/):

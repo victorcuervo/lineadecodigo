@@ -7,9 +7,8 @@ tags: ["class","new","call","clase","objeto"]
 slug: javascript/clases/creando-clases-en-javascript-con-call
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8159-8fe4-d1865cd07c0d
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/multiples-constructores-call.js
-topic: javascript
-
 ---
 
 Una de las cosas que no se podían hacer hasta [Javascript 1.3](https://www.manualweb.net/javascript/) era el ejecutar multiples constructores en una clase. Cosa que se solucionó con el método **call**, el cual nos permite crear clases con varios constructores. Pero vamos paso a paso viendo cuál es el problema y la solución.

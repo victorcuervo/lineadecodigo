@@ -7,9 +7,8 @@ tags: ["json","jackson","objectmapper","writevalueasstring"]
 slug: java/json/convertir-un-objeto-a-json-con-jackson
 author: victor_cuervo
 type: doc
+id: 1054dc44-4c71-40bd-a14a-57b7f2af3062
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/json/ObjetoJSONJackson.java
-topic: java
-
 ---
 
 En los últimos artículos hemos visto [cómo podemos manejar objetos con JSON](http://lineadecodigo.com/tag/java-json/), principalmente con la [librería JSON-Simple](http://lineadecodigo.com/java/convertir-un-objeto-a-json-con-json-simple/) y la [librería GSON](http://lineadecodigo.com/java/crear-objeto-json-con-gson/). En este caso vamos a ver cómo podemos convertir un objeto a JSON con Jackson. Así podremos elegir cuál es la mejor de las dos librerías para poder trabajar con JSON en [Java](http://www.manualweb.net/java). El proyecto Jackson siempre ha sido conocido como la librería estándar para el manejo de ficheros JSON. Es un framework que está [soportado por la comunidad y que dispone de un portal en Github](https://github.com/FasterXML/jackson). Lo primero que tenemos que hacer es el descargar la librería Jackson. Para ello **insertamos las dependencias en nuestro fichero pom.xml de Maven**.

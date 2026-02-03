@@ -7,9 +7,8 @@ tags: ["regexp","email","dominio","servidor"]
 slug: javascript/expresiones-regulares/validar-el-email-con-javascript
 author: victor_cuervo
 type: doc
+id: ae98ab09-d6e8-4988-ab57-a0e0271eafa5
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/validaciones/validar-email.html
-topic: javascript
-
 ---
 
 Muchas aplicaciones pueden precisar de una validación de email, es decir, validar si lo que está introduciendo el usuario es realmente un email. Esta comprobación es susceptible de hacerse en la máquina cliente, evitando así cargar al servidor con la respectiva comprobación y la consiguiente llamada desde la página web.

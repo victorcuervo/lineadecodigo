@@ -7,9 +7,8 @@ tags: ["array","for-next","recorrer","ubound"]
 slug: vbscript/arrays/recorrer-un-array-en-vbscript
 author: Víctor Cuervo
 type: doc
+id: 9e953049-aef5-4af2-8749-afdbfbf55682
 download: https://github.com/victorcuervo/lineadecodigo_vbscript/blob/master/arrays/recorrer-un-array.html
-topic: vbscript
-
 ---
 
 Para explicar el ejemplo que nos ayuda a recorrer un array en [VBScript](http://www.manualweb.net/vbscript/) lo primero que haremos será definir el array. Para ello utilizamos la sentencia dim, la cual nos permite definir variables.

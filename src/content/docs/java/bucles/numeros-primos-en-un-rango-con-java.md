@@ -7,9 +7,8 @@ tags: ["bucles","for","numeros-primos","while","rango"]
 slug: java/bucles/numeros-primos-en-un-rango-con-java
 author: victor_cuervo
 type: doc
+id: 1fb2ee99-b260-4750-8001-07eedcf1cd16
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumerosPrimosRango.java
-topic: java
-
 ---
 
 Un número primos, tal y como vimos en el [ejemplo de Números Primos con Java](http://lineadecodigo.com/java/numeros-primos-en-java/), es un número el cual solo es divisible por si mismo y por la unidad. En el [ejemplo de Números Primos con Java](http://lineadecodigo.com/java/numeros-primos-en-java/) vimos el código necesario para calcular si dado un número este era primo o no. En este caso nos vamos a apoyar en dicho código para poder calcular los números primos en un rango con [Java](https://www.manualweb.net/java/). Es decir, el usuario establecerá un rango de números: inicio y fin, y calcularemos los números primos que haya en dicho rango. Lo primero será revisar la función [Java](https://www.manualweb.net/java/) que nos dice si dado un número, este es primo.

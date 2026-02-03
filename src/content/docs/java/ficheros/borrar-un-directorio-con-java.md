@@ -7,9 +7,8 @@ tags: ["recursividad","delete","isdirectory","listfiles","file"]
 slug: java/ficheros/borrar-un-directorio-con-java
 author: victor_cuervo
 type: doc
+id: e16ff630-2ffe-49ee-ad1d-c0f9cfa03d00
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/BorrarDirectorio.java
-topic: java
-
 ---
 
 Para borrar un directorio en Java podemos utilizar el mismo código que para [borrar un fichero](http://lineadecodigo.com/2008/02/26/borrar-un-fichero-con-java/). Los pasos serían muy sencillos, ya que simplemente deberíamos de instanciar el objeto [File](https://www.w3api.com/Java/File/exists/) y ejecutar el método [.delete](https://www.w3api.com/Java/File/exists/.delete()) sobre el directorio.

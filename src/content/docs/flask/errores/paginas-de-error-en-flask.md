@@ -7,8 +7,8 @@ tags: ["error","abort","401"]
 slug: flask/errores/paginas-de-error-en-flask
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8159-b8df-c6cea7f0fa8d
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/error.py
-topic: flask
 ---
 
 Si queremos realizar un control de los errores dentro de nuestras aplicaciones deberemos de saber como gestionar nuestras páginas de error en [Flask](https://www.manualweb.net/flask/). Lo que tenemos que saber es cómo devolver un código de error u otro. Lo primero que tenemos que saber para controlar nuestras páginas de error en [Flask](https://www.manualweb.net/flask/) es que vamos a necesitar del método `abort()`. Es por ello que lo primero será recuperarlo de nuestro framework [Flask](https://www.manualweb.net/flask/).

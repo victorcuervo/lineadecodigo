@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist","retainall","iterator"]
 slug: java/colecciones/mantener-elementos-en-una-lista
 author: Víctor Cuervo
 type: doc
+id: f1ecb915-9d7a-4744-83e4-d3c26bc79801
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/MantenerElementosLista.java
-topic: java
-
 ---
 
 En otras ocasiones hemos planteado códigos que nos permiten [eliminar elementos de una lista](https://lineadecodigo.com/java/eliminar-todos-los-elementos-de-un-arraylist/) o [eliminar un rango de una lista](https://lineadecodigo.com/java/eliminar-un-rango-del-arraylist/) o [eliminado los elementos repetidos de una lista](https://lineadecodigo.com/java/eliminar-elementos-repetidos-de-un-arraylist/). Pero en el caso de hoy vamos a realizar un enfoque inverso y vamos a ver cómo podemos eliminar elementos tras la idea de mantener elementos en una lista con [Java](https://www.manualweb.net/java). Lo primero que vamos a hacer es, como siempre, crear la lista mediante una [`ArrayList`](http://w3api.com/Java/ArrayList/), en la que añadiremos elementos mediante el método [`.add()`](http://w3api.com/Java/ArrayList/add)

@@ -7,8 +7,8 @@ tags: ["texto","fstring"]
 slug: python/cadenas/fstring-o-interpolacion-de-cadenas-en-python
 author: victor_cuervo
 type: doc
+id: b8bfb2f9-610f-4f39-9dd1-1d95d83164e5
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/fstring.py
-topic: python
 ---
 
 Ya hemos visto algunos [ejemplos de cómo podemos dar formato a las cadenas en Python](https://lineadecodigo.com/python/formato-de-cadenas-en-python/), en el artículo de hoy vamos a ver cómo funcionan las fString o interpolación de cadenas en [Python](https://www.manualweb.net/python/) para poder dar formato a las cadenas de texto.

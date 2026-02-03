@@ -7,9 +7,8 @@ tags: ["while","division","bucles"]
 slug: java/matematicos/dividir-sin-dividir-con-java
 author: victor_cuervo
 type: doc
+id: d9cf3e33-5b6a-4b8a-ac72-7d206bb9a8bb
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/DividirSinDividir.java
-topic: java
-
 ---
 
 Un problema muy sencillo de programación, y que nos habéis preguntado en los foros, que nos puede dar algún quebradero de cabeza es el de dividir sin dividir con [Java](https://www.manualweb.net/java/). Es decir, cómo podemos obtener el cociente y el resto de una división sin utilizar el operador de división (/), ni el operador de resto(%). En una operación normal tendríamos la siguiente operación:

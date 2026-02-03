@@ -7,11 +7,8 @@ tags: ["db","update","push"]
 slug: mongodb/inserciones/anadir-un-valor-a-un-array-en-mongodb
 author: victor_cuervo
 type: doc
+id: f0ff0127-6437-469a-bd73-6bd216b56a98
 download: https://github.com/victorcuervo/lineadecodigo_mongodb/blob/master/mongodb-array/insertar-elemento-array.js
-topic: mongodb
-
-
-
 ---
 
 Una de las cosas potentes que tiene [MongoDB](https://www.manualweb.net/mongodb/) es la capacidad de crear documentos que tengan campos que sean arrays. Cosas que nos permiten representar valores anexos a un documento de una forma sencilla y que sería complejo (o tedioso) en una base de datos relacional.

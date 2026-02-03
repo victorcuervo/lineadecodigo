@@ -7,9 +7,8 @@ tags: ["java-io","bufferedreader","file","filenotfoundexception","filereader","r
 slug: java/ficheros/leer-fichero-de-texto-con-java
 author: victor_cuervo
 type: doc
+id: 94ba879b-dc8f-4168-b2f3-7c789f2f6201
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/LeerFicheroTexto.java
-topic: java
-
 ---
 
 Cuando tratamos con estructuras de tipo stream para realizar lecturas y escrituras, los pasos habituales son el ir apoyándonos en clases que nos faciliten el manejo del dispositivo de destino, desde la de más alto nivel a la de menor nivel. Lo que técnicamente denominaríamos wrapping. Para manejar cadenas de texto ([Java String](https://www.w3api.com/Java/String/)), la estructura que nos ayuda, en Java IO, a ello es el [BufferedReader](https://www.w3api.com/Java/BufferedReader/readLine/). Pero a este nivel, todavía no hemos identificado el dispositivo de destino. En la lectura de ficheros de texto, lo primero que tenemos que hacer es crear un Reader de tipo fichero. Esto es encapsulado en [la clase FileReader](https://www.w3api.com/Java/File/exists/Reader). Será esta clase la que utilice el buffer como origen de lectura. Quedándonos estas simples líneas:

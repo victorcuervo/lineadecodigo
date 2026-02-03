@@ -7,9 +7,8 @@ tags: ["max","scanner","nextint","math"]
 slug: java/math/mayor-de-dos-numeros-con-la-clase-math
 author: Víctor Cuervo
 type: doc
+id: 527a7bf7-734b-4689-b5fc-770ab0d636cc
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/MayorDosNumerosMath.java
-topic: java
-
 ---
 
 En el ejemplo sobre [el mayor de dos números con Java](http://lineadecodigo.com/java/mayor-de-dos-numeros/) veíamos como podemos realizar el cálculo de cual de dos números es mayor mediante una estructura de selección. En este caso vamos a ver como podemos simplificar el código apoyándonos en la clase [Math](https://www.w3api.com/Java/Math/), tal y como [nos comentaba Samuel Zarza Fernandez](http://balteus.blogspot.com/). Así que vamos a ver cómo calcular el mayor de dos números con la clase [Math](https://www.w3api.com/Java/Math/). El primer paso será el mismo ya que realizaremos la lectura de los números mediante la [clase Scanner](https://www.w3api.com/Java/Scanner/next/).

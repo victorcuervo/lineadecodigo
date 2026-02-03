@@ -7,9 +7,8 @@ tags: ["navigator","useragent","appversion","appname"]
 slug: javascript/navegador/nombre-y-version-del-navegador
 author: victor_cuervo
 type: doc
+id: 3ae0469b-6bca-447b-a2d0-0777531f3d17
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/browser/nombre-version-navegador.html
-topic: javascript
-
 ---
 
 Aún a las alturas que estamos y con la madurez de la red, seguimos teniendo un alto nivel de incompatibilidad entre los navegadores, lo cual nos obliga a tener código [JavaScript](https://www.manualweb.net/javascript/) o [CSS](http://www.manualweb.net/css/) adhoc para las diferentes plataformas. Es por ello que nos puede ser interesante conocer el nombre y la versión del navegador que está ejecutando nuestra página.

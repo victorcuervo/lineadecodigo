@@ -7,9 +7,8 @@ tags: ["atributo","translate","p"]
 slug: html/documento/texto-no-traducible-con-html5
 author: victor_cuervo
 type: doc
+id: 13a2e973-ff76-4d92-8b2c-28a0dbbfb279
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/P%C3%A1gina/marcar-para-no-traducir.html
-topic: html
-
 ---
 
 Hoy en día es muy fácil que estemos viendo una página web y que nuestro navegador web a la hora de visualizarla detecte que esté en otro idioma y nos ofrezca, de una manera sencilla, el poder traducir el texto a nuestro idioma. Pero qué sucede si nosotros, como desarrolladores, queremos que haya una parte del texto que no se traduzca. Que cuando un usuario vea la página y utilice un traductor automático no perdamos el idioma original.

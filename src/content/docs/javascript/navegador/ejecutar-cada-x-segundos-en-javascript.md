@@ -7,9 +7,8 @@ tags: ["getelementbyid","window","settimeout","setinterval"]
 slug: javascript/navegador/ejecutar-cada-x-segundos-en-javascript
 author: victor_cuervo
 type: doc
+id: 35753a75-0187-4d98-b8ec-638479ad4f24
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/timers/ejecutar-metodo-cada-x-segundos.html
-topic: javascript
-
 ---
 
 En el artículo de hoy vamos a ver cómo podemos ejecutar cada X segundos en [JavaScript](https://www.manualweb.net/javascript/). La idea será que un método se ejecute una vez que hayan pasado, por ejemplo, 5 segundos. Y es que una cosa nos permite [JavaScript](https://www.manualweb.net/javascript/) es dotar de dinamismo a nuestras páginas web. Este dinamismo puede ser desencadenado por dos circunstancias. La primera es que el usuario que interactúa con la web genere un evento. Por ejemplo, pulsar un botón, pasar sobre una imagen... El segundo caso es que las acciones se desencadenen por cuestiones temporales, es decir, pasado un cierto tiempo.

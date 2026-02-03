@@ -7,8 +7,8 @@ tags: ["hola-mundo","jsp","println"]
 slug: javaee/jsp/mi-primera-jsp
 author: victor_cuervo
 type: doc
+id: 240add3a-2e00-4d63-8950-6e0ea3b56b5d
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/webapp/mi-primer-jsp.jsp
-topic: javaee
 ---
 
 Para crearnos mi primera [JSP](https://www.manualweb.net/javaee/) los conceptos de programación que debemos de tener son mínimos. Lo primero que debemos de saber es que cada página [JSP](https://www.manualweb.net/javaee/) nos generará normalmente una página [HTML](https://www.manualweb.net/html/). Es por ello que solemos tener una página [HTML](https://www.manualweb.net/html/) que incluye islas de código [Java](https://www.manualweb.net/java/). Esta mezcla acaba componiendo nuestra [JSP](https://www.manualweb.net/javaee/).

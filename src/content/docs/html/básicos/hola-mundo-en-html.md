@@ -7,8 +7,8 @@ tags: ["hola-mundo","body","head","meta","h1"]
 slug: html/basicos/hola-mundo-en-html
 author: victor_cuervo
 type: doc
+id: 6a5af342-63a3-4b2e-948a-1b5de923095d
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/basicos/holamundo.html
-topic: html
 ---
 
 Revisando todos los artículos de [Línea de Código](https://lineadecodigo.com/) hemos caído que no teníamos uno sobre Hola Mundo en [HTML](https://www.manualweb.net/html/). Y eso no podíamos dejarlo pasar. En este artículo sobre Hola Mundo en [HTML](https://www.manualweb.net/html/) vamos a ver cómo crear nuestra primera página web [HTML](https://www.manualweb.net/html/).

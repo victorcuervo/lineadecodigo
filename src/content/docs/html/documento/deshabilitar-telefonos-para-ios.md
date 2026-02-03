@@ -7,9 +7,8 @@ tags: ["meta","format-detection"]
 slug: html/documento/deshabilitar-telefonos-para-ios
 author: victor_cuervo
 type: doc
+id: 1725ebce-0e5d-4f34-8310-2d850a628369
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/deshabilitar-telefono-ios.html
-topic: html
-
 ---
 
 Una de las características del sistema operativo iOS para los dispositivos móviles (iPhone e iPad) es que tienen la capacidad de convertir cualquier texto que tenga formato de teléfono es un [enlace para poder realizar una llamada de teléfono](http://lineadecodigo.com/html/enlaces-a-telefonos/). De esta manera facilita la usabilidad del usuario y la integración de las navegaciones con el dispositivo.

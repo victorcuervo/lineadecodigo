@@ -7,9 +7,8 @@ tags: ["beforeunload","addeventlistener"]
 slug: webapi/rendimiento/abandono-de-pagina-con-html5
 author: victor_cuervo
 type: doc
+id: bd9bab30-fab8-449f-a781-688b28585b9f
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/P%C3%A1gina/controlar-abandono-pagina.html
-topic: webapi
-
 ---
 
 En este artículo vamos a ver cómo podemos controlar el abandono de página con [HTML5](https://www.manualweb.net/html5). La idea es que tenemos a un usuario en nuestra página y este está, por ejemplo, [insertando datos en un formulario](https://lineadecodigo.com/tag/html-form/). En esta situación será bueno indicarle que está insertando información y que si abandona la página perderá lo que ha insertado.

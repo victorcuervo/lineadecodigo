@@ -7,9 +7,8 @@ tags: ["applet","param"]
 slug: java/applets/pasar-parametros-a-un-applet
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81a5-893b-ee30b591d60c
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/applet/AppletPasarParametros.java
-topic: java
-
 ---
 
 Un [Applet](http://www.manualweb.net/java/applets-java/) es una aplicación Java que se ejecuta dentro de una página web. Y como toda aplicación [Java](https://www.manualweb.net/java/), independientemente de su naturaleza, podrá recibir parámetros de entrada. Un [Applet](http://www.manualweb.net/java/applets-java/), al contrario que las aplicaciones "standalone" no tiene un método main. Sino que tienen un conjunto de métodos que se ejecutan dependiendo del ciclo de vida del [Applet](http://www.manualweb.net/java/applets-java/). Al inicio se ejecuta el método init(), una vez inicializado se ejecuta el método start(), stop() cuando se para la ejecución del [Applet](http://www.manualweb.net/java/applets-java/) y por último destroy() cuando el [Applet](http://www.manualweb.net/java/applets-java/) es eliminado. En cualquiera de estos métodos podemos recuperar parámetros pasados al [Applet](http://www.manualweb.net/java/applets-java/). Pero vamos al principio, lo primero es ver como podemos pasarle parámetros al [Applet](http://www.manualweb.net/java/applets-java/). Para ello hay que irse al código [HTML](https://www.manualweb.net/html/) de carga del[Applet](http://www.manualweb.net/java/applets-java/). Si queremos cargar un [Applet](http://www.manualweb.net/java/applets-java/) podremos utilizar [la etiqueta applet](https://www.w3api.com/HTML/a/PPLET). En el atributo code deberemos de poner la clase que referencia al [Applet](http://www.manualweb.net/java/applets-java/).

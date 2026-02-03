@@ -7,9 +7,8 @@ tags: ["array","java-collection","arraylist","list","toarray"]
 slug: java/colecciones/convertir-una-lista-en-un-array
 author: victor_cuervo
 type: doc
+id: 1a032be3-0693-4083-8e09-e5d378cfe7c6
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/List2Array.java
-topic: java
-
 ---
 
 Ya vimos en su momento como podíamos [convertir, de una forma sencilla, un array en una lista en Java](http://lineadecodigo.com/java/convertir-un-array-en-una-lista/). En este caso vamos a ver la operación contraria que será convertir una lista en un array con [Java](https://www.manualweb.net/java/). Lo primero será definir una Lista. Para ello utilizamos el interface [List](http://www.w3api.com/Java/List-java-util/) implementado mediante una clase ArrayList. Hay que recordar que cuando utilicemos colecciones tenemos que indicar el tipo de colección que estamos utilizando. En nuestro caso vamos a crear una lista de cadenas o [String](https://www.w3api.com/Java/String/).

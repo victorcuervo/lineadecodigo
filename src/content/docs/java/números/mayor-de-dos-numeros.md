@@ -7,9 +7,8 @@ tags: ["scanner","if","nextint","println"]
 slug: java/numeros/mayor-de-dos-numeros
 author: victor_cuervo
 type: doc
+id: 0009f267-0f3d-4a12-b08f-ab6fd194e4bb
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/MayorDosNumeros.java
-topic: java
-
 ---
 
 El saber cuál es el mayor de dos números es uno de los primeros ejemplos que hacemos cuándo empezamos a aprender un lenguaje de programación. En este artículo vamos a ver cómo podemos llevarlo a cabo utilizando el lenguaje de programación [Java](https://manualweb.net/java/).

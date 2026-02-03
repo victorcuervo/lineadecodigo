@@ -7,9 +7,8 @@ tags: ["objetos","tostring","prototype"]
 slug: javascript/clases/sobrescribir-el-metodo-tostring-en-javascript
 author: victor_cuervo
 type: doc
+id: 8dbce1bc-2bc4-4a76-b030-1d4b86915668
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/objeto-con-tostring.js
-topic: javascript
-
 ---
 
 Va siendo hora de aplicar los conocimientos adquiridos en los artículos sobre objetos en Javascript ([Crear métodos dinámicamente en Javascript](http://lineadecodigo.com/javascript/crear-metodos-dinamicamente-en-javascript/), [Crear un objeto con métodos en Javascript](http://lineadecodigo.com/javascript/crear-un-objeto-con-metodos-en-javascript/), [Crear un objeto en Javascript](http://lineadecodigo.com/javascript/crear-un-objeto-en-javascript/),...) para realizar algún ejemplo práctico. Y este será el sobrescribir el método toString en [Javascript](https://www.manualweb.net/javascript/).

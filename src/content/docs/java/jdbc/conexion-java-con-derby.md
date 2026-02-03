@@ -7,9 +7,8 @@ tags: ["apache-derby","maven","preparedstatement","drivermanager","statement","r
 slug: java/jdbc/conexion-java-con-derby
 author: victor_cuervo
 type: doc
+id: 2cf1677b-6147-4826-b53c-68d8f58b3b05
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConexionApacheDerby.java
-topic: java
-
 ---
 
 En este ejemplo vamos a realizar una conexión [Java](https://www.manualweb.net/java/) con Derby. [Apache Derby](http://www.arquitectoit.com/java/que-es-apache-derby/) es una base de datos escrita completamente en Java y que puede ejecutarse en memoria directamente con la aplicación.

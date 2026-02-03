@@ -7,9 +7,8 @@ tags: ["unpacking","propiedades","objetos","console"]
 slug: javascript/clases/unpacking-de-objetos-en-javascript
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81cd-ab81-c58e403a158d
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/unpacking-objetos.js
-topic: javascript
-
 ---
 
 Siguiendo con temas de unpacking, ya hemos visto como hacerlo con [arrays](http://lineadecodigo.com/javascript/desestructurar-arrays-javascript/), [expresiones regulares](http://lineadecodigo.com/javascript/unpacking-valores-expresiones-regulares-javascript/),... en este caso vamos a ver cómo podemos hacer unpacking de objetos en [Javascript](https://www.manualweb.net/javascript/).

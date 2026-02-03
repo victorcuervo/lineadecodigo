@@ -7,9 +7,8 @@ tags: ["embed","autostart","bgsound"]
 slug: html/audio/embed-musica-de-fondo-en-tu-pagina-web
 author: victor_cuervo
 type: doc
+id: bb17e062-4d8c-473d-8963-b237dd8e4cff
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/video-y-sonido/embed-musica-de-fondo.html
-topic: html
-
 ---
 
 Cuanto más amplio es el espectro de navegadores y sistemas operativos sobre el que tenemos que diseñar nuestra página web más se complican las cosas. Por lo que tendremos que acudir al elemento [`embed`](https://www.w3api.com/HTML/embed/) para poner música de fondo en nuestra página web.

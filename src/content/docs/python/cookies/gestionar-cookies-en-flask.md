@@ -7,9 +7,8 @@ tags: ["cookies","make_response","set_cookie"]
 slug: python/cookies/gestionar-cookies-en-flask
 author: victor_cuervo
 type: doc
+id: 6e64f45f-8802-401b-9aec-64f39a25cd7c
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/cookie.py
-topic: python
-
 ---
 
 Cuando estés construyendo una aplicación web con [Flask](https://www.manualweb.net/flask/) puede darse el caso de que necesites gestionar información sobre el usuario que se conecta y que quieras guardarla en cookies. En este ejemplo vamos a ver cómo podemos gestionar cookies en [Flask](https://www.manualweb.net/flask/).

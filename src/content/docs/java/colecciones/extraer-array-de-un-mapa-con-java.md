@@ -7,9 +7,8 @@ tags: ["put","values","toarray","keyset","hashmap","mapa","clave-valor","for-eac
 slug: java/colecciones/extraer-array-de-un-mapa-con-java
 author: victor_cuervo
 type: doc
+id: 21413b2a-f826-4b78-b46d-706fc7f2a5c9
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/ExtraerArrayDeMapa.java
-topic: java
-
 ---
 
 En este ejemplo vamos a ver cómo podemos extraer array de un mapa con [Java](https://www.manualweb.net/java/). Este caso suele suceder cuando estamos manipulando Mapas para realizar cuentas de valores mediante su control de clave/valor y luego queremos manipular los datos para ordenados o mostrarlos de una forma más sencilla a un array. Lo primero será crear un mapa, en concreto vamos a utilizar un [`HashMap`](https://www.w3api.com/Java/HashMap/).

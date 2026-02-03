@@ -7,9 +7,8 @@ tags: ["onclick","getelementbyid"]
 slug: dom/elementos/documentgetelementbyid
 author: victor_cuervo
 type: doc
+id: 97a82630-7b1c-46b9-a668-bbba9bc007b4
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/dom/getElementById.html
-topic: dom
-
 ---
 
 Si hubiera que decir cuál ha sido el método más importante del lenguaje [JavaScript](https://www.manualweb.net/javascript/) desde su creación, creo que muchos coincidiríamos en que es [**document.getElementById**](https://www.w3api.com/DOM/.getElementById()**)**. Dicho método nos permite **obtener la referencia a un elemento de la página mediante el id** de dicho elemento.

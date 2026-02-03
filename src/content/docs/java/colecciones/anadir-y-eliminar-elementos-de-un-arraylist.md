@@ -4,12 +4,11 @@ description: "Código que nos permite Añadir y eliminar elementos de un ArrayLi
 date: 2021-10-14
 updatedDate: 2026-01-08
 tags: ["java-collection","arraylist","bucles","while","add","do-while","remove","list","scanner","isempty"]
-slug: java/colecciones/aadir-y-eliminar-elementos-de-un-arraylist
+slug: java/colecciones/anadir-y-eliminar-elementos-de-un-arraylist
 author: victor_cuervo
 type: doc
+id: 958e3ee6-88fc-485e-a5e3-d3a6900ba035
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/AddingDeletingElementsArrayList.java
-topic: java
-
 ---
 
 En este artículo vamos a ver cómo podemos codificar un programa que nos ayude a añadir y eliminar elementos de un ArrayList con [Java](https://www.manualweb.net/java). Me parece interesante a la hora de aprender a manejar el [`ArrayList`](http://w3api.com/Java/ArrayList/) ya que una de las cosas que tendremos que saber es cómo controlar el tamaño de la lista y validar que esta no esté vacía para poder seguir borrando elementos.

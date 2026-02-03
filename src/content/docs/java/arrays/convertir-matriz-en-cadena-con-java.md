@@ -7,9 +7,8 @@ tags: ["array","matriz","deeptostring"]
 slug: java/arrays/convertir-matriz-en-cadena-con-java
 author: victor_cuervo
 type: doc
+id: 0be45d06-791c-40e8-b025-8e5eec6f776a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MatrizACadena.java
-topic: java
-
 ---
 
 Cuando estemos manejando matrices en [Java](http://www.manualweb.net/) podemos [volcar el contenido de la matriz de una forma sencilla por pantalla](http://lineadecodigo.com/java/imprimir-una-matriz-con-java/). Pero si simplemente queremos ver el contenido de la matriz podemos convertir la matriz en una cadena con [Java](http://www.manualweb.net/). Lo primero será definir nuestra matriz:

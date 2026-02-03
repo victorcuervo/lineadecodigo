@@ -7,9 +7,8 @@ tags: ["console","readline","java-system"]
 slug: java/basicos/lectura-de-datos-mediante-la-clase-console-con-java
 author: xhrist14n
 type: doc
+id: 34a9ca5f-51be-4ea5-9483-3d5b49f15db6
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/LecturaDatosConConsole.java
-topic: java
-
 ---
 
 Para la lectura de datos mediante la clase Console con [Java](https://www.manualweb.net/java/) utilizando la clase Console necesitamos en primera instancia obtener la consola que es una instancia única que sigue el patrón de diseño Singleton. Esto lo logramos de la siguiente manera:

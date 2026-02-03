@@ -7,9 +7,7 @@ tags: ["console","console-table"]
 slug: javascript/basicos/mostrar-tablas-por-consola-en-javascript
 author: victor_cuervo
 type: doc
-
-topic: javascript
-
+id: 65ee0f8a-d96c-439a-94b1-8d3fe553a7e9
 ---
 
 Si estás programando en [Javascript](https://www.manualweb.net/javascript) seguro que más de una vez [has volcado contenido a la consola para ver qué está sucediendo en tu programa](https://lineadecodigo.com/javascript/volcar-datos-a-consola-con-javascript-console-log/). Y para ello te habrás apoyado en el método [`console.log()`](https://lineadecodigo.com/javascript/volcar-datos-a-consola-con-javascript-console-log/). 

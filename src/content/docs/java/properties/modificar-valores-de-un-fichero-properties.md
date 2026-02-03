@@ -7,9 +7,8 @@ tags: ["java-io","fileinputstream","properties","setproperty","getproperty"]
 slug: java/properties/modificar-valores-de-un-fichero-properties
 author: victor_cuervo
 type: doc
+id: 9f555a93-90cb-4362-98a8-788ac55e8fed
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/properties/ModificarProperties.java
-topic: java
-
 ---
 
 Los ficheros de propiedades nos sirven para guardar pares clave/valor que normalmente contienen información variable utilizada por nuestro programa. Estaríamos hablando de ficheros de configuración. Así, a bote pronto, se me ocurren cosas como URLs a las que acudir por información, datos sobre el usuario/password, números que representen límites de nuestras ejecuciones,...

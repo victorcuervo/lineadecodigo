@@ -7,8 +7,8 @@ tags: ["random","randint","uniform"]
 slug: python/numeros/numeros-aleatorios-python
 author: victor_cuervo
 type: doc
+id: f86eeab1-315d-4bc5-9742-ebe17d36e5b7
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/matematicos/numero_aleatorio.py
-topic: python
 ---
 
 En este ejemplo vamos a ver un código muy sencillo, pero a la vez muy útil para poder generar números aleatorios en [Python](http://www.manualweb.net/python/).

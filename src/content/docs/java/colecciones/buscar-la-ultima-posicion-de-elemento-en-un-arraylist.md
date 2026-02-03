@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist"]
 slug: java/colecciones/buscar-la-ultima-posicion-de-elemento-en-un-arraylist
 author: victor_cuervo
 type: doc
+id: 95fceece-0643-49e9-8459-313a1cbaf8ac
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/BuscarUltimoElementoArrayList.java
-topic: java
-
 ---
 
 Ya hemos visto [cómo podemos buscar un elemento en un ArrayList](http://lineadecodigo.com/java/buscar-elementos-en-un-arraylist/). Pero qué sucede si este elemento aparece muchas veces, cómo podemos buscar la última posición de elemento en un ArrayList con [Java](https://www.manualweb.net/java). ¿Tenemos que ir recorriendo todo el [`ArrayList`](http://w3api.com/Java/ArrayList/) hasta que demos con la última ocurrencia? De primeras podríamos volver a confiar en el método [`.indexOf()`](http://w3api.com/Java/ArrayList/indexOf) del [`ArrayList`](http://w3api.com/Java/ArrayList/) para poder buscar todas las veces que aparece un elemento y dar con la última. Hay que tener en cuenta, que en este caso deberíamos de ir recortando el contenido del [`ArrayList`](http://w3api.com/Java/ArrayList/) para poder ir buscando solo sobre la parte restante. Pero en este artículo vamos a ver una opción más sencilla de realizar esta búsqueda. Lo primero, como siempre hacemos con [los ejemplos de ArrayList](https://lineadecodigo.com/tag/java-collection-arraylist/), es [definir el ArrayList](https://lineadecodigo.com/java/crear-un-arraylist-en-java/) y [cargarle elementos](https://lineadecodigo.com/java/insertar-elementos-en-un-arraylist/). El código [Java](https://www.manualweb.net/java) que tenemos que escribir es muy sencillo:

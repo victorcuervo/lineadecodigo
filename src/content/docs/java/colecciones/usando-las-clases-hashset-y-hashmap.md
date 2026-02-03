@@ -7,9 +7,8 @@ tags: ["java-collection","hashmap","hashset","hashcode"]
 slug: java/colecciones/usando-las-clases-hashset-y-hashmap
 author: Emmanuel Ramos
 type: doc
+id: 9fee3794-6de9-4aeb-8b8c-1ed47b5683c2
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/Alumnos.java
-topic: java
-
 ---
 
 Antes de iniciar a explicar el código, tengo que señalar que tanto la clase [HashSet](https://www.w3api.com/Java/HashSet/) como la clase [HashMap](https://www.w3api.com/Java/HashMap/) tienen una ventaja la cual es, que los valores que se van insertando en la colección internamente no tendrán un orden específico, esto se debe a que **estas clases realizan un ordenamiento interno mediante el hashcode del elemento (Objeto), por lo cual no sabremos qué elemento traerá**.

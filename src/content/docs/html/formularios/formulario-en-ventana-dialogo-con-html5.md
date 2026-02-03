@@ -7,9 +7,8 @@ tags: ["form","dialog","showmodal"]
 slug: html/formularios/formulario-en-ventana-dialogo-con-html5
 author: victor_cuervo
 type: doc
+id: 67ce2216-067e-45de-8ecc-8fd58495080a
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/ventana-dialogo-formulario.html
-topic: html
-
 ---
 
 En ciertas circunstancias de diseño de nuestra web necesitamos que el usuario tenga foco en los datos que tiene que introducir, y es por ello que vamos a ver cómo podemos mostrar un formulario en ventana dialogo con [HTML5](https://www.manualweb.net/html5/). De esta forma mostraremos el formulario dentro de una ventana de dialogo dejando bloqueado todo lo que hay detrás de la página y así consiguiendo que el usuario haga foco.

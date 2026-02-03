@@ -7,9 +7,8 @@ tags: ["cadena","array","string","split"]
 slug: javascript/cadenas/dividir-una-cadena-en-elementos-con-javascript
 author: victor_cuervo
 type: doc
+id: ac7685d1-3020-4df5-8006-263c9ab2e103
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/cadenas/dividir-una-cadena-en-elementos.html
-topic: javascript
-
 ---
 
 Cuando estamos manejando **cadenas** en [JavaScript](https://www.manualweb.net/javascript/), nos encontraremos casos en los que deseemos convertir estas en **arrays** o viceversa. En determinadas ocasiones, es más fácil manejar en forma de array su contenido.

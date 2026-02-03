@@ -4,12 +4,11 @@ description: "La página explica cómo determinar el tamaño de una cadena en Ja
 date: 2006-12-13
 updatedDate: 2026-01-09
 tags: ["string","length"]
-slug: java/strings/tamao-de-una-cadena-en-java
+slug: java/strings/tamano-de-una-cadena-en-java
 author: victor_cuervo
 type: doc
+id: b8fe0fa3-e88e-4ab5-a6d4-11b9c2eabf30
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/TamanioCadena.java
-topic: java
-
 ---
 
 Si estas empezando a aprender [Java](http://www.manualweb.net/tutorial-java/) y te has metido de lleno en el mundo de las cadenas de texto (clase [String](http://www.w3api.com/wiki/Java:String)), una de las utilidades que más pronto vas a usar es el control del tamaño de la cadena. Múltiples casos harán que necesites el saber cual es el tamaño de la cadena:

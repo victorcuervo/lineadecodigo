@@ -7,11 +7,8 @@ tags: ["find","like","expresiones_regulares"]
 slug: mongodb/consultas/consultas-mongodb-like
 author: victor_cuervo
 type: doc
+id: 162e06f6-3109-498c-a324-ad8b0b9187d1
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/like.js
-topic: mongodb
-
-
-
 ---
 
 Cuando accedemos a los datos de los campos de un documento en [MongoDB](https://www.manualweb.net/mongodb/) podemos encontrarnos la necesidad de **realizar consultas MongoDB like**. Es decir, realizar consultas por cadenas similares de texto.

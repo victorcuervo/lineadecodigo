@@ -7,9 +7,8 @@ tags: ["tinys3","bucket","metainformacion"]
 slug: python/s3/metainformacion-bucket-amazon-s3-con-python
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81e6-ad9e-e9064a024d13
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/tinys3/metainformacion_s3.py
-topic: python
-
 ---
 
 En el ejemplo de hoy vamos a ver cómo podemos ver la metainformación bucket Amazon S3 con [Python](http://www.manualweb.net/python/). Es decir, la información que Amazon guarda por cada uno de los elementos almacenados. Para ello utilizaremos la librería **tinys3**.

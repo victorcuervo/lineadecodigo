@@ -7,9 +7,8 @@ tags: ["matriz","for","array","bucles"]
 slug: java/arrays/multiplicar-una-matriz-por-un-escalar-en-java
 author: victor_cuervo
 type: doc
+id: c1532083-3dfe-4a78-bde9-48841a587560
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MatrizPorEscalar.java
-topic: java
-
 ---
 
 Multiplicar una matriz por un escalar en Java consiste en multiplicar el contenido de una matriz por un número real. Para ello se multiplicará el valor de cada uno de los elementos de la matriz por el valor del número real.

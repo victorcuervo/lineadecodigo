@@ -7,9 +7,8 @@ tags: ["intl","tolocalestring"]
 slug: javascript/i18n/numeros-en-javascript-segun-locale
 author: victor_cuervo
 type: doc
+id: 4161c3bb-3912-4baa-a31f-aef502e459e1
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/numeros/numeros-segun-localizacion.js
-topic: javascript
-
 ---
 
 Cuando estemos [trabajando con números en Javascript](http://lineadecodigo.com/tag/javascript-numeros/) deberemos de tener cuidado del sitio en el que está visualizando nuestra aplicación. Es por ello que vamos a ver **cómo podemos tratar los números en Javascript según Locale**.

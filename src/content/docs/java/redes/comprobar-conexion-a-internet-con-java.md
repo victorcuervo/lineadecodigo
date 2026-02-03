@@ -7,9 +7,8 @@ tags: ["java-net","try-catch","exception","connect","socket"]
 slug: java/redes/comprobar-conexion-a-internet-con-java
 author: Christian Giménez
 type: doc
+id: 3fa1ad5d-0974-496f-a64c-60e9b6faf6ba
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/net/ComprobarConexion.java
-topic: java
-
 ---
 
 Hace algún tiempo necesitaba una aplicación que cada determinado tiempo compruebe el estado de la conexión, entonces desarrolle una aplicación en [Java](https://www.manualweb.net/java/) muy simple que cada cierto tiempo verifique el estado de conexión. Lo que voy a exponer aquí solo es la parte de código [Java](https://www.manualweb.net/java/) que se encarga de la comprobar la conexión, nada más. Luego podrá usted incluirlo en una aplicación más grande y con sus propios fines si le parece útil el pequeño código expuesto. Para este sencillo programa [Java](https://www.manualweb.net/java/) vamos a utilizar la clase [Socket](https://www.w3api.com/Java/Socket/), así que veamos lo necesario de ella para los fines de la aplicación. También es necesario trabajar con excepciones pero creo que a este tema le corresponde un post por sí solo. **Clase** [**Socket**](https://www.w3api.com/Java/Socket/) **de Java:** Es un conector TCP/IP diseñado para conectarse a servidores e iniciar intercambios bajo protocolo. La creación de un objeto Socket establece implícitamente una conexión entre cliente y servidor. Ahora pasemos al código: Antes que nada importamos el paquete java.net y ponemos los comentarios de documentación habituales:

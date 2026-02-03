@@ -7,9 +7,8 @@ tags: ["email","regexp","array","console-log"]
 slug: javascript/expresiones-regulares/extraer-partes-de-un-email-con-javascript
 author: victor_cuervo
 type: doc
+id: 30b27414-8dad-402f-859f-d64100d8ec1e
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/regexp/extraer-email.js
-topic: javascript
-
 ---
 
 En este ejemplo vamos a extraer partes de un email con Javascript. Para ello nos vamos a ayudar por un lado de **expresiones regulares** y por otro de las técnicas de **desestructuración de Javascript**.

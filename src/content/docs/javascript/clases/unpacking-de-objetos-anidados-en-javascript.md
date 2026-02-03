@@ -7,9 +7,8 @@ tags: ["objeto","unpacking","array"]
 slug: javascript/clases/unpacking-de-objetos-anidados-en-javascript
 author: victor_cuervo
 type: doc
+id: 42ac5262-f9ec-4245-bf69-a83c0b86f8f8
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/unpacking-objetos-anidados.js
-topic: javascript
-
 ---
 
 Ya hemos visto en un artículo cómo podemos [realizar un unpacking de objetos con Javascript](http://lineadecodigo.com/javascript/unpacking-objetos-javascript/). En este caso vamos a ver cómo podemos hacer un **unpacking de objetos anidados** en [Javascript](https://www.manualweb.net/javascript/). Y es que la complejidad del objeto puede ser aquella que queramos.

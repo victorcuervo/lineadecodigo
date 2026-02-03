@@ -7,9 +7,8 @@ tags: ["java-io","file","getparent"]
 slug: java/ficheros/obtener-directorio-padre-de-un-fichero
 author: Víctor Cuervo
 type: doc
+id: bff89905-bbb1-4dca-ac33-f2f7a02d0333
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/ObtenerDirectorioPadre.java
-topic: java
-
 ---
 
 En este ejemplo vamos a ver como obtener directorio padre de un fichero con [Java](https://www.manualweb.net/java/). Es decir, el directorio del cual depende el fichero que instanciemos. Lo primero será instanciar un fichero mediante la clase [File](https://www.w3api.com/Java/File/exists/).

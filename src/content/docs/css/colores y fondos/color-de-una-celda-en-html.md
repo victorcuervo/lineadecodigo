@@ -7,9 +7,8 @@ tags: ["table","background-color","class"]
 slug: css/colores-y-fondos/color-de-una-celda-en-html
 author: victor_cuervo
 type: doc
+id: aed0ba08-dbbb-4f6d-ac73-70b48be80da1
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-color-celda.html
-topic: css
-
 ---
 
 En este ejemplo vamos a ver cómo podemos especificar el color de una celda en [HTML](https://www.manualweb.net/html/). Para ello nos vamos a apoyar en el [lenguaje de estilos CSS](http://www.manualweb.net/css/).

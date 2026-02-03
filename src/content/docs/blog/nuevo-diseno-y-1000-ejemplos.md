@@ -4,12 +4,10 @@ description: "Línea de Código celebra su nuevo diseño y 1000 ejemplos documen
 date: 2015-07-12
 updatedDate: 2026-01-10
 tags: ["diseño"]
-slug: blog/nuevo-diseo-y-1000-ejemplos
+slug: blog/nuevo-diseno-y-1000-ejemplos
 author: lineadecodigo
 type: blog
-
-topic: blog
-
+id: 2c8a9dfb-adca-81a4-a453-fc9fbdd38ebf
 ---
 
 Ya han pasado unos cuantos años desde que [empezó la andadura de Línea de Código](http://lineadecodigo.com/blog/linea-de-codigo/) allá por noviembre de 2006.

@@ -7,9 +7,8 @@ tags: ["update","mongoclient","update_one","update_many","set","pull","push"]
 slug: python/pymongo/actualizar-un-documento-con-pymongo
 author: victor_cuervo
 type: doc
+id: 97010453-78bc-4dbf-b6c8-45bca4e6d82c
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/pymongo/update-pymongo.py
-topic: python
-
 ---
 
 Ya hemos [insertado](http://lineadecodigo.com/python/insertar-documentos-pymongo/) y [consultado documentos con Pymongo](http://lineadecodigo.com/python/cursor-en-pymongo/), en este ejemplo vamos a ver cómo podemos actualizar un documento con Pymongo.

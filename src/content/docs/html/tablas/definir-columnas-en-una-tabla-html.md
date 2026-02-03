@@ -7,9 +7,8 @@ tags: ["col","th","td","table","colspan"]
 slug: html/tablas/definir-columnas-en-una-tabla-html
 author: victor_cuervo
 type: doc
+id: f8893fa4-a147-4494-aece-6cef6a73d35f
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/columnas-en-tabla.html
-topic: html
-
 ---
 
 Cuando [trabajamos con tablas en HTML](https://lineadecodigo.com/tag/html-tabla/) lo normal es que vayamos dando forma a cada una de las filas de la tabla, bien sea mediante el elemento [`th`](https://www.w3api.com/HTML/th/) para las filas de la cabecera o [`tr`](https://www.w3api.com/HTML/tr/) para las filas del cuerpo de la tabla. Pero también tenemos que saber qué podemos definir columnas en [una tabla HTML](https://manualweb.net/html/tablas-html/). Para ello podemos apoyarnos en el elemento [`col`](https://www.w3api.com/HTML/col/) y en este artículo vamos a ver para qué nos sirve poder definir columnas.

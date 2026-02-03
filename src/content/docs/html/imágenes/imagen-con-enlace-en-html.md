@@ -7,8 +7,8 @@ tags: ["imagenes","enlaces","href","alt"]
 slug: html/imagenes/imagen-con-enlace-en-html
 author: victor_cuervo
 type: doc
+id: bf240cd7-3d67-48e1-9dca-bea9a5167725
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/imagen-con-enlace.html
-topic: html
 ---
 
 Aunque lo normal en la web es que [los enlaces sean textos](https://lineadecodigo.com/tag/html-enlaces/), también podemos extender la capacidad de hacer enlaces con imágenes. De esta forma, cuando pulsemos sobre una imagen, esta actuará como enlace y nos llevará al destino demarcado por el enlace.

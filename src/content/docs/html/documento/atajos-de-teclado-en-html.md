@@ -7,9 +7,8 @@ tags: ["a","href","target","accesskey"]
 slug: html/documento/atajos-de-teclado-en-html
 author: victor_cuervo
 type: doc
+id: f0d0be09-d809-492e-ae6e-d46c8cfb93d5
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/basicos/atajo-teclado.html
-topic: html
-
 ---
 
 Quizás sea una cosa que no se ve mucho por las páginas web, pero que es una capacidad del lenguaje, es el poder crear atajos de teclado en [HTML](https://www.manualweb.net/html). Es decir, que una combinación de teclas en una página web concreta produzca un efecto que nos permita realizar una acción sobre una página.

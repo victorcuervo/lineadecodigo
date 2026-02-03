@@ -7,10 +7,7 @@ tags: []
 slug: xml/integracion
 author: victor_cuervo
 type: category
-
-topic: xml
-
-
+id: 2f2a9dfb-adca-807b-80ee-e34f910af060
 ---
 
 **Objetivo:** Analizar el rol de XML en arquitecturas distribuidas.

@@ -7,9 +7,8 @@ tags: ["text-decoration","css","dotted","border-bottom"]
 slug: css/texto/subrayado-con-puntos-en-css
 author: victor_cuervo
 type: doc
+id: 938da32a-ed0b-452e-a766-308b35984ccb
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/texto/subrayado-de-puntos.html
-topic: css
-
 ---
 
 Por defecto, la mayoría de los navegadores utilizan un subrayado de una línea para mostrar los enlaces que tiene nuestra página web. Las hojas de estilo [CSS](http://www.manualweb.net/css/) nos permiten modificar este comportamiento y dotar a los elementos de una página (enlaces incluidos) del diseño que más nos guste.

@@ -4,12 +4,10 @@ description: "Curso on-line de Accesibilidad Web gratuito para profesionales de 
 date: 2007-02-10
 updatedDate: 2026-01-08
 tags: ["cursos"]
-slug: blog/curso-online-de-accesibilidad-web
+slug: blog/curso-on-line-de-accesibilidad-web
 author: lineadecodigo
 type: blog
-
-topic: blog
-
+id: 2c8a9dfb-adca-8155-9356-ef065442da09
 ---
 
 La [Fundación Instituto de Ciencias del Hombre](http://www.ich.es/) desarrolla el Curso de Accesibilidad Web dirigido a profesionales de las TIC en el área de Accesibilidad de Páginas Web en España.

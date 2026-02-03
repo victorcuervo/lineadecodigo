@@ -7,10 +7,8 @@ tags: ["atributo","dtd","elemento"]
 slug: xml/estructura/definir-atributos-en-xml-dtd
 author: xhrist14n
 type: doc
+id: 7924a8e7-ac32-44a6-9b8b-9905769037cd
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/dtd/atributo.dtd
-topic: xml
-
-
 ---
 
 Siguiendo con [XML](http://www.manualweb.net/xml/), tomamos ahora el tema de **definir atributos en** [**XML**](http://www.manualweb.net/xml/) DTD los cuales son útiles para poder tener atributos a usar en las etiquetas [XML](http://www.manualweb.net/xml/). Lo primero que se necesita para poder usar atributos en [XML](http://www.manualweb.net/xml/) DTD dentro de nuestras etiquetas [XML](http://www.manualweb.net/xml/) es **definir estos atributos en ATTLIST** en nuestro archivo de definición de etiquetas [XML](http://www.manualweb.net/xml/), para conseguir esto debemos seguir el formato adecuado para declaración de atributos [XML](http://www.manualweb.net/xml/):

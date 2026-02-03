@@ -7,9 +7,8 @@ tags: ["try-catch","ioexception","exception"]
 slug: java/excepciones/personalizar-ioexception
 author: victor_cuervo
 type: doc
+id: 43fe6632-f43f-44cf-9fbb-7d1226b5bdb4
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/io/PersonalizarIOException.java
-topic: java
-
 ---
 
 Cuando trabajamos con entradas y salidas de datos es muy probable que nos encontremos con más de una [`IOException`](https://w3api.com/Java/IOException/). En estos casos, puede ser que la información proporcionada por el "stack trace" de la Excepción no nos de la información sobre el punto de manipulación en el cual se ha producido dicha excepción. Es por ello que vamos a ver en este artículo cómo personalizar IOException. [`IOException`](https://w3api.com/Java/IOException/) es una excepción que se produce cuando estamos manipulando la entrada/salida de datos, ya sea por leerlos en consola, cuando accedemos a un fichero,... En estos casos siempre estaremos obligados a controlar la posibilidad de que se produzca la [`IOException`](https://w3api.com/Java/IOException/). Para ello utilizaremos el [bloque try-catch](https://lineadecodigo.com/tag/java-trycatch/). Por ejemplo escribiremos el siguiente código para controlar la [`IOException`](https://w3api.com/Java/IOException/) en una lectura de datos por consola.

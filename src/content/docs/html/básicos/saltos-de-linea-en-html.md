@@ -7,8 +7,8 @@ tags: ["br"]
 slug: html/basicos/saltos-de-linea-en-html
 author: victor_cuervo
 type: doc
+id: 7abe0e38-37d5-48ac-9a0d-f0cb21ab8060
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/salto-de-linea.html
-topic: html
 ---
 
 Una de las cosas que tenemos que saber sobre los saltos de línea en [HTML](http://www.manualweb.net/html/) es que cuando la gente [empieza a crear páginas web HTML](https://lineadecodigo.com/tag/html-basicos/) suele caer en el error de creer que el retorno de carro sobre el editor va a provocar el mismo efecto cuando se visualice la página. Pero, esto no es cierto y deberemos de apoyarnos en el lenguaje [HTML](http://www.manualweb.net/html/) y sus elementos para conseguir dicho efecto. Si lo que hacemos el codificar nuestra página de la forma que sigue, de tal manera que solo insertemos simples saltos de carro de texto:

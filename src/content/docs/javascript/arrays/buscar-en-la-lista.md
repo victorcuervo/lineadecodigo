@@ -7,9 +7,8 @@ tags: ["form","select","array","regexp"]
 slug: javascript/arrays/buscar-en-la-lista
 author: victor_cuervo
 type: doc
+id: 05ba0bb1-4035-4d85-9b4b-37331fb3aa42
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/buscar-en-lista.html
-topic: javascript
-
 ---
 
 La idea de este ejemplo es realizar una búsqueda sobre un listado de datos (presente en una lista de un formulario) partiendo de una entrada que va el usuario tecleando paulatinamente. 

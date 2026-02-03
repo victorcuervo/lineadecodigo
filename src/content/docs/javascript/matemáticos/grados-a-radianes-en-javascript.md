@@ -7,8 +7,8 @@ tags: ["math","sin","pi"]
 slug: javascript/matematicos/grados-a-radianes-en-javascript
 author: victor_cuervo
 type: doc
+id: 3cfa65e7-9941-4b7a-94b0-cea2b64731e4
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/matematicas/deg2Rad.js
-topic: javascript
 ---
 
 Convertir grados a radianes en [Javascript](https://www.manualweb.net/javascript/) es de mucha utilidad cuando estamos utilizando [operaciones trigonométricas](https://manualweb.net/javascript/operaciones-trigonometricas-e-hiperbolicas/). Y es que muchas de estas operaciones esperan recibir la información del ángulo en radianes y, ciertamente, la mejor forma de verlo para uno mismo es verlo en grados.

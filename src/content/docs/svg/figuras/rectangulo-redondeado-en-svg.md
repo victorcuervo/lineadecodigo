@@ -7,9 +7,8 @@ tags: ["circulo","rect","rectangulo","triangulo"]
 slug: svg/figuras/rectangulo-redondeado-en-svg
 author: victor_cuervo
 type: doc
+id: aac31514-9cf9-4867-a8ef-c677a4b0186c
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/figuras/rectangulo-esquinas-redondeadas.svg
-topic: svg
-
 ---
 
 Este ejemplo muestra cómo redondear los bordes de un rectángulo con el lenguaje [SVG](http://lineadecodigo.com/categoria/svg). La tarea es sencilla, ya que en la etiqueta básica RECT, que nos sirve para el dibujo de rectángulos, tenemos dos propiedades: rx y ry.

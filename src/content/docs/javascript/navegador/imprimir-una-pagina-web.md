@@ -7,9 +7,8 @@ tags: ["window","print"]
 slug: javascript/navegador/imprimir-una-pagina-web
 author: victor_cuervo
 type: doc
+id: 6c1e2779-49da-4831-9f4d-7e28e967379c
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/imprimir-pagina-web.html
-topic: javascript
-
 ---
 
 Una de las cosas que posiblemente quiera hacer un usuario en nuestra página web, sea la de imprimir la página. Está claro que esto lo pueden realizar mediante las opciones de los navegadores. La idea de este ejemplo es posibilitar la impresión de la misma página. Para ello nos apoyaremos en código [JavaScript](https://www.manualweb.net/javascript/). Dentro de [JavaScript](https://www.manualweb.net/javascript/) tenemos el [objeto Window](https://www.w3api.com/DOM/Window/) y en concreto en el método `.print()`.

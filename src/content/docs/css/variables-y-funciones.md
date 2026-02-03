@@ -7,9 +7,7 @@ tags: []
 slug: css/variables-y-funciones
 author: victor_cuervo
 type: category
-
-topic: css
-
+id: 2eba9dfb-adca-80aa-89d6-cf12411c17d8
 ---
 
 # Variables y funciones CSS: estilos dinámicos y reutilizables

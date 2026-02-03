@@ -7,11 +7,8 @@ tags: ["db","dropdatabase"]
 slug: mongodb/consultas/borrar-una-base-de-datos-en-mongodb
 author: victor_cuervo
 type: doc
+id: 825d3410-ffbf-448e-bf0d-5e59ee621652
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-basicos/borrar-db.js
-topic: mongodb
-
-
-
 ---
 
 Una de las operaciones de mantenimiento básicas que realizaremos en nuestras bases de [MongoDB](https://www.manualweb.net/mongodb/) es borrar una base de datos en [MongoDB](https://www.manualweb.net/mongodb/).

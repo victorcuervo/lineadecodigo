@@ -7,8 +7,8 @@ tags: ["imagenes","border","border-width","border-style"]
 slug: css/imagenes/imagenes-con-borde
 author: Víctor Cuervo
 type: doc
+id: cd31c48e-aaf8-44bb-aae9-799a64fbc6c7
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/imagenes/imagenes-con-borde.html
-topic: css
 ---
 
 Cuando se empezó a definir el lenguaje [HTML](http://www.manualweb.net/html/), el elemento [`img`](https://w3api.com/HTML/img/) (que nos sirve para poner imágenes) llevaba asociado un atributo llamador `border` para poder tener imágenes con borde. Aplicando un valor en pixels a dicho atributo conseguíamos que la imagen asociada al elemento apareciese con un borde. Hay que indicar que por compatibilidad, dicho atributo sigue siendo soportado. Si bien, es recomendable no utilizarlo. La [línea de código](http://lineadecodigo.com/) sería como la que sigue:

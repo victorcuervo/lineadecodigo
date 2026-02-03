@@ -7,9 +7,8 @@ tags: ["mysql","bases-de-datos","consulta","SQL Select","resultset","drivermanag
 slug: java/jdbc/consulta-jdbc-sin-conocer-los-campos
 author: Víctor Cuervo
 type: doc
+id: 81ec4d63-e18b-4748-b6d5-e958b8f808fd
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConsultarTablaSinConocerCampos.java
-topic: java
-
 ---
 
 Una de las primeras cosas que haremos cuando estemos utilizando una base de datos desde un programa [Java](https://www.manualweb.net/java/) con [JDBC](http://lineadecodigo.com/tag/java-jdbc/) será hacer consultas. Si nos centramos en cualquier tipo de aplicación lo normal es que el tipo de sentencia hacia las bases de datos más utilizado sea la consulta. Bastante más que las inserciones, actualizaciones y borrados.

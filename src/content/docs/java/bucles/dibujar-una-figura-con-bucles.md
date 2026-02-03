@@ -7,9 +7,8 @@ tags: ["bucles","while","figura"]
 slug: java/bucles/dibujar-una-figura-con-bucles
 author: victor_cuervo
 type: doc
+id: be1ba878-e88b-496b-8dbb-d6f7eba148f4
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/DibujandoUnaFigura_2.java
-topic: java
-
 ---
 
 En el ejemplo [Dibujando una figura](http://lineadecodigo.com/2007/05/06/dibujando-una-figura/) nos explicaba como generar una figura por consola utilizando bucles while con el lenguaje [Java](https://www.manualweb.net/java/). La figura generada era la siguiente:

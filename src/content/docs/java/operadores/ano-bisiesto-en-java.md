@@ -4,11 +4,11 @@ description: "Dos formas de calcular un año bisiesto en Java. Bien sea mediante
 date: 2007-02-18
 updatedDate: 2026-01-07
 tags: ["modulo","operadores","gregoriancalendar","java-util"]
-slug: java/operadores/ao-bisiesto-en-java
+slug: java/operadores/ano-bisiesto-en-java
 author: victor_cuervo
 type: doc
+id: ac4d2611-c94c-41de-a053-74bfd9b00b76
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/dates/AnioBisiesto.java
-topic: java
 ---
 
 En este artículo vamos a calcular qué es un año bisiesto en [Java](https://www.manualweb.net/java/). Para ello veremos que dentro de Java tendremos la posibilidad de calcularlo de dos formas. Por una lado podremos hacerlo mediante el cálculo de una serie de fórmulas que nos ayudan a conocer si un año es bisiesto o no. Y en una segunda forma lo podremos hacer con la clase [`GregorianCalendar`](https://www.w3api.com/Java/GregorianCalendar/) que nos ofrece el [lenguaje de programación Java](https://lineadecodigo.com/categoria/java/).

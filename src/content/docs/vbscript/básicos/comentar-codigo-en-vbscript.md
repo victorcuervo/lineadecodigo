@@ -7,9 +7,8 @@ tags: ["comentario","rem","script"]
 slug: vbscript/basicos/comentar-codigo-en-vbscript
 author: victor_cuervo
 type: doc
+id: 87c521b9-1f04-4010-bf8a-934122eddc0d
 download: https://github.com/victorcuervo/lineadecodigo_vbscript/blob/master/basicos/comentarios-vbscript.html
-topic: vbscript
-
 ---
 
 Si estás programando en VBScript y quieres comentar tus programas (una práctica muy recomendable). Tienes dos formas de hacerlo. La primera es anteponiendo la palabra REM. Forma de hacerlo que se viene utilizando desde los lenguajes Basic más antiguos. La segunda es anteponiendo una apostrofe. Esta es la opción más cómoda y extendida.

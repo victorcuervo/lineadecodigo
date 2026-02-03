@@ -7,9 +7,8 @@ tags: ["bucle","foreach","array"]
 slug: javascript/bucles/bucle-foreach-en-javascript
 author: victor_cuervo
 type: doc
+id: 4692c64e-ef06-4b39-a1b3-0bc7c53e39ed
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/foreach.js
-topic: javascript
-
 ---
 
 Ya habíamos recogido [como manejar alguno de los tipos de bucles en Javascript](http://lineadecodigo.com/tag/javascript-bucles/) entre ellos los [bucles for](http://lineadecodigo.com/javascript/recorrer-un-array-en-javascript/), [for-in](http://lineadecodigo.com/javascript/estructura-javascript-for-in/) y [for-off](http://lineadecodigo.com/javascript/estructura-javascript-for-of/). En el caso de hoy vamos a ver como podemos realizar **un bucle foreach en Javascript**. Y es que un bucle foreach nos ayuda de una manera sencilla recorrer los elementos de un array.

@@ -7,9 +7,8 @@ tags: ["thead","th","td","table"]
 slug: html/tablas/cabecera-en-tabla-html
 author: victor_cuervo
 type: doc
+id: 1c848602-78ee-443c-80ee-7b247b0e0c19
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/tabla-con-cabecera.html
-topic: html
-
 ---
 
 A la hora de definir una cabecera en tabla [HTML](https://www.manualweb.net/html/) tenemos que conocer dos elementos del lenguaje HTML. 

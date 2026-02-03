@@ -7,9 +7,8 @@ tags: ["switch","if"]
 slug: java/numeros/convertir-un-numero-a-texto-con-java
 author: victor_cuervo
 type: doc
+id: 2114ddd0-cd3b-4e75-ae59-c5baff229af5
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumerosEnTexto.java
-topic: java
-
 ---
 
 Vamos a ver como construir un método con [Java](https://www.manualweb.net/java/) al cual le pasemos un número de tres dígitos: unidades, decenas y centenas y nos lo transforme a texto. Es decir, el 534 nos lo transforme en "quinientos treinta y cuatro", es el proceso de convertir un número a texto con [Java](https://www.manualweb.net/java/). Lo primero para convertir un número a texto con [Java](https://www.manualweb.net/java/) será crear métodos de apoyo. El primer método de apoyo es el que dado una unidad nos la transforma en texto.

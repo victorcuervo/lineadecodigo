@@ -7,9 +7,8 @@ tags: ["audio","play","pause"]
 slug: html/audio/boton-play-pause-con-audio-html5
 author: victor_cuervo
 type: doc
+id: 13da9ae0-d30c-49e6-a8b7-65177c45d71e
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Audio/boton-play-stop.html
-topic: html
-
 ---
 
 Mediante este ejemplo vamos a ver cómo podemos construir un botón play pause con audio [HTML5](https://www.manualweb.net/html5/) y que podamos poner en nuestra web.

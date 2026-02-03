@@ -7,9 +7,8 @@ tags: ["getelementbyid","innerhtml","insertadjacenthtml"]
 slug: dom/nodos/insertar-codigo-html-en-una-pagina-web-insertadjacenthtml
 author: victor_cuervo
 type: doc
+id: de72a4a3-f79f-48a1-a3ac-909add0653a4
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/dom/inyectar-html.html
-topic: dom
-
 ---
 
 Existen varias formas de insertar código [HTML](https://www.manualweb.net/html/) en una página web utilizando [Javascript](https://www.manualweb.net/javascript/). La primera y más rudimentaria es utilizando el método [write](https://www.w3api.com/DOM/.write()) del [document](https://www.w3api.com/DOM/).

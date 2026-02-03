@@ -7,11 +7,8 @@ tags: ["hola-mundo","find","db"]
 slug: mongodb/basicos/hola-mundo-con-mongodb
 author: victor_cuervo
 type: doc
+id: 544487c7-3956-4541-8e4a-7c253dfb1d7e
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-basicos/holamundo-mongodb.js
-topic: mongodb
-
-
-
 ---
 
 Para empezar a utilizar una base de datos NOSQL como es [MongoDB](https://www.manualweb.net/mongodb/) no hay mejor manera de ver como hacer un Hola Mundo con [MongoDB](https://www.manualweb.net/mongodb/).

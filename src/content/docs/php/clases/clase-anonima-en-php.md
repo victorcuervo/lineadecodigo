@@ -7,8 +7,8 @@ tags: ["PHP Clases"]
 slug: php/clases/clase-anonima-en-php
 author: victor_cuervo
 type: doc
+id: 1012420b-355d-4f0e-bbe3-a3f8a80e032e
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/objetos/clase-anonima.php
-topic: php
 ---
 
 La idea de por qué crear un artículo sobre cómo crear una clase anónima en [PHP](https://www.manualweb.net/php/) nace una vez que escribimos el  artículo de cómo [crear una clase con PHP](https://lineadecodigo.com/php/crear-una-clase-en-php/). En dicho artículo veíamos los pasos que tenemos que dar para poder definir una clase mediante el [lenguaje de programación PHP](https://www.manualweb.net/php/) para, de forma posterior, poder crear objetos de dicha clase. En dicha clase definimos los atributos, constructores y métodos que necesitamos.

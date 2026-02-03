@@ -7,9 +7,8 @@ tags: ["constantes","define","echo"]
 slug: php/basicos/definir-constantes-en-php
 author: xhrist14n
 type: doc
+id: 6f4e84ed-9ece-4921-9828-ae4b1eec821a
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/definir-constante.php
-topic: php
-
 ---
 
 Definir constantes en [PHP](http://www.manualweb.net/php/) nos es util para poder resusar su contenido en diferentes instancias de ejecucion del código [PHP](http://www.manualweb.net/php/). Ya que sabemos que el contenido de la constante no va a cambiar a lo largo de la ejecución del programa. La definición de constantes en [PHP](http://www.manualweb.net/php/) se hace mediante el uso de la funcion define, su sintaxis es la siguiente:

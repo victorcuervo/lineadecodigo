@@ -7,8 +7,8 @@ tags: ["servlet","jsp","url-pattern"]
 slug: javaee/jsp/redirigir-todas-las-jsp-a-un-servlet
 author: victor_cuervo
 type: doc
+id: 2c5a9dfb-adca-8025-8837-c13bdd8bbe8d
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/webapp/WEB-INF/web.xml
-topic: javaee
 ---
 
 Ciertos modelos de arquitectura son participes de evitar el acceso directo a las páginas [JSP](http://www.manualweb.net/tutorial-jsp/) para poder hacer ciertas validaciones. Esto implica que cada vez que alguien ponga una URL sobre nuestro sitio con *.jsp sea reenviado a un Servlet.

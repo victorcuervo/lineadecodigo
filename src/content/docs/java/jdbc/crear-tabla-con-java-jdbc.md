@@ -7,9 +7,8 @@ tags: ["mysql","connection","drivermanager","sqlexception","try-catch","tabla","
 slug: java/jdbc/crear-tabla-con-java-jdbc
 author: victor_cuervo
 type: doc
+id: 8b914882-a93f-4401-833e-66b447211770
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/CrearTabla.java
-topic: java
-
 ---
 
 Hoy vamos a ver cómo podemos crear tabla con [Java](https://www.manualweb.net/java/) JDBC. Analizaremos los pasos que hay que dar para poder conectarnos a una base de datos mediante JDBC y conseguir crear una tabla.

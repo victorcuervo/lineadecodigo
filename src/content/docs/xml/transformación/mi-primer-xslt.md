@@ -7,10 +7,8 @@ tags: ["xsl:template","xsl:value-of","xml","xslt"]
 slug: xml/transformacion/mi-primer-xslt
 author: victor_cuervo
 type: doc
+id: ae276160-0f4c-4cb7-b0d9-f0ac5f276949
 download: https://github.com/victorcuervo/lineadecodigo_xml/tree/master/xslt/mi-primer-xslt
-topic: xml
-
-
 ---
 
 [XSLT](http://www.manualweb.net/xslt/) es un lenguaje que nos permite transformar documentos [XML](http://www.manualweb.net/xml/) de un formato a otro. Por ejemplo transformar documentos [XML](http://www.manualweb.net/xml/) en documentos XHTML u otros documentos [XML](http://www.manualweb.net/xml/). Para crear nuestro primer [XSLT](http://www.manualweb.net/xslt/) lo primero que tenemos que hacer es escribir nuestro fichero [XML](http://www.manualweb.net/xml/). 

@@ -7,9 +7,8 @@ tags: ["file","url","try-catch","fichero","path","java-io","java-net","malformed
 slug: java/redes/convertir-de-fichero-a-url-con-java
 author: victor_cuervo
 type: doc
+id: 5fa9b9dc-9112-4338-bcf0-25ad254062bd
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/ConvertirFicheroEnURL.java
-topic: java
-
 ---
 
 Cuando manejamos ficheros de configuración una buena idea es tratar todos los ficheros como si fuesen URL. Así evitaremos el estar chequeando si el fichero de acceso está en nuestra máquina os es una URL destino. Por lo tanto vamos a convertir de Path a una URL utilizando el lenguaje [Java](https://www.manualweb.net/java/). Para poder convertir de fichero a URL con [Java](https://www.manualweb.net/java/) lo primero será partir de un fichero, el cual instanciaremos mediante una clase [File](https://www.w3api.com/Java/File/exists/).

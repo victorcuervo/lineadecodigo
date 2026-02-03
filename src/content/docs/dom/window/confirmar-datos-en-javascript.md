@@ -7,8 +7,8 @@ tags: ["window"]
 slug: dom/window/confirmar-datos-en-javascript
 author: victor_cuervo
 type: doc
+id: bc6fa46b-0f23-4d1b-a6dd-aa70a6f7ccc5
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/confirmar-datos.html
-topic: dom
 ---
 
 **Confirmar datos en Javascript** es el mecanismo por el cual queremos pedirle al usuario una confirmación de una acción dentro de la página. Esta confirmación busca la aceptación o denegación por parte del usuario de dicha acción.

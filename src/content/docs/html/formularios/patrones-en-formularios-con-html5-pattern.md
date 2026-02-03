@@ -7,9 +7,8 @@ tags: ["input","required","form","pattern"]
 slug: html/formularios/patrones-en-formularios-con-html5-pattern
 author: victor_cuervo
 type: doc
+id: e04fb9c5-04b0-4fce-8bbb-2059b2c0eced
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/campo-con-patron.html
-topic: html
-
 ---
 
 Para realizar la validación de un formulario de lado del cliente siempre recurríamos a scripts en [JavaScript](https://www.manualweb.net/javascript/) o usar alguna librería para verificar que los inputs sean los correctos, que estén completos con datos antes de que el formulario sea enviado. En [HTML5](https://www.manualweb.net/html5/) tenemos la posibilidad de aplicar patrones con [HTML5 pattern](https://www.w3api.com/HTML/input/pattern/).

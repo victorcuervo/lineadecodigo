@@ -7,9 +7,8 @@ tags: ["onbeforeprint","body"]
 slug: webapi/navegador/controlar-el-inicio-de-impresion-en-html5
 author: victor_cuervo
 type: doc
+id: 63d91025-3105-457a-a7a1-b531098295b1
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Impresi%C3%B3n/control-inicio-impresion.html
-topic: webapi
-
 ---
 
 Cuando el usuario está en nuestra web puede darse el caso que quiera imprimir el contenido que tiene en pantalla. En este punto es bueno saber que quiere hacer eso por si tenemos que eliminar algún tipo de información o por el contrario añadir otra dentro de nuestra web. Para poder hacer eso vamos a ver lo sencillo que es el poder controlar el inicio de impresión en [HTML5](https://www.manualweb.net/html5/).

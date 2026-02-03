@@ -7,10 +7,8 @@ tags: ["form","input","label","model","trigger"]
 slug: xml/formularios/borrado-de-campos-en-xforms
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-817e-9558-d9e47db641e0
 download: https://github.com/victorcuervo/lineadecodigo_xforms/blob/master/borrado-de-campos.xhtml
-topic: xml
-
-
 ---
 
 Hace ya tiempo, cuando aprendí a construir formularios con [HTML](https://www.manualweb.net/html/), me hacía mucha gracia que todos los formularios que veía por Internet tenían dos botones. El primero era el que realizaba el envío de la información, mientras que el segundo te borraba el contenido de todo el formulario. Esta claro que no voy a cuestionar la utilidad de los dos botones, ya que útiles son. Pero quién no le ha dado al botón de borrar en vez de enviar, cuando realmente lo que quería era enviar y no borrar. Seguro que a todos nos ha pasado alguna vez y nos hemos visto en la tesitura de volver a introducir todos los datos. En la especificación de [XForms](http://www.manualweb.net/xforms/) ¡han eliminado al componente “input type reset”¡..... Pero no del todo. La verdad es que ha dejado de ser un control y ha pasado a ser un “evento de interacción”..... ¿Cómo? Intentare explicarlo... La idea es que los eventos de interacción sean los que correlacionen los eventos con el modelo de datos de [XForms](http://www.manualweb.net/xforms/). Dentro de la categoría de eventos de interacción tenemos, además del "reset", "next" para cuando pasamos al siguiente control del formulario , ["previous"](https://www.w3api.com/Java/ArrayList/listIterator/) cuando hacemos lo mismo, pero hacía atrás, "focus" para cuando queremos hacer foco en un determinado control,..... Vale, pero yo quiero poner mi botón de toda la vida en el formulario,...... Lo primero que tenemos que hacer es construir un modelo de datos. Para este ejemplo tampoco nos vamos a inventar un mega-modelo. Hagamoslo sencillo:

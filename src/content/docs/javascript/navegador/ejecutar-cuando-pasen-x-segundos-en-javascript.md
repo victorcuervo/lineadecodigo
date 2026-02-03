@@ -7,9 +7,8 @@ tags: ["window","settimeout","setinterval"]
 slug: javascript/navegador/ejecutar-cuando-pasen-x-segundos-en-javascript
 author: victor_cuervo
 type: doc
+id: 281a8794-08d8-426f-adc8-3c61e45e04a2
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/timers/ejecutar-a-los-x-segundos.html
-topic: javascript
-
 ---
 
 Este artículo es un complemento a [Ejecutar cada X segundos en JavaScript](http://lineadecodigo.com/javascript/ejecutar-cada-x-segundos-en-javascript/). Mientras que en el primer artículo veíamos cómo utilizar el método [Javascript](https://www.manualweb.net/javascript/) [`.setInterval()`](https://www.w3api.com/DOM/Window/setInterval/) para ejecutar una función cada X segundos de forma repetitiva, en este vemos como ejecutar cuando pasen X segundos en JavaScript una función. Para ello nos apoyaremos en la función [Javascript](https://www.manualweb.net/javascript/) [`.setTimeout()`](https://www.w3api.com/DOM/Window/setTimeout/).

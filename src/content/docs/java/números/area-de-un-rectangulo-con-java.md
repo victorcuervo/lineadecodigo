@@ -7,9 +7,8 @@ tags: []
 slug: java/numeros/area-de-un-rectangulo-con-java
 author: victor_cuervo
 type: doc
+id: 4d5cd48c-496e-4a20-a0b7-c1b425644115
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/AreaRectangulo.java
-topic: java
-
 ---
 
 El calcular el área de un rectángulo con [Java](https://www.manualweb.net/java/) es un código muy sencillo, pero el cual nos sirve para resolver dos cosas: por un lado ver como hacer un programa básico en [Java](https://www.manualweb.net/java/) y otro, el resolver una formula matemática. Lo primero es conocer como calcular el área de un rectángulo. La formula es la siguiente:

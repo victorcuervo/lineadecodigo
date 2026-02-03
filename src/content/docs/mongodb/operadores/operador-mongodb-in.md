@@ -7,11 +7,8 @@ tags: ["find","in"]
 slug: mongodb/operadores/operador-mongodb-in
 author: victor_cuervo
 type: doc
+id: 7ce94ea6-344c-45c5-ba24-c5a2a5aae1a0
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/in.js
-topic: mongodb
-
-
-
 ---
 
 El **operador** [**MongoDB**](https://www.manualweb.net/mongodb/) **IN es un operador que nos sirve para simular un** [**operador MongoDB OR**](http://lineadecodigo.com/mongodb/operador-mongodb-or/) **con una lista de posibles valores**. Es decir, nos evitaría el escribir OR filtro 1 OR filtro 2... Eso sí, siempre y cuando sea sobre el mismo campo del documento.

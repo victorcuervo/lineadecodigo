@@ -7,9 +7,7 @@ tags: []
 slug: css/basicos
 author: victor_cuervo
 type: category
-
-topic: css
-
+id: 2eba9dfb-adca-8047-83fa-dde1183b8729
 ---
 
 # CSS Básico: fundamentos esenciales para dominar el estilo web

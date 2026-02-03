@@ -7,9 +7,8 @@ tags: ["form","onsubmit"]
 slug: dom/formularios/controlar-el-envio-de-un-formulario-con-javascript
 author: victor_cuervo
 type: doc
+id: 1b2341d1-0eed-421c-b673-4265a5a9796d
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/controlar-envio-formulario.html
-topic: dom
-
 ---
 
 Cuando creamos un formulario en [HTML](https://www.manualweb.net/html/) es posible que haya ciertas ocasiones en las cuales no nos interese que este no se envíe hasta que los datos cumplan unos requisitos o condiciones mínimas. Para ello podemos controlar el envío de un formulario con [JavaScript](https://www.manualweb.net/javascript/).

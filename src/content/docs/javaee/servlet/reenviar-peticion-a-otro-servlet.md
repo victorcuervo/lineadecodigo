@@ -7,8 +7,8 @@ tags: ["servlet"]
 slug: javaee/servlet/reenviar-peticion-a-otro-servlet
 author: victor_cuervo
 type: doc
+id: 7a1771cd-13ba-4f65-b693-e03f5a778f98
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/java/com/lineadecodigo/javaee/servlet/ServletForward.java
-topic: javaee
 ---
 
 No siempre un [Servlet](http://www.manualweb.net/java-ee/introduccion-a-los-servlets/) estará codificado para atender a una petición. Sino que muchas veces y por muchos motivos tendrá que reenviar la petición para que la siga procesando otro [Servlet](http://www.manualweb.net/java-ee/introduccion-a-los-servlets/). En este ejemplo vamos a ver cómo reenviar petición a otro [Servlet](http://www.manualweb.net/java-ee/introduccion-a-los-servlets/). Uno de estos casos claros es cuándo estamos implementando un **patrón Controller**. Donde ese punto de acceso encaminará las peticiones a diferentes [Servlets](http://www.manualweb.net/java-ee/introduccion-a-los-servlets/). Para encaminar la petición necesitaremos de una simple [línea de código](http://lineadecodigo.com/linea-de-codigo/que-es-una-linea-de-codigo/). Pero lo primero será codificar el método [`.doGet()`](http://www.w3api.com/wiki/Java:HttpServlet.doGet()) que es el que recibirá la petición y desde el sitio a donde interceptaremos la petición para poder encaminarla hacía otro [Servlet](http://www.manualweb.net/java-ee/introduccion-a-los-servlets/).

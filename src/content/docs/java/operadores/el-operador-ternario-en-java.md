@@ -7,9 +7,8 @@ tags: ["operadores","operador-ternario"]
 slug: java/operadores/el-operador-ternario-en-java
 author: victor_cuervo
 type: doc
+id: d32e2969-e66d-435a-80c9-9a48a8b6a620
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/OperadorTernario.java
-topic: java
-
 ---
 
 El operador ternario en [Java](https://www.manualweb.net/java/) nos va a simplificar mucho a la hora de codificar sentencias de selección dentro del código. Por ejemplo, [calcular el mayor de dos números con Java](https://lineadecodigo.com/java/mayor-de-dos-numeros/) es una cosa realmente sencilla con [Java](https://www.manualweb.net/java/). Si preguntas a cualquier programador te dirá que puedes [utilizar un simple if-then-else](https://manualweb.net/java/sentencias-decision-java/#if-then-else). Quedando un programa de pocas líneas.

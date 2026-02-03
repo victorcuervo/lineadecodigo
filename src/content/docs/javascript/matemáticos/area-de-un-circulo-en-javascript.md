@@ -7,9 +7,8 @@ tags: ["math","pi","pow","formula","circulo","area","clase"]
 slug: javascript/matematicos/area-de-un-circulo-en-javascript
 author: victor_cuervo
 type: doc
+id: 2e4d84cb-5017-480e-828f-f28b9188d4e4
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/matematicas/formulas.js
-topic: javascript
-
 ---
 
 Una de las cosas que me preguntan para diferentes lenguajes es sobre las fórmulas matemáticas. En concreto, una de las que preguntan mucho es sobre cómo podemos **calcular el área de un círculo en Javascript**.

@@ -7,11 +7,8 @@ tags: ["cursor","find","db","printjson"]
 slug: mongodb/consultas/consultas-con-mongodb-find
 author: victor_cuervo
 type: doc
+id: 53d20627-f2bd-4957-aeeb-d464893ea69c
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/find.js
-topic: mongodb
-
-
-
 ---
 
 Una vez que tengamos creada nuestra base de datos [MongoDB](https://www.manualweb.net/mongodb/) lo primero que empezaremos a realizar será consultas con MongoDB find.

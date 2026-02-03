@@ -7,11 +7,8 @@ tags: ["find","limit","cursor","hasnext"]
 slug: mongodb/consultas/consultas-mongodb-con-limite-de-documentos
 author: victor_cuervo
 type: doc
+id: 36fc8636-ed27-4bbf-aa60-958026182669
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/find-limit.js
-topic: mongodb
-
-
-
 ---
 
 Cuando estamos realizando consultas en [MongoDB](https://www.manualweb.net/mongodb/) podemos tener la necesidad de establecer un límite en el número de documentos a devolver. En este artículo vamos a ver como podemos realizar consultas [MongoDB](https://www.manualweb.net/mongodb/) con límite de documentos.

@@ -7,10 +7,8 @@ tags: ["canvas","getcontext","filltext","font"]
 slug: html/graficos/insertar-texto-en-un-canvas-de-html5
 author: victor_cuervo
 type: doc
+id: 129995b8-5b77-4501-9071-46b69f09bc39
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas/crear-texto.html
-topic: html
-
-
 ---
 
 En varios ejemplos del uso del Canvas en [HTML5](https://www.manualweb.net/html5/) hemos ido viendo como insertar diferentes elementos gráficos: [líneas](http://lineadecodigo.com/html5/dibujar-lineas-en-canvas-con-html5/), [rectángulos](http://lineadecodigo.com/html5/dibujar-un-rectangulo-en-un-canvas-con-html5/)... Pero a la hora de utilizar el Canvas en [HTML5](https://www.manualweb.net/html5/) no nos vamos a limitar a realizar dibujos, si no que también podemos insertar texto. Así que vamos a ver qué código necesitamos para insertar texto en un Canvas de [HTML5](https://www.manualweb.net/html5/).

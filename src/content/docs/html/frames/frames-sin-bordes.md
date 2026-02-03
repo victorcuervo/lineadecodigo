@@ -7,8 +7,8 @@ tags: ["frame","frameset","frameborder"]
 slug: html/frames/frames-sin-bordes
 author: victor_cuervo
 type: doc
+id: 2c5a9dfb-adca-8098-9abf-e3872f534fc8
 download: https://github.com/victorcuervo/lineadecodigo/tree/master/lineadecodigo_html/frames/frame-sin-borde
-topic: html
 ---
 
 Cuando estamos creando un sistema de frames en [HTML](http://www.manualweb.net/tutorial-html/), y lo cargamos por primera vez, podemos comprobar de forma explicita que, por defecto, los frames TIENEN BORDE. Es decir, podemos ver claramente cual es división que hemos efectuado con los frames sobre la página. Quedándonos claramente delimitados los áreas del mismo. Si bien, cuando diseñemos, puede que no nos interese que nos aparezcan estos molestos bordes. Si digo la verdad no soy capaz de recordar ninguna página donde aparezcan estos dichosos bordes. A si que deberemos de aprender a quitar los bordes de los frames. Para ello lo primero que tenemos que hacer es recordar como se modela una página con frames. Esta página contiene un conjunto de frames, el cual se modela con la etiqueta [frameset](http://w3api.com/wiki/HTML:FRAMESET). En esta etiqueta decidimos si la división es por columnas

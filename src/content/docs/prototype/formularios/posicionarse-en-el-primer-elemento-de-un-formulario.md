@@ -7,8 +7,8 @@ tags: ["form","focusfirstelement"]
 slug: prototype/formularios/posicionarse-en-el-primer-elemento-de-un-formulario
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8197-b977-d40895dbc7ce
 download: https://github.com/victorcuervo/lineadecodigo_prototype/blob/master/formularios/posicionar-primer-elemento-formulario.html
-topic: prototype
 ---
 
 Si queremos facilitar la vida a nuestros usuarios, nos deberemos de preocupar de ayudarles a la hora de manipular nuestras páginas [HTML](http://www.manualweb.net/html). Por ejemplo, si tenemos un formulario para capturar los datos, una gran ayuda para el usuario será el posicionarse el cursor en el primer campo del formulario.

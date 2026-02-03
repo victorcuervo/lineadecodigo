@@ -7,8 +7,8 @@ tags: ["form","input","password"]
 slug: html/formularios/formulario-para-pedir-passwords
 author: victor_cuervo
 type: doc
+id: 47f7e926-34b1-4e8b-8ca9-131f17178983
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/formularios/formulario-para-password.html
-topic: html
 ---
 
 Si estamos con construyendo un [formulario HTML](http://www.manualweb.net/html/formularios-html/), bien para dar un alta de un usuario o bien para autentificarle en un proceso de login, vamos a **necesitar el utilizar campos de entrada donde no se pueda leer lo que se escribe**. Para ello vamos a ver cómo se construye un formulario para pedir passwords.

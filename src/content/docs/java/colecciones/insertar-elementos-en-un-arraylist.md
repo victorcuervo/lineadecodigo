@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist","add","size"]
 slug: java/colecciones/insertar-elementos-en-un-arraylist
 author: victor_cuervo
 type: doc
+id: 6e6f7fdf-99ea-49fc-85f8-f8df000afc5b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/AddElementosLista.java
-topic: java
-
 ---
 
 Una vez que hemos aprendido a crear un [`ArrayList`](https://www.w3api.com/Java/ArrayList/) vamos a ver como podemos insertar elementos en un [`ArrayList`](https://www.w3api.com/Java/ArrayList/) de [Java](https://www.manualweb.net/java/) para ir rellenándolo de información.

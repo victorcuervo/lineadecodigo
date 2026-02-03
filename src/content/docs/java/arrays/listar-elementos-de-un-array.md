@@ -7,9 +7,8 @@ tags: ["for","length","println","array","bucles"]
 slug: java/arrays/listar-elementos-de-un-array
 author: victor_cuervo
 type: doc
+id: 9aad2c35-77b4-4023-a22a-16e0324a1a5b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/ListarElementosArray.java
-topic: java
-
 ---
 
 ## Introducción

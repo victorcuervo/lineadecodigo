@@ -7,11 +7,8 @@ tags: ["object","insert"]
 slug: mongodb/inserciones/insertar-documento-en-mongodb
 author: victor_cuervo
 type: doc
+id: f12aeb27-5380-444e-a47a-07e7a79cbf8e
 download: https://github.com/victorcuervo/lineadecodigo_mongodb/blob/master/mongodb-crud/mongodb-insert/insert.js
-topic: mongodb
-
-
-
 ---
 
 Mediante este ejemplo vamos a realizar la operación de insertar documento en [MongoDB](https://www.manualweb.net/mongodb/). Para ello crearemos un documento mediante [Javascript](https://www.manualweb.net/javascript/) y lo insertaremos en una colección.

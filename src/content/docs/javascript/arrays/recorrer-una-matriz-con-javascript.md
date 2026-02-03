@@ -7,9 +7,8 @@ tags: ["array","matriz","bucles","for","console-log"]
 slug: javascript/arrays/recorrer-una-matriz-con-javascript
 author: victor_cuervo
 type: doc
+id: 559a36aa-6b4a-4787-b782-0b494af346cf
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/recorrer-matriz.js
-topic: javascript
-
 ---
 
 Ayer [hablábamos de cómo podíamos multiplicar matrices en Javascript](http://lineadecodigo.com/javascript/multiplicar-matrices-en-javascript/) y caimos en la cuenta que no habíamos explicado algo tan sencillo como es **recorrer una matriz con** [Javascript](http://www.manualweb.net/javascript). Así que no podíamos dejar pasar el tiempo y nos hemos puesto manos a la obra para poder explicaros cómo se realiza esta tarea.

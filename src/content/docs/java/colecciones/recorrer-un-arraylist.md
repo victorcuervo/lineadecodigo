@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist","string","add","size"]
 slug: java/colecciones/recorrer-un-arraylist
 author: victor_cuervo
 type: doc
+id: 03b44d77-36f6-421e-83b0-1f59d7a6daa2
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/RecorrerArrayList.java
-topic: java
-
 ---
 
 Un [`ArrayList`](https://www.w3api.com/Java/ArrayList/) es una lista en [Java](https://www.manualweb.net/java/) de elementos los cuales se pueden recorrer hacía delante o hacia atrás, ya que sus elementos están enlazados entre sí. Lo más normal es que pensemos recorrer un [ArrayList](https://www.w3api.com/Java/ArrayList/) mediante iteradores que nos vayan desplazando por cada uno de los elementos, si bien, en este caso vamos a ver que podemos recorrer un [ArrayList](https://www.w3api.com/Java/ArrayList/) de [la forma tradicional en la que se recorren los array normales](https://lineadecodigo.com/java/listar-elementos-de-un-array/), haciéndolo realmente sencillo.

@@ -7,8 +7,8 @@ tags: ["elementtree","parse","getroot","findall"]
 slug: python/xml/leer-xml-con-python
 author: victor_cuervo
 type: doc
+id: 40161b88-91ae-4a25-8c13-9125f2f5836e
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/xml/leer-xml.py
-topic: python
 ---
 
 Si hay una cosa por la que me encanta [Python](https://www.manualweb.net/python) es por la sencillez que ofrece para hacer ciertas tareas. En el ejemplo de hoy vamos a ver cómo podemos leer [XML](https://www.manualweb.net/xml) con [Python](https://www.manualweb.net/python). Para ello contaremos con un fichero que tiene un contenido en [XML](https://www.manualweb.net/xml). Este fichero se llamará data.xml

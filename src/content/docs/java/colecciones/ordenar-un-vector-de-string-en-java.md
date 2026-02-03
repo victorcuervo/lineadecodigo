@@ -7,9 +7,8 @@ tags: ["bucles","foreach","java-collection","vector","sort","add"]
 slug: java/colecciones/ordenar-un-vector-de-string-en-java
 author: victor_cuervo
 type: doc
+id: 0122958a-d959-42d1-94bc-2232e0fca7ad
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/OrdenarVector.java
-topic: java
-
 ---
 
 Dentro de la librería java.util encontramos una serie de métodos que nos ayudan a ordenar las colecciones como vectores, listas,... Para ello nos apoyamos en la clase Collections. Lo primero que tenemos que hacer para ordenar un Vector de [String](https://www.w3api.com/Java/String/) en [Java](https://www.manualweb.net/java/) es crear dicho Vector:

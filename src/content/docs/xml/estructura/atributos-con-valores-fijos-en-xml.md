@@ -7,10 +7,8 @@ tags: ["attlist","fixed","pcdata"]
 slug: xml/estructura/atributos-con-valores-fijos-en-xml
 author: xhrist14n
 type: doc
+id: 2c8a9dfb-adca-81bf-9be6-edb6f4c2f64b
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/dtd/atributo-fijo.dtd
-topic: xml
-
-
 ---
 
 Dentro de un DTD definiremos cómo queremos que sea nuestro documento y la estructura que va a tener. Cuando estemos trabajando con elementos y atributos, una de las cosas que podemos hacer es definir **atributos con valores fijos en** [**XML**](http://www.manualweb.net/xml/). Es decir, que solo podrán contener un valor específico.

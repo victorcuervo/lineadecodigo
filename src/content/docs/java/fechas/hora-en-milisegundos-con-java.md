@@ -7,9 +7,8 @@ tags: ["system","currenttimemillis"]
 slug: java/fechas/hora-en-milisegundos-con-java
 author: victor_cuervo
 type: doc
+id: 3d449dde-124f-450b-bf4f-4f67d2f227a1
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/HoraEnMilisegundos.java
-topic: java
-
 ---
 
 Cuando hacemos pruebas de rendimiento solemos tomar como base medidas en milisegundos o microsegundos. Sobre todo cuando estamos haciendo pruebas de sistemas transaccionales.

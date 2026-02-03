@@ -7,8 +7,8 @@ tags: ["eventtarget","addeventlistener","arrow"]
 slug: dom/eventos/listener-con-una-funcion-arrow
 author: victor_cuervo
 type: doc
+id: 258efb6d-b2df-45e0-957a-7d31b644f64c
 download: https://github.com/victorcuervo/lineadecodigo_dom/blob/main/eventos/escuchar-evento-arrow.html
-topic: dom
 ---
 
 Hemos creado [manejadores de eventos de diferentes formas](https://lineadecodigo.com/tag/javascript-eventos-addeventlistener/) en [Javascript](https://www.manualweb.net/javascript/). Normalmente recurrimos a una función anónima para crear el manejador del evento, en este caso vamos a crear un listener con una función arrow. Veremos que el código que creamos para gestionar el manejador [Javascript](https://www.manualweb.net/javascript/) es muy sencillo.

@@ -7,9 +7,8 @@ tags: ["intl","format","json","locale","numberformat"]
 slug: javascript/formatos/formatear-divisas-en-javascript
 author: victor_cuervo
 type: doc
+id: d6736a76-d500-42bf-b224-6440025a942a
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/i18n/formatear-divisas.js
-topic: javascript
-
 ---
 
 Una de las capacidades que encontramos con el objeto [Intl.NumberFormat](https://w3api.com/Javascript/Intl/NumberFormat/), entre [muchas de las que le hemos visto](http://lineadecodigo.com/tag/javascript-intl/), es la posibilidad de **formatear divisas en Javascript**. Pero, ¿en qué consiste este formateo? 

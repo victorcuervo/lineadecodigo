@@ -7,9 +7,8 @@ tags: ["string","replace"]
 slug: java/strings/remplazar-caracteres-con-java
 author: victor_cuervo
 type: doc
+id: 93f470f5-faf5-4779-8add-41883a51af8a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/RemplazarCaracteres.java
-topic: java
-
 ---
 
 Estaba revisando las notas sobre la clase [String](https://www.w3api.com/Java/String/) y los ejemplos publicados por [Linea de Código](http://lineadecodigo.com/) al respecto. Es en ese momento cuando me he dado cuenta que, entre otros muchos, no tenía publicado un ejemplo que explicase como se hace la sustitución de caracteres en una cadena de texto. La verdad es que la sustitución en si no es que se diga muy complicada. Basta con saber cómo usar el método [replace(char oldChar, char newChar)](https://www.w3api.com/Java/String/.replace()). Este método busca todos los caracteres que coincidan con el parámetro oldChar y los sustituye por el carácter que tenga en newChar. Más sencillo no puede ser. Mi gran dilema surge cuando pienso en cual puede ser el ejemplo a usar para mostrar esto. Seguro que hay alguna frase graciosa para ilustrar el ejemplo. Y es que hay que aprender con cosas que nos llamen la atención. Esto facilita mucho las cosas. En ese momento me viene a la mente “Cuando Fernando Séptimo Usaba Paletó”. Creo que me han afectado las vacaciones si a la hora que es tengo en mente esta canción, pero vamos allá.

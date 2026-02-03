@@ -7,9 +7,8 @@ tags: ["java-io","bufferedreader","file","filereader","system","garbage-collecto
 slug: java/ficheros/contar-las-vocales-de-un-fichero-en-java
 author: xhrist14n
 type: doc
+id: 07ab4f13-f676-4b71-83ca-b54dad1c1c1a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/io/ContarVocalesFichero.java
-topic: java
-
 ---
 
 Para poder proceder a contar las vocales de un fichero en [Java](https://www.manualweb.net/java/) debemos ser capaces de leer el fichero y luego proceder a hacer el conteo de vocales. Por tanto para hacer la lectura de un archivo en [Java](https://www.manualweb.net/java/) necesitamos lo siguiente:

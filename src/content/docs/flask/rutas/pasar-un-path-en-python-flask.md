@@ -7,9 +7,8 @@ tags: ["path","route"]
 slug: flask/rutas/pasar-un-path-en-python-flask
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81be-9496-edf28feb71be
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/tipospath.py
-topic: flask
-
 ---
 
 Cuando estemos creando servicios Rest en [Python](http://www.manualweb.net/python/) Flask se puede dar el caso de necesitar subir un fichero a un servicio. En este caso es posible que haya que enviar un path al servicio.

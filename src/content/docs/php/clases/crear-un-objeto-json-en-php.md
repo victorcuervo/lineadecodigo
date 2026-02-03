@@ -7,9 +7,8 @@ tags: ["json","json_encode","stdclass","array"]
 slug: php/clases/crear-un-objeto-json-en-php
 author: victor_cuervo
 type: doc
+id: 9e1647fd-2376-4730-8e6e-c036fd159a36
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/json/crear-objeto-json.php
-topic: php
-
 ---
 
 JSON es una notación de objetos en formato Javascript. Mediante JSON podemos realizar un intercambio sencillo de datos entre el cliente y el servidor. En este artículo vamos a ver como crear un objeto JSON en [PHP](http://www.manualweb.net/php/). Lo primero que haremos para crear un objeto JSON en [PHP](http://www.manualweb.net/php/) será [crear un objeto en PHP](http://lineadecodigo.com/php/crear-un-objeto-en-php/). El objeto que vamos a crear es una pregunta de la categoría de un test

@@ -7,8 +7,8 @@ tags: ["xml","elementtree","parse","getroot","findall"]
 slug: python/xml/actualizar-un-fichero-xml-con-python
 author: victor_cuervo
 type: doc
+id: 6fc54efa-dd03-4a57-bc1a-233b895a6db3
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/xml/actualizar-xml.py
-topic: python
 ---
 
 Ya hemos visto cómo [crear un fichero XML con Python](https://lineadecodigo.com/python/crear-un-fichero-xml-con-python/) y el módulo [`xml.etree.ElementTree`](https://www.w3api.com/Python/xml-etree-ElementTree/), ahora vamos a ver cómo podemos actualizar un fichero [XML](https://www.manualweb.net/xml/) con [Python](https://www.manualweb.net/python/) utilizando la misma librería. La idea del ejemplo será cargar un fichero XML que contiene una lista de nombres con el siguiente formato:

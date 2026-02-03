@@ -7,9 +7,8 @@ tags: ["validation","substring","regexp","modulo"]
 slug: javascript/expresiones-regulares/calculo-del-nif-en-javascript
 author: victor_cuervo
 type: doc
+id: 000bf2bb-2f29-4f1a-a815-28e908d7e048
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/validaciones/calculo-del-nif-en-javascript.html
-topic: javascript
-
 ---
 
 Este ejemplo es muy sencillo pero muy útil. Consiste en calcular la letra del NIF a partir del número del DNI dentro de una página web con la ayuda de [JavaScript](https://www.manualweb.net/javascript/). El procedimiento del cálculo consiste en realizar el módulo de 23. Su resultado nos dará una posición en una secuencia de letras (TRWAGMYFPDXBNJZSQVHLCKE). La letra situada en dicha posición será la letra del NIF.

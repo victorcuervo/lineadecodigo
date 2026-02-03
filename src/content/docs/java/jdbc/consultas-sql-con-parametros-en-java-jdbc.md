@@ -7,9 +7,8 @@ tags: ["jdbc","preparedstatement","select"]
 slug: java/jdbc/consultas-sql-con-parametros-en-java-jdbc
 author: Víctor Cuervo
 type: doc
+id: 0a44055e-a1a1-409a-a7e4-774749bf47ad
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/SentenciasConValores.java
-topic: java
-
 ---
 
 Contra una base de datos podemos ejecutar diferentes tipos de sentencias, desde una simple consulta, pasando por inserciones masivas, hasta una sentencia que aumente los permisos de un grupo de usuarios. Pero ahora nos vamos a centrar en las consultas (SELECT) con [Java JDBC](http://lineadecodigo.com/tag/java-jdbc/). Este tipo de sentencias las utilizaremos para recuperar un conjunto de datos de la base de datos. En ellas, lo normal, es seleccionar un conjunto de campos de una tabla y mostrarlos por pantalla. Claro esta que cuando abandonamos el ejemplo básico de la tabla de 10 registros y nos enfrentemos a tablas de millones y millones de datos, deberíamos, vamos, que sería bastante aconsejable, realizar algún tipo de filtro. Creo que cualquier administrador de bases de datos podría llegar a las manos con nosotros si ejecutamos una consulta sobre una tabla de clientes si no incluyésemos ningún filtro. Ahora, que si solo filtramos por ciudad igual a "Ávila", creo que también. Bueno, a lo que vamos. Tenemos diferentes formas de realizar filtros en una consulta. El primer acercamiento es codificar directamente los valores en la sentencia. Algo como...

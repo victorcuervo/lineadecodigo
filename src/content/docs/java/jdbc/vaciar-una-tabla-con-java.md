@@ -7,9 +7,8 @@ tags: ["preparedstatement","delete","where","truncate","sqlexception"]
 slug: java/jdbc/vaciar-una-tabla-con-java
 author: victor_cuervo
 type: doc
+id: b9b6ace2-c1b6-4b3e-a2a4-9bb87112342c
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/VaciarTabla.java
-topic: java
-
 ---
 
 No en todas las ocasiones que queramos eliminar una tabla tenemos que borrarla. Puede darse el caso que necesitemos **vaciar una tabla con Java JDBC**, sin tener que borrarla.

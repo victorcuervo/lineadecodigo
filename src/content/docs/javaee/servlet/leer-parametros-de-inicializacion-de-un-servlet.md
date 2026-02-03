@@ -7,8 +7,8 @@ tags: ["servlet","init","servletconfig"]
 slug: javaee/servlet/leer-parametros-de-inicializacion-de-un-servlet
 author: victor_cuervo
 type: doc
+id: 2c4a9dfb-adca-8096-8e47-e236ef4d04ee
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/java/com/lineadecodigo/javaee/servlet/ParametrosInicio.java
-topic: javaee
 ---
 
 En la vida de ejecución de un [servlet](http://www.manualweb.net/javaee/introduccion-servlets/), este, recuperará información de múltiples sitios. Por ejemplo recibirá en la petición información vía parámetros, recuperará datos de múltiples orígenes: bases de datos, ficheros,… Es por ello que es importante saber **leer parámetros de inicialización de un servlet**. Uno de los sitios de donde podrá recuperar información son los **parámetros de inicialización del servlet**. Cuando creamos un [servlet](http://www.manualweb.net/javaee/introduccion-servlets/) y lo definimos en el descriptor de despliegue, podemos indicarle que el [servlet](http://www.manualweb.net/javaee/introduccion-servlets/) lleva asociado [parámetros de inicialización](http://lineadecodigo.com/tag/java-servlet-init/) y los valores de dichos parámetros. El uso de estos parámetros es muy potente, ya que se pueden modificar sus valores, con el fin de obtener un comportamiento diferente del [servlet](http://www.manualweb.net/javaee/introduccion-servlets/), sin necesidad de recompilar este. Algunos de los usos de los [parámetros de inicialización](http://lineadecodigo.com/tag/java-servlet-init/) podrían ser:

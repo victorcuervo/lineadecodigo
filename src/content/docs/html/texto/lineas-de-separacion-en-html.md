@@ -7,9 +7,8 @@ tags: ["hr"]
 slug: html/texto/lineas-de-separacion-en-html
 author: victor_cuervo
 type: doc
+id: 18349f24-b5d5-4212-acf7-24ee20dc577b
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/basicos/lineas-de-separacion.html
-topic: html
-
 ---
 
 Seguro que muchas veces has entrado en una web y has visto que se utilizan líneas para separar los párrafos de texto. Algunas veces no dejan de ser simples líneas de un color uniforme, normalmente gris, pero otras veces llegan a ser verdaderas obras de arte.

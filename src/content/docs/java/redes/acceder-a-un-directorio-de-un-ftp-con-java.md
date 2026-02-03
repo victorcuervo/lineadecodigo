@@ -7,9 +7,8 @@ tags: ["java-net","ftpclient","connect","login","printworkingdirectory","changew
 slug: java/redes/acceder-a-un-directorio-de-un-ftp-con-java
 author: Víctor Cuervo
 type: doc
+id: 4fb37dc0-4154-48ec-aa2d-feb4f9c070cf
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/net/ftp/CambiarDirectorioFTP.java
-topic: java
-
 ---
 
 Ya vimos en un ejemplo los pasos que hay que seguir para conectarse a un FTP mediante un programa en [Java](https://www.manualweb.net/java/). Con ese código veíamos como acceder al directorio raíz del FTP. Para ello utilizábamos las [librerías Apache Commons](http://commons.apache.org/). Ahora vamos a ver cómo podemos acceder con [Java](https://www.manualweb.net/java/) a un directorio concreto del FTP para acceder a su información. Lo primero de todo será conectarnos al FTP. Así que creamos una clase FTPClient.

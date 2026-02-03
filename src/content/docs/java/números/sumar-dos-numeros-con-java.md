@@ -7,8 +7,8 @@ tags: ["java-util","scanner","system"]
 slug: java/numeros/sumar-dos-numeros-con-java
 author: victor_cuervo
 type: doc
+id: 529082e7-f968-480e-b903-d0945d37e790
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/SumarNumerosTeclado.java
-topic: java
 ---
 
 Empezaremos el ejemplo de sumar dos números con [Java](https://www.manualweb.net/java/) pidiendo dichos números por consola. Nos apoyaremos en la clase [`Scanner`](https://www.w3api.com/Java/Scanner/) para realizar esta tarea. Es por ello que instanciaremos el [`Scanner`](https://www.w3api.com/Java/Scanner/) sobre la consola, la cual es representada mediante la clase [`System.in`](https://www.w3api.com/Java/System/in/).

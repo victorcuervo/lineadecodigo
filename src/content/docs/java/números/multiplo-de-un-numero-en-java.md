@@ -7,8 +7,8 @@ tags: ["multiplos","operadores","modulo"]
 slug: java/numeros/multiplo-de-un-numero-en-java
 author: victor_cuervo
 type: doc
+id: 0bdb90cd-460e-4162-8cf3-d26e6d867f16
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/Multiplos.java
-topic: java
 ---
 
 Los múltiplos de un número son los número resultado de multiplicar dicho número por la secuencia de números enteros. Así, los múltiplos del número 2 serían 2,4,6,8,10,12,... los múltiplos del 3 serían 3,6,9,12,15,... Para conocer si un número es múltiplo de otro, tendremos que ejecutar una división entre los dos y que el resto sea 0 (o que el cociente sea un número entero). En este caso, si queremos saber si 21 es múltiplo de 3, dividiremos uno entre otro viendo que el cociente es 7 (número entero) y el resto es 0. Por lo tanto podemos concluir que 21 es múltiplo de 3. Si queremos expresar esto mediante lenguaje [Java](https://www.manualweb.net/java/) podemos apoyarnos en el operador módulo (%), el cual nos devuelve el valor del resto de la división.

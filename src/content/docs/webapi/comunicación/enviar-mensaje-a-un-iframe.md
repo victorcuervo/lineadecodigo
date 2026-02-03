@@ -7,9 +7,8 @@ tags: ["iframe","addeventlistener","postmessage","webmessaging"]
 slug: webapi/comunicacion/enviar-mensaje-a-un-iframe
 author: victor_cuervo
 type: doc
+id: d2f63111-bdfc-4c59-89f8-4aa0bb51bee3
 download: https://github.com/victorcuervo/lineadecodigo_html5/tree/master/Web%20Messaging/Envio%20Mensajes
-topic: webapi
-
 ---
 
 En este ejemplo vamos a ver cómo podemos enviar un mensaje a un iframe desde la página que lo contiene utilizando el API Web Messaging definido en [HTML5](https://www.manualweb.net/html5/). Es interesante que le eches un ojo al artículo que explica las bases del envío de mensajes [Web Messaging en HTML5](https://lineadecodigo.com/html5/web-messaging-en-html5/).

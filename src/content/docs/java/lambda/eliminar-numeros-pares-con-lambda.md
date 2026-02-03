@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist","iterator","removeif","predicate","lambda"]
 slug: java/lambda/eliminar-numeros-pares-con-lambda
 author: victor_cuervo
 type: doc
+id: 72db9d37-ca1d-4b14-b0e2-f84deff53568
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/EliminarElementosParesPredicado.java
-topic: java
-
 ---
 
 En este ejemplo vamos a utilizar programación funcional para poder eliminar números pares con Lambda de un [`ArrayList`](http://w3api.com/Java/ArrayList/) en [Java](https://www.manualweb.net/java). Es decir, la idea es tener una lista de números en un [`ArrayList`](http://w3api.com/Java/ArrayList/) y poder eliminar aquellos que sean pares (o impares, si prefieres hacer eso) De esta manera lo primero que tenemos que hacer es [crear nuestro ArrayList](https://lineadecodigo.com/tag/java-collection-arraylist/) de números enteros e [insertar una serie de números](https://lineadecodigo.com/java/insertar-elementos-en-un-arraylist/).

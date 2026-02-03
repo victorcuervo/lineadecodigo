@@ -7,9 +7,8 @@ tags: ["Java Collection","Java Collection ArrayList","arraylist","iterator"]
 slug: java/colecciones/reemplazar-un-elemento-del-arraylist
 author: victor_cuervo
 type: doc
+id: 36e9f955-400e-4d0b-a69e-a11d5dc10cb7
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/ReemplazarElementoLista.java
-topic: java
-
 ---
 
 Un [`ArrayList`](https://www.w3api.com/Java/ArrayList/removeIf/) contiene una lista de elementos enlazados. Cuando estemos manipulando una lista es posible que necesitemos **reemplazar un elemento del ArrayList**. De esta forma sustituiremos el contenido de uno de estos elementos por otro contenido.

@@ -7,9 +7,7 @@ tags: []
 slug: css/flexbox
 author: victor_cuervo
 type: category
-
-topic: css
-
+id: 2eba9dfb-adca-8012-8999-fbffff56ea53
 ---
 
 # Flexbox en CSS: diseño unidimensional moderno

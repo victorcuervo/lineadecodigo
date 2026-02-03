@@ -7,8 +7,8 @@ tags: ["id","img"]
 slug: prototype/basicos/acceder-a-elementos-con-prototype
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-810b-8213-fec707c45a13
 download: https://github.com/victorcuervo/lineadecodigo_prototype/blob/master/basico/acceder-a-elementos.html
-topic: prototype
 ---
 
 Podríamos decir que la característica principal del framework [Prototype](http://lineadecodigo.com/categoria/prototype/) es la facilidad de acceder a un elemento de la página web. [Prototype](http://lineadecodigo.com/categoria/prototype/) nos proporciona una forma unificada de acceso a los elementos de forma independiente al navegador que estemos utilizando.

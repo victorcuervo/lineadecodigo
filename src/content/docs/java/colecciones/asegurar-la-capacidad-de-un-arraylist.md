@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist","size","ensurecapacity"]
 slug: java/colecciones/asegurar-la-capacidad-de-un-arraylist
 author: victor_cuervo
 type: doc
+id: c41ce70c-233f-4414-bf2b-db8c7ba23399
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/AsegurarCapacidadArrayList.java
-topic: java
-
 ---
 
 Un [ArrayList es una lista de elementos dinámicas](https://lineadecodigo.com/tag/java-collection-arraylist/), es decir, que nos permite crecer o decrecer en el número de elementos que contiene de forma dinámica a lo largo de la ejecución del programa. De esta forma, la JVM va controlando la capacidad que tiene que reservar en la memoria para hacer el tratamiento de dichos elementos. Si bien, si queremos asegurar la capacidad de un ArrayList en [Java](https://www.manualweb.net/java) deberemos de indicarlo de forma programática. Y es que en el tratamiento de grandes volúmenes de datos podríamos encontrarnos con el caso de que nos quedemos sin memoria para poder manipularlos. Y es, en este caso, dónde vamos a asegurarnos de la capacidad. La idea es hacerlo sobre un [`ArrayList`](http://w3api.com/Java/ArrayList/), es por ello que lo primero es partir de un [`ArrayList`](http://w3api.com/Java/ArrayList/).

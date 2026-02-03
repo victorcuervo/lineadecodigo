@@ -7,9 +7,8 @@ tags: ["function","arguments"]
 slug: javascript/funciones/funcion-con-parametros-variables-en-javascript
 author: victor_cuervo
 type: doc
+id: 5246ead5-284a-49cd-8f5f-fd992837dcd0
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/funcion-argumentos-variables.html
-topic: javascript
-
 ---
 
 Una función, en toda su definición básica tiene varias partes: nombre, parámetros y el cuerpo.

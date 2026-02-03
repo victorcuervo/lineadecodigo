@@ -7,9 +7,8 @@ tags: ["getelementbyid","form","event","clientx","clienty"]
 slug: dom/eventos/coordenadas-del-raton-con-javascript
 author: victor_cuervo
 type: doc
+id: 457122cf-7c1b-464e-8f06-123fa31e9bc6
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/raton/coordenadas-raton.html
-topic: dom
-
 ---
 
 En este ejemplo vamos a ver como podemos conocer las coordenadas del ratón con [Javascript](https://www.manualweb.net/javascript/). Para ello, el ejemplo consistirá en volcar sobre dos campos de entrada de un formulario los valores de las coordenadas X,Y donde se encuentra posicionado el puntero del ratón.

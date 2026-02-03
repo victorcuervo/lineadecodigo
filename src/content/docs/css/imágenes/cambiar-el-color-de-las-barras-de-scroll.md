@@ -7,9 +7,8 @@ tags: ["color","formulario","textarea","scrollbar","scroll"]
 slug: css/imagenes/cambiar-el-color-de-las-barras-de-scroll
 author: victor_cuervo
 type: doc
+id: 234e6446-dcd1-4fe1-b4c2-c0e9d37b0219
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/colores/color-barras-scroll.html
-topic: css
-
 ---
 
 Si queremos cambiar el color de las barras de scroll de nuestra página podemos utilizar propiedades [CSS](http://www.manualweb.net/css/). Si bien tenemos que tener en cuenta que estas propiedades no están soportadas por el estándar [CSS](http://www.manualweb.net/css/) de la [W3C](http://www.w3c.org/). Es decir, depende del navegador web que estemos utilizando y del soporte que se tenga sobre estos elementos. [Utilizando la página CanIUse podemos comprobar que el soporte de estas propiedades](https://caniuse.com/mdn-css_properties_scrollbar-3dlight-color). Podemos ver que se realiza solo en el navegador Internet Explorer desde **Internet Explorer 5.5** hasta **Internet Explorer 11**. Las propiedades [CSS](http://www.manualweb.net/css/) de scroll que podemos utilizar son las siguientes: - **scrollbar-3dlight-color**, color del borde que hace el efecto 3D en la barra de scroll.

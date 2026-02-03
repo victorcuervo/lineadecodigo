@@ -7,10 +7,8 @@ tags: ["email","input","formulario","validation"]
 slug: html/formularios/input-email-en-html5
 author: victor_cuervo
 type: doc
+id: 93f10405-9275-4422-a66f-8f41e73378c9
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/input-email.html
-topic: html
-
-
 ---
 
 Una de las cosas que nos trajo [HTML5](http://www.manualweb.net/html5/) fue una gran **cantidad de controles de formulario**. Controles que además venían enriquecidos con controles de validación de los datos que manejaban. Entre ellos el input email en [HTML5](http://www.manualweb.net/html5/).

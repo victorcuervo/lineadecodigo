@@ -7,9 +7,8 @@ tags: ["audio","formatos","mpeg","ogg","acc"]
 slug: html/audio/poner-musica-en-tu-web-con-html5
 author: victor_cuervo
 type: doc
+id: 0970432f-c4e2-46a7-8edd-2a7cd651fa38
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Audio/cargar-musica-html5.html
-topic: html
-
 ---
 
 Una de las cosas que ya está estandarizada en [HTML5](https://www.manualweb.net/html5/) es la reproducción de elementos de audio. Es decir, podemos poner música en la web de una forma estándar.

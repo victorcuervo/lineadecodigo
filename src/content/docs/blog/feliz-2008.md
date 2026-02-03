@@ -7,9 +7,7 @@ tags: ["felicitacion"]
 slug: blog/feliz-2008
 author: Víctor Cuervo
 type: blog
-
-topic: blog
-
+id: 2c8a9dfb-adca-8110-a1d1-e3e874029b92
 ---
 
 Primero miremos atrás... Aunque no he llegado al número de artículos que me hubiese gustado (era demasiado exigente) y ha tenido épocas de sequía, podríamos decir que el año 2007 ha sido muy productivo para [Linea de Código](https://lineadecodigo.com/).

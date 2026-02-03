@@ -7,9 +7,8 @@ tags: ["array","string","stringbuffer","append","length"]
 slug: java/arrays/convertir-un-array-en-un-string-con-java
 author: victor_cuervo
 type: doc
+id: 78600763-b2db-452f-b4e2-94c23371b6e1
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/Array2String.java
-topic: java
-
 ---
 
 El otro día [nos preguntaban sobre cómo se podría realizar la conversión entre un array una cadena](http://lineadecodigo.com/java/convertir-una-cadena-en-un-array-de-caracteres-con-java/#48920) o [String](https://www.w3api.com/Java/String/) en [Java](https://www.manualweb.net/java/). Veamos los pasos que hay que seguir para conseguirlo. Lo primero será partir del array. En este caso es un array de cadenas. Podría ser de otro tipo, lo cual llevaría una conversión posterior. Pero hemos decidido simplificar las cosas:

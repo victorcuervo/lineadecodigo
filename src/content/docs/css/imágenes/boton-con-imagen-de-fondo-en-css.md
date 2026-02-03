@@ -7,8 +7,8 @@ tags: ["background-image","url","background-repeat"]
 slug: css/imagenes/boton-con-imagen-de-fondo-en-css
 author: victor_cuervo
 type: doc
+id: e749ab62-83db-40b8-a3f0-2ec1c3eaa442
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/formularios/boton-con-imagen-de-fondo.html
-topic: css
 ---
 
 En el articulo de ayer [veíamos cómo se manejaban las imágenes en los botones dentro de XForms](https://lineadecodigo.com/xforms/botones-con-imagenes-en-xforms/). [XForms](https://lineadecodigo.com/categoria/xforms/) será, esperemos, la evolución de los formularios [HTML](https://www.manualweb.net/html/) dentro de XHTML v2. Pero, a día, de hoy, con lo que tenemos que convivir es con [HTML](https://www.manualweb.net/html/) + [CSS](http://www.manualweb.net/css/). Es por ello que nos tendremos que apoyar en los atributos de [CSS](http://www.manualweb.net/css/) para poder poner crear un botón con imagen de fondo en CSS. La idea general es utilizar el [atributo ](http://w3api.com/CSS/background-image/)[`background-image`](http://w3api.com/CSS/background-image/), el cual pone una imagen de fondo sobre el elemento de la página sobre el que se aplique. Para ello vamos a crear una clase que llamaremos _"botonimagen"_, la cual podremos aplicar sobre cualquier botón de nuestra página. Lo primero es definir dicha clase, esto lo tenemos que hacer con el [atributo ](http://w3api.com/HTML/style/)[`style`](http://w3api.com/HTML/style/). Dicho elemento tiene un atributo type. Este atributo sirve para indicarle qué estilo va a ir definido dentro de la etiqueta. En nuestro caso será text/css. El código será el siguiente:

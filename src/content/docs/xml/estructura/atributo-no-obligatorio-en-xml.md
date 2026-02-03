@@ -7,10 +7,8 @@ tags: ["dtd","element","attlist","implied"]
 slug: xml/estructura/atributo-no-obligatorio-en-xml
 author: xhrist14n
 type: doc
+id: 2c8a9dfb-adca-81f7-8cd9-d05abc97c8f9
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/dtd/atributo-no-obligatorio.dtd
-topic: xml
-
-
 ---
 
 Ya hemos visto cómo podemos [definir un atributo obligatorio en XML dentro de un DTD](http://lineadecodigo.com/xml/definir-un-atributo-obligatorio-en-xml/). Ahora vamos a ver cómo podemos **definir un atributo no obligatorio en** [**XML**](http://www.manualweb.net/xml/). Los pasos son iguales, solo que en este caso vamos a utilizar el **modificador #IMPLIED**.

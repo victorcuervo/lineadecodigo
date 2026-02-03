@@ -7,9 +7,8 @@ tags: ["battery","batterymanager","chargingchange","charging"]
 slug: webapi/dispositivos/saber-si-la-bateria-esta-cargando-con-html5
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81ee-a96b-ff012190ed91
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Device/Battery/cargando-bateria.html
-topic: webapi
-
 ---
 
 Para saber si la batería está cargando con [HTML5](https://www.manualweb.net/html5/) vamos a apoyarnos sobre el **Battery API**. Esta funcionalidad es una de las que ofrece dicho API, donde también podemos saber el nivel actual de la batería o el tiempo de vida que le puede quedar a la batería.

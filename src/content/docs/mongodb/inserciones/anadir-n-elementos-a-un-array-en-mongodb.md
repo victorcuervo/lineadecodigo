@@ -7,11 +7,8 @@ tags: ["db","update","push","each"]
 slug: mongodb/inserciones/anadir-n-elementos-a-un-array-en-mongodb
 author: victor_cuervo
 type: doc
+id: fa3f5175-822f-452c-95df-0ee38167f553
 download: https://github.com/victorcuervo/lineadecodigo_mongodb/blob/master/mongodb-array/insertar-n-elementos-array.js
-topic: mongodb
-
-
-
 ---
 
 Si ya has leído nuestro ejemplo sobre [cómo añadir un valor a un array en MongoDB](http://lineadecodigo.com/mongodb/anadir-n-elementos-a-un-array-en-mongodb/) y lo has probado, habrás visto que tendríamos que insertar de elemento en elemento, ejecutando cada vez la operación update.

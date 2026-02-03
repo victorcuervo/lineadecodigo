@@ -7,9 +7,8 @@ tags: ["form","element","focus","getelementbyid"]
 slug: dom/elementos/hacer-foco-en-un-campo-de-la-pagina-usando-javascript
 author: victor_cuervo
 type: doc
+id: b82b649a-1a4c-418a-b207-ed1513cbcb8a
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/dom/hacer-foco-en-un-elemento-de-la-pagina.html
-topic: dom
-
 ---
 
 Vía [JavaScript](https://www.manualweb.net/javascript/) tenemos mecanismos para poder posicionarnos en un elemento de la página. Esto, por ejemplo, nos puede ser muy útil para posicionarnos en un campo concreto de un formulario, ya sea al principio del formulario o por validaciones que vayamos haciendo y que nos hagan ir a otro campo del formulario.

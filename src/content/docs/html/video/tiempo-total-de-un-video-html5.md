@@ -7,9 +7,8 @@ tags: ["video","loadeddata","duration"]
 slug: html/video/tiempo-total-de-un-video-html5
 author: victor_cuervo
 type: doc
+id: 776f8ff5-1d12-4f73-9698-c494759a098a
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/tiempo-total-video.html
-topic: html
-
 ---
 
 Cuando cargamos un vídeo en [HTML5](https://www.manualweb.net/html5/) puede ser interesante el conocer el tiempo total de la duración del vídeo. El elemento HTMLMediaElement nos permite consultar esta información.

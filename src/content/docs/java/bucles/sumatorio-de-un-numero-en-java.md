@@ -7,8 +7,8 @@ tags: ["sumatorio","bucle","while"]
 slug: java/bucles/sumatorio-de-un-numero-en-java
 author: victor_cuervo
 type: doc
+id: f58e8984-77e7-4776-bbc5-0b38ad224be4
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/SumatorioDeUnNumero.java
-topic: java
 ---
 
 Un sumatorio es la suma de un conjunto de elementos. Para expresarlo matemáticamente se utiliza la letra griega sigma (∑). Dicho conjunto está delimitado por un número inicial y un número final. Se tiene que cumplir que el número final nunca sea menor que el número inicial. Si no se indica el número inicial se suele asumir que es el 1. 

@@ -7,9 +7,8 @@ tags: ["variables","swapping"]
 slug: javascript/variables/swapping-de-variables-en-javascript
 author: victor_cuervo
 type: doc
+id: 67d0b680-1e2e-4324-a137-f2f8d51b07a8
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/swapping-variables.js
-topic: javascript
-
 ---
 
 El swapping de variables en [Javascript](https://www.manualweb.net/javascript/) es el proceso por el cual intercambiamos el valor de dos variables. En este caso vamos a ver cómo la sintaxis de desestructuración de [Javascript](https://www.manualweb.net/javascript/) nos permite hacer esto de una forma muy sencilla. Vamos a partir de que tenemos dos variables:

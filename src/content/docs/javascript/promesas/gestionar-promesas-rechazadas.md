@@ -7,9 +7,8 @@ tags: ["promise","reject","preventdefault","unhandledrejection"]
 slug: javascript/promesas/gestionar-promesas-rechazadas
 author: victor_cuervo
 type: doc
+id: 1a8966d1-7fad-490e-b1b6-50e7e280b109
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Promesas/gestionar-promesas-rechazadas.html
-topic: javascript
-
 ---
 
 Ya sabemos lo [que es una promesa](https://manualweb.net/javascript/promesas-en-javascript/) y cómo podemos [crear una promesa en Javascript](https://lineadecodigo.com/javascript/crear-promesa-en-javascript/). Ahora vamos a ver cómo [HTML5](https://manualweb.net/html5/) nos ayuda a **gestionar promesas rechazadas** suscribiéndonos a los eventos que estas generan. Esto nos permitirá realizar una gestión de promesas que no hayan sido tratadas de forma correcta.

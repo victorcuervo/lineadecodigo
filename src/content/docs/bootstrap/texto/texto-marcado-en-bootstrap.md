@@ -7,8 +7,8 @@ tags: ["mark"]
 slug: bootstrap/texto/texto-marcado-en-bootstrap
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81a2-b059-df1662c87be4
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/texto-marcado.html
-topic: bootstrap
 ---
 
 Una de las utilidades tipográficas que nos ofrece [Bootstrap](http://www.manualweb.net/bootstrap/), dentro de [las muchas que podemos encontrar en el manejo del texto](http://lineadecodigo.com/tag/bootstrap-texto/), es la capacidad de crear un texto marcado en [Bootstrap](http://www.manualweb.net/bootstrap/).

@@ -7,14 +7,14 @@ tags: ["Java Array","Javascript Básicos"]
 slug: java/arrays/inicializar-un-array-en-java
 author: victor_cuervo
 type: doc
+id: a63545f6-8baa-442c-987c-7ab0477eea74
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/InicializarArray.java
-topic: java
 ---
 
 Cuando vayamos a inicializar un [array](https://manualweb.net/java/arrays-java/) en [Java](https://www.manualweb.net/java/) tenemos varias posibilidades de hacerlo. No es que haya una mejor que otra, sino que podríamos decir que dependiendo de las circunstancias que se nos den e incluso de la que nos guste más.
 
 
-### Inicialización del Array durante la Declaración
+## Inicialización del Array durante la Declaración
 
 
 Una de las formas más habituales y eficientes de inicializar un [array](https://manualweb.net/java/arrays-java/) en [Java](https://www.manualweb.net/java/) es durante la propia declaración del [array](https://manualweb.net/java/arrays-java/). Esto se puede lograr de la siguiente manera:
@@ -33,7 +33,7 @@ En este caso, es importante destacar que no es necesario que especifiquemos num�
 Esta técnica de inicialización es particularmente útil cuando ya sabemos de antemano qué elementos queremos en el [array](https://manualweb.net/java/arrays-java/). Además, simplifica el código y lo hace más legible, ya que se evita tener que llamar a métodos de inicialización por separado.
 
 
-### Inicialización del Array mediante la asignación directa de elementos
+## Inicialización del Array mediante la asignación directa de elementos
 
 
 Otra de las formas de inicializar un [array](https://manualweb.net/java/arrays-java/) en [Java](https://www.manualweb.net/java/) es asignando directamente los elementos a cada una de sus posiciones. Este método es particularmente útil cuando conocemos los valores específicos que queremos almacenar en el [array](https://manualweb.net/java/arrays-java/).

@@ -7,9 +7,7 @@ tags: []
 slug: css/accesibilidad
 author: victor_cuervo
 type: category
-
-topic: css
-
+id: 2eba9dfb-adca-80d1-95b9-cc56c42fbc1e
 ---
 
 # Accesibilidad en CSS: diseñar para todos

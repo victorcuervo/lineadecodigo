@@ -4,12 +4,11 @@ description: "Utilizar el lenguaje de programación Java para convertir un fiche
 date: 2012-01-14
 updatedDate: 2026-01-11
 tags: ["utf8","iso","encoding","ficheros","file","java-io","bufferedreader","bufferedwriter","outputstream","inputstreamreader"]
-slug: java/ficheros/convertir-un-fichero-iso-en-utf8
+slug: java/ficheros/convertir-un-fichero-iso-en-utf-8
 author: victor_cuervo
 type: doc
+id: ebe50349-2896-45f1-8c71-e7ae237b016c
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/encoding/ConvertirISO1aUTF8.java
-topic: java
-
 ---
 
 ## Conversión de ficheros ISO a UTF-8

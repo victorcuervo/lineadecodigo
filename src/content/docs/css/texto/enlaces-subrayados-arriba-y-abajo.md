@@ -7,8 +7,8 @@ tags: ["enlaces","text-decoration","overline","underline","style"]
 slug: css/texto/enlaces-subrayados-arriba-y-abajo
 author: victor_cuervo
 type: doc
+id: dfaad443-5ff3-4663-93d3-dab9b8a16415
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/enlaces/enlaces-subarayados-arriba-y-abajo.html
-topic: css
 ---
 
 Los [enlaces](https://lineadecodigo.com/tag/html-enlaces/) por definición no tienen una representación tal cual. Si es verdad que por convención parece que el subrayado se ha hecho con esos méritos. Si bien, a partir de la llegada de las hojas de estilo [CSS](http://www.manualweb.net/css/), la visualización de los enlaces pasa a ser muy variopinta: mostrando color de fondo, eliminado el subrayado, cambiando el icono al pasar sobre ellos,... En este caso vamos a ver cómo crear enlaces subrayados arriba y abajo. En este caso no vamos a definir una clase que pueda ser utilizada. Sino que directamente vamos a redefinir el comportamiento de los enlaces [HTML](http://www.manualweb.net/html/). Es decir, vamos a redefinir el comportamiento del elemento [`a`](https://w3api.com/HTML/a/). Para ello simplemente bastará con definir una hoja de estilo con el elemento [`a`](https://w3api.com/HTML/a/).Veamos como quedaría:

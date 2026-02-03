@@ -7,8 +7,8 @@ tags: ["factorial","bucles"]
 slug: javascript/bucles/factorial-javascript
 author: victor_cuervo
 type: doc
+id: 887ccba4-6d6a-47ef-8204-fd8b985a4898
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/matematicas/factorial.js
-topic: javascript
 ---
 
 Hoy, nuestro objetivo es calcular el factorial [Javascript](https://www.manualweb.net/javascript/) de un número. El concepto de factorial, en matemáticas, es una operación que implica multiplicar un número dado por todos los números enteros menores que él hasta llegar a uno. Por convención, se ha establecido que el factorial de cero es uno.

@@ -4,12 +4,11 @@ description: "El uso del símbolo  al final de las cadenas nos permitirá tener 
 date: 2017-06-13
 updatedDate: 2026-01-14
 tags: ["print","cadena","variables"]
-slug: python/cadenas/cadenas-multilinea-con-python
+slug: python/cadenas/cadenas-multi-linea-con-python
 author: victor_cuervo
 type: doc
+id: 9ea18a3e-4e8c-4cd4-ac30-2d72d3880436
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/cadenas_multilinea.py
-topic: python
-
 ---
 
 Cuando estamos trabajando con [Python](http://www.manualweb.net/python/) y manejamos cadenas de texto muy grandes será conveniente conocer cómo manejar cadenas multi-línea con [Python](http://www.manualweb.net/python/).

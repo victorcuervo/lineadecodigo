@@ -7,9 +7,8 @@ tags: ["regexp","match","visa","mastercard","tarjetas-de-credito"]
 slug: javascript/validaciones/validar-numeros-de-tarjetas-de-credito-con-javascript
 author: victor_cuervo
 type: doc
+id: 322f6af4-16bb-4a10-a09a-92d220d1d850
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/validar-numero-tarjeta.html
-topic: javascript
-
 ---
 
 Hace ya bastante tiempo leí en [anieto2K](http://www.anieto2k.com/2007/06/20/valida-tarjetas-credito-con-expresiones-regulares/) un pequeño, pero a la vez interesante artículo sobre como validar números de tarjetas de crédito con JavaScript mediante unas sencillas expresiones regulares en [Javascript](https://www.manualweb.net/javascript/). La idea es validar una tarjeta de crédito Visa y una tarjeta de crédito MasterCard. En nuestro caso vamos a ver el código completo del ejemplo.

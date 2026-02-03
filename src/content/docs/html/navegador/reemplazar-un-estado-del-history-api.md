@@ -7,9 +7,8 @@ tags: ["history","pushstate","replacestate"]
 slug: html/navegador/reemplazar-un-estado-del-history-api
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81a9-bbfe-e0ee851792f4
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/History%20API/history-states-replace.html
-topic: html
-
 ---
 
 En el anterior artículo hemos visto [por qué se añaden estados dentro del historial del navegador en las aplicaciones SPA (Single Page Application)](http://lineadecodigo.com/html5/gestionar-estados-del-historial-con-html5/) y cómo podemos controlarlos, en este caso vamos a ver cómo podemos reemplazar un estado del **History API** para asignarle nuevos valores.

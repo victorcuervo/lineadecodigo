@@ -4,12 +4,11 @@ description: "Mediante la clase Jsoner podremos convertir un objeto a JSON con J
 date: 2020-09-11
 updatedDate: 2026-01-09
 tags: ["json","json-simple","jsoner","serialize"]
-slug: java/json/convertir-un-objeto-a-json-con-jsonsimple
+slug: java/json/convertir-un-objeto-a-json-con-json-simple
 author: victor_cuervo
 type: doc
+id: ea4ac070-c8b8-407c-a1ec-edcbd381619b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/json/ObjetoJSON.java
-topic: java
-
 ---
 
 Ya hemos visto lo sencillo que es [manejar la librería JSON-Simple a la hora de crear un objeto JSON](http://lineadecodigo.com/java/crear-objeto-json-con-json-simple/). Ahora vamos a ver cómo podemos convertir un objeto a [JSON](http://lineadecodigo.com/tag/java-json/) con [JSON-Simple](http://lineadecodigo.com/tag/java-json/). Esto nos va a ser útil en situaciones en las cuales tengamos que enviar este [JSON](http://lineadecodigo.com/tag/java-json/) por ejemplo a otro servicio, lo normal será a un REST, de tal manera que trabajemos con objetos y sus correspondientes métodos la lógica de negocio de nuestra aplicación, vayamos manipulando los datos que necesitemos y lo convirtamos a [JSON](http://lineadecodigo.com/tag/java-json/) solamente en el momento de invocar a los servicios REST que necesiten del formato [JSON](http://lineadecodigo.com/tag/java-json/). Lo primero que haremos será incluir la librería [JSON-Simple](https://cliftonlabs.github.io/json-simple/) mantenida por [Clifton Labs](https://cliftonlabs.com/) dentro de nuestras dependencias Maven. Para ello lo que vamos es a modificar nuestro fichero **pom.xml** con el siguiente contenido.

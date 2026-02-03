@@ -7,9 +7,8 @@ tags: ["recursividad","file","list","exists","mkdir","ioexception","java-io","ja
 slug: java/ficheros/copiar-directorio-con-java
 author: victor_cuervo
 type: doc
+id: 9bdec559-6c86-41cb-81a0-2e1b34b7b457
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/CopiarDirectorio.java
-topic: java
-
 ---
 
 Con el siguiente código vamos a ver como podemos copiar el contenido de un directorio en otro utilizando el lenguaje [Java](https://www.manualweb.net/java/). Para poder copiar directorio con [Java](https://www.manualweb.net/java/) lo primero será entender la idea de cómo resolver el problema de la copia de directorios con [Java](https://www.manualweb.net/java/). La cuestión es que no podemos ejecutar una copia tal cual del directorio ya que dicho directorio puede albergar contenido. Además dicho contenido puede ser a su vez otro directorio con más contenido. Con esto vemos que lo que necesitamos es hacer un programa [Java](https://www.manualweb.net/java/) recursivo que vaya recorriendo cada directorio y copiando todo su contenido de uno a otro. Lo primero será definir el interface de nuestro método que sirve para copiar directorios.

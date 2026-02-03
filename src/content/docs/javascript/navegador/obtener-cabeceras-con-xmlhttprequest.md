@@ -7,9 +7,8 @@ tags: ["xmlhttprequest","getelementbyid","cabeceras","http"]
 slug: javascript/navegador/obtener-cabeceras-con-xmlhttprequest
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8111-abdf-f84f3ec54cf6
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/xmlhttrequest/cabecerashttprequest.html
-topic: javascript
-
 ---
 
 Si tenemos que describir la Web 2.0 estoy seguro que no podríamos obviar la palabra [AJAX](http://www.manualweb.net/javascript/). Y es que podríamos decir que la Web 2.0 se sustenta sobre un modelo tecnológico asíncrono, el cual, mediante peticiones/respuesta para regenerar parte de la página busca dar un efecto de mayor velocidad al usuario final. Al menos, mayor que la recarga entera de la página. "Pure [AJAX](http://www.manualweb.net/javascript/)".

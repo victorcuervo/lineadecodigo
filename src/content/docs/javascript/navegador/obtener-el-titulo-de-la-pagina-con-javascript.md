@@ -7,9 +7,8 @@ tags: ["document","write","title"]
 slug: javascript/navegador/obtener-el-titulo-de-la-pagina-con-javascript
 author: victor_cuervo
 type: doc
+id: fd517f33-1421-4687-9f27-8b4b82b404a9
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/obtener-titulo-de-la-pagina.html
-topic: javascript
-
 ---
 
 Al crear una página web [HTML](https://www.manualweb.net/html/) podemos utilizar [la etiqueta title](https://www.w3api.com/HTML/title-elemento/) para poder darle un titulo a la página. Si bien, mediante [JavaScript](https://www.manualweb.net/javascript/) podemos recuperar el titulo que se ha establecido a la página de forma dinámica.

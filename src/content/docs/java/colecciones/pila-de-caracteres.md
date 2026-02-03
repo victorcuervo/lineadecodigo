@@ -7,9 +7,8 @@ tags: ["stack","push","pop","character","stringbuilder"]
 slug: java/colecciones/pila-de-caracteres
 author: victor_cuervo
 type: doc
+id: 4435daa4-db8b-4fe2-93ee-fb4a6262b120
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/PilaCaracteres.java
-topic: java
-
 ---
 
 Si tenemos la necesidad de crear una pila de caracteres en Java podemos recurrir a la clase Stack para construir dicha pila. Si bien la clase `Stack` solo maneja objetos como elementos a insertar en la pila y no tipos de datos primitivos. Es por ello que la codificación que deberíamos de tener es con elementos `Character`. La codificación de la pila de caracteres sería sencilla.

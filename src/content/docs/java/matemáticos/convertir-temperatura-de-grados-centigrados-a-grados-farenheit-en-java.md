@@ -7,9 +7,8 @@ tags: ["centigrados","farenheit","conversor"]
 slug: java/matematicos/convertir-temperatura-de-grados-centigrados-a-grados-farenheit-en-java
 author: xhrist14n
 type: doc
+id: bb4b4c82-1026-468f-8746-160139b1d99f
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ConversorTemperaturas.java
-topic: java
-
 ---
 
 Como ya se sabe las conversiones de datos generalmente son datos numéricos a otro numero en especifico según la entrada dada. En este ejemplo vamos a ver cómo convertir temperatura de grados centígrados a grados Farenheit en [Java](https://www.manualweb.net/java/). Lo primero que hacemos es definir una temperatura en grados centígrados:

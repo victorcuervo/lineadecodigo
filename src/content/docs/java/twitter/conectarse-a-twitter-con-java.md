@@ -7,9 +7,8 @@ tags: ["twitter","maven","api","properties","twitter4j","oauth","twitterfactory"
 slug: java/twitter/conectarse-a-twitter-con-java
 author: victor_cuervo
 type: doc
+id: 4ccca489-7bba-4628-a422-afadec9f1f92
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/twitter/ConectarTwitter.java
-topic: java
-
 ---
 
 En el artículo [usando la API de Twitter4j en Java](http://lineadecodigo.com/java/usando-la-api-de-twitter4j-en-java/), nuestro compañero [Pablo Ruiz](https://www.linkedin.com/in/pabloruizfaundez/) nos explicaba cómo conectarse a [Twitter](http://www.ayudaenlaweb.com/microblogging/twitter/que-es-twitter/) con [Java](http://www.manualweb.net/java/). Si bien, los nuevos mecanismos de conexión de [Twitter](http://www.ayudaenlaweb.com/microblogging/twitter/que-es-twitter/) han hecho que la [librería Twitter4j](http://twitter4j.org/en/) haya evolucionado y cambiado su forma de utilizarse. Es por ello que vamos a ver las nuevas formas que tenemos para conectarnos a [Twitter](http://www.ayudaenlaweb.com/microblogging/twitter/que-es-twitter/) con [Java](http://www.manualweb.net/java/). Lo primero que tenemos que hacer es importarnos la [librería Twitter4j](http://twitter4j.org/en/) y qué mejor mecanismo que **hacerlo vía Maven**.

@@ -7,9 +7,7 @@ tags: []
 slug: css/media-queries
 author: victor_cuervo
 type: category
-
-topic: css
-
+id: 2eba9dfb-adca-80b4-a335-fe9363cb4e5d
 ---
 
 # Media Queries y diseño responsive en CSS

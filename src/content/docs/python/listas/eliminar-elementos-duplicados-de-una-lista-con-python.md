@@ -7,9 +7,8 @@ tags: ["range","list","remove","dict","fromkeys","for-in"]
 slug: python/listas/eliminar-elementos-duplicados-de-una-lista-con-python
 author: victor_cuervo
 type: doc
+id: e2a657bb-20a7-49bd-b4bc-34904f65c6c7
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/eliminar-elementos-duplicados-lista.py
-topic: python
-
 ---
 
 Ya hemos validado [las tres formas en las que se pueden eliminar elementos de una lista](http://lineadecodigo.com/python/eliminar-elementos-de-una-lista-con-python/), ahora vamos a ver cómo podemos eliminar elementos duplicados de una lista con [Python](http://www.manualweb.net/python). En este caso volvemos a partir de una lista de elementos que inicializamos con números:

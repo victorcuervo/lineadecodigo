@@ -7,8 +7,8 @@ tags: ["math","max","numeros"]
 slug: javascript/matematicos/mayor-de-dos-numeros-en-javascript-con-math
 author: victor_cuervo
 type: doc
+id: 4eddf994-b0f5-4554-b8f2-20633fd042e1
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/numeros/mayor-de-dos-numeros-math.js
-topic: javascript
 ---
 
 Hoy tenemos un artículo muy sencillo pero muy útil para las personas que empiezan a desarrollar en Javascript. La idea es conocer cual es el mayor de dos números en [Javascript](https://www.manualweb.net/javascript/) con Math. Lo que nos permitirá no tener que recurrir a estructuras selectivas para poder realizar esta validación.

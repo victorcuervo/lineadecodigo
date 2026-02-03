@@ -7,8 +7,8 @@ tags: ["operadores","isset","_post","coalescencia_nula","variables"]
 slug: php/operadores/operador-coalescencia-nula-en-php
 author: victor_cuervo
 type: doc
+id: 493a2b84-1b95-47d0-914b-a121c7db945c
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/operador-coalescente.php
-topic: php
 ---
 
 Si hablamos del operador coalescencia nula en [PHP](https://www.manualweb.net/php/) posiblemente no te suene mucho y es más que probable que no conocieses dicho nombre. Pero quizás si que has visto en algún [desarrollo de código PHP](https://lineadecodigo.com/categoria/php/) un operador con dos interrogaciones seguidas `??`. Pues este operador es que se se conoce como operador coalescencia nula en [PHP](https://www.manualweb.net/php/).

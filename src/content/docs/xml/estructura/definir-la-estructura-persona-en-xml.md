@@ -7,10 +7,8 @@ tags: ["dtd","doctype","element","encoding","pcdata","persona","standalone","sys
 slug: xml/estructura/definir-la-estructura-persona-en-xml
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8100-b535-da291962f23e
 download: https://github.com/victorcuervo/lineadecodigo_xml/tree/master/xml/basicos/persona
-topic: xml
-
-
 ---
 
 Lo que vamos a hacer es definir la estructura persona mediante el lenguaje [XML](http://www.manualweb.net/xml/). Para ello tendremos que hacer dos cosas: la primera será definir el DTD (Document Type Definition) donde se declara la estructura de la persona. En segundo lugar crearemos un fichero [XML](http://www.manualweb.net/xml/) donde tendremos los datos de una persona en particular, los cuales deben de seguir la estructura definida en el anterior DTD.

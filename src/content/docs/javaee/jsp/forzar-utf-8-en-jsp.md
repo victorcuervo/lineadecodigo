@@ -4,12 +4,11 @@ description: "Cómo utilizar el fichero web.xml, los elementos url-pattern y pag
 date: 2021-10-07
 updatedDate: 2026-01-09
 tags: ["jsp","utf8"]
-slug: javaee/jsp/forzar-utf8-en-jsp
+slug: javaee/jsp/forzar-utf-8-en-jsp
 author: victor_cuervo
 type: doc
+id: 9afe601e-d660-4ef7-b98c-d104d64d0dbc
 download: https://github.com/victorcuervo/lineadecodigo_jakartaee/blob/main/src/main/webapp/WEB-INF/web.xml
-topic: javaee
-
 ---
 
 Al trabajar con página [JSP o Java Server Pages](https://lineadecodigo.com/tag/java-jsp/) es muy común que tengamos problemas manejando la codificación de las mismas, bien sea por no saber qué tipo de encoding debemos de utilizar o bien porque se nos olvida incluirlo en la definición de la página. Es por ello que puede resultar muy útil el poder forzar un encoding para todas las [páginas JSP](https://lineadecodigo.com/tag/java-jsp/) que tengamos en nuestra aplicación. En este caso vamos a ver cómo podemos forzar UTF-8 en JSP. Lo primero que haremos será recordar cómo se define el encoding dentro de una [página JSP](https://lineadecodigo.com/tag/java-jsp/). En este caso tenemos dos alternativas, la primera es definir el encoding mediante la directiva `page` y el atributo `contentType`. A este atributo le daremos el valor del encoding mediante el charset. Quedará de la siguiente forma:

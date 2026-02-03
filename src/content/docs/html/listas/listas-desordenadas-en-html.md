@@ -7,9 +7,8 @@ tags: ["ul","listas","li"]
 slug: html/listas/listas-desordenadas-en-html
 author: victor_cuervo
 type: doc
+id: 1c0173a2-6571-4bbd-8ed0-6b9a86c49b8a
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/listas/lista-desordenada.html
-topic: html
-
 ---
 
 Las listas desordenadas en [HTML](https://www.manualweb.net/html/) son aquellas que muestran sus elementos precedidos de un decorador, conocido como viñeta. Las listas desordenadas en [HTML](https://www.manualweb.net/html/) se construyen mediante el [elemento UL](https://www.w3api.com/HTML/ul/).

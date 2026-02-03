@@ -7,9 +7,8 @@ tags: ["fullscreenchange","addeventlistener","fullscreen"]
 slug: webapi/integracion/modo-pantalla-completa
 author: victor_cuervo
 type: doc
+id: c43055fd-98af-4b8c-a400-1e2aaddad149
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Fullscreen%20API/saber-si-pantalla-completa.html
-topic: webapi
-
 ---
 
 Ya hemos visto en algunos ejemplos el como [poner un vídeo a pantalla completa](http://lineadecodigo.com/html5/video-a-pantalla-completa/), un [documento a pantalla completa](http://lineadecodigo.com/html5/documento-a-pantalla-completa-con-html5/) o [una imagen a pantalla completa](http://lineadecodigo.com/html5/imagen-a-pantalla-completa-con-html5/). Pero en ambos casos guiábamos al usuario para poner a pantalla completa el elemento. Pero, qué sucede si el usuario pone por su cuenta el modo pantalla completa, ¿podemos saber de alguna manera que nuestra página se está visualizando a pantalla completa en [HTML5](http://www.manualweb.net/html5/) y con el **API Fullscreen**? Y por lo tanto aprovecharnos de dicha capacidad. Ahora vemos cómo podemos hacer esto.

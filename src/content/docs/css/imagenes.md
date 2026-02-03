@@ -7,9 +7,7 @@ tags: []
 slug: css/imagenes
 author: victor_cuervo
 type: category
-
-topic: css
-
+id: 2eba9dfb-adca-8091-b3fc-c5bd823bb406
 ---
 
 # Imágenes en CSS: adaptación, recorte y presentación

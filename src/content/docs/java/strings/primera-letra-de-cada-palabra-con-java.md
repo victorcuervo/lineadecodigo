@@ -7,9 +7,8 @@ tags: ["substring","hasmoretokens","nexttoken","stringtokenizer","string"]
 slug: java/strings/primera-letra-de-cada-palabra-con-java
 author: victor_cuervo
 type: doc
+id: d4952f44-4194-4152-9a8b-e8d0fb1a8c94
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/PrimeraLetraPalabras.java
-topic: java
-
 ---
 
 Nos preguntaban en el foro sobre cómo se podía obtener la primera letra de cada palabra con Java. Es decir, dada una frase, como obtener la primera letra de cada una de las palabras que componen dicha frase.

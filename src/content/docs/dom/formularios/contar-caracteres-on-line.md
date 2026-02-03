@@ -4,12 +4,11 @@ description: "Utilización de Javascript para poder contar caracteres on-line."
 date: 2008-03-25
 updatedDate: 2026-01-13
 tags: ["getelementbyid","window","settimeout"]
-slug: dom/formularios/contar-caracteres-online
+slug: dom/formularios/contar-caracteres-on-line
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8192-a83e-cd352ba1f26e
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/contar-caracteres-on-line.html
-topic: dom
-
 ---
 
 Vas a mandar un SMS y solo puedes enviar 150 caracteres. La aplicación a ofrecer al usuario nos va mostrando el número de caracteres que van escritos. Es una ayuda del interface de usuario, haciéndole más usable.

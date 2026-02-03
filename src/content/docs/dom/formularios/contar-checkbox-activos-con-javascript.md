@@ -7,9 +7,8 @@ tags: ["checkbox","form","getelementbyid","onclick","checked","array","formulari
 slug: dom/formularios/contar-checkbox-activos-con-javascript
 author: victor_cuervo
 type: doc
+id: 1c119137-7df8-45d4-9e71-ce4a23f7904f
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/contar-checkbox-activos.html
-topic: dom
-
 ---
 
 Acceder a la información almacenada en [el DOM de nuestra página](https://www.w3api.com/DOM/) nos sirve para llevar a cabo ejemplos como este. En este caso, el ejemplo consiste en contar los **checkbox** que hay seleccionados dentro de un **formulario**. Un caso práctico será el controlar que el usuario ha marcado un número de opciones en concreto dentro de un formulario. Es decir, que si no ha seleccionado más de 3 opciones, no pueda enviar el formulario. En nuestro caso vamos a tener un formulario con 10 checkbox y un botón.

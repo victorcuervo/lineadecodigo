@@ -7,8 +7,8 @@ tags: ["listas","iterable","len","extend"]
 slug: python/listas/concatenar-listas-en-python
 author: victor_cuervo
 type: doc
+id: 5ed2accd-e897-4a12-b690-8193559a4d0a
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/concatenar_listas.py
-topic: python
 ---
 
 A la hora de manipular la listas, [Python](https://www.manualweb.net/python/) nos ofrece múltiples opciones. De esta forma, en este ejemplo, vamos a ver cómo podemos concatenar listas en [Python](https://www.manualweb.net/python/).

@@ -7,9 +7,8 @@ tags: ["java-swing","actionevent","actionlistener","jbutton","jframe","jlabel"]
 slug: java/swing/detectar-boton-pulsado-con-java-swing
 author: victor_cuervo
 type: doc
+id: 09027638-51bf-47c3-ae44-3657732a6722
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/swing/BotonPulsado.java
-topic: java
-
 ---
 
 Ya hemos visto lo sencillo que es controlar cuando nos pulsan un botón en [Java Swing](https://www.manualweb.net/java/). Pero qué sucede cuando tenemos varios botones en nuestro formulario. Vamos a ver cómo detectar botón pulsado con [Java Swing](https://www.manualweb.net/java/) en el caso de que tengamos varios. Así que lo primero será construir nuestro formulario [Java Swing](https://www.manualweb.net/java/) extendiendo de la clase `JFrame`.

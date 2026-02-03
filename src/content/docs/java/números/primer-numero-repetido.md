@@ -7,8 +7,8 @@ tags: ["bucles","while","if","array"]
 slug: java/numeros/primer-numero-repetido
 author: victor_cuervo
 type: doc
+id: 5375522e-8906-4c62-b390-978924f3743c
 download: https://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_java/src/com/lineadecodigo/java/basico/PrimerNumeroRepetido.java
-topic: java
 ---
 
 Con este algoritmo pretendemos buscar el primer elemento que está repetido dentro de un array utilizando el lenguaje [Java](https://www.manualweb.net/java/). La idea general es trabajar con dos arrays. En el primero tenemos la lista de elementos general y en el segundo iremos introduciendo los elementos leídos. Por cada elemento que tengamos en el array principal vamos a buscar al de los leídos para ver si ya está. En el caso de que esté será que dicho elemento es el primer elemento repetido. Será entonces cuando acabemos nuestra ejecución. Pero vamos por partes. Lo primero que hay que hacer es declarar los dos arrays. El que contiene los números inicialmente y el que irá conteniendo los leídos. El tamaño del segundo array será igual que el tamaño del primero.

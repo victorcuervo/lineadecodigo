@@ -7,9 +7,8 @@ tags: ["os","session","clave","urandom"]
 slug: flask/sesion/clave-de-sesion-flask
 author: victor_cuervo
 type: doc
+id: 2727f02a-56e2-4546-b1c7-aec70fdf7fed
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/sesion-clave.py
-topic: flask
-
 ---
 
 Tal y como vimos en el artículo [Sesión en Flask](http://lineadecodigo.com/python/sesion-en-flask/), tenemos una **Clave de sesión Flask** para poder crear una cookie con la información de la sesión. Y es que Flask utiliza el mecanismo de cookies para disponer de la información entre cada una de las peticiones que realiza el usuario.

@@ -7,9 +7,8 @@ tags: ["string","replaceall"]
 slug: java/strings/string-quitar-saltos-de-linea-de-un-texto-con-java
 author: Feffo
 type: doc
+id: d85c8e17-2ded-4245-863e-d2c4bfcc4b30
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ReemplazarSaltosDeLinea.java
-topic: java
-
 ---
 
 ¡Buenas! Como cuarta entrega del set de ejemplos de manipulación de cadenas de caracteres en [Java](https://www.manualweb.net/java/) les voy a mostrar cómo quitar saltos de línea de un texto con [Java](https://www.manualweb.net/java/). Primero que nada debemos tener en cuenta que los saltos de línea en [Java](https://www.manualweb.net/java/) son representados con el carácter _'\n'_, teniendo esto en cuenta podemos hacer uso del método [replaceAll](https://www.w3api.com/Java/String/.replaceAll()) de la clase [String](https://www.w3api.com/Java/String/) (el cual es explicado en el artículo [Reemplazar cadenas con Java](http://lineadecodigo.com/java/string-reemplazar-cadenas-con-java/)) para resolver esto: En este caso el ejemplo para quitar saltos de línea de un texto con [Java](https://www.manualweb.net/java/) parte de que dada la siguiente cadena de caracteres:

@@ -7,9 +7,8 @@ tags: ["preparedstatement","addbatch","executebatch","insert","create","jdbc","J
 slug: java/jdbc/ejemplo-batchupdateexception
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81e1-bad8-d63bb83a4da2
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ErrorBatchUpdate.java
-topic: java
-
 ---
 
 Ya hemos visto como podemos [insertar registros en una tabla mediante un BatchUpdate](http://lineadecodigo.com/java/jdbc-batch-update/). Pero cual sería un ejemplo BatchUpdateException cuando ejecutemos estas sentencias. Veamos como simularlo.

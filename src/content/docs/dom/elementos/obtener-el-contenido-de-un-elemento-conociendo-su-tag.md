@@ -7,9 +7,8 @@ tags: ["getelementbyid","getelementsbytagname"]
 slug: dom/elementos/obtener-el-contenido-de-un-elemento-conociendo-su-tag
 author: victor_cuervo
 type: doc
+id: 2c5a2c94-a39d-4d12-ac34-f0408385f87a
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/dom/obtener-el-contenido-de-un-elemento-por-su-tag.html
-topic: dom
-
 ---
 
 Dentro del manejo del DOM de una página [HTML](http://www.manualweb.net/html), la función más utilizada suele ser [document.getElementById()](https://www.w3api.com/DOM/.getElementById(). Si bien, disponemos de otra serie de funciones que nos ayudarán a obtener el contenido de los elementos de la página. 

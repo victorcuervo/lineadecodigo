@@ -7,11 +7,8 @@ tags: ["find","ne"]
 slug: mongodb/consultas/mongodb-not-equal
 author: victor_cuervo
 type: doc
+id: e4fb7aa4-afd5-4eb8-b5ef-07f3704e67b0
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/notequal.js
-topic: mongodb
-
-
-
 ---
 
 Si queremos hacer una consulta en [MongoDB](https://www.manualweb.net/mongodb/) para obtener los resultados que no cumplan una condición vamos a tener que recurrir a una consulta [MongoDB](https://www.manualweb.net/mongodb/) Not Equal. Y el operador que representa el [MongoDB](https://www.manualweb.net/mongodb/) Not Equal es **$ne**.

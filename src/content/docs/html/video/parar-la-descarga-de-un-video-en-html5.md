@@ -7,9 +7,8 @@ tags: ["video","src","pause","load"]
 slug: html/video/parar-la-descarga-de-un-video-en-html5
 author: victor_cuervo
 type: doc
+id: d827d6bb-e477-4408-bc2d-b52561b8e523
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/parar-descarga-video.html
-topic: html
-
 ---
 
 Cuando cargamos un vídeo en [HTML5](https://www.manualweb.net/html5/) el navegador buscará el origen del vídeo, comprobará si puede visualizar el tipo de vídeo que se le indica como origen y validará si los codecs son correctos. Una vez hecho eso empezará la descarga del vídeo, es decir, empezará a descargar el contenido del vídeo hasta el final del mismo.

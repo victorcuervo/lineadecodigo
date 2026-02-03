@@ -7,9 +7,8 @@ tags: ["date","eventos","addeventlistener","preventdefault"]
 slug: javascript/fechas/convertir-una-cadena-a-fecha-en-javascript
 author: victor_cuervo
 type: doc
+id: e32925cd-1768-4aaf-a977-3c24907e9802
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/convertir-cadena-texto-a-date.html
-topic: javascript
-
 ---
 
 En este ejemplo vamos a ver cómo podemos convertir una cadena a una fecha, es decir un elemento `Date`, en [Javascript](https://www.manualweb.net/javascript/). A primeras parece que es algo tan trivial como pasárselo en la inicialización. Pero veremos que tenemos ciertas restricciones. 

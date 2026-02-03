@@ -7,9 +7,8 @@ tags: ["operadores","system"]
 slug: java/fechas/milisegundos-a-hora-en-java
 author: victor_cuervo
 type: doc
+id: ca9c7b5b-8c39-40fe-831c-74b7cfb20fa3
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/Milisegundos2Hora.java
-topic: java
-
 ---
 
 Cuando estamos haciendo pruebas de rendimiento de nuestros programas, una forma muy sencilla de medir el tiempo de ejecución en Java es invocando a la función `System.currentTimeMillis()` entre dos puntos de nuestro programa.

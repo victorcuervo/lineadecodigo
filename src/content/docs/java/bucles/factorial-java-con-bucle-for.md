@@ -7,9 +7,8 @@ tags: ["bucles","for","factorial"]
 slug: java/bucles/factorial-java-con-bucle-for
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81f3-aa65-cdecdc7d455e
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/FactorialDeUnNumeroFor.java
-topic: java
-
 ---
 
 La forma más óptima para [calcular el factorial de un número con Java es mediante el uso de la recursividad](http://lineadecodigo.com/java/factorial-de-un-numero/). Si bien el método más directo que nos viene al pensar en la definición de un factorial es el uso de una estructura repetitiva. En este ejemplo vamos a calcular un factorial [Java](https://www.manualweb.net/java/) con bucle for.

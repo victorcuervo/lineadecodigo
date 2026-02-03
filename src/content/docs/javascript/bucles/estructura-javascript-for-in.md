@@ -7,9 +7,8 @@ tags: ["array","for-in","Javascript Arrays","bucles"]
 slug: javascript/bucles/estructura-javascript-for-in
 author: victor_cuervo
 type: doc
+id: 512f004e-26be-40ef-9fad-dc66a89c05ac
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/for-in.html
-topic: javascript
-
 ---
 
 La estructura [Javascript](https://www.manualweb.net/javascript/) **for in** nos permite recorrer una lista de elementos de una forma sencilla. Javascript for in es una estructura en bucle que nos permite tratar los elementos indicados en la sentencia.

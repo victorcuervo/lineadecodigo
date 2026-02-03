@@ -7,9 +7,8 @@ tags: ["char","string","array","for","tochararray"]
 slug: java/arrays/convertir-una-cadena-en-un-array-de-caracteres-con-java
 author: victor_cuervo
 type: doc
+id: 6ab0c3ee-1cd4-4b4c-85dd-2ddd67fb3dac
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ConvertirCadenaArrayCaracteres.java
-topic: java
-
 ---
 
 El objetivo de convertir una cadena en un array de caracteres con [Java](https://www.manualweb.net/java/) es que podremos manipular cada uno de los caracteres de forma independiente y aplicarles la operativa o validaciones que necesitemos.

@@ -7,9 +7,8 @@ tags: ["history","back","javascript"]
 slug: webapi/history/volver-a-la-pagina-anterior
 author: victor_cuervo
 type: doc
+id: 5b5fb1c0-c927-433d-a514-424ef51c60a4
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/volver-atras.html
-topic: webapi
-
 ---
 
 Cuando estamos diseñando una web nos encontraremos en situaciones en las que varias páginas desemboquen en una misma página de destino y queramos que esta nos permita volver a la página anterior. En esta situación desconocemos desde qué página venimos.

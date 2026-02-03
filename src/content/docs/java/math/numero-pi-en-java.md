@@ -7,8 +7,8 @@ tags: ["math","pi","println"]
 slug: java/math/numero-pi-en-java
 author: victor_cuervo
 type: doc
+id: b14831fb-d406-48c2-8b6e-c557a23da61e
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/NumeroPI.java
-topic: java
 ---
 
 Antes de saber cómo podemos utilizar el número PI en [Java](https://www.manualweb.net/java/) tendremos que saber qué significa este número. Y es que si preguntas a mucha gente sobre qué es el número PI, te dirán que es el 3,1416. Pero no muchos te sabrán explicar cuál es su origen o significado. En este artículo vamos a profundizar un poco en este número y veremos cómo se puede utilizar el número PI en [Java](https://www.manualweb.net/java/).

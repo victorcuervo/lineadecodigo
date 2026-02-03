@@ -7,11 +7,8 @@ tags: ["insert","object"]
 slug: mongodb/inserciones/insertar-subdocumento-en-mongodb
 author: victor_cuervo
 type: doc
+id: c69e9e46-2590-459e-82da-59b9acd682e9
 download: https://github.com/victorcuervo/lineadecodigo_mongodb/blob/master/mongodb-crud/mongodb-insert/insert-subdocumento.js
-topic: mongodb
-
-
-
 ---
 
 Uno de los principios de [MongoDB](https://www.manualweb.net/mongodb/) es que dentro de un documento podemos contener otros documentos (conocidos como subdocumentos). De esta forma podemos realizar [técnicas de modelado de datos en MongoDB](http://www.manualweb.net/mongodb/modelado-de-datos-en-mongodb/).

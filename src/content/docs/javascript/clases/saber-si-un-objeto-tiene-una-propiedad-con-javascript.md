@@ -7,9 +7,8 @@ tags: ["clase","hasownproperty"]
 slug: javascript/clases/saber-si-un-objeto-tiene-una-propiedad-con-javascript
 author: victor_cuervo
 type: doc
+id: 857b3456-5b28-40ca-9173-b016349c4ef0
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/tiene-propiedad.js
-topic: javascript
-
 ---
 
 Si estamos trabajando con objetos en [Javascript](https://www.manualweb.net/javascript/), una de las cosas que nos puede ayudar es el saber si un determinado objeto tiene una propiedad en cuestión para poder acceder a ella. Y es que solo podremos saber si el objeto tiene [variables públicas](http://lineadecodigo.com/javascript/crear-un-objeto-en-javascript/), nunca [variables privadas](http://lineadecodigo.com/javascript/clase-con-atributos-privados-en-javascript/).

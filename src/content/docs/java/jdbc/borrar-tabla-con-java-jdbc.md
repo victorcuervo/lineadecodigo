@@ -7,9 +7,8 @@ tags: ["jdbc","preparedstatement","connection","sqlexception","try-catch","drive
 slug: java/jdbc/borrar-tabla-con-java-jdbc
 author: victor_cuervo
 type: doc
+id: d925d202-f7c7-4a0f-8518-88f3c6397322
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/BorrarTabla.java
-topic: java
-
 ---
 
 Ya hemos visto cómo podemos [crear una tabla con Java JDBC](http://lineadecodigo.com/java/crear-tabla-java-jdbc/), en este caso vamos a ver cómo podemos **borrar tabla con Java JDBC**. Aprenderemos qué sentencia SQL debemos montar y cómo debemos ejecutarla desde un código Java.

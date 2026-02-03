@@ -7,9 +7,8 @@ tags: ["imap_open","mail","imap_search","imap_fetchbody","imap_qprint","imap_clo
 slug: php/mail/obtener-cuerpo-de-un-mensaje-con-php
 author: victor_cuervo
 type: doc
+id: 8c5b40c4-43a0-4449-b28e-bd1d2080d693
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/email/cuerpo-mensaje.php
-topic: php
-
 ---
 
 Cuando recuperamos mensajes de un servidor de correo tendremos dos partes, por un lado obtendremos un resumen con el tema de mensaje e información de la persona que lo envía y en un segundo paso tendremos el contenido del mensaje. En este ejemplo vamos a obtener cuerpo de un mensaje con [PHP](http://www.manualweb.net/php/). Para ello lo primero que haremos será **conectarnos vía imap** al servidor de correo mediante la función `imap_open()`. A la función `imap_open()` le pasamos el nombre del servidor, el usuario y la contraseña del mismo para poder conectarse.

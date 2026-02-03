@@ -7,9 +7,8 @@ tags: ["java-collection","arraylist","vector","add"]
 slug: java/colecciones/crear-un-arraylist-en-java
 author: Víctor Cuervo
 type: doc
+id: 1a95f121-8ab2-4336-8bb6-2f9137d3e12a
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/CrearArrayList.java
-topic: java
-
 ---
 
 Un [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/) es una colección de [Java](https://www.manualweb.net/java/) que implementa el interface [List](http://www.w3api.com/Java/List-java-util/) y que por lo tanto nos puede servir como implementador de listas. Una de las cosas que tenemos que saber a la hora de crear un [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/) en [Java](https://www.manualweb.net/java/) es que se crean con un tamaño por defecto, que podemos de forma dinámica ir añadiendo elementos y que en el caso de que el [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/) supere su tamaño predefinido, automáticamente se le asignará un nuevo tamaño. Para crear un [ArrayList](https://www.w3api.com/Java/ArrayList/removeIf/) en [Java](https://www.manualweb.net/java/) tenemos tres formas:

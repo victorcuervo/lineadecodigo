@@ -7,9 +7,8 @@ tags: ["array","matriz","equals","deepequals"]
 slug: java/arrays/comparar-matrices-en-java
 author: victor_cuervo
 type: doc
+id: 0265c615-ead6-4a06-9445-f16df2b4fa00
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MatricesIguales.java
-topic: java
-
 ---
 
 Mediante el siguiente ejemplo vamos a ver como podemos comparar matrices en [Java](https://www.manualweb.net/java/). Es decir ver si dos matrices son iguales, si tienen el mismo número de elementos y dichos elementos coinciden. Lo primero que tenemos que recordar es que una matriz en [Java](https://www.manualweb.net/java/) es un array, un array bidimensional:

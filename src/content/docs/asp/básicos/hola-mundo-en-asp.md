@@ -7,9 +7,8 @@ tags: ["hola-mundo","response","write"]
 slug: asp/basicos/hola-mundo-en-asp
 author: victor_cuervo
 type: doc
+id: d33356d4-f55d-4eb4-b705-15d56ea63dec
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/basico/hola-mundo.asp
-topic: asp
-
 ---
 
 Siempre he pensado que escribir este artículo me llevaría poco tiempo. Pero nunca encontraba el tiempo necesario para escribirlo. Y eso que, cómo he dicho, es muy sencillo.

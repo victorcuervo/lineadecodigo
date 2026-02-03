@@ -7,9 +7,8 @@ tags: ["jframe","textarea","add","java-swing","jtextarea","jtextfield","careteve
 slug: java/swing/fila-y-columna-del-jtextarea
 author: victor_cuervo
 type: doc
+id: 6d689357-41d4-45d1-a56f-9f1b87fb4be0
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/swing/FilaColumna.java
-topic: java
-
 ---
 
 Cuando creamos un elemento `JTextArea` el usuario irá introduciendo texto en dicho área. Si nos fijamos en los editores una de sus características es que nos informan de una forma sencilla de qué línea y en qué columna nos encontramos. Ya sea para localizar texto, para informar de una línea de error en un programa,... En este ejemplo vamos a ver como podemos informarle al usuario de la fija y columna del `JTextArea` en la que se encuentran. Para empezar vamos a crear un [`JFrame`](https://www.w3api.com/Java/JFrame/setLayout/), este será el que nos permita tener una aplicación Java Swing de forma visual. Para ello vamos a extender nuestra clase de la clase [`JFrame`](https://www.w3api.com/Java/JFrame/setLayout/).

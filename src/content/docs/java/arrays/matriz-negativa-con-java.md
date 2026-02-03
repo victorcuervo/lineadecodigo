@@ -7,9 +7,8 @@ tags: ["for","length","operadores","matriz","array","bucles"]
 slug: java/arrays/matriz-negativa-con-java
 author: victor_cuervo
 type: doc
+id: 7e97e0eb-5eec-4a92-8592-577940940d51
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MatrizNegativa.java
-topic: java
-
 ---
 
 ## Concepto de Matriz Negativa

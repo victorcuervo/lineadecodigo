@@ -7,9 +7,8 @@ tags: ["jfreechart","java-swing","jframe","jpanel"]
 slug: java/graficos/graficos-en-java-con-jfreechart
 author: Pablo Ruiz
 type: doc
+id: 573462f1-3701-424e-96b4-8ca91af6228b
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/graficos/GraficosJFreeChart.java
-topic: java
-
 ---
 
 Mientras tanto hago el análisis de mi proyecto de título me he visto en la **necesidad de buscar algunas librerías gráficas** para que me faciliten el trabajo en [Java](https://www.manualweb.net/java/), es así que he llegado a [JFreeChart](http://www.jfree.org/jfreechart/), librería para estadísticas gráficas. Hoy por hoy les explicaré lo sencillo que resulta crear un gráfico con JFreeChart. **Lo primero que tenemos que hacer es agregar la librerías de JFreeChart**, si no las tenemos, podemos [acceder a ellas desde la página de sus programadores](http://sourceforge.net/projects/jfreechart/files/).

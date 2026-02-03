@@ -7,9 +7,8 @@ tags: ["last-child","table","tfoot","tr","background-color","color"]
 slug: css/dar-color-a-la-ultima-fila-de-una-tabla
 author: victor_cuervo
 type: doc
+id: ca4ddacd-e3c6-4125-9514-3bb38227269d
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-color-footer.html
-topic: css
-
 ---
 
 Si estamos definiendo una tabla con datos dentro de nuestra página web es fácil que queramos dar un color especial a esa última fila de la tabla. Ya que esa fila es la que se suele utilizar para indicar agregados o sumatorios de datos. Pero, a la hora de dar color a la última fila de una tabla, tenemos que saber qué elemento [HTML](https://www.manualweb.net/html/) representa realmente la última fila. Es decir, ¿hay algún elemento que represente la última fila?

@@ -7,9 +7,8 @@ tags: ["recursividad","if","metodo"]
 slug: java/basicos/tablas-de-multiplicar-recursivas-en-java
 author: victor_cuervo
 type: doc
+id: 259b376d-5c47-4562-8bcc-a3ecd5c8665d
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/TablasDeMultiplicarRecursivas.java
-topic: java
-
 ---
 
 Una forma sencilla de crear un programa que genere las tablas de multiplicar lo podéis encontrar en [Tablas de multiplicar en Java](http://lineadecodigo.com/2007/06/05/tablas-de-multiplicar-en-java/). En él, mediante un simple bucle se van generando las diferentes lineas con las multiplicaciones. Si bien, las tablas de multiplicar se prestan a ser resueltas mediante programación recursiva. La programación recursiva es aquella que utiliza un mismo método que se llama de forma recursiva para resolver un problema. Otros ejemplos de fácil resolución de forma recursiva serían el calculo de un [sumatorio](http://lineadecodigo.com/2007/06/24/sumatorio-de-un-numero-de-forma-recursiva/), [factorial](http://lineadecodigo.com/2006/11/19/factorial-de-un-numero/),... El método que implementara las tablas de multiplicar recursivas en Java será multiplicar. Este recibirá como parámetros el número de la tabla de multiplicar y el número en el que se quiere terminar. Quedándonos la siguiente signatura:

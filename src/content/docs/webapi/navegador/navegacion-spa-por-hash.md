@@ -7,9 +7,8 @@ tags: ["hash","location","onhashchange"]
 slug: webapi/navegador/navegacion-spa-por-hash
 author: victor_cuervo
 type: doc
+id: 620132d7-c7a5-4f11-a2d7-24c9093457a6
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/P%C3%A1gina/controlar-navegacion-hash.html
-topic: webapi
-
 ---
 
 Cuando realizamos aplicaciones SPA (Single Page Applications) una de las cosas que necesitaremos será poder controlar la navegación entre los diferentes elementos, para ello se utilizan modelos de navegación SPA por hash. Es decir, asociaremos a cada uno de los elementos visuales que vayamos generando dentro de nuestra SPA un elemento hash que lo identifique.

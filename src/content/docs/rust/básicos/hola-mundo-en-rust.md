@@ -7,9 +7,8 @@ tags: ["hola-mundo","main","println"]
 slug: rust/basicos/hola-mundo-en-rust
 author: victor_cuervo
 type: doc
+id: 179a9dfb-adca-8099-8760-f215e70cee07
 download: https://github.com/victorcuervo/lineadecodigo_rust/blob/main/src/basicos/hola_mundo.rs
-topic: rust
-
 ---
 
 En este artículo vamos a conocer algunos conceptos básicos del lenguaje de programación Rust que nos permitan crear nuestro primer programa, siendo este el Hola Mundo en Rust.

@@ -4,12 +4,10 @@ description: "El Día W3C en España 2007 se celebrará el 23 de mayo en Madrid 
 date: 2007-05-16
 updatedDate: 2026-01-10
 tags: ["eventos"]
-slug: blog/dia-w3c-en-espaa-2007
+slug: blog/dia-w3c-en-espana-2007
 author: lineadecodigo
 type: blog
-
-topic: blog
-
+id: 2c8a9dfb-adca-819b-8d69-de8006ad4950
 ---
 
 La [oficina de la W3C en España](http://www.w3c.es/) celebra el próximo día 23 de mayo el "Día W3C en España 2007".

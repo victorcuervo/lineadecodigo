@@ -7,9 +7,8 @@ tags: ["date","gettime","math","fechas"]
 slug: javascript/fechas/comparar-con-la-fecha-del-sistema-en-javascript
 author: victor_cuervo
 type: doc
+id: d8e4ff1a-5913-40d2-a389-4cc44620e809
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/comparar-con-fecha-sistema.html
-topic: javascript
-
 ---
 
 Comparar con la fecha del sistema en [Javascript](https://www.manualweb.net/javascript/) nos sirve para saber la diferencia de fechas entre el día de hoy y otra fecha. Esto nos serviría desde casos en los que queramos saber hace cuanto tiempo publique esta entrada en el blog, o cuánto queda para el día de mi cumpleaños o cuánto queda hasta año nuevo.

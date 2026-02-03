@@ -7,9 +7,8 @@ tags: ["string","stream","chars","foreach","filter","parallel"]
 slug: java/stream/string-como-stream-en-java
 author: victor_cuervo
 type: doc
+id: 26d8d041-dc47-40b9-95f3-ef7010bed256
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/stream/CadenaComoStream.java
-topic: java
-
 ---
 
 Desde que aparecieron los Stream en [Java 8](https://www.manualweb.net/java/) tenemos la capacidad de trabajar con muchos elementos como si fueran Stream. Esto se utiliza principalmente en [Java](https://www.manualweb.net/java/) para las Colecciones, pero podemos aplicarlo a otros elementos como Ficheros e incluso sobre una cadena de texto. Para poder tratar un String como Stream en [Java](https://www.manualweb.net/java/) necesitamos invocar al método `.chars()`. Dicho método nos devolverá el Stream desde una cadena de texto.

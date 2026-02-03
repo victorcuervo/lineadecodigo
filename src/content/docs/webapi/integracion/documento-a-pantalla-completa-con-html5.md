@@ -7,9 +7,8 @@ tags: ["fullscreen","requestfullscreen","promise"]
 slug: webapi/integracion/documento-a-pantalla-completa-con-html5
 author: victor_cuervo
 type: doc
+id: 5a22a432-93f2-4c48-ae6e-9018a30a2d90
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Fullscreen%20API/documento-pantalla-completa.html
-topic: webapi
-
 ---
 
 ## Introducción al API Fullscreen

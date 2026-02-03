@@ -7,8 +7,8 @@ tags: ["Java IO","Java IO File","Java IO IOException"]
 slug: java/ficheros/crear-un-fichero-en-java
 author: victor_cuervo
 type: doc
+id: 11f82277-0542-42bf-998c-e44a12221042
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/io/CrearUnFichero.java
-topic: java
 ---
 
 Si queremos crear un fichero en [Java,](https://www.manualweb.net/ava/) nos tenemos que apoyar en la clase [`File`](https://www.w3api.com/Java/File/) de la librería [`Java IO,`](https://www.w3api.com/Java/tag/java.io/) la cual nos proporciona un método [`createNewFile()`](https://www.w3api.com/Java/File/createNewFile/) que generará el fichero en el path que le indiquemos.

@@ -7,9 +7,8 @@ tags: ["flexbox","columnas","flex-direction","flex-warp","justify-content"]
 slug: css/flexbox/tres-columnas-en-css-con-flexbox
 author: victor_cuervo
 type: doc
+id: 38256535-38e0-4f77-abe1-45f378f881fb
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/capas/tres-columnas.html
-topic: css
-
 ---
 
 Vamos a utilizar las capacidades del modelo de cajas flexibles o Flexbox de [CSS](https://www.manualweb.net/css/) para poder realizar un diseño que nos muestre tres columnas en [CSS](https://www.manualweb.net/css/) con Flexbox. Es decir, vamos a crear tres capas con contenido, las cuales mostraremos en forma de tres columnas.

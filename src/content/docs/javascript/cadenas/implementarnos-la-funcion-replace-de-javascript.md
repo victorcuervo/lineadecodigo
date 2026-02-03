@@ -7,9 +7,8 @@ tags: ["string","array","split","join","replace"]
 slug: javascript/cadenas/implementarnos-la-funcion-replace-de-javascript
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-81b9-bda2-e0e6537247db
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/cadenas/funcion-replace-javascript.html
-topic: javascript
-
 ---
 
 Dentro del lenguaje [JavaScript](https://www.manualweb.net/javascript/) existe la función **replace** para realizar la sustitución de cadenas de textos. Podemos ver un ejemplo en ["Función Replace en JavaScript"](http://lineadecodigo.com/2007/08/07/funcion-replace-en-javascript/).

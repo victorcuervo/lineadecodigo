@@ -7,9 +7,8 @@ tags: ["hashmap","java-collection","put","keys","keyset","clave-valor"]
 slug: java/colecciones/usar-una-hashtable-java
 author: Francisco Meza
 type: doc
+id: 298596fc-dac7-48dd-a0e1-0c07393abda2
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/UsarHashMap.java
-topic: java
-
 ---
 
 Una Hashtable Java es una estructura de datos que utiliza una función hash para identificar datos mediante una llave o clave (ej. Nombre de una persona). La función hash transforma una llave a un valor índice de un arreglo de elementos. En este caso a una índice de nuestra Hashtable Java. Una Hashtable Java más específica del funcionamiento es la siguiente:

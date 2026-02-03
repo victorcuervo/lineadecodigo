@@ -7,9 +7,7 @@ tags: ["video"]
 slug: blog/video-sobre-como-crear-enlaces-en-html
 author: lineadecodigo
 type: blog
-
-topic: blog
-
+id: 4d3129fb-37c8-4dc1-ae2b-424197421e0a
 ---
 
 En este nuevo [vídeotutorial de Línea de Código](http://lineadecodigo.com/tag/video/) vamos a ver un vídeo sobre cómo crear enlaces en [HTML](https://www.manualweb.net/html/).

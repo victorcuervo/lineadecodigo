@@ -7,9 +7,8 @@ tags: ["tinys3","bucket","copy"]
 slug: python/s3/copiar-ficheros-en-amazon-s3-con-python
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8166-a854-f9d41741c1de
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/tinys3/copiar_fichero_s3.py
-topic: python
-
 ---
 
 Una de las capacidades que nos ofrece la librería **TinyS3** de [Python](http://www.manualweb.net/python/) es la facilidad para poder copiar ficheros en Amazon S3 con [Python](http://www.manualweb.net/python/). En este sentido nos ofrece el poder realizar una copia de ficheros desde un bucket a otro bucket de Amazon S3 o bien copiar ficheros dentro del mismo bucket de Amazon S3.

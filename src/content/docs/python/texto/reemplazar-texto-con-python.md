@@ -7,8 +7,8 @@ tags: ["replace"]
 slug: python/texto/reemplazar-texto-con-python
 author: victor_cuervo
 type: doc
+id: 494d2f6a-a06d-49c5-800d-d504fcb58762
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/reemplazar-subcadena.py
-topic: python
 ---
 
 En este ejemplo vamos a ver cómo podemos reemplazar texto con [Python](https://www.manualweb.net/python/). La idea es buscar un texto de una frase y sustituirlo por otro. Lo que haremos será decidir cuántas veces podemos reemplazar una subcadena, es decir, si queremos reemplazar solo la primera ocurrencia que aparezca el texto dentro de la frase o si queremos reemplazarlo más veces.

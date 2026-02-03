@@ -7,9 +7,8 @@ tags: ["length","img","images"]
 slug: dom/elementos/calcular-el-numero-de-imagenes-con-javascript
 author: victor_cuervo
 type: doc
+id: a5b73591-44ff-450e-848f-3c97e6ec42c5
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/numero-imagenes-de-un-documento.html
-topic: dom
-
 ---
 
 Otra de las cosas que podemos hacer manipulando el **DOM** de una página web y apoyándonos en [JavaScript](https://www.manualweb.net/javascript/) es poder calcular el número de imágenes que tenemos cargadas en la página.

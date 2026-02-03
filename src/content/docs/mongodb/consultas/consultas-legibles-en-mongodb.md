@@ -7,11 +7,7 @@ tags: ["find","db","pretty"]
 slug: mongodb/consultas/consultas-legibles-en-mongodb
 author: victor_cuervo
 type: doc
-
-topic: mongodb
-
-
-
+id: 35d6e4da-d5b9-4cc9-a1c5-5b767dda6b10
 ---
 
 Cuando estamos haciendo consultas en la consola de [MongoDB](https://www.manualweb.net/mongodb/) vamos a ver que la información que sale, en ciertas ocasiones, puede ser poco legible. Y si queremos analizar los resultados vamos a necesitar que nuestras consultas sean legibles en [MongoDB](https://www.manualweb.net/mongodb/).

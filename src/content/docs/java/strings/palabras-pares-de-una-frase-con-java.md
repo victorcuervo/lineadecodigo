@@ -7,9 +7,8 @@ tags: ["stringtokenizer","pares","nextelement","string","hasmoreelements","nextt
 slug: java/strings/palabras-pares-de-una-frase-con-java
 author: victor_cuervo
 type: doc
+id: 542eeade-c910-4c74-ad20-54652316cc82
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/PalabrasParesFrase.java
-topic: java
-
 ---
 
 En uno de los c[omentarios que nos dejabais hace poco un usuario](http://lineadecodigo.com/java/listar-caracteres-de-una-cadena-con-java/#comment-112525) nos preguntaba sobre cómo podría sacar las palabras pares de una frase con [Java](http://www.manualweb.net/java/). Es decir, que dada una frase obtuviese la segunda, cuarta, sexta,... palabra de la frase y nos la mostrase por consola. Vamos a ver cómo resolverlo, ya que es sencillo el poder extraer las palabras pares de una frase con [Java](http://www.manualweb.net/java/). Lo primero será tener una frase. Esto es muy sencillo.

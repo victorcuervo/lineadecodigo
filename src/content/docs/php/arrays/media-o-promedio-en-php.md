@@ -7,9 +7,8 @@ tags: ["array"]
 slug: php/arrays/media-o-promedio-en-php
 author: victor_cuervo
 type: doc
+id: 52299a80-ca2b-454b-9a80-801a955a9f88
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/arrays/calcular-media.php
-topic: php
-
 ---
 
 Una de la cosa que nos habéis pedido en los comentarios es que expliquemos como se puede calcular la media o promedio en [PHP](http://www.manualweb.net/php/) de un conjunto de números. Así que vamos a explicar cómo podemos conseguirlo mediante este artículo. Lo primero será definir un array en el cual vamos a tener los números.

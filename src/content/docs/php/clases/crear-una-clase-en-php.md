@@ -7,8 +7,8 @@ tags: ["clase","atributos","getter","setter","class","objeto","public","private"
 slug: php/clases/crear-una-clase-en-php
 author: victor_cuervo
 type: doc
+id: 030d4e24-c624-4206-ae7b-35a523116729
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/objetos/crear-clase.php
-topic: php
 ---
 
 El [lenguaje de programación PHP](https://lineadecodigo.com/categoria/php/) es un **lenguaje orientado a objetos**, por lo que una de las cosas que deberemos de aprender es crear [una clase en PHP](https://manualweb.net/php/clases-y-objetos-en-php/). Y es que, crear [una clase en PHP](https://manualweb.net/php/clases-y-objetos-en-php/), nos puede servir para encapsular una cierta funcionalidad, la cual podremos instanciar con diferentes valores en tantos objetos como necesitemos.

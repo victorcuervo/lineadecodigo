@@ -7,9 +7,8 @@ tags: ["localstorage","setitem","getitem"]
 slug: webapi/almacenamiento/acceder-a-la-cache-local-del-navegador-con-html5
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-813d-8c58-d532f060b2ba
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/WebStorage/insertar-elemento/insertar-elemento-web-storage.html
-topic: webapi
-
 ---
 
 Una de las cosas que podemos (o vamos a poder hacer) con los navegadores, una vez que estos implementen [HTML5](http://www.manualweb.net/html5/) (y anexos) es acceder a la caché local del navegador con [HTML5](http://www.manualweb.net/html5/). De esta forma podremos almacenar información de forma persistente, a lo largo de toda la sesión de un usuario y lo mejor de todo, no será en el servidor, si no que será en el navegador. Lo cual nos va a permitir dotar de funcionalidad offline a nuestras aplicaciones.

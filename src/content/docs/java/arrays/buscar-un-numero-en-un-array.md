@@ -7,9 +7,8 @@ tags: ["contains","array","list","aslist","java-collection"]
 slug: java/arrays/buscar-un-numero-en-un-array
 author: victor_cuervo
 type: doc
+id: 39271adf-ecbf-49da-83fa-0ae2c4b72119
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/BuscarNumeroEnArray.java
-topic: java
-
 ---
 
 Dentro de [Línea de Código podéis encontrar muchos artículos relativos a las búsquedas de Arrays en Java](http://lineadecodigo.com/tag/java-array/). En este caso vamos a implementar un método que nos permita buscar un número en un [array](http://lineadecodigo.com/tag/java-array/). Realmente seguimos el mismo modelo de búsqueda que explicamos en [Buscar en un Array](http://lineadecodigo.com/java/buscar-en-un-array/), pero en este caso buscaremos un número en vez de una palabra. Lo que implementaremos será un método `searchNumber()` el cual recibirá como parámetros el array con los números de la lista y el número que queremos buscar. La signatura del método será la siguiente:

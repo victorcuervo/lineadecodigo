@@ -7,9 +7,8 @@ tags: ["Java Swing","volumen","radio","math","java-swing","joptionpane","cono","
 slug: java/matematicos/calcular-el-volumen-de-un-cono-en-java
 author: ARIEL
 type: doc
+id: 2c5cab51-9951-4835-9d1a-63a89e2b5080
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/VolumenCono.java
-topic: java
-
 ---
 
 En este ejemplo vamos a calcular el volumen de un cono en [Java](https://www.manualweb.net/java/). En el código vamos a utilizar la clase JOptionPane de la librería `javax.swing` para que la representación sea visual. Lo primero será importar la clase `JOptionPane`:

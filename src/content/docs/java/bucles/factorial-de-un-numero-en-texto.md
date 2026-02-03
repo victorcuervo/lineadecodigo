@@ -7,9 +7,8 @@ tags: ["Java Básicos"]
 slug: java/bucles/factorial-de-un-numero-en-texto
 author: victor_cuervo
 type: doc
+id: bed9ad56-c97e-48ff-8a7f-94bc0702ada0
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/FactorialDeUnNumeroTexto.java
-topic: java
-
 ---
 
 Para calcular el factorial de un número [podemos hacerlo mediante un bucle for](https://lineadecodigo.com/java/factorial-java-bucle-for/) o [mediante recursividad](https://lineadecodigo.com/java/factorial-de-un-numero/). Pero, en los comentarios, nos habéis pedido cómo se puede poner el factorial de un número en texto. Es decir, que no solo indiquemos el valor del factorial, si no que mostremos el cálculo de las multiplicaciones. Todo ello mediante código [Java](https://www.manualweb.net/java). Si recordamos, el factorial de un número es la multiplicación de todos los números desde el número del que queremos calcular el factorial hasta el número 1. Es decir:

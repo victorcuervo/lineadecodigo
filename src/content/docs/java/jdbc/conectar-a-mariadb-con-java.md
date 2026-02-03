@@ -7,9 +7,8 @@ tags: ["jdbc","connection","mariadb","drivermanager","preparedstatement","result
 slug: java/jdbc/conectar-a-mariadb-con-java
 author: Víctor Cuervo
 type: doc
+id: 5ae84d19-cd9e-4db9-87f0-1d7029247fc4
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConexionMariaDB.java
-topic: java
-
 ---
 
 Seguro que ya has leído alguno de nuestros artículos sobre [cómo conectarse a una base de datos con Java](https://lineadecodigo.com/java/conectarnos-a-una-base-de-datos-con-jdbc/) o [cómo conectarte a MySQL desde Java](https://lineadecodigo.com/java/conectar-mysql-java/) y ya tienes más o menos claro cómo conectarte a cualquier base de datos. Pero [desde el fork de MySQL en MariaDB allá por 2009 tras la compra de SUN por parte de Oracle](https://www2.computerworld.com.au/article/457551/dead_database_walking_mysql_creator_why_future_belongs_mariadb/), muchos de los desarrolladores se han movido al mundo MariaDB y es por ello que llegan consultas sobre cómo conectar a MariaDB con [Java](https://www.manualweb.net/java). Lo primero es bajarnos los drivers con el conector [Java](https://www.manualweb.net/java) de MariaDB. Esto lo puedes hacer [desde la página de descarga de drivers de MariaDB](https://mariadb.com/kb/en/about-mariadb-connector-j/) o, cómo sabemos que sois buenos y utilizáis un gestor de dependencias como Maven, añadiendo la referencia en el **pom.xml** de la siguiente manera:

@@ -4,12 +4,11 @@ description: "Aprende a crear estilos CSS on-line con Javascript y mejora la apa
 date: 2008-01-21
 updatedDate: 2026-01-18
 tags: ["document","style","head","css","estilos","createelement","appendchild","createtextnode","csstext"]
-slug: dom/manipulacion/crear-estilos-css-online
+slug: dom/manipulacion/crear-estilos-css-on-line
 author: victor_cuervo
 type: doc
+id: 2c8a9dfb-adca-8149-a20d-cccc498dbcaa
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_javascript/dom/crear-estilos-css-online.html
-topic: dom
-
 ---
 
 En un procedimiento de diseño estándar lo más normal es que al mismo tiempo que definimos cómo será nuestra página vamos creando nuestras [hojas de estilo CSS](http://www.manualweb.net/css/). De tal manera, cada vez que se realice una petición sobre la página, se descargue la hoja de estilos asociada.

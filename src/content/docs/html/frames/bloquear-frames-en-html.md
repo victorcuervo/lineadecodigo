@@ -7,9 +7,8 @@ tags: ["frame","frameset","frameborder","noresize"]
 slug: html/frames/bloquear-frames-en-html
 author: victor_cuervo
 type: doc
+id: 5d18f814-5c7a-426e-9799-6624583f2999
 download: https://github.com/victorcuervo/lineadecodigo_html/tree/master/frames/frame-sin-barra-de-scroll
-topic: html
-
 ---
 
 Cuando diseñamos una página con frames, el tamaño de estos puede ser modificado por el usuario, una vez cargada la página. Esta modificación puede alterar el diseño de los contenidos de dentro de los frames. Es por ello que tenemos la alternativa de bloquear este redimensionado de los frames.

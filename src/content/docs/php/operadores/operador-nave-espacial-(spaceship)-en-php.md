@@ -7,8 +7,8 @@ tags: ["operadores"]
 slug: php/operadores/operador-nave-espacial-spaceship-en-php
 author: victor_cuervo
 type: doc
+id: ecbb5df0-09b3-4281-bb01-1ea1793db869
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/operador-nave-espacial.php
-topic: php
 ---
 
 Dentro del mundo de la programación, uno de los operadores con el nombre más curioso puede ser el operador nave espacial (spaceship) en [PHP](https://www.manualweb.net/php/).
