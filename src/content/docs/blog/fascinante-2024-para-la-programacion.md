@@ -5,15 +5,14 @@ date: 2025-01-12
 updatedDate: 2026-02-04
 tags: ["editorial"]
 slug: blog/fascinante-2024-para-la-programacion
-author: victor_cuervo
 type: blog
 topic: blog
 id: 168a9dfb-adca-804a-8e09-cfed9c5931a6
 authors:
-	name: victor_cuervo
+  - victor_cuervo
 cover:
-	alt: "Artículo sobre Fascinante 2024 para la programación"
-	image: ../../../assets/blog/covers/fascinante-2024.webp
+  alt: "Artículo sobre Fascinante 2024 para la programación"
+  image: ../../../assets/blog/covers/fascinante-2024.webp
 socialImage: ../../../assets/blog/covers/fascinante-2024.webp
 socialImageAlt: Fascinante 2024 para la programación
 ---
