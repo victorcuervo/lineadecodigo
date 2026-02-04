@@ -225,6 +225,7 @@ async function resolveSyncedBlocks(mdblocks) {
 		if (pcover) {
 			cover = pcover
 		}
+		console.log(cover);
 
 		// Descargar la imagen de cover si existe
 		if (cover) {
