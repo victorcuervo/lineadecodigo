@@ -5,10 +5,10 @@ date: 2012-02-21
 updatedDate: 2026-01-08
 tags: ["try-catch","file","java-io","fileoutputstream","ioexception","outputstream","properties"]
 slug: java/properties/guardar-unos-properties-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 2e2a9308-0b68-427a-ba61-f04ba2834e12
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/properties/GuardarProperties.java
 ---
 

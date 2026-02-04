@@ -5,10 +5,10 @@ date: 2015-07-20
 updatedDate: 2026-01-11
 tags: ["matriz","array","for","bucles","length"]
 slug: java/arrays/transponer-una-matriz-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 978485ba-be24-4fb5-9e4a-33927f10b70f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MatrizTranspuesta.java
 ---
 

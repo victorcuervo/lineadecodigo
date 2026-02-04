@@ -5,10 +5,10 @@ date: 2023-10-09
 updatedDate: 2026-01-05
 tags: ["elementtree","parse","getroot","findall"]
 slug: python/xml/leer-xml-con-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 40161b88-91ae-4a25-8c13-9125f2f5836e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/xml/leer-xml.py
 ---
 

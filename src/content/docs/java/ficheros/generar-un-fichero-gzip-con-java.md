@@ -5,10 +5,10 @@ date: 2006-12-30
 updatedDate: 2026-01-09
 tags: ["java-io","ioexception","outputstream","gzipoutputstream"]
 slug: java/ficheros/generar-un-fichero-gzip-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 89dfe0f8-ca6f-4d04-92a3-79005c1307a0
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/zip/GenerarFicheroGZIP.java
 ---
 

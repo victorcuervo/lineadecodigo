@@ -5,10 +5,10 @@ date: 2007-06-27
 updatedDate: 2026-01-17
 tags: ["center","text-align"]
 slug: css/texto/centrar-texto-con-css-en-tu-pagina-web
-author: victor_cuervo
 type: doc
 topic: css
 id: 404ca26a-f7fd-422d-8b1e-b5864cda225f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/texto/centrar-texto.html
 ---
 

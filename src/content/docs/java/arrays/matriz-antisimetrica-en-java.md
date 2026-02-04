@@ -5,10 +5,10 @@ date: 2015-08-17
 updatedDate: 2026-01-11
 tags: ["matriz","equals","deepequals","bucles","for","array"]
 slug: java/arrays/matriz-antisimetrica-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 51bc3b7f-e610-44ac-8469-2c4409a79f8c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MatrizAntiSimetrica.java
 ---
 

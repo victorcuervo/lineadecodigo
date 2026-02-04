@@ -5,10 +5,10 @@ date: 2024-01-31
 updatedDate: 2026-01-05
 tags: ["texto","fstring"]
 slug: python/cadenas/fstring-o-interpolacion-de-cadenas-en-python
-author: victor_cuervo
 type: doc
 topic: python
 id: b8bfb2f9-610f-4f39-9dd1-1d95d83164e5
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/fstring.py
 ---
 

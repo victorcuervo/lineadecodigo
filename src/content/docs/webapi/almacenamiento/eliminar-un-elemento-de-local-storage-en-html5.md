@@ -5,10 +5,10 @@ date: 2010-11-01
 updatedDate: 2026-01-24
 tags: ["localstorage","removeitem"]
 slug: webapi/almacenamiento/eliminar-un-elemento-de-local-storage-en-html5
-author: victor_cuervo
 type: doc
 topic: webapi
 id: 1f69b39b-f136-404d-9973-4cb6a721ba29
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/WebStorage/eliminar-elemento/eliminar-elemento-web-storage.html
 ---
 

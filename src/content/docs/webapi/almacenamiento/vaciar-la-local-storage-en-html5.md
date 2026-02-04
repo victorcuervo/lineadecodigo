@@ -5,10 +5,10 @@ date: 2010-10-11
 updatedDate: 2026-01-19
 tags: ["localstorage","clear"]
 slug: webapi/almacenamiento/vaciar-la-local-storage-en-html5
-author: victor_cuervo
 type: doc
 topic: webapi
 id: 17a38bb6-4f25-4058-b2f1-6733f7f767c8
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/WebStorage/vaciar-web-storage/logoff.html
 ---
 

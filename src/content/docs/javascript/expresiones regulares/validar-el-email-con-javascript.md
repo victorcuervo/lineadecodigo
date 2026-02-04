@@ -5,10 +5,10 @@ date: 2009-01-09
 updatedDate: 2026-01-13
 tags: ["regexp","email","dominio","servidor"]
 slug: javascript/expresiones-regulares/validar-el-email-con-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: ae98ab09-d6e8-4988-ab57-a0e0271eafa5
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/validaciones/validar-email.html
 ---
 

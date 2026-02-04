@@ -5,10 +5,10 @@ date: 2016-04-05
 updatedDate: 2026-01-09
 tags: ["try-catch","innerhtml","jaunt","useragent"]
 slug: java/librerias/screen-scraping-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 2c8a9dfb-adca-8114-9091-d78561b388a7
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/external/jaunt/ScreenScraping.java
 ---
 

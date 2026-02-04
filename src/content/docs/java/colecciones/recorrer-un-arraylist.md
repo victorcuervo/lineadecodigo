@@ -5,10 +5,10 @@ date: 2014-11-02
 updatedDate: 2026-01-08
 tags: ["java-collection","arraylist","string","add","size"]
 slug: java/colecciones/recorrer-un-arraylist
-author: victor_cuervo
 type: doc
 topic: java
 id: 03b44d77-36f6-421e-83b0-1f59d7a6daa2
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/RecorrerArrayList.java
 ---
 

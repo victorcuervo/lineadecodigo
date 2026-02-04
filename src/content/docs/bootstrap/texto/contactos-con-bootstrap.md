@@ -5,10 +5,10 @@ date: 2015-06-26
 updatedDate: 2026-02-02
 tags: ["address","abbr","strong"]
 slug: bootstrap/texto/contactos-con-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: 104b8fd7-b1cf-4211-928c-1984926c510d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/citas-bootstrap.html
 ---
 

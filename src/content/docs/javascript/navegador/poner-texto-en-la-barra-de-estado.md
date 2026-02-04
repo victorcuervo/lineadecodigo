@@ -5,10 +5,10 @@ date: 2007-06-03
 updatedDate: 2026-01-12
 tags: ["window","status","onmouseover","onmouseout"]
 slug: javascript/navegador/poner-texto-en-la-barra-de-estado
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 8fb7768f-ed82-48ea-92ea-616067c6fc7b
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/poner-texto-barra-estado.html
 ---
 

@@ -5,10 +5,10 @@ date: 2007-08-06
 updatedDate: 2026-01-11
 tags: ["string","tolowercase","locale"]
 slug: java/strings/convertir-una-cadena-a-minusculas-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: bfdebb3e-4658-45d9-84ae-da70a6f6edc2
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ConvertirAMinusculas.java
 ---
 

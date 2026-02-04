@@ -5,10 +5,10 @@ date: 2007-01-05
 updatedDate: 2026-01-17
 tags: ["textarea","background-color","color","style"]
 slug: css/colores-y-fondos/color-de-fondo-del-textarea
-author: victor_cuervo
 type: doc
 topic: css
 id: 23a308ef-2295-489f-b272-f7f87fe9233a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/formularios/fondo-textarea.html
 ---
 

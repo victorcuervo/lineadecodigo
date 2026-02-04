@@ -5,10 +5,10 @@ date: 2017-09-06
 updatedDate: 2026-02-01
 tags: ["let","variable","enum"]
 slug: typescript/variables/enumerados-en-typescript
-author: victor_cuervo
 type: doc
 topic: typescript
 id: 7e5f2e4a-8fd8-4f2a-9318-94fcf7bb1ab5
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/basicos/enumerados.ts
 ---
 

@@ -5,10 +5,10 @@ date: 2007-01-19
 updatedDate: 2026-01-07
 tags: ["first-letter","color","float","font-size","class","letra-capital"]
 slug: css/texto/letra-capital
-author: victor_cuervo
 type: doc
 topic: css
 id: 6335a86d-d71d-48b2-9e82-6e704f603304
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/letra-capital.html
 ---
 

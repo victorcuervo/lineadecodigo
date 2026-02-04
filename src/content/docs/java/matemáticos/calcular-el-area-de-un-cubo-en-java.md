@@ -5,10 +5,10 @@ date: 2013-02-14
 updatedDate: 2026-01-08
 tags: ["math","pow","abstract","class","area","cubo"]
 slug: java/matematicos/calcular-el-area-de-un-cubo-en-java
-author: ARIEL
 type: doc
 topic: java
 id: 18a0b761-359d-41ca-9aba-e87e9587fbaf
+author: ARIEL
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/AreaCubo.java
 ---
 

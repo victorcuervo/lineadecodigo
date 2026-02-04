@@ -5,10 +5,10 @@ date: 2016-06-06
 updatedDate: 2026-01-17
 tags: ["update","mongoclient","update_one","update_many","set","pull","push"]
 slug: python/pymongo/actualizar-un-documento-con-pymongo
-author: victor_cuervo
 type: doc
 topic: python
 id: 97010453-78bc-4dbf-b6c8-45bca4e6d82c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/pymongo/update-pymongo.py
 ---
 

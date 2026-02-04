@@ -5,10 +5,10 @@ date: 2008-02-07
 updatedDate: 2026-01-07
 tags: ["circle","defs","fill","gradiente","lineal","lineargradient","offset","stop-color","stroke","style","url"]
 slug: svg/gradientes/borde-con-gradiente-lineal
-author: victor_cuervo
 type: doc
 topic: svg
 id: 2c8a9dfb-adca-818f-9b35-d6cef58d1161
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/gradientes/gradiente-como-borde.svg
 ---
 

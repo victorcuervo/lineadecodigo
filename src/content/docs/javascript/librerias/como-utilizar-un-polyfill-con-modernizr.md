@@ -5,10 +5,10 @@ date: 2012-02-17
 updatedDate: 2026-01-13
 tags: ["polyfill","placeholder","modernizr","jquery"]
 slug: javascript/librerias/como-utilizar-un-polyfill-con-modernizr
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 2c8a9dfb-adca-81cb-b416-e6b5924f7819
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/tree/master/apis/modernizr/polyfills/placeholder
 ---
 

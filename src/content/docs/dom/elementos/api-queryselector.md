@@ -5,10 +5,10 @@ date: 2014-08-30
 updatedDate: 2026-01-13
 tags: ["queryselector","getelementbyid","innerhtml","selector"]
 slug: dom/elementos/api-queryselector
-author: victor_cuervo
 type: doc
 topic: dom
 id: 2c8a9dfb-adca-8114-b13d-fc72157faf3d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/selectores/queryselector.html
 ---
 

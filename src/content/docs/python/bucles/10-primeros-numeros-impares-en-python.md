@@ -5,10 +5,10 @@ date: 2025-02-06
 updatedDate: 2026-01-05
 tags: ["bucles","for","range","step"]
 slug: python/bucles/10-primeros-numeros-impares-en-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 2a664d48-8b3b-49fd-923f-88aa93895fc0
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/listar-numeros-impares.py
 ---
 

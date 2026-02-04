@@ -5,10 +5,10 @@ date: 2021-10-01
 updatedDate: 2026-01-12
 tags: ["string","replaceat","substr"]
 slug: javascript/cadenas/reemplazar-por-posicion-con-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: db3d9734-b8be-4818-8a35-e1ae62eed657
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/cadenas/reemplazar-caracter.js
 ---
 

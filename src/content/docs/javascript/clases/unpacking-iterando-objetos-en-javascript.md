@@ -5,10 +5,10 @@ date: 2017-09-29
 updatedDate: 2026-01-13
 tags: ["unpacking","for-of","objetos","array"]
 slug: javascript/clases/unpacking-iterando-objetos-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 2c8a9dfb-adca-8165-904a-f0a824aec610
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/unpacking-iterar-objetos.js
 ---
 

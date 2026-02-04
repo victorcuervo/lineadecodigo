@@ -5,10 +5,10 @@ date: 2014-02-07
 updatedDate: 2026-01-28
 tags: ["find","sort"]
 slug: mongodb/consultas/ordenaciones-en-mongodb
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: 8a451588-bafb-4364-842f-6953ac5b4a4c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/orderby.js
 ---
 

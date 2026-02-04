@@ -5,10 +5,10 @@ date: 2016-01-18
 updatedDate: 2026-01-06
 tags: ["route","get","def","parametros"]
 slug: flask/rutas/parametros-en-rutas-python-flask
-author: victor_cuervo
 type: doc
 topic: flask
 id: 170afe0b-fa9b-413f-882f-747e4812a62f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/parametroget.py
 ---
 

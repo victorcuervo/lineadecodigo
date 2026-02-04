@@ -5,10 +5,10 @@ date: 2008-02-12
 updatedDate: 2026-01-08
 tags: ["recursividad","if","metodo"]
 slug: java/basicos/tablas-de-multiplicar-recursivas-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 259b376d-5c47-4562-8bcc-a3ecd5c8665d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/TablasDeMultiplicarRecursivas.java
 ---
 

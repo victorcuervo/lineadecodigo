@@ -5,10 +5,10 @@ date: 2016-01-26
 updatedDate: 2026-01-17
 tags: ["tinys3","open","upload"]
 slug: python/s3/subir-un-fichero-a-amazon-s3-con-python
-author: victor_cuervo
 type: doc
 topic: python
 id: b1a67206-7e5a-40d1-b8c2-0f2a1b2a6c5f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/tinys3/subir_fichero_s3.py
 ---
 

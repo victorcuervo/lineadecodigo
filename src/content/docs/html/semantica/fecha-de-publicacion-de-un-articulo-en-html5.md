@@ -5,10 +5,10 @@ date: 2012-10-18
 updatedDate: 2026-01-24
 tags: ["time","datetime","article","header"]
 slug: html/semantica/fecha-de-publicacion-de-un-articulo-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 61655561-c4ae-4a90-b8c5-551cf1f5415f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/fecha-publicacion-articulo.html
 ---
 

@@ -5,10 +5,10 @@ date: 2006-12-26
 updatedDate: 2026-01-09
 tags: ["java-io","bufferedreader","file","filenotfoundexception","filereader","readline"]
 slug: java/ficheros/leer-fichero-de-texto-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 94ba879b-dc8f-4168-b2f3-7c789f2f6201
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/LeerFicheroTexto.java
 ---
 

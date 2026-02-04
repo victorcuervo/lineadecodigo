@@ -5,10 +5,10 @@ date: 2019-01-20
 updatedDate: 2026-01-21
 tags: ["meta","format-detection"]
 slug: html/documento/deshabilitar-telefonos-para-ios
-author: victor_cuervo
 type: doc
 topic: html
 id: 1725ebce-0e5d-4f34-8310-2d850a628369
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/deshabilitar-telefono-ios.html
 ---
 

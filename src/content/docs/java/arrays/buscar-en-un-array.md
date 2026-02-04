@@ -5,10 +5,10 @@ date: 2020-03-29
 updatedDate: 2026-01-09
 tags: ["array","aslist","contains"]
 slug: java/arrays/buscar-en-un-array
-author: victor_cuervo
 type: doc
 topic: java
 id: a4bc231b-618d-48e3-a3b6-803c29e8d963
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/BuscarEnArray.java
 ---
 

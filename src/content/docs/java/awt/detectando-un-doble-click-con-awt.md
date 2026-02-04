@@ -5,10 +5,10 @@ date: 2007-06-24
 updatedDate: 2026-01-11
 tags: ["applet","awt","mouseadapter","mouselistener","mouseevent"]
 slug: java/awt/detectando-un-doble-click-con-awt
-author: victor_cuervo
 type: doc
 topic: java
 id: 9bc72ad8-0f98-42c5-b1be-db2b51493125
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/awt/DobleClick.java
 ---
 

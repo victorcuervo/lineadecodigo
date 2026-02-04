@@ -5,10 +5,10 @@ date: 2016-03-19
 updatedDate: 2026-01-17
 tags: ["template","url_for","static"]
 slug: flask/plantillas/usar-estaticos-en-aplicacion-flask
-author: victor_cuervo
 type: doc
 topic: flask
 id: 4bc191e1-0c23-449b-bbc9-51a015776c91
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/estaticos.py
 ---
 

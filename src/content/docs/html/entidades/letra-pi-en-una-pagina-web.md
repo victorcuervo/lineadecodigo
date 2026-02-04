@@ -5,10 +5,10 @@ date: 2006-12-01
 updatedDate: 2026-01-07
 tags: ["entidades","pi"]
 slug: html/entidades/letra-pi-en-una-pagina-web
-author: victor_cuervo
 type: doc
 topic: html
 id: d8a857e8-06f1-494c-be50-2c38bb63a9cd
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/texto/letra-pi.html
 ---
 

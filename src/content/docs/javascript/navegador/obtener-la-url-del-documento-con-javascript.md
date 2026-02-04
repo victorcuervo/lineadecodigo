@@ -5,10 +5,10 @@ date: 2007-06-11
 updatedDate: 2026-01-12
 tags: ["document","write","url"]
 slug: javascript/navegador/obtener-la-url-del-documento-con-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 421d8a5f-d788-40f1-8030-2eb27991a73a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/url-del-documento.html
 ---
 

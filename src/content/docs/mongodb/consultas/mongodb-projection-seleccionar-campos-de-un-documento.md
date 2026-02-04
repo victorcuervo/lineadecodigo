@@ -5,10 +5,10 @@ date: 2014-02-08
 updatedDate: 2026-01-28
 tags: ["find","projection","id"]
 slug: mongodb/consultas/mongodb-projection-seleccionar-campos-de-un-documento
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: a6d1aa43-7879-4d0b-a772-29a6dcbfe890
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/projection.js
 ---
 

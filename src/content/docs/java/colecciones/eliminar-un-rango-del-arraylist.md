@@ -5,10 +5,10 @@ date: 2021-10-19
 updatedDate: 2026-01-07
 tags: ["Java Collection","Java Collection ArrayList"]
 slug: java/colecciones/eliminar-un-rango-del-arraylist
-author: victor_cuervo
 type: doc
 topic: java
 id: 1aa158f9-0cab-4db0-bacb-f669e1f3eaea
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/EliminarRangoLista.java
 ---
 

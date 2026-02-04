@@ -5,10 +5,10 @@ date: 2017-09-25
 updatedDate: 2026-01-13
 tags: ["funciones","arguments"]
 slug: javascript/funciones/valores-por-defecto-en-una-funcion-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 2c8a9dfb-adca-81a3-881c-e95fdf0628f7
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/funciones/valores-por-defecto.js
 ---
 

@@ -5,10 +5,10 @@ date: 2006-11-30
 updatedDate: 2026-01-06
 tags: ["servlet","jsp","url-pattern"]
 slug: javaee/jsp/redirigir-todas-las-jsp-a-un-servlet
-author: victor_cuervo
 type: doc
 topic: javaee
 id: 2c5a9dfb-adca-8025-8837-c13bdd8bbe8d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/webapp/WEB-INF/web.xml
 ---
 

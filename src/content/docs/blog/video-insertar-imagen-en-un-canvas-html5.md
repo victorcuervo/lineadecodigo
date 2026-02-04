@@ -5,10 +5,11 @@ date: 2016-04-06
 updatedDate: 2026-01-20
 tags: ["video"]
 slug: blog/video-insertar-imagen-en-un-canvas-html5
-author: lineadecodigo
 type: blog
 topic: blog
 id: 2c8a9dfb-adca-819c-9436-fef2b6fbdfc4
+authors:
+  - lineadecodigo
 ---
 
 Una de las cosas nuevas que aparecen en [HTML5](http://dudasprogramacion.com/html/html5) es el elemento [Canvas](https://www.w3api.com/HTML/canvas/).  Hoy tenemos el vídeo insertar imagen en un [Canvas](https://www.w3api.com/HTML/canvas/) [HTML5](http://dudasprogramacion.com/html/html5) el cual nos cuenta cómo podemos crear un [Canvas](https://www.w3api.com/HTML/canvas/), para, de forma posterior, manipularlo mediante [Javascript](https://www.manualweb.net/javascript/) e insertar una imagen dentro.

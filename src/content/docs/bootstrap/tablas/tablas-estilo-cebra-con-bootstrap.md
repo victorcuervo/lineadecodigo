@@ -5,10 +5,10 @@ date: 2015-06-08
 updatedDate: 2026-02-02
 tags: ["table","class","table-striped"]
 slug: bootstrap/tablas/tablas-estilo-cebra-con-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: a8c9005d-9f62-43ab-9383-ddc2acbf20e6
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/tablas/striped-table.html
 video: U9ZLGohhcdY
 videoDate: 2015-09-17

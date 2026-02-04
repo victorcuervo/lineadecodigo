@@ -5,10 +5,10 @@ date: 2016-01-24
 updatedDate: 2026-01-17
 tags: ["internal-server-error","debug"]
 slug: flask/basicos/depurar-una-aplicacion-flask
-author: victor_cuervo
 type: doc
 topic: flask
 id: 2c8a9dfb-adca-81c2-ad02-c6b533c7332c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/debugflask.py
 ---
 

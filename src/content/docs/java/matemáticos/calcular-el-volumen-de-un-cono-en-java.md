@@ -5,10 +5,10 @@ date: 2013-06-14
 updatedDate: 2026-01-11
 tags: ["Java Swing","volumen","radio","math","java-swing","joptionpane","cono","altura","formula"]
 slug: java/matematicos/calcular-el-volumen-de-un-cono-en-java
-author: ARIEL
 type: doc
 topic: java
 id: 2c5cab51-9951-4835-9d1a-63a89e2b5080
+author: ARIEL
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/VolumenCono.java
 ---
 

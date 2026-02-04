@@ -5,10 +5,10 @@ date: 2012-08-27
 updatedDate: 2026-01-23
 tags: ["canvas","width","addeventlistener","button","stroke"]
 slug: html/graficos/limpiar-contenido-de-un-canvas-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 182308bc-676f-47b6-a64c-e595ad5f4d94
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas/reiniciar-canvas.html
 ---
 

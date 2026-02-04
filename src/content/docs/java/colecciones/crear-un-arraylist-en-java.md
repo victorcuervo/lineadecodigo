@@ -5,10 +5,10 @@ date: 2014-09-28
 updatedDate: 2026-01-10
 tags: ["java-collection","arraylist","vector","add"]
 slug: java/colecciones/crear-un-arraylist-en-java
-author: Víctor Cuervo
 type: doc
 topic: java
 id: 1a95f121-8ab2-4336-8bb6-2f9137d3e12a
+author: Víctor Cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/CrearArrayList.java
 ---
 

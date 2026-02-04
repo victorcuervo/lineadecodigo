@@ -5,10 +5,10 @@ date: 2016-03-15
 updatedDate: 2026-01-17
 tags: ["template","include","render_template"]
 slug: flask/plantillas/include-en-un-template-flask
-author: victor_cuervo
 type: doc
 topic: flask
 id: 89d39240-8781-44ce-b898-e89408f823b5
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/template_inc.py
 ---
 

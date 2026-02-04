@@ -5,10 +5,10 @@ date: 2007-02-09
 updatedDate: 2026-01-09
 tags: ["java-io","file"]
 slug: java/ficheros/saber-si-existe-un-fichero-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 71b0489b-be50-429c-b7c6-03bb0a3cdbec
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/ExisteFichero.java
 ---
 

@@ -5,10 +5,10 @@ date: 2013-06-16
 updatedDate: 2026-01-09
 tags: ["math","interface","pi","class"]
 slug: java/matematicos/calcular-el-volumen-de-una-esfera-en-java
-author: ARIEL
 type: doc
 topic: java
 id: 95d348ad-516f-4811-ac89-8c58e1d94446
+author: ARIEL
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/VolumenEsfera.java
 ---
 

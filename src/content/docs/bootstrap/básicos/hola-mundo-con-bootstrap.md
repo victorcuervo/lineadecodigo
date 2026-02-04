@@ -5,10 +5,10 @@ date: 2013-09-23
 updatedDate: 2026-02-03
 tags: ["Bootstrap Básico","Hola Mundo"]
 slug: bootstrap/basicos/hola-mundo-con-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: 2c8a9dfb-adca-8117-b71a-fcd7c7dcf3fc
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/basicos/holamundo-bootstrap.html
 ---
 

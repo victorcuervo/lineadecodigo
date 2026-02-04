@@ -5,10 +5,10 @@ date: 2023-10-23
 updatedDate: 2026-01-06
 tags: ["eventtarget","addeventlistener","getelementbyid","preventdefault","parseint"]
 slug: dom/formularios/evitar-el-envio-de-un-formulario
-author: victor_cuervo
 type: doc
 topic: dom
 id: 228d90e9-ca6a-461a-9cec-f2ee308e49ab
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_dom/blob/main/eventos/evitar-envio-formulario-listener.html
 ---
 

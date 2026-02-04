@@ -5,10 +5,11 @@ date: 2010-06-16
 updatedDate: 2026-01-10
 tags: ["herramientas"]
 slug: blog/netbeans-69
-author: lineadecodigo
 type: blog
 topic: blog
 id: 2c8a9dfb-adca-8176-9746-fdccf7566152
+authors:
+  - lineadecodigo
 ---
 
 **Netbeans** ya tiene una nueva versión de su IDE, Netbeans 6.9 Dentro de las mejoras que nos proporciona Netbeans 6.9 encontramos:

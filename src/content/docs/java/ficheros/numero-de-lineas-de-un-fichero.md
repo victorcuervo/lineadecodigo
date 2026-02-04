@@ -5,10 +5,10 @@ date: 2006-11-20
 updatedDate: 2026-01-06
 tags: ["java-io","bufferedreader","file","filenotfoundexception","filereader","ioexception","try-catch"]
 slug: java/ficheros/numero-de-lineas-de-un-fichero
-author: victor_cuervo
 type: doc
 topic: java
 id: a1fa393b-f35d-4a0b-a5d3-6ec87963287c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/NumeroDeFilas.java
 ---
 

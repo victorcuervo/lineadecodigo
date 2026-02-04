@@ -5,10 +5,10 @@ date: 2009-09-04
 updatedDate: 2026-01-24
 tags: ["xsl:template","xsl:value-of","xml","xslt"]
 slug: xml/transformacion/mi-primer-xslt
-author: victor_cuervo
 type: doc
 topic: xml
 id: ae276160-0f4c-4cb7-b0d9-f0ac5f276949
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_xml/tree/master/xslt/mi-primer-xslt
 ---
 

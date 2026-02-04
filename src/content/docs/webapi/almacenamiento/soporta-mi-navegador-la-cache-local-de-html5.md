@@ -5,10 +5,10 @@ date: 2010-12-01
 updatedDate: 2026-01-23
 tags: ["localstorage","typeof"]
 slug: webapi/almacenamiento/soporta-mi-navegador-la-cache-local-de-html5
-author: victor_cuervo
 type: doc
 topic: webapi
 id: 2c8a9dfb-adca-81ca-b87d-e705de96a4c7
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/WebStorage/soporte-cache-local-html5.html
 ---
 

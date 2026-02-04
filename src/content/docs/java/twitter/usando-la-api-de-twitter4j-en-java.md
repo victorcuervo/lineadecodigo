@@ -5,10 +5,10 @@ date: 2010-04-27
 updatedDate: 2026-01-08
 tags: ["twitter","twitter4j","twitterexception","list"]
 slug: java/twitter/usando-la-api-de-twitter4j-en-java
-author: Pablo Ruiz
 type: doc
 topic: java
 id: 2c8a9dfb-adca-8143-a9d2-c797a02acc14
+author: Pablo Ruiz
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/twitter/TwitterJ.java
 ---
 

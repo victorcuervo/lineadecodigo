@@ -5,10 +5,10 @@ date: 2010-10-30
 updatedDate: 2026-01-13
 tags: ["objeto","instanceof","string"]
 slug: javascript/clases/tipo-de-objeto-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 2d962533-a253-4c35-b3b6-a39cef17dfec
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/tipo-objeto.js
 ---
 

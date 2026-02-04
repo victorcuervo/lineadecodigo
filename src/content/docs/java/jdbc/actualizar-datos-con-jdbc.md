@@ -5,10 +5,10 @@ date: 2006-11-15
 updatedDate: 2026-01-06
 tags: ["jdbc","update","connection","executeupdate","preparedstatement","sqlexception","where"]
 slug: java/jdbc/actualizar-datos-con-jdbc
-author: victor_cuervo
 type: doc
 topic: java
 id: c8fcc1aa-5db4-467e-a245-cfa133996c7e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ActualizarDatos.java
 ---
 

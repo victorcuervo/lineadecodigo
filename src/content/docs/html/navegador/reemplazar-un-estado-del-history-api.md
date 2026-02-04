@@ -5,10 +5,10 @@ date: 2019-01-12
 updatedDate: 2026-01-19
 tags: ["history","pushstate","replacestate"]
 slug: html/navegador/reemplazar-un-estado-del-history-api
-author: victor_cuervo
 type: doc
 topic: html
 id: 2c8a9dfb-adca-81a9-bbfe-e0ee851792f4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/History%20API/history-states-replace.html
 ---
 

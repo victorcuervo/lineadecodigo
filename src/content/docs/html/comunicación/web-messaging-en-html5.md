@@ -5,10 +5,10 @@ date: 2023-09-26
 updatedDate: 2026-01-19
 tags: ["postmessage","getelementbyid","addeventlistener","event"]
 slug: html/comunicacion/web-messaging-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 5ed30d73-36be-407a-af9b-e5c3377f5db0
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Web%20Messaging/web-messaging.html
 ---
 

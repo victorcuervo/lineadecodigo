@@ -5,10 +5,10 @@ date: 2007-01-14
 updatedDate: 2026-01-09
 tags: ["bucles","for","println"]
 slug: java/bucles/numeros-ascendentes-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 86f295ea-fa0f-41d8-904a-9756bb49e149
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumerosAscendentes.java
 ---
 

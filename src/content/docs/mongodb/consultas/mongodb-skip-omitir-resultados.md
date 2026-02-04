@@ -5,10 +5,10 @@ date: 2014-02-09
 updatedDate: 2026-01-28
 tags: ["find","skip"]
 slug: mongodb/consultas/mongodb-skip-omitir-resultados
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: 947b2497-3abf-429d-ac7d-9ac376a19793
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/skip.js
 ---
 

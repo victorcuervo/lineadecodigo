@@ -5,10 +5,10 @@ date: 2026-01-18
 updatedDate: 2026-01-18
 tags: []
 slug: html/basicos
-author: victor_cuervo
 type: category
 topic: html
 id: 2eca9dfb-adca-8098-9da9-efe6afc87f4a
+author: victor_cuervo
 ---
 
 Esta categoría introduce los fundamentos esenciales de HTML. Está orientada a personas que comienzan o que necesitan afianzar conceptos base antes de profundizar en elementos concretos.

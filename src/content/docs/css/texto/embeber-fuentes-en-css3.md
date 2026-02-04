@@ -5,10 +5,10 @@ date: 2012-01-15
 updatedDate: 2026-01-17
 tags: ["font-family","font-face","css3","fuentes"]
 slug: css/texto/embeber-fuentes-en-css3
-author: victor_cuervo
 type: doc
 topic: css
 id: 46e23955-bc7b-4f09-b6f4-4963cbd345d0
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/fuentes/font-embbeding.html
 ---
 

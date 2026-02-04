@@ -5,10 +5,16 @@ date: 2008-02-19
 updatedDate: 2026-01-10
 tags: ["noticias-web"]
 slug: blog/10-anos-de-xml
-author: lineadecodigo
 type: blog
 topic: blog
 id: 2c8a9dfb-adca-81fd-8b95-e4d596fbd68b
+authors:
+  - lineadecodigo
+cover:
+  alt: "Artículo sobre 10 años de XML"
+  image: ../../../assets/blog/covers/xml-logo.png
+socialImage: ../../../assets/blog/covers/xml-logo.png
+socialImageAlt: 10 años de XML
 ---
 
 El 10 de febrero de 1998 se publicaba la versión 1 del lenguaje XML (eXtensible Markup Language).

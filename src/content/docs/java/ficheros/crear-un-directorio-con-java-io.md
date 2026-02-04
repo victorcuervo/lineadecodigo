@@ -5,10 +5,10 @@ date: 2007-07-16
 updatedDate: 2026-01-11
 tags: ["mkdir","directorio","file","java-io","ioexception"]
 slug: java/ficheros/crear-un-directorio-con-java-io
-author: victor_cuervo
 type: doc
 topic: java
 id: 975e0760-75d4-4c7b-a3d8-761a9267dda9
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/io/CrearDirectorio.java
 ---
 

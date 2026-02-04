@@ -5,10 +5,10 @@ date: 2007-08-19
 updatedDate: 2026-01-08
 tags: ["string","indexof","substr","substring","length"]
 slug: java/strings/contador-de-ocurrencias-en-java
-author: Víctor Cuervo
 type: doc
 topic: java
 id: c82613b0-162e-4083-967e-99a71d1e5e62
+author: Víctor Cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ContadorDePalabras.java
 ---
 

@@ -5,10 +5,10 @@ date: 2007-01-14
 updatedDate: 2026-01-23
 tags: ["hr"]
 slug: html/texto/lineas-de-separacion-en-html
-author: victor_cuervo
 type: doc
 topic: html
 id: 18349f24-b5d5-4212-acf7-24ee20dc577b
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/basicos/lineas-de-separacion.html
 ---
 

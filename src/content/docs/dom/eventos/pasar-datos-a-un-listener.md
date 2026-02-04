@@ -5,10 +5,10 @@ date: 2023-10-24
 updatedDate: 2026-01-13
 tags: ["eventtarget","addeventlistener","bind","getelementbyid"]
 slug: dom/eventos/pasar-datos-a-un-listener
-author: victor_cuervo
 type: doc
 topic: dom
 id: 49a4848d-e62a-4fc9-a1ca-ec2d542763b5
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_dom/blob/main/eventos/pasar-datos-listener.html
 ---
 

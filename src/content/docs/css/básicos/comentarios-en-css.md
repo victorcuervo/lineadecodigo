@@ -5,10 +5,10 @@ date: 2020-11-24
 updatedDate: 2026-01-07
 tags: ["comentarios"]
 slug: css/basicos/comentarios-en-css
-author: victor_cuervo
 type: doc
 topic: css
 id: de8de932-9090-475f-978d-523ba153f3e0
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/basico/comentarios.css
 ---
 

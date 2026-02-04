@@ -5,10 +5,10 @@ date: 2012-09-28
 updatedDate: 2026-01-24
 tags: ["canvas","todataurl","image"]
 slug: html/graficos/descargar-un-canvas-a-una-imagen-con-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: d936780c-6a41-48de-b5a1-a8a2d8687c07
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas/guardar-canvas-en-imagen.html
 ---
 

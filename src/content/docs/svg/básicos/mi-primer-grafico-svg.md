@@ -5,10 +5,10 @@ date: 2007-11-29
 updatedDate: 2026-01-07
 tags: ["circle","fill","grafico"]
 slug: svg/basicos/mi-primer-grafico-svg
-author: victor_cuervo
 type: doc
 topic: svg
 id: 2c8a9dfb-adca-81a3-bb57-ecbd86cca16e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/basico/mi-primer-grafico-svg.svg
 ---
 

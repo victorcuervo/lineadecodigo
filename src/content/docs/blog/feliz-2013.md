@@ -5,10 +5,11 @@ date: 2012-12-31
 updatedDate: 2026-01-08
 tags: ["felicitacion","video"]
 slug: blog/feliz-2013
-author: lineadecodigo
 type: blog
 topic: blog
 id: 2c8a9dfb-adca-8132-8649-e27f5bb782d9
+authors:
+  - lineadecodigo
 ---
 
 Este año queríamos empezarlo programando, así que os dejamos esta felicitación del 2013 en formato de vídeo. Esperamos que os guste... **¡¡¡ Feliz 2013 !!!**

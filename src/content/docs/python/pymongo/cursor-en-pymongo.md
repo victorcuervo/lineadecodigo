@@ -5,10 +5,10 @@ date: 2016-03-11
 updatedDate: 2026-01-17
 tags: ["cursor","for-in","print","find","mongoclient"]
 slug: python/pymongo/cursor-en-pymongo
-author: victor_cuervo
 type: doc
 topic: python
 id: 4b648cee-9c75-4a82-bdf1-ed266d32f7bc
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/pymongo/cursor-pymongo.py
 ---
 

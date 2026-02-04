@@ -5,10 +5,10 @@ date: 2012-01-07
 updatedDate: 2026-01-09
 tags: ["java-io","file","getabsolutepath"]
 slug: java/ficheros/obtener-la-ruta-absoluta-de-un-fichero-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: e19eb3db-f64c-44a6-95bf-c8e71e362a53
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/RutaAbsoluta.java
 ---
 

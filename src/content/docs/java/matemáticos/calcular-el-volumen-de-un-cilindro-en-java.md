@@ -5,10 +5,10 @@ date: 2013-03-09
 updatedDate: 2026-01-09
 tags: ["math","volumen","cilindro","interface","pi","abstract"]
 slug: java/matematicos/calcular-el-volumen-de-un-cilindro-en-java
-author: ARIEL
 type: doc
 topic: java
 id: 33f3d06f-81cc-493d-83bc-0175602764f4
+author: ARIEL
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/VolumenCilindro.java
 ---
 

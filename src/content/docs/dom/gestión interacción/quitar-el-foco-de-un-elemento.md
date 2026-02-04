@@ -5,10 +5,10 @@ date: 2008-01-19
 updatedDate: 2026-01-11
 tags: ["getelementbyid","onclick","blur"]
 slug: dom/gestion-interaccion/quitar-el-foco-de-un-elemento
-author: victor_cuervo
 type: doc
 topic: dom
 id: b6d98639-3546-460f-a0cb-1373f829cc25
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/dom/quitar-el-foco-de-un-elemento.html
 ---
 

@@ -5,10 +5,10 @@ date: 2014-09-03
 updatedDate: 2026-01-13
 tags: ["queryselector","queryselectorall","class","innerhtml"]
 slug: javascript/elementos/acceder-a-una-clase-con-queryselector
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 51177f65-7b3f-4265-b166-68a22232baf4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/selectores/queryselector-class.html
 ---
 

@@ -5,10 +5,10 @@ date: 2013-05-13
 updatedDate: 2026-01-08
 tags: []
 slug: php/clases/crear-un-objeto-desde-un-array-en-php
-author: victor_cuervo
 type: doc
 topic: php
 id: 3e0513c9-26ed-437b-9301-46de57909b42
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/objetos/crear-objeto-de-array.php
 ---
 

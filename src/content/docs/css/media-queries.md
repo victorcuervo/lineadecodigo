@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/media-queries
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-80b4-a335-fe9363cb4e5d
+author: victor_cuervo
 ---
 
 # Media Queries y diseño responsive en CSS

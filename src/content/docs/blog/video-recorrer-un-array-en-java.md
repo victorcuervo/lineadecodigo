@@ -5,10 +5,11 @@ date: 2016-04-04
 updatedDate: 2026-01-08
 tags: ["video"]
 slug: blog/video-recorrer-un-array-en-java
-author: lineadecodigo
 type: blog
 topic: blog
 id: 2c8a9dfb-adca-8102-b684-ebddd3e12943
+authors:
+  - lineadecodigo
 ---
 
 Tenemos un nuevo vídeo en [nuestro canal de Youtube de Línea de Código](https://www.youtube.com/lineadecodigo). En este caso el vídeo nos enseña a Recorrer un Array en Java.

@@ -5,10 +5,10 @@ date: 2015-11-18
 updatedDate: 2026-01-05
 tags: ["listas","for-each","len","range"]
 slug: python/listas/iterar-una-lista-en-python-con-indices
-author: victor_cuervo
 type: doc
 topic: python
 id: e4a8655d-9535-4585-8058-3ab177a28d11
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/iterar_lista_indice.py
 ---
 

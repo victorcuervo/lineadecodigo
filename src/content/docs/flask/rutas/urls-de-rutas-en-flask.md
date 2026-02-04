@@ -5,10 +5,10 @@ date: 2016-03-17
 updatedDate: 2026-01-17
 tags: ["Python Flask","Python Flask Rutas"]
 slug: flask/rutas/urls-de-rutas-en-flask
-author: victor_cuervo
 type: doc
 topic: flask
 id: 5788c38a-fcda-4b2b-b048-b41e73955a90
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/urls.py
 ---
 

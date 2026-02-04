@@ -5,10 +5,10 @@ date: 2023-09-28
 updatedDate: 2026-01-21
 tags: ["iframe","addeventlistener","postmessage","webmessaging"]
 slug: webapi/comunicacion/enviar-mensaje-a-un-iframe
-author: victor_cuervo
 type: doc
 topic: webapi
 id: d2f63111-bdfc-4c59-89f8-4aa0bb51bee3
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/tree/master/Web%20Messaging/Envio%20Mensajes
 ---
 

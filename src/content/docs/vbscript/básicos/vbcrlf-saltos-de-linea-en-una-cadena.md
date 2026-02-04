@@ -5,10 +5,10 @@ date: 2006-12-07
 updatedDate: 2026-01-07
 tags: ["vbCrLf","salto-de-linea"]
 slug: vbscript/basicos/vbcrlf-saltos-de-linea-en-una-cadena
-author: victor_cuervo
 type: doc
 topic: vbscript
 id: baec54d6-36fb-462d-b2c5-b0b5841487a2
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/basico/saltos-linea.asp
 ---
 

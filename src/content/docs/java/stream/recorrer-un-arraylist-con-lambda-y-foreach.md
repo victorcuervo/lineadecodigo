@@ -5,10 +5,10 @@ date: 2021-10-12
 updatedDate: 2026-01-09
 tags: ["java-collection","lambda","arraylist","add","foreach","consumer"]
 slug: java/stream/recorrer-un-arraylist-con-lambda-y-foreach
-author: victor_cuervo
 type: doc
 topic: java
 id: f7eb2566-b245-43bb-af2e-8e34d339764e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/RecorrerArrayListForEach.java
 ---
 

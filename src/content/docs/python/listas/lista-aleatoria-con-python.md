@@ -5,10 +5,10 @@ date: 2017-06-12
 updatedDate: 2026-01-15
 tags: ["listas","random","sample","range"]
 slug: python/listas/lista-aleatoria-con-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 84bf109c-d6fa-46cd-911a-8b2ed92bd896
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/matematicos/lista_aleatoria.py
 ---
 

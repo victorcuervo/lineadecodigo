@@ -5,10 +5,10 @@ date: 2012-02-22
 updatedDate: 2026-01-10
 tags: ["java-net","serversocket","javawebstart"]
 slug: java/redes/evitar-que-un-programa-java-se-cargue-dos-veces
-author: victor_cuervo
 type: doc
 topic: java
 id: 01fb2d24-8707-4ee8-a492-f95c2d5fe38c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/UnaInstancia.java
 ---
 

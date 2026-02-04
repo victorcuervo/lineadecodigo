@@ -5,10 +5,10 @@ date: 2013-03-13
 updatedDate: 2026-01-24
 tags: ["doctype","element","encoding","standalone","version","dtd"]
 slug: xml/sintaxis/documento-xml-bien-formado-y-documento-xml-mal-formado
-author: xhrist14n
 type: doc
 topic: xml
 id: a8f78ba5-c604-4cb6-8f8a-d08c5185715a
+author: xhrist14n
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/basicos/documento-bien-formado.xml
 ---
 

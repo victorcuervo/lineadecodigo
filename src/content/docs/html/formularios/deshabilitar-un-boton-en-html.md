@@ -5,10 +5,10 @@ date: 2024-01-18
 updatedDate: 2026-01-06
 tags: ["input","button","disabled"]
 slug: html/formularios/deshabilitar-un-boton-en-html
-author: victor_cuervo
 type: doc
 topic: html
 id: e8fcc283-30b1-4ce2-b8ba-c2eab3a8ec51
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/formularios/deshabilitar-boton.html
 ---
 

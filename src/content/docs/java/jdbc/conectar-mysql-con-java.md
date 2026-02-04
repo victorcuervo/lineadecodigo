@@ -5,10 +5,10 @@ date: 2016-10-12
 updatedDate: 2026-01-09
 tags: ["mysql","jdbc","connection"]
 slug: java/jdbc/conectar-mysql-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 2c8a9dfb-adca-8136-a1b6-eb0335f500dc
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConexionMySQL.java
 ---
 

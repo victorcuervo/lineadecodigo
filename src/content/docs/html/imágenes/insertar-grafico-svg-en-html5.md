@@ -5,10 +5,10 @@ date: 2025-12-12
 updatedDate: 2026-01-07
 tags: ["svg","img","object","embed","imagenes"]
 slug: html/imagenes/insertar-grafico-svg-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: adb460b6-87fd-45f5-b3c5-d4b7300e0fff
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Imagenes/insertar-svg.html
 ---
 

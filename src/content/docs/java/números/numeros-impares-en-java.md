@@ -5,10 +5,10 @@ date: 2006-12-10
 updatedDate: 2026-01-06
 tags: ["bucles","while","operadores","impares"]
 slug: java/numeros/numeros-impares-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: cfe2d8be-8387-426f-87df-ba2218e3f21f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroImpar.java
 ---
 

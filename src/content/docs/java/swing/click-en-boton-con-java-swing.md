@@ -5,10 +5,10 @@ date: 2016-11-06
 updatedDate: 2026-01-11
 tags: ["actionlistener","jbutton","jlabel","jframe","java-swing"]
 slug: java/swing/click-en-boton-con-java-swing
-author: victor_cuervo
 type: doc
 topic: java
 id: af78d585-049e-4b8a-bee1-25d69ac4b409
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/swing/ClickBoton.java
 ---
 

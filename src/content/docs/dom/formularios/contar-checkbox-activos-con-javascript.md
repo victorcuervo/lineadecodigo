@@ -5,10 +5,10 @@ date: 2008-02-08
 updatedDate: 2026-01-11
 tags: ["checkbox","form","getelementbyid","onclick","checked","array","formulario","eventos"]
 slug: dom/formularios/contar-checkbox-activos-con-javascript
-author: victor_cuervo
 type: doc
 topic: dom
 id: 1c119137-7df8-45d4-9e71-ce4a23f7904f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/contar-checkbox-activos.html
 ---
 

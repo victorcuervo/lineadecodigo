@@ -5,10 +5,10 @@ date: 2017-10-05
 updatedDate: 2026-01-08
 tags: ["imap_open","mail","imap_search","imap_fetchbody","imap_qprint","imap_close"]
 slug: php/mail/obtener-cuerpo-de-un-mensaje-con-php
-author: victor_cuervo
 type: doc
 topic: php
 id: 8c5b40c4-43a0-4449-b28e-bd1d2080d693
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/email/cuerpo-mensaje.php
 ---
 

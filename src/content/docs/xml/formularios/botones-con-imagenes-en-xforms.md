@@ -5,10 +5,10 @@ date: 2007-01-07
 updatedDate: 2026-01-24
 tags: ["img","label","trigger"]
 slug: xml/formularios/botones-con-imagenes-en-xforms
-author: victor_cuervo
 type: doc
 topic: xml
 id: 2c8a9dfb-adca-816f-8449-cdde36e6d8ba
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_xforms/blob/master/botones-con-imagenes-xforms.xhtml
 ---
 

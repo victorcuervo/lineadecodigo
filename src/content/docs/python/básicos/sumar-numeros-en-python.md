@@ -5,10 +5,10 @@ date: 2022-05-19
 updatedDate: 2026-01-14
 tags: ["input","print","int","try-except","break","bucle","while"]
 slug: python/basicos/sumar-numeros-en-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 45137095-9224-49f8-8e1f-40ff5da47e39
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/sumar_numeros.py
 ---
 

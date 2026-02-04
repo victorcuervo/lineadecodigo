@@ -5,10 +5,10 @@ date: 2009-11-28
 updatedDate: 2026-01-24
 tags: ["xsl:sort","xsl:value-of","xsl:for-each"]
 slug: xml/transformacion/ordenando-un-fichero-xml
-author: victor_cuervo
 type: doc
 topic: xml
 id: 4b2f0f65-47ff-4472-9a72-c3545e1faf78
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_xml/tree/master/xslt/ordenar-xml
 ---
 

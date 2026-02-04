@@ -5,10 +5,10 @@ date: 2016-10-18
 updatedDate: 2026-01-11
 tags: ["jdbc","preparedstatement","connection","sqlexception","try-catch","drivermanager","mysql","delete","tabla","bases-de-datos"]
 slug: java/jdbc/borrar-tabla-con-java-jdbc
-author: victor_cuervo
 type: doc
 topic: java
 id: d925d202-f7c7-4a0f-8518-88f3c6397322
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/BorrarTabla.java
 ---
 

@@ -5,10 +5,10 @@ date: 2021-10-07
 updatedDate: 2026-01-09
 tags: ["jsp","utf8"]
 slug: javaee/jsp/forzar-utf-8-en-jsp
-author: victor_cuervo
 type: doc
 topic: javaee
 id: 9afe601e-d660-4ef7-b98c-d104d64d0dbc
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_jakartaee/blob/main/src/main/webapp/WEB-INF/web.xml
 ---
 

@@ -5,10 +5,10 @@ date: 2006-12-08
 updatedDate: 2026-01-06
 tags: ["window"]
 slug: dom/window/confirmar-datos-en-javascript
-author: victor_cuervo
 type: doc
 topic: dom
 id: bc6fa46b-0f23-4d1b-a6dd-aa70a6f7ccc5
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/confirmar-datos.html
 ---
 

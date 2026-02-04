@@ -5,10 +5,10 @@ date: 2008-02-04
 updatedDate: 2026-01-11
 tags: ["form","select","array","regexp"]
 slug: javascript/arrays/buscar-en-la-lista
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 05ba0bb1-4035-4d85-9b4b-37331fb3aa42
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/buscar-en-lista.html
 ---
 

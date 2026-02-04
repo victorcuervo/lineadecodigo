@@ -5,10 +5,11 @@ date: 2007-02-04
 updatedDate: 2026-01-08
 tags: ["software"]
 slug: blog/bea-weblogic-10-con-glassfish
-author: lineadecodigo
 type: blog
 topic: blog
 id: 2c8a9dfb-adca-8180-a0e0-cda9e521bb6d
+authors:
+  - lineadecodigo
 ---
 
 Recientemente se ha anunciado que el servidor de aplicaciones **BEA WebLogic 10** incluye componentes del servidor GlassFish, según informó Jaime Cid en su blog.

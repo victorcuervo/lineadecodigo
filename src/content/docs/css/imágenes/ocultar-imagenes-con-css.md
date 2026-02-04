@@ -5,10 +5,10 @@ date: 2007-10-18
 updatedDate: 2026-01-08
 tags: ["visibility","imagenes","display"]
 slug: css/imagenes/ocultar-imagenes-con-css
-author: victor_cuervo
 type: doc
 topic: css
 id: ca21cf00-0941-44db-8eac-201110b1208f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/imagenes/ocultar-imagenes.html
 ---
 

@@ -5,10 +5,10 @@ date: 2007-08-07
 updatedDate: 2026-01-11
 tags: ["replace","regexp","string","javascript"]
 slug: javascript/regexp/funcion-replace-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 1908e548-0c43-45ca-af45-31e97d32bece
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/cadenas/funcion-replace-javascript.html
 ---
 

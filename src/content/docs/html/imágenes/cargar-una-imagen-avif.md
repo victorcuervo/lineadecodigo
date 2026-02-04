@@ -5,10 +5,10 @@ date: 2023-10-10
 updatedDate: 2026-01-06
 tags: ["picture","source","avif"]
 slug: html/imagenes/cargar-una-imagen-avif
-author: victor_cuervo
 type: doc
 topic: html
 id: a26c698b-5d0a-493a-bc96-28b9b06cd709
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Imagenes/imagen-avif.html
 ---
 

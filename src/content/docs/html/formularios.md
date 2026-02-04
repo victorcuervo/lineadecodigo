@@ -5,10 +5,10 @@ date: 2026-01-18
 updatedDate: 2026-01-18
 tags: []
 slug: html/formularios
-author: victor_cuervo
 type: category
 topic: html
 id: 2eca9dfb-adca-800f-964b-dbe8e97b1a75
+author: victor_cuervo
 ---
 
 Cubre la entrada de datos por parte del usuario.

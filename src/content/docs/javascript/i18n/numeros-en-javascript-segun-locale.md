@@ -5,10 +5,10 @@ date: 2020-03-15
 updatedDate: 2026-01-12
 tags: ["intl","tolocalestring"]
 slug: javascript/i18n/numeros-en-javascript-segun-locale
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 4161c3bb-3912-4baa-a31f-aef502e459e1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/numeros/numeros-segun-localizacion.js
 ---
 

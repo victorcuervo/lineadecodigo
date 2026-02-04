@@ -5,10 +5,10 @@ date: 2008-01-28
 updatedDate: 2026-01-07
 tags: ["gradiente","lineal","lineargradient","offset","stop-color"]
 slug: svg/gradientes/gradiente-lineal-vertical
-author: victor_cuervo
 type: doc
 topic: svg
 id: 2c8a9dfb-adca-8184-be13-d3b120f9f660
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/gradientes/gradiente-lineal-vertical.svg?short_path=dc66b72
 ---
 

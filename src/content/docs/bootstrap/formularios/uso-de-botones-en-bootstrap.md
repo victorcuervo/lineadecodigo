@@ -5,10 +5,10 @@ date: 2013-09-28
 updatedDate: 2026-02-02
 tags: ["button"]
 slug: bootstrap/formularios/uso-de-botones-en-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: 6e0cbe7a-f1cf-4a99-8908-f8031a4e613c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/basicos/botones-en-bootstrap.html
 ---
 

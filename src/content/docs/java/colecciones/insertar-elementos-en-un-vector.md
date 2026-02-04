@@ -5,10 +5,10 @@ date: 2006-12-17
 updatedDate: 2026-01-07
 tags: ["vector","string","add"]
 slug: java/colecciones/insertar-elementos-en-un-vector
-author: victor_cuervo
 type: doc
 topic: java
 id: a4ab5979-da41-4b64-9948-64a16445e5a8
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/InsertarElementosVector.java
 ---
 

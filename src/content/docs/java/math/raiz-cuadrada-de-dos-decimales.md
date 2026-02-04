@@ -5,10 +5,10 @@ date: 2016-09-22
 updatedDate: 2026-01-09
 tags: ["math","sqrt","numberformat","decimalformat","format","raiz-cuadrada"]
 slug: java/math/raiz-cuadrada-de-dos-decimales
-author: victor_cuervo
 type: doc
 topic: java
 id: b3e19aad-b3da-4202-8076-17e9c52714e4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/RaizCuadradaDecimales.java
 ---
 

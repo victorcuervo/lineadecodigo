@@ -5,10 +5,10 @@ date: 2014-09-30
 updatedDate: 2026-01-08
 tags: ["java-collection","arraylist","add","size"]
 slug: java/colecciones/insertar-elementos-en-un-arraylist
-author: victor_cuervo
 type: doc
 topic: java
 id: 6e6f7fdf-99ea-49fc-85f8-f8df000afc5b
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/AddElementosLista.java
 ---
 

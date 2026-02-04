@@ -5,10 +5,11 @@ date: 2010-09-01
 updatedDate: 2026-01-10
 tags: ["noticias-web"]
 slug: blog/la-w3c-crea-el-web-performance-working-group
-author: lineadecodigo
 type: blog
 topic: blog
 id: 2c8a9dfb-adca-81ac-aa3e-ce067b455542
+authors:
+  - lineadecodigo
 ---
 
 La [W3C](http://www.w3.org/) ha decidido crear el grupo [Web Performance Working Group](http://www.w3.org/2010/webperf/) con el fin de estandarizar la forma de medir el rendimiento de los agentes de usuario. Esto viene derivado del creciente desarrollo de aplicaciones más sofisticadas, con funcionalidades RIA y APIs de diferente índole.

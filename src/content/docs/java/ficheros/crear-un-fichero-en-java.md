@@ -5,10 +5,10 @@ date: 2007-07-21
 updatedDate: 2026-01-07
 tags: ["Java IO","Java IO File","Java IO IOException"]
 slug: java/ficheros/crear-un-fichero-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 11f82277-0542-42bf-998c-e44a12221042
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/io/CrearUnFichero.java
 ---
 

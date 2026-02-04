@@ -5,10 +5,10 @@ date: 2006-11-02
 updatedDate: 2026-01-06
 tags: ["printwriter","servlet","response","get","post"]
 slug: javaee/servlet/servlet-que-devuelve-xml
-author: victor_cuervo
 type: doc
 topic: javaee
 id: e577c3e8-54d2-4026-994d-a2b0a44d6dc1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/java/com/lineadecodigo/javaee/servlet/RespuestaXML.java
 ---
 

@@ -5,10 +5,10 @@ date: 2008-01-18
 updatedDate: 2026-01-12
 tags: ["document","url","javascript","domain"]
 slug: javascript/navegador/obtener-el-dominio-de-la-url-con-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 111ea573-36ec-44ec-96dc-2ac4097d8a5d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/obtener-el-dominio-de-url.html
 ---
 

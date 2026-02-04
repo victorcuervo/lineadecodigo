@@ -5,10 +5,10 @@ date: 2012-03-16
 updatedDate: 2026-01-09
 tags: ["date","fechas","dateformat","format","java-util","locale"]
 slug: java/fechas/formato-a-fechas-en-java-con-dateformat
-author: Emmanuel Ramos
 type: doc
 topic: java
 id: 7e809b47-4bfa-4775-8268-e5cef36b1143
+author: Emmanuel Ramos
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/dates/FormatoDeFechas.java
 ---
 

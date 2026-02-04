@@ -5,10 +5,10 @@ date: 2016-03-31
 updatedDate: 2026-01-06
 tags: ["get","route","render_template","request"]
 slug: flask/basicos/parametros-get-con-flask
-author: victor_cuervo
 type: doc
 topic: flask
 id: d0a08e40-822b-4e3d-8074-06e055e86c5c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/parametroget.py
 ---
 

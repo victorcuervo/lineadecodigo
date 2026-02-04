@@ -5,10 +5,10 @@ date: 2025-01-21
 updatedDate: 2026-01-05
 tags: ["ficheros","os","path","exists"]
 slug: python/ficheros/comprobar-que-existe-un-fichero-en-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 810091e2-187e-406f-b469-f29a91d44f53
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/validar-existe-fichero.py
 ---
 

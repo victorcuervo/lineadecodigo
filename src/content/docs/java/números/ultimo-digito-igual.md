@@ -5,10 +5,10 @@ date: 2015-09-23
 updatedDate: 2026-01-09
 tags: ["integer","tostring","charat","string","length"]
 slug: java/numeros/ultimo-digito-igual
-author: victor_cuervo
 type: doc
 topic: java
 id: 51546917-d4bd-45e1-b4ac-76a8463c4b96
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/UltimoDigitoIgual.java
 ---
 

@@ -5,10 +5,10 @@ date: 2022-05-13
 updatedDate: 2026-01-15
 tags: ["input","int","try-except","bucles","while","break"]
 slug: python/basicos/numero-por-teclado-en-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 31d2efa0-3d71-4d39-a268-85cd632bc5bb
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/cadena_a_numero.py
 ---
 

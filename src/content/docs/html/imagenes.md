@@ -5,10 +5,10 @@ date: 2026-01-18
 updatedDate: 2026-01-18
 tags: []
 slug: html/imagenes
-author: victor_cuervo
 type: category
 topic: html
 id: 2eca9dfb-adca-8043-92e2-cd1e01b9c720
+author: victor_cuervo
 ---
 
 Categoría dedicada al contenido visual estático.

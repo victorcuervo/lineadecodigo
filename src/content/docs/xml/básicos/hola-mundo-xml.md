@@ -5,10 +5,10 @@ date: 2013-03-08
 updatedDate: 2026-01-24
 tags: ["dtd","elemento","atributo"]
 slug: xml/basicos/hola-mundo-xml
-author: xhrist14n
 type: doc
 topic: xml
 id: 0ffc9887-718b-4674-89c3-2033aa1e6ebd
+author: xhrist14n
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/basicos/hola-mundo.xml
 ---
 

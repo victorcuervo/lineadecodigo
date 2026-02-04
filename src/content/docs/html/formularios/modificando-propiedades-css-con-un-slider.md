@@ -5,10 +5,10 @@ date: 2012-02-23
 updatedDate: 2026-01-17
 tags: ["form","range","css","style","border-radius"]
 slug: html/formularios/modificando-propiedades-css-con-un-slider
-author: victor_cuervo
 type: doc
 topic: html
 id: 2c8a9dfb-adca-81b6-90dd-fb926904b014
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/range-modificando-css.html
 ---
 

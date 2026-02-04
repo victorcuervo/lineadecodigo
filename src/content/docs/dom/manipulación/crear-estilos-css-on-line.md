@@ -5,10 +5,10 @@ date: 2008-01-21
 updatedDate: 2026-01-18
 tags: ["document","style","head","css","estilos","createelement","appendchild","createtextnode","csstext"]
 slug: dom/manipulacion/crear-estilos-css-on-line
-author: victor_cuervo
 type: doc
 topic: dom
 id: 2c8a9dfb-adca-8149-a20d-cccc498dbcaa
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_javascript/dom/crear-estilos-css-online.html
 ---
 

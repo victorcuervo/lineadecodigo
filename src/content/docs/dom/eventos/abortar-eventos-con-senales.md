@@ -5,10 +5,10 @@ date: 2023-10-28
 updatedDate: 2026-01-13
 tags: ["abortsignal","abortcontroller","addeventlistener","abort","preventdefault","onclick"]
 slug: dom/eventos/abortar-eventos-con-senales
-author: victor_cuervo
 type: doc
 topic: dom
 id: 011cf2df-7f80-4618-a026-ae7efa8b8620
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_dom/blob/main/eventos/abortat-evento.html
 ---
 

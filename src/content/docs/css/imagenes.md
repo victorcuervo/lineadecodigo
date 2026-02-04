@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/imagenes
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-8091-b3fc-c5bd823bb406
+author: victor_cuervo
 ---
 
 # Imágenes en CSS: adaptación, recorte y presentación

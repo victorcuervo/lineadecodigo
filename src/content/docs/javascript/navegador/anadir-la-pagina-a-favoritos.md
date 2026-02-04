@@ -5,10 +5,10 @@ date: 2007-12-02
 updatedDate: 2026-01-13
 tags: ["window","javascript","alert","addfavorite"]
 slug: javascript/navegador/anadir-la-pagina-a-favoritos
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 4a96c768-0701-4537-8409-bae63c37f662
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/anadir-pagina-a-favoritos.html
 ---
 

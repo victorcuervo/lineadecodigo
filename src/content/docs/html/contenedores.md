@@ -5,10 +5,10 @@ date: 2026-01-18
 updatedDate: 2026-01-18
 tags: []
 slug: html/contenedores
-author: victor_cuervo
 type: category
 topic: html
 id: 2eca9dfb-adca-8012-b028-e5d8a9360e66
+author: victor_cuervo
 ---
 
 # Contenedores

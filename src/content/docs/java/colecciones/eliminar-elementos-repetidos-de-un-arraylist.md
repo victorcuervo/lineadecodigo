@@ -5,10 +5,10 @@ date: 2021-10-18
 updatedDate: 2026-01-07
 tags: ["java-collection","arraylist","add","removeall","iterator"]
 slug: java/colecciones/eliminar-elementos-repetidos-de-un-arraylist
-author: victor_cuervo
 type: doc
 topic: java
 id: 0b91d227-c215-49bf-80e2-2734cd63a940
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/EliminarElementosRepetidosLista.java
 ---
 

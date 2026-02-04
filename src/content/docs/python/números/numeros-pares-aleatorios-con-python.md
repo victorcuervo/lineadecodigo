@@ -5,10 +5,10 @@ date: 2017-06-14
 updatedDate: 2026-01-15
 tags: ["random","for","randrange"]
 slug: python/numeros/numeros-pares-aleatorios-con-python
-author: victor_cuervo
 type: doc
 topic: python
 id: b34ca590-ff04-4320-bfd0-4e8cadb48779
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/matematicos/aleatorios_pares.py
 ---
 

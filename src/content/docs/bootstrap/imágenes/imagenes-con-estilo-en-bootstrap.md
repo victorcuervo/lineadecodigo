@@ -5,10 +5,10 @@ date: 2013-09-24
 updatedDate: 2026-02-02
 tags: ["img","class","img-thumbnail","img-rounded","img-circle"]
 slug: bootstrap/imagenes/imagenes-con-estilo-en-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: c8d5c58a-a506-42f4-bad0-fc240b2e2a64
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/basicos/estilo-imagenes.html
 ---
 

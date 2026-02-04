@@ -5,10 +5,10 @@ date: 2015-06-13
 updatedDate: 2026-01-18
 tags: ["table","tr","background-color","cursor","pointer","css","hover"]
 slug: css/buenas-practicas/resaltar-filas-de-tabla-con-css
-author: victor_cuervo
 type: doc
 topic: css
 id: d9452210-ab96-4c0e-97c8-04254bf917a0
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-resaltar-filas.html
 ---
 

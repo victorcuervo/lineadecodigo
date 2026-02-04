@@ -5,10 +5,10 @@ date: 2019-10-21
 updatedDate: 2026-01-11
 tags: ["bucles","for","modulo","operadores","numeros","division"]
 slug: java/matematicos/numeros-que-contengan-un-cero
-author: victor_cuervo
 type: doc
 topic: java
 id: 6173f350-3ab1-4109-b92f-b4e44b158e80
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumerosConCeroHasta100.java
 ---
 

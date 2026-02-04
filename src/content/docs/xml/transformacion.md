@@ -5,10 +5,10 @@ date: 2026-01-24
 updatedDate: 2026-01-24
 tags: []
 slug: xml/transformacion
-author: victor_cuervo
 type: category
 topic: xml
 id: 2f2a9dfb-adca-8075-bbed-fb7887486bf7
+author: victor_cuervo
 ---
 
 XML puede ser consultado y transformado utilizando lenguajes especializados como XPath y XSLT. Estas tecnologías permiten extraer información específica o convertir documentos XML en otros formatos de salida.

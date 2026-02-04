@@ -5,10 +5,10 @@ date: 2015-06-05
 updatedDate: 2026-01-23
 tags: ["table","tr","td","colspan"]
 slug: html/tablas/agrupar-filas-en-una-tabla-html
-author: victor_cuervo
 type: doc
 topic: html
 id: 84c55273-202c-478b-bd75-8b8a8f8d95bb
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/agrupar-filas.html
 ---
 

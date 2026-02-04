@@ -5,10 +5,10 @@ date: 2007-12-13
 updatedDate: 2026-01-08
 tags: []
 slug: java/numeros/area-de-un-rectangulo-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 4d5cd48c-496e-4a20-a0b7-c1b425644115
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/AreaRectangulo.java
 ---
 

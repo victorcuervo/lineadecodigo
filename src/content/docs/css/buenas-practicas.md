@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/buenas-practicas
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-8024-9cf7-ca0f87fbb28a
+author: victor_cuervo
 ---
 
 # Buenas prácticas CSS: escribir estilos claros, eficientes y predecibles

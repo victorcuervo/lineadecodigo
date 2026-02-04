@@ -5,10 +5,10 @@ date: 2017-09-19
 updatedDate: 2026-01-12
 tags: ["email","regexp","array","console-log"]
 slug: javascript/expresiones-regulares/extraer-partes-de-un-email-con-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 30b27414-8dad-402f-859f-d64100d8ec1e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/regexp/extraer-email.js
 ---
 

@@ -5,10 +5,10 @@ date: 2016-10-12
 updatedDate: 2026-01-08
 tags: ["jdbc","connection","mysql","driver","drivermanager","preparedstatement","executequery","resultset","sqlexception"]
 slug: java/jdbc/conectar-mysql-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 094fa368-3aea-4e79-a326-6f9d19416691
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConexionMySQL.java
 ---
 

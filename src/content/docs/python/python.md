@@ -5,10 +5,10 @@ date: 2026-01-05
 updatedDate: 2026-01-07
 tags: []
 slug: python
-author: victor_cuervo
 type: category
 topic: python
 id: 2dea9dfb-adca-80b1-9fb0-dae90e1fb125
+author: victor_cuervo
 ---
 
 ## Programación en Python

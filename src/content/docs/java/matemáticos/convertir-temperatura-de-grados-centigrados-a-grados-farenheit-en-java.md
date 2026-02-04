@@ -5,10 +5,10 @@ date: 2013-01-17
 updatedDate: 2026-01-09
 tags: ["centigrados","farenheit","conversor"]
 slug: java/matematicos/convertir-temperatura-de-grados-centigrados-a-grados-farenheit-en-java
-author: xhrist14n
 type: doc
 topic: java
 id: bb4b4c82-1026-468f-8746-160139b1d99f
+author: xhrist14n
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ConversorTemperaturas.java
 ---
 

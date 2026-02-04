@@ -5,10 +5,10 @@ date: 2007-11-28
 updatedDate: 2026-01-08
 tags: ["sangria","text-indent"]
 slug: css/texto/sangria-de-primera-linea-con-css
-author: victor_cuervo
 type: doc
 topic: css
 id: f066ac28-fa06-428c-a867-3f36cfa9bb11
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/sangria-primera-linea.html
 ---
 

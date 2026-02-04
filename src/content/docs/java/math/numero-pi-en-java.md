@@ -5,10 +5,10 @@ date: 2007-07-15
 updatedDate: 2026-01-07
 tags: ["math","pi","println"]
 slug: java/math/numero-pi-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: b14831fb-d406-48c2-8b6e-c557a23da61e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/NumeroPI.java
 ---
 

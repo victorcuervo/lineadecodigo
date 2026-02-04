@@ -5,10 +5,10 @@ date: 2017-09-15
 updatedDate: 2026-02-01
 tags: ["let","variable","swapping"]
 slug: typescript/variables/swapping-de-variables-en-typescript
-author: victor_cuervo
 type: doc
 topic: typescript
 id: 2c8a9dfb-adca-8108-bdad-f63ed8ce5bc4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/basicos/swapping-variables.ts
 ---
 

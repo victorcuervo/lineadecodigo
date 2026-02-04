@@ -5,10 +5,10 @@ date: 2008-01-05
 updatedDate: 2026-01-17
 tags: ["ol","list-style-type","upper-roman","lower-roman"]
 slug: css/listas/lista-css-de-numeros-romanos
-author: victor_cuervo
 type: doc
 topic: css
 id: 5d9fa38d-1050-4d70-acc5-4fc3258b7d55
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/listas/lista-numeros-romanos.html
 ---
 

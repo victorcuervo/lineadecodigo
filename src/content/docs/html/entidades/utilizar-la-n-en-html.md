@@ -5,10 +5,10 @@ date: 2010-01-25
 updatedDate: 2026-01-05
 tags: ["entidades","letra-ñ"]
 slug: html/entidades/utilizar-la-n-en-html
-author: victor_cuervo
 type: doc
 topic: html
 id: b7421529-a34e-45d7-a0da-4a9f95c38677
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/n-en-html.html
 ---
 

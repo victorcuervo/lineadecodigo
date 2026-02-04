@@ -5,10 +5,10 @@ date: 2010-03-24
 updatedDate: 2026-01-09
 tags: ["array","string","stringbuffer","append","length"]
 slug: java/arrays/convertir-un-array-en-un-string-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 78600763-b2db-452f-b4e2-94c23371b6e1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/Array2String.java
 ---
 

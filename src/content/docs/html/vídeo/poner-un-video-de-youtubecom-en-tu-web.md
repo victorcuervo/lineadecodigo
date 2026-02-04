@@ -5,10 +5,10 @@ date: 2007-07-16
 updatedDate: 2026-01-07
 tags: ["youtube","object","embed","param"]
 slug: html/video/poner-un-video-de-youtubecom-en-tu-web
-author: victor_cuervo
 type: doc
 topic: html
 id: 2c8a9dfb-adca-81a2-a67a-f14712940942
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/video-y-sonido/poner-video-youtube.html
 ---
 

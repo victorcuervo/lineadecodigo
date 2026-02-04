@@ -5,10 +5,10 @@ date: 2020-03-30
 updatedDate: 2026-01-11
 tags: ["arrays","tostring","println","array"]
 slug: java/arrays/volcar-array-como-cadena
-author: victor_cuervo
 type: doc
 topic: java
 id: cd568154-bf57-495c-93da-04915998c4b1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/ArraytoString.java
 ---
 

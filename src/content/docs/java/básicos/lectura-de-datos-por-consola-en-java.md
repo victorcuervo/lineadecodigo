@@ -5,10 +5,10 @@ date: 2006-12-16
 updatedDate: 2026-01-06
 tags: ["bufferedreader","inputstreamreader","readline","java-io","bucles","do-while","inputstream"]
 slug: java/basicos/lectura-de-datos-por-consola-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 7fb628fb-2416-453f-b034-c6098bf6f93f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/LecturaDatosConsola.java
 ---
 

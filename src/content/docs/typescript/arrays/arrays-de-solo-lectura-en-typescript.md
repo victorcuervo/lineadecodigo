@@ -5,10 +5,10 @@ date: 2017-09-24
 updatedDate: 2026-02-01
 tags: ["array","let","push"]
 slug: typescript/arrays/arrays-de-solo-lectura-en-typescript
-author: victor_cuervo
 type: doc
 topic: typescript
 id: 2c8a9dfb-adca-81cb-a491-fba26a19f84d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/array/arrays-solo-lectura.ts
 ---
 

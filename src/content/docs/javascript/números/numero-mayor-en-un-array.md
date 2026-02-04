@@ -5,10 +5,10 @@ date: 2023-10-02
 updatedDate: 2026-01-05
 tags: ["array","math","max"]
 slug: javascript/numeros/numero-mayor-en-un-array
-author: victor_cuervo
 type: doc
 topic: javascript
 id: a7b77072-4ae5-408c-a2e3-93c51b8d5ff9
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/numeros/mayor-numeros-array.js
 ---
 

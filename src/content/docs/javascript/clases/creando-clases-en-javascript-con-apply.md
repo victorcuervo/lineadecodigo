@@ -5,10 +5,10 @@ date: 2010-12-15
 updatedDate: 2026-01-12
 tags: ["apply","clases","call","constructor","arguments"]
 slug: javascript/clases/creando-clases-en-javascript-con-apply
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 2c8a9dfb-adca-812c-9025-caaca6668da3
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/multiples-constructores-apply.js
 ---
 

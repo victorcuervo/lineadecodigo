@@ -5,10 +5,10 @@ date: 2017-09-09
 updatedDate: 2026-02-01
 tags: ["var","variables","let"]
 slug: typescript/variables/variables-de-bloque-en-typescript
-author: victor_cuervo
 type: doc
 topic: typescript
 id: 2c8a9dfb-adca-81ed-8730-f62c17d898f5
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/basicos/variables-bloque.ts
 ---
 

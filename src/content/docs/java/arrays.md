@@ -5,10 +5,10 @@ date: 2026-01-04
 updatedDate: 2026-01-05
 tags: []
 slug: java/arrays
-author: victor_cuervo
 type: category
 topic: java
 id: 2dea9dfb-adca-8012-abfd-d49e7186e5d0
+author: victor_cuervo
 ---
 
 ## ¿Qué es un Array en Java?

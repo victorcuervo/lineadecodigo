@@ -5,10 +5,10 @@ date: 2007-06-28
 updatedDate: 2026-01-12
 tags: ["document","write","open"]
 slug: dom/contenido/generar-un-documento-html-mediante-javascript
-author: victor_cuervo
 type: doc
 topic: dom
 id: 92b73820-7ca9-4bb5-aa65-c83b76b8429a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/dom/crear-documento-html-dinamicamente.html
 ---
 

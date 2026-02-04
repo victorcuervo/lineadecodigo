@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/grid
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-803a-baab-eec4aa220f21
+author: victor_cuervo
 ---
 
 # CSS Grid: diseño bidimensional avanzado

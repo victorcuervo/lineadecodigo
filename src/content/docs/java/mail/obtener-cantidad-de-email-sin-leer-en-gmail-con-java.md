@@ -5,10 +5,10 @@ date: 2013-02-02
 updatedDate: 2026-01-09
 tags: ["gmail","imap","java-mail","email","folder","session","mail"]
 slug: java/mail/obtener-cantidad-de-email-sin-leer-en-gmail-con-java
-author: Feffo
 type: doc
 topic: java
 id: 2c8a9dfb-adca-8198-82c0-fc5a0ebde653
+author: Feffo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/mail/GMail.java
 ---
 

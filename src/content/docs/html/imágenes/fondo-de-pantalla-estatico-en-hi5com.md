@@ -5,10 +5,10 @@ date: 2007-06-02
 updatedDate: 2026-01-24
 tags: ["hi5","background-repeat","background-attachment","background-image"]
 slug: html/imagenes/fondo-de-pantalla-estatico-en-hi5com
-author: victor_cuervo
 type: doc
 topic: html
 id: 2c8a9dfb-adca-8153-ace5-d0c467b41710
+author: victor_cuervo
 ---
 
 Muchas personas me han enviado correos preguntándome como podían dejar fijo el fondo de pantalla en [hi5.com](http://hi5.com/). Sobre todo porque habían seguido el ejemplo ["Fondo estático en una página web"](http://lineadecodigo.com/html/fondo-estatico-en-una-pagina-web/) y no les había funcionado. (también podéis ver los comentarios al artículo que hablan sobre el tema).

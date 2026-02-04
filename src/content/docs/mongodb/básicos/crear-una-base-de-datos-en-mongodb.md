@@ -5,10 +5,10 @@ date: 2013-06-15
 updatedDate: 2026-01-28
 tags: ["db","save"]
 slug: mongodb/basicos/crear-una-base-de-datos-en-mongodb
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: 4271698b-8284-473b-8762-9c4a3b627550
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-basicos/crear-db.js
 ---
 

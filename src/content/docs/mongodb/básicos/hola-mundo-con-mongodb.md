@@ -5,10 +5,10 @@ date: 2013-03-23
 updatedDate: 2026-01-28
 tags: ["hola-mundo","find","db"]
 slug: mongodb/basicos/hola-mundo-con-mongodb
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: 544487c7-3956-4541-8e4a-7c253dfb1d7e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-basicos/holamundo-mongodb.js
 ---
 

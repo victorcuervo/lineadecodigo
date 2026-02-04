@@ -5,10 +5,10 @@ date: 2006-11-19
 updatedDate: 2026-01-06
 tags: ["bucles","factorial","recursividad","while","math"]
 slug: java/bucles/factorial-de-un-numero
-author: victor_cuervo
 type: doc
 topic: java
 id: a13f6fd7-21ab-4e77-bb53-b605fd080d23
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/FactorialDeUnNumero.java
 ---
 

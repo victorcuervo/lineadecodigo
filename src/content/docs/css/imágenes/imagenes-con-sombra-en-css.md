@@ -5,10 +5,10 @@ date: 2007-01-03
 updatedDate: 2026-01-07
 tags: ["imagenes","sombra"]
 slug: css/imagenes/imagenes-con-sombra-en-css
-author: victor_cuervo
 type: doc
 topic: css
 id: b8d312cc-faca-48da-ae09-68be68e9a8e3
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/imagenes/imagenes-sombra.html
 ---
 

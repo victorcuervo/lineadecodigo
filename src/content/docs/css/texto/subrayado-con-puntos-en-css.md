@@ -5,10 +5,10 @@ date: 2008-01-09
 updatedDate: 2026-01-17
 tags: ["text-decoration","css","dotted","border-bottom"]
 slug: css/texto/subrayado-con-puntos-en-css
-author: victor_cuervo
 type: doc
 topic: css
 id: 938da32a-ed0b-452e-a766-308b35984ccb
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/texto/subrayado-de-puntos.html
 ---
 

@@ -5,10 +5,10 @@ date: 2020-03-18
 updatedDate: 2026-01-11
 tags: ["array","recursividad","busqueda","busqueda-binaria","arrays","copyofrange"]
 slug: java/arrays/implementar-una-busqueda-binaria-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: b814ef9a-c6e4-4d3b-944b-b5a75d6a3126
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/BusquedaBinariaImplementada.java
 ---
 

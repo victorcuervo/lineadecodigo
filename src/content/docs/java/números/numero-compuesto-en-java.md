@@ -5,10 +5,10 @@ date: 2021-02-18
 updatedDate: 2026-01-11
 tags: ["bucles","operadores","for","if","metodo","boolean","numero"]
 slug: java/numeros/numero-compuesto-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 64380f67-21d9-469a-83a9-9508eb6f6d26
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroCompuesto.java
 ---
 

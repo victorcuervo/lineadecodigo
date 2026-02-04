@@ -5,10 +5,10 @@ date: 2007-07-12
 updatedDate: 2026-01-11
 tags: ["hashmap","iterator","hasnext","mapa","clave","valor","java","entryset"]
 slug: java/colecciones/listar-un-mapa-con-java-util
-author: victor_cuervo
 type: doc
 topic: java
 id: 54a7f02a-2ab6-45a9-b15b-4a83a202162c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/ListarUnMapa.java
 ---
 

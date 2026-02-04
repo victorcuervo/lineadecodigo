@@ -5,10 +5,10 @@ date: 2017-07-03
 updatedDate: 2026-01-14
 tags: ["cadena","variables","zfill"]
 slug: python/cadenas/anadir-ceros-a-cadena-con-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 5b32e200-6c3c-4899-b0d4-15b0bb84f7b3
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/rellenar_ceros.py
 ---
 

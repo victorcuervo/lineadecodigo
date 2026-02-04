@@ -5,10 +5,10 @@ date: 2023-10-04
 updatedDate: 2026-01-10
 tags: ["col","th","td","table","colspan"]
 slug: html/tablas/definir-columnas-en-una-tabla-html
-author: victor_cuervo
 type: doc
 topic: html
 id: f8893fa4-a147-4494-aece-6cef6a73d35f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/columnas-en-tabla.html
 ---
 

@@ -5,10 +5,10 @@ date: 2022-05-04
 updatedDate: 2026-01-21
 tags: ["onafterprint","body"]
 slug: webapi/navegador/fin-de-impresion-en-html5
-author: victor_cuervo
 type: doc
 topic: webapi
 id: 2c8a9dfb-adca-81f8-a3fb-ee74d419c02f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Impresi%C3%B3n/control-fin-impresion.html
 ---
 

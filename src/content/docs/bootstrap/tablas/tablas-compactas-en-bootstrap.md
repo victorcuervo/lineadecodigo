@@ -5,10 +5,10 @@ date: 2015-08-14
 updatedDate: 2026-02-02
 tags: ["table","class","table-condensed"]
 slug: bootstrap/tablas/tablas-compactas-en-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: fb5d4e7b-f661-4d71-bd36-c17f4a8bd74a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/tablas/tabla-compacta.html
 ---
 

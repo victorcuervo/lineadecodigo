@@ -5,10 +5,10 @@ date: 2007-01-10
 updatedDate: 2026-01-10
 tags: ["hola-mundo","response","write"]
 slug: asp/basicos/hola-mundo-en-asp
-author: victor_cuervo
 type: doc
 topic: asp
 id: d33356d4-f55d-4eb4-b705-15d56ea63dec
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/basico/hola-mundo.asp
 ---
 

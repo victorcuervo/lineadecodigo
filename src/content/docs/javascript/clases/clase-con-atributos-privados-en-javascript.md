@@ -5,10 +5,10 @@ date: 2010-09-18
 updatedDate: 2026-01-12
 tags: ["clases","objetos","atributos"]
 slug: javascript/clases/clase-con-atributos-privados-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 0e8a56b4-ee74-41ee-900b-fc20be17b8ff
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/objeto-rectangulo-atributos-privados.js
 ---
 

@@ -5,10 +5,10 @@ date: 2017-09-20
 updatedDate: 2026-02-01
 tags: ["interface","function"]
 slug: typescript/interfaces/interfaces-con-propiedades-opcionales-en-typescript
-author: victor_cuervo
 type: doc
 topic: typescript
 id: 1888fd0a-1b7d-4849-9792-0544fa7550e2
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/interfaces/interface-propiedades-opcionales.ts
 ---
 

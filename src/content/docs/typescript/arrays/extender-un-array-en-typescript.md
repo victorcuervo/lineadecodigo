@@ -5,10 +5,10 @@ date: 2017-09-16
 updatedDate: 2026-02-01
 tags: ["array","operadores"]
 slug: typescript/arrays/extender-un-array-en-typescript
-author: victor_cuervo
 type: doc
 topic: typescript
 id: 2c8a9dfb-adca-8139-8271-ef2e00293fc1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/array/spread-array.ts
 ---
 

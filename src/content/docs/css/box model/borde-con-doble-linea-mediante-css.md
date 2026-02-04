@@ -5,10 +5,10 @@ date: 2007-07-11
 updatedDate: 2026-01-07
 tags: ["border","border-style","double"]
 slug: css/box-model/borde-con-doble-linea-mediante-css
-author: victor_cuervo
 type: doc
 topic: css
 id: 888c092e-3f11-4c50-b5c9-223489ef6ec6
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/bordes/borde-con-linea-doble.html
 ---
 

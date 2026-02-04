@@ -5,10 +5,10 @@ date: 2011-10-12
 updatedDate: 2026-01-10
 tags: ["java-io","bufferedreader","outputstream","ioexception","fileoutputstream","write","close","bufferedwriter"]
 slug: java/ficheros/escribir-un-fichero-utf-8
-author: Víctor Cuervo
 type: doc
 topic: java
 id: 1ecc4dfc-73f9-4852-a851-8955a2db78dc
+author: Víctor Cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/encoding/EscribirFicheroUTF8.java
 ---
 

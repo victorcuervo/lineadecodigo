@@ -5,10 +5,10 @@ date: 2009-02-14
 updatedDate: 2026-01-08
 tags: ["char","string","array","for","tochararray"]
 slug: java/arrays/convertir-una-cadena-en-un-array-de-caracteres-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 6ab0c3ee-1cd4-4b4c-85dd-2ddd67fb3dac
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ConvertirCadenaArrayCaracteres.java
 ---
 

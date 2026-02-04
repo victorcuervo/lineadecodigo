@@ -5,10 +5,10 @@ date: 2021-02-17
 updatedDate: 2026-01-11
 tags: ["array","matriz","bucles","for","console-log"]
 slug: javascript/arrays/recorrer-una-matriz-con-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 559a36aa-6b4a-4787-b782-0b494af346cf
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/recorrer-matriz.js
 ---
 

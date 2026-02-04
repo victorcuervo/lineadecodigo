@@ -5,10 +5,10 @@ date: 2007-11-01
 updatedDate: 2026-01-07
 tags: ["bucles","while","if","array"]
 slug: java/numeros/primer-numero-repetido
-author: victor_cuervo
 type: doc
 topic: java
 id: 5375522e-8906-4c62-b390-978924f3743c
+author: victor_cuervo
 download: https://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_java/src/com/lineadecodigo/java/basico/PrimerNumeroRepetido.java
 ---
 

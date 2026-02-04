@@ -5,10 +5,10 @@ date: 2019-01-19
 updatedDate: 2026-01-23
 tags: ["fullscreenchange","addeventlistener","fullscreen"]
 slug: webapi/integracion/modo-pantalla-completa
-author: victor_cuervo
 type: doc
 topic: webapi
 id: c43055fd-98af-4b8c-a400-1e2aaddad149
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Fullscreen%20API/saber-si-pantalla-completa.html
 ---
 

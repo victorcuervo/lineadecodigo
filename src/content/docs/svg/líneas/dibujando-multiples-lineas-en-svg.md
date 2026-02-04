@@ -5,10 +5,10 @@ date: 2006-12-23
 updatedDate: 2026-01-07
 tags: ["polyline","points","stroke","stroke-width","fill"]
 slug: svg/lineas/dibujando-multiples-lineas-en-svg
-author: victor_cuervo
 type: doc
 topic: svg
 id: 2c8a9dfb-adca-817f-af18-da47d8c7cb5d
+author: victor_cuervo
 ---
 
 Mediante este ejemplo intentamos explicar el uso de las polilineas en SVG. Una polilinea no deja de ser la línea que se traza entre una consecución de puntos. La principal diferencia con el polígono es que, en el caso del polígono, indicamos los vértices y automáticamente se traza una línea desde el último punto al primero.

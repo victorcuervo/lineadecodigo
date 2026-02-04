@@ -5,10 +5,10 @@ date: 2015-06-20
 updatedDate: 2026-01-09
 tags: ["array","math","random","bucles","for"]
 slug: java/arrays/llenar-un-array-con-numeros-aleatorios-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 497f7fde-62c3-4658-b575-efd8a81fdbf2
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/CargarArrayNumerosAleatorios.java
 ---
 

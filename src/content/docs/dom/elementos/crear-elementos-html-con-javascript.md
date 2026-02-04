@@ -5,10 +5,10 @@ date: 2007-09-09
 updatedDate: 2026-01-11
 tags: ["h1","div","form","input","appendchild","createelement","getelementbyid","innerhtml"]
 slug: dom/elementos/crear-elementos-html-con-javascript
-author: victor_cuervo
 type: doc
 topic: dom
 id: 2bcce5c6-6938-4dd3-80b1-3082c3101418
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/dom/crear-elemento-html.html
 ---
 

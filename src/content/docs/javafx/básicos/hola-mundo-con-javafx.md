@@ -5,10 +5,10 @@ date: 2014-02-24
 updatedDate: 2026-01-11
 tags: ["java","hola-mundo","scene","stackpane","start"]
 slug: javafx/basicos/hola-mundo-con-javafx
-author: ARIEL
 type: doc
 topic: javafx
 id: af620185-c190-440c-ba00-3f1e4bc4976a
+author: ARIEL
 download: https://github.com/victorcuervo/lineadecodigo_javafx/blob/master/src/com/lineadecodigo/javafx/HolaMundoJavaFx.java
 ---
 

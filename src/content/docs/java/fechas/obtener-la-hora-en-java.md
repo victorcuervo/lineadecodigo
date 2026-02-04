@@ -5,10 +5,10 @@ date: 2007-01-25
 updatedDate: 2026-01-09
 tags: ["java-util","calendar","gregoriancalendar"]
 slug: java/fechas/obtener-la-hora-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 2c78183f-86d0-475e-8e39-c0163b4f1575
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/dates/ObtenerLaHora.java
 ---
 

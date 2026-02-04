@@ -5,10 +5,10 @@ date: 2017-09-22
 updatedDate: 2026-02-01
 tags: ["interface","readonly","funciones"]
 slug: typescript/interfaces/interfaces-de-solo-lectura-en-typescript
-author: victor_cuervo
 type: doc
 topic: typescript
 id: 2c8a9dfb-adca-81e2-a4cc-d8f261722eb7
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/interfaces/interface-solo-lectura.ts
 ---
 

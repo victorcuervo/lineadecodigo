@@ -5,10 +5,10 @@ date: 2013-10-07
 updatedDate: 2026-02-02
 tags: ["p","class","lead"]
 slug: bootstrap/texto/destacar-texto-en-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: 161a9dd3-eef2-42b7-b413-ba36ca1d4c23
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/texto-destacado.html
 ---
 

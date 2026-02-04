@@ -5,10 +5,10 @@ date: 2012-01-30
 updatedDate: 2026-01-13
 tags: ["date","gettime","math","fechas"]
 slug: javascript/fechas/comparar-con-la-fecha-del-sistema-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: d8e4ff1a-5913-40d2-a389-4cc44620e809
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/comparar-con-fecha-sistema.html
 ---
 

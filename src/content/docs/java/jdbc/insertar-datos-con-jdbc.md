@@ -5,10 +5,10 @@ date: 2007-06-07
 updatedDate: 2026-01-11
 tags: ["preparedstatement","sqlexception","connection","insert","mysql","executeupdate","drivermanager","statement"]
 slug: java/jdbc/insertar-datos-con-jdbc
-author: victor_cuervo
 type: doc
 topic: java
 id: fa56d6ea-a26e-4373-93a4-cdb6abb5c030
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/InsertarDatos.java
 ---
 

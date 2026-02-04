@@ -5,10 +5,10 @@ date: 2007-01-06
 updatedDate: 2026-01-08
 tags: ["string","tabulador"]
 slug: java/strings/tabular-cadenas-en-java
-author: Víctor Cuervo
 type: doc
 topic: java
 id: fee3461f-22e4-4700-9506-60774cc51481
+author: Víctor Cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/TabularCadena.java
 ---
 

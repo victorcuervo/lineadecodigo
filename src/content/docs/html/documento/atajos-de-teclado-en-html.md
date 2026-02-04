@@ -5,10 +5,10 @@ date: 2021-10-08
 updatedDate: 2026-01-21
 tags: ["a","href","target","accesskey"]
 slug: html/documento/atajos-de-teclado-en-html
-author: victor_cuervo
 type: doc
 topic: html
 id: f0d0be09-d809-492e-ae6e-d46c8cfb93d5
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/basicos/atajo-teclado.html
 ---
 

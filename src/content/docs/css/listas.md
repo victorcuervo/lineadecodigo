@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/listas
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-80eb-8869-df7993e0acb5
+author: victor_cuervo
 ---
 
 # Listas en CSS: personalización y control visual

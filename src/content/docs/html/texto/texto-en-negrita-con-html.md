@@ -5,10 +5,10 @@ date: 2009-08-01
 updatedDate: 2026-01-05
 tags: ["texto","negrita","b","strong"]
 slug: html/texto/texto-en-negrita-con-html
-author: victor_cuervo
 type: doc
 topic: html
 id: c5418167-6730-47d0-aaa0-03c24fb22fd4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/texto-en-negrita.html
 ---
 

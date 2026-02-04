@@ -5,10 +5,10 @@ date: 2013-09-05
 updatedDate: 2026-01-08
 tags: ["metodo","intval","trim","function"]
 slug: php/clases/crear-un-metodo-en-php
-author: xhrist14n
 type: doc
 topic: php
 id: 3b9138f3-7a84-4c45-914f-ef32dffaf465
+author: xhrist14n
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/crear-metodo.php
 ---
 

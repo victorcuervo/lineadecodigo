@@ -5,10 +5,10 @@ date: 2007-10-07
 updatedDate: 2026-01-11
 tags: ["bucles","for","array","string","length","charat","stringtokenizer"]
 slug: java/strings/eliminar-espacios-en-blanco-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: dcf375e0-767e-4e96-829e-f0bfd47f26b6
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ElminarEspaciosEnBlanco.java
 ---
 

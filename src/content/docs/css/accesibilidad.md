@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/accesibilidad
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-80d1-95b9-cc56c42fbc1e
+author: victor_cuervo
 ---
 
 # Accesibilidad en CSS: diseñar para todos

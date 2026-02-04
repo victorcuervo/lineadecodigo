@@ -5,10 +5,10 @@ date: 2010-02-02
 updatedDate: 2026-01-06
 tags: ["imagenes","enlaces","href","alt"]
 slug: html/imagenes/imagen-con-enlace-en-html
-author: victor_cuervo
 type: doc
 topic: html
 id: bf240cd7-3d67-48e1-9dca-bea9a5167725
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/imagen-con-enlace.html
 ---
 

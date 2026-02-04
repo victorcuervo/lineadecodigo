@@ -5,10 +5,10 @@ date: 2021-01-07
 updatedDate: 2026-01-09
 tags: ["math","sqrt","area","triangulo","triangulo-escaleno","semiperimetro"]
 slug: java/matematicos/area-de-un-triangulo-escaleno-con-los-lados
-author: victor_cuervo
 type: doc
 topic: java
 id: 9a2a3e22-55bc-4ec5-8a93-3776b53c3457
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/AreaTrianguloEscaleno.java
 ---
 

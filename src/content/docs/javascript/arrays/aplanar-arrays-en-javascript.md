@@ -5,10 +5,10 @@ date: 2021-02-12
 updatedDate: 2026-01-13
 tags: ["array","flat","polyfill","multidimensional"]
 slug: javascript/arrays/aplanar-arrays-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 9f3e14e2-e753-4ac4-9cb3-dcdc0895bd3c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/aplanar-array.js
 ---
 

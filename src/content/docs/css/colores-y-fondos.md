@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/colores-y-fondos
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-8053-9fec-e9115760d91f
+author: victor_cuervo
 ---
 
 # Colores y fondos en CSS

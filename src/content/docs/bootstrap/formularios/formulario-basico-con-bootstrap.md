@@ -5,10 +5,10 @@ date: 2015-11-01
 updatedDate: 2026-02-02
 tags: ["form","form-group","class"]
 slug: bootstrap/formularios/formulario-basico-con-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: 0f7aea01-c798-4c42-8677-1f7636ce5063
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/formularios/formulario-basico.html
 ---
 

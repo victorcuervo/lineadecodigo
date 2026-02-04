@@ -5,10 +5,11 @@ date: 2007-05-08
 updatedDate: 2026-01-10
 tags: ["eventos"]
 slug: blog/evento-iniciador
-author: lineadecodigo
 type: blog
 topic: blog
 id: 2c8a9dfb-adca-81ff-bf59-c79f25dca501
+authors:
+  - lineadecodigo
 ---
 
 El próximo miércoles 9 de mayo se celebra en Madrid el evento Iniciador. Dicho evento pretende poner en contacto a empresarios con iniciativas en la web.

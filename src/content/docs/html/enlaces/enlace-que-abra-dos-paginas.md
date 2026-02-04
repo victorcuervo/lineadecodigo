@@ -5,10 +5,10 @@ date: 2006-11-22
 updatedDate: 2026-01-06
 tags: ["a","enlaces","window","open","onclick"]
 slug: html/enlaces/enlace-que-abra-dos-paginas
-author: victor_cuervo
 type: doc
 topic: html
 id: fff9f605-ac86-4456-bbde-16df1ae2f582
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/enlaces/enlace-que-abre-dos-paginas.html
 ---
 

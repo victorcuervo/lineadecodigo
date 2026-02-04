@@ -5,10 +5,10 @@ date: 2006-11-26
 updatedDate: 2026-01-06
 tags: ["bucles","while","if","operadores"]
 slug: java/math/numeros-primos-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 5ce6b5a4-5f09-4359-a4f3-17ce09f9faca
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumerosPrimos.java
 ---
 

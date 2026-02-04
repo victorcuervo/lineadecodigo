@@ -5,10 +5,10 @@ date: 2013-01-01
 updatedDate: 2026-01-08
 tags: ["touppercase","indexof","string"]
 slug: java/strings/string-convertir-cadena-a-mayusculas-hasta-encontrar-un-punto
-author: Feffo
 type: doc
 topic: java
 id: 11189277-931d-4bbe-b7b8-4abbf1f1e1d1
+author: Feffo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/MayusculasHastaPunto.java
 ---
 

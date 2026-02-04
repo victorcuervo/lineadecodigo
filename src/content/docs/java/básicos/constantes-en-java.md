@@ -5,10 +5,10 @@ date: 2011-03-02
 updatedDate: 2026-01-08
 tags: ["constantes","static"]
 slug: java/basicos/constantes-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 87338f9f-ba38-4d49-8d74-358ee55ef79f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ConstanteEnJava.java
 ---
 

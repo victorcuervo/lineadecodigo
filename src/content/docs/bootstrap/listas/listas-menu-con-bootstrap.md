@@ -5,10 +5,10 @@ date: 2015-07-31
 updatedDate: 2026-02-03
 tags: ["ul","li","class","list-inline"]
 slug: bootstrap/listas/listas-menu-con-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: cca4e0b1-32c3-4f7f-983a-6bb75c803a51
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/listas/listas-menu.html
 ---
 

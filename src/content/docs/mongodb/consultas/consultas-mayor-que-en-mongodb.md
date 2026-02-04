@@ -5,10 +5,10 @@ date: 2013-11-16
 updatedDate: 2026-01-28
 tags: ["cursor","find","db","gt","gte"]
 slug: mongodb/consultas/consultas-mayor-que-en-mongodb
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: e92fe328-b001-44d9-9e40-cbd1a91b371c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/mayorque.js
 ---
 

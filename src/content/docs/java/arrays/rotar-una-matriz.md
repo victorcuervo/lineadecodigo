@@ -5,10 +5,10 @@ date: 2021-02-09
 updatedDate: 2026-01-09
 tags: ["array","matriz","bucles","for"]
 slug: java/arrays/rotar-una-matriz
-author: victor_cuervo
 type: doc
 topic: java
 id: 46829304-d01a-492e-97ea-30136484e918
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/RotarMatriz.java
 ---
 

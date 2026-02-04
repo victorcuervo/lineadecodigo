@@ -5,10 +5,10 @@ date: 2015-09-26
 updatedDate: 2026-01-11
 tags: ["modulo","operadores","math"]
 slug: java/matematicos/ultimo-digito-igual-con-operaciones-matematicas
-author: victor_cuervo
 type: doc
 topic: java
 id: 6878b891-d173-4ce4-b9f0-2158e982f0d2
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/UltimoDigitoIgualSinString.java
 ---
 

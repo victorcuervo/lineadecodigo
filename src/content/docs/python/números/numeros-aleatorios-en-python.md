@@ -5,10 +5,10 @@ date: 2017-06-05
 updatedDate: 2026-01-14
 tags: ["random","uniform","randint"]
 slug: python/numeros/numeros-aleatorios-en-python
-author: victor_cuervo
 type: doc
 topic: python
 id: b7a76e1a-b054-491b-b500-9587621bd9d7
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/matematicos/numero_aleatorio.py
 ---
 

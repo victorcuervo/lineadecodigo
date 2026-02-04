@@ -5,10 +5,10 @@ date: 2010-11-10
 updatedDate: 2026-01-08
 tags: ["array","for-next","recorrer","ubound"]
 slug: vbscript/arrays/recorrer-un-array-en-vbscript
-author: Víctor Cuervo
 type: doc
 topic: vbscript
 id: 9e953049-aef5-4af2-8749-afdbfbf55682
+author: Víctor Cuervo
 download: https://github.com/victorcuervo/lineadecodigo_vbscript/blob/master/arrays/recorrer-un-array.html
 ---
 

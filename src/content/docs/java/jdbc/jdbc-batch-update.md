@@ -5,10 +5,10 @@ date: 2016-10-14
 updatedDate: 2026-01-09
 tags: ["jdbc","connection","setautocommit","statement","addbatch","executebatch","commit","sqlexception"]
 slug: java/jdbc/jdbc-batch-update
-author: victor_cuervo
 type: doc
 topic: java
 id: 87185c29-6c8a-4744-9db7-a6860ee9b448
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/BatchUpdate.java
 ---
 

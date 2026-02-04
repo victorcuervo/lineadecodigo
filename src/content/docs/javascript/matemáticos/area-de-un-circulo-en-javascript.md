@@ -5,10 +5,10 @@ date: 2015-06-16
 updatedDate: 2026-01-11
 tags: ["math","pi","pow","formula","circulo","area","clase"]
 slug: javascript/matematicos/area-de-un-circulo-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 2e4d84cb-5017-480e-828f-f28b9188d4e4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/matematicas/formulas.js
 ---
 

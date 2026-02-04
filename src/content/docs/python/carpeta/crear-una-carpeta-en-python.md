@@ -5,10 +5,10 @@ date: 2025-01-24
 updatedDate: 2026-01-05
 tags: ["carpeta","exists","os","mkdir","fileexistserror"]
 slug: python/carpeta/crear-una-carpeta-en-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 315320fa-74b4-4b52-b107-f2b9aae8df2b
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/crear-carpeta.py
 ---
 

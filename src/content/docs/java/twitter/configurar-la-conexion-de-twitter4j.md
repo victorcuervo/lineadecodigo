@@ -5,10 +5,10 @@ date: 2021-02-02
 updatedDate: 2026-01-09
 tags: ["twitter4j","twitter","twitterfactory"]
 slug: java/twitter/configurar-la-conexion-de-twitter4j
-author: victor_cuervo
 type: doc
 topic: java
 id: 2c8a9dfb-adca-819d-92ba-ed298d35b847
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/twitter/ConectarTwitterConfig.java
 ---
 

@@ -5,10 +5,10 @@ date: 2012-12-08
 updatedDate: 2026-01-24
 tags: ["doctype","w3c","html5"]
 slug: html/documento/indicando-el-tipo-de-documento-html
-author: victor_cuervo
 type: doc
 topic: html
 id: 2c8a9dfb-adca-8102-bc73-ff684ec440c9
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/tree/master/basicos/doctype
 ---
 

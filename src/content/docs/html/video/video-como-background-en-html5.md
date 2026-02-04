@@ -5,10 +5,10 @@ date: 2016-03-22
 updatedDate: 2026-01-19
 tags: ["video","background-size","z-index","transform"]
 slug: html/video/video-como-background-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 4f09fa8e-7f3c-48c3-b241-a4040d2b3f2c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/video-fondo-pagina.html
 ---
 

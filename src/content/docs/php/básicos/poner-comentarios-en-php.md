@@ -5,10 +5,10 @@ date: 2013-06-18
 updatedDate: 2026-01-07
 tags: ["comentarios"]
 slug: php/basicos/poner-comentarios-en-php
-author: xhrist14n
 type: doc
 topic: php
 id: 6914a5f6-bfb0-4251-b0df-877f50ed7ae1
+author: xhrist14n
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/comentarios.php
 ---
 

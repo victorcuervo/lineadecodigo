@@ -5,10 +5,10 @@ date: 2024-02-01
 updatedDate: 2026-01-19
 tags: ["br","salto-de-linea","wbr"]
 slug: html/texto/permitir-saltos-de-linea-en-palabras-con-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 3bceeaaf-8979-4216-a4ae-bd8bb2c5ea15
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/permitir-salto-linea.html
 ---
 

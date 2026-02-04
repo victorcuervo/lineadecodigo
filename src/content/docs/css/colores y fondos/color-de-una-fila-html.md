@@ -5,10 +5,10 @@ date: 2015-06-10
 updatedDate: 2026-01-18
 tags: ["nth-child","tr","table","background-color","color"]
 slug: css/colores-y-fondos/color-de-una-fila-html
-author: victor_cuervo
 type: doc
 topic: css
 id: c8078847-3129-4281-ba39-ed824134d72a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-color-fila.html
 ---
 

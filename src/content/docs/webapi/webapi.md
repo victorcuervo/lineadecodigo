@@ -5,10 +5,10 @@ date: 2026-01-24
 updatedDate: 2026-01-24
 tags: []
 slug: webapi
-author: victor_cuervo
 type: category
 topic: webapi
 id: 2f2a9dfb-adca-800d-a7e2-c502f0eb5a94
+author: victor_cuervo
 ---
 
 ## ¿Qué son las WebAPI?

@@ -5,10 +5,10 @@ date: 2021-01-19
 updatedDate: 2026-01-11
 tags: ["intl","format","json","locale","numberformat"]
 slug: javascript/formatos/formatear-divisas-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: d6736a76-d500-42bf-b224-6440025a942a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/i18n/formatear-divisas.js
 ---
 

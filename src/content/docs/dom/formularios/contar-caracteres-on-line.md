@@ -5,10 +5,10 @@ date: 2008-03-25
 updatedDate: 2026-01-13
 tags: ["getelementbyid","window","settimeout"]
 slug: dom/formularios/contar-caracteres-on-line
-author: victor_cuervo
 type: doc
 topic: dom
 id: 2c8a9dfb-adca-8192-a83e-cd352ba1f26e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/contar-caracteres-on-line.html
 ---
 

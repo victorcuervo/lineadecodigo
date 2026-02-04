@@ -5,10 +5,10 @@ date: 2021-03-10
 updatedDate: 2026-01-11
 tags: ["array","funcion-arrow","console-log","math","from","random"]
 slug: javascript/arrays/rellenar-un-array-con-numeros-aleatorios-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 05254c08-dc74-485c-a523-ebe2027a50b3
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/rellenar-array-numeros-aleatorios.js
 ---
 

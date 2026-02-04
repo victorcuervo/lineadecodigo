@@ -5,10 +5,10 @@ date: 2021-10-04
 updatedDate: 2026-01-09
 tags: ["jdbc","connection","sqlexception","statement","create","table","drivermanager"]
 slug: java/jdbc/crear-una-base-de-datos-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: de2ac572-40d9-4365-8e16-0626957d342b
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/CrearBaseDeDatos.java
 ---
 

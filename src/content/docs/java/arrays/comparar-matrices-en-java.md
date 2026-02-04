@@ -5,10 +5,10 @@ date: 2015-07-22
 updatedDate: 2026-01-09
 tags: ["array","matriz","equals","deepequals"]
 slug: java/arrays/comparar-matrices-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 0265c615-ead6-4a06-9445-f16df2b4fa00
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MatricesIguales.java
 ---
 

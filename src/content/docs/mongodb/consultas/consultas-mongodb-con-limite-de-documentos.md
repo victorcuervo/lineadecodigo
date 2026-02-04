@@ -5,10 +5,10 @@ date: 2014-02-01
 updatedDate: 2026-01-28
 tags: ["find","limit","cursor","hasnext"]
 slug: mongodb/consultas/consultas-mongodb-con-limite-de-documentos
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: 36fc8636-ed27-4bbf-aa60-958026182669
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/find-limit.js
 ---
 

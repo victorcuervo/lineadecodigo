@@ -5,10 +5,10 @@ date: 2007-12-23
 updatedDate: 2026-01-11
 tags: ["java-io","fileinputstream","properties","setproperty","getproperty"]
 slug: java/properties/modificar-valores-de-un-fichero-properties
-author: victor_cuervo
 type: doc
 topic: java
 id: 9f555a93-90cb-4362-98a8-788ac55e8fed
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/properties/ModificarProperties.java
 ---
 

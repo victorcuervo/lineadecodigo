@@ -5,10 +5,10 @@ date: 2007-11-24
 updatedDate: 2026-01-24
 tags: ["action","form","input","instance","label","method","model","namespace","ref","submission","w3c"]
 slug: xml/formularios/mi-primer-formulario-xforms
-author: victor_cuervo
 type: doc
 topic: xml
 id: 2c8a9dfb-adca-81e6-9b6a-fb58a22591ed
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_xforms/blob/master/mi-primer-formulario-xforms.xhtml
 ---
 

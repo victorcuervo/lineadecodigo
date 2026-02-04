@@ -5,10 +5,10 @@ date: 2017-09-17
 updatedDate: 2026-02-01
 tags: ["interface","propiedades"]
 slug: typescript/interfaces/definir-un-interface-con-typescript
-author: victor_cuervo
 type: doc
 topic: typescript
 id: 2c8a9dfb-adca-81fc-9293-f6a443b81ea6
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/interfaces/interface.ts
 ---
 

@@ -5,10 +5,10 @@ date: 2024-04-02
 updatedDate: 2026-01-05
 tags: ["os","path","exists","open","write"]
 slug: python/ficheros/anadir-contenido-a-un-fichero-con-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 525d90f8-496a-41b7-a0a1-f46591bf9a82
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/a%C3%B1adir-contenido-fichero.py
 ---
 

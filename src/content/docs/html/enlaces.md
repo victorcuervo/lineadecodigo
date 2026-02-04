@@ -5,10 +5,10 @@ date: 2026-01-18
 updatedDate: 2026-01-18
 tags: []
 slug: html/enlaces
-author: victor_cuervo
 type: category
 topic: html
 id: 2eca9dfb-adca-80f5-afe7-d6ecde7cd2bc
+author: victor_cuervo
 ---
 
 Todo lo relacionado con la navegación y la interconexión de documentos.

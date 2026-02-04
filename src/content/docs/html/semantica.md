@@ -5,10 +5,10 @@ date: 2026-01-18
 updatedDate: 2026-01-18
 tags: []
 slug: html/semantica
-author: victor_cuervo
 type: doc
 topic: html
 id: 2eca9dfb-adca-8074-ace1-d24b1ea965d8
+author: victor_cuervo
 ---
 
 # Semántica

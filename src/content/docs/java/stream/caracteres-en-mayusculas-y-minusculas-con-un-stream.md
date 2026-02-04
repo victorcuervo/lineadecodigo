@@ -5,10 +5,10 @@ date: 2016-03-24
 updatedDate: 2026-01-11
 tags: ["string","touppercase","tolowercase","stream","collector","intstream","maptoobj","joining"]
 slug: java/stream/caracteres-en-mayusculas-y-minusculas-con-un-stream
-author: victor_cuervo
 type: doc
 topic: java
 id: c0d47453-6a55-4916-af8e-eadcf4f87249
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/stream/MayusculasMinusculasStream.java
 ---
 

@@ -5,10 +5,10 @@ date: 2009-03-12
 updatedDate: 2026-01-13
 tags: ["string","array","split","join","replace"]
 slug: javascript/cadenas/implementarnos-la-funcion-replace-de-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 2c8a9dfb-adca-81b9-bda2-e0e6537247db
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/cadenas/funcion-replace-javascript.html
 ---
 

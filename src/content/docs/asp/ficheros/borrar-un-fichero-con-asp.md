@@ -5,10 +5,10 @@ date: 2009-01-25
 updatedDate: 2026-01-10
 tags: ["fileexists","filesystemobject","deletefile","response","write","server","createobject"]
 slug: asp/ficheros/borrar-un-fichero-con-asp
-author: victor_cuervo
 type: doc
 topic: asp
 id: 7292fd81-67a6-4c60-972a-345899219596
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/ficheros/borrar-fichero.asp
 ---
 

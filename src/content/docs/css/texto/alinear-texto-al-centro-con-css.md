@@ -5,10 +5,10 @@ date: 2007-03-29
 updatedDate: 2026-01-07
 tags: ["text-align"]
 slug: css/texto/alinear-texto-al-centro-con-css
-author: Víctor Cuervo
 type: doc
 topic: css
 id: 8b80e023-6a1c-4f44-a841-f6a0d1013670
+author: Víctor Cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/alinear-texto-centro.html
 ---
 

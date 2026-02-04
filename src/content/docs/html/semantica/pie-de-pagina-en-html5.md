@@ -5,10 +5,10 @@ date: 2018-10-29
 updatedDate: 2026-01-05
 tags: ["footer","semantica"]
 slug: html/semantica/pie-de-pagina-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 7caec74b-5863-4e60-94b2-59431b5cfbb3
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/piepagina-documento.html
 ---
 

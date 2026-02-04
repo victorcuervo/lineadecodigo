@@ -5,10 +5,11 @@ date: 2007-11-02
 updatedDate: 2026-01-10
 tags: ["celebración"]
 slug: blog/un-ano-de-linea-de-codigo
-author: lineadecodigo
 type: blog
 topic: blog
 id: 2c8a9dfb-adca-810a-8927-fbb1e874d391
+authors:
+  - lineadecodigo
 ---
 
 Hoy ya cumplimos un añito. A estas mismas horas, hace un año, estábamos escribiendo la primera entrada del blog. La verdad es que no nos podemos quejar de la aceptación que ha tenido [lineadecodigo.com](http://lineadecodigo.com/).

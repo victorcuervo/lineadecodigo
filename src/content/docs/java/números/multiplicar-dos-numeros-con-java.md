@@ -5,10 +5,10 @@ date: 2008-12-30
 updatedDate: 2026-01-09
 tags: ["string","ioexception","inputstream","bufferedreader","integer"]
 slug: java/numeros/multiplicar-dos-numeros-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 7a09182d-86cc-49dd-86b7-eb461c64414b
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/MultiplicarNumerosTeclado.java
 ---
 

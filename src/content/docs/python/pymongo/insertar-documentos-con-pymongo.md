@@ -5,10 +5,10 @@ date: 2016-06-04
 updatedDate: 2026-01-17
 tags: ["mongodb","mongoclient","insert_one","insertoneresult","inserted_id"]
 slug: python/pymongo/insertar-documentos-con-pymongo
-author: victor_cuervo
 type: doc
 topic: python
 id: c38bad50-d3be-4f4c-88e2-69510231a6e9
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/pymongo/insert-pymongo.py
 ---
 

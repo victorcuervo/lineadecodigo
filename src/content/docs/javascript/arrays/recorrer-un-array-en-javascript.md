@@ -5,10 +5,10 @@ date: 2011-06-01
 updatedDate: 2026-01-05
 tags: ["array","bucles","for"]
 slug: javascript/arrays/recorrer-un-array-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: c8215c7c-bb4c-4ae3-aa39-b9413f684d7d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/recorrer-array.js
 ---
 

@@ -5,10 +5,10 @@ date: 2020-09-14
 updatedDate: 2026-01-09
 tags: ["array","subarray"]
 slug: java/arrays/subarray-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 67f9b782-ca16-4c0a-8ba5-299c906b58f1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/SubArray.java
 ---
 

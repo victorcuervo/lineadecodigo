@@ -5,10 +5,10 @@ date: 2007-03-28
 updatedDate: 2026-01-11
 tags: ["operadores","system"]
 slug: java/fechas/milisegundos-a-hora-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: ca9c7b5b-8c39-40fe-831c-74b7cfb20fa3
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/Milisegundos2Hora.java
 ---
 

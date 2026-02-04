@@ -5,10 +5,10 @@ date: 2007-12-09
 updatedDate: 2026-01-07
 tags: ["width","height","class","style","imagenes"]
 slug: css/imagenes/definir-el-tamano-de-una-imagen-con-css
-author: victor_cuervo
 type: doc
 topic: css
 id: 5a607c69-f5f2-456b-be95-53c4f6456cdd
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/imagenes/tamanio-imagen-con-css.html
 ---
 

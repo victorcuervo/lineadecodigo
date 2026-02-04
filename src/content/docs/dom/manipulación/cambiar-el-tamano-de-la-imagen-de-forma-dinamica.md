@@ -5,10 +5,10 @@ date: 2007-01-12
 updatedDate: 2026-01-12
 tags: ["img","height","width","onclick","getelementbyid"]
 slug: dom/manipulacion/cambiar-el-tamano-de-la-imagen-de-forma-dinamica
-author: victor_cuervo
 type: doc
 topic: dom
 id: c92fe123-6bcb-4831-85c2-ae88931a735f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/tree/master/dom/cambiar-tamanio-imagen
 ---
 

@@ -5,10 +5,11 @@ date: 2013-01-08
 updatedDate: 2026-01-07
 tags: ["resumen"]
 slug: blog/resumen-del-2012
-author: lineadecodigo
 type: blog
 topic: blog
 id: 2c8a9dfb-adca-81fc-8622-e756ab2537bd
+authors:
+  - lineadecodigo
 ---
 
 Creo que es un buen momento de echar la vista atrás. De ver qué hemos hecho en [Línea de Código](https://lineadecodigo.com/) en el 2012...

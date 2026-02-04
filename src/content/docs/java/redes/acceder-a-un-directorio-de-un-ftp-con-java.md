@@ -5,10 +5,10 @@ date: 2012-03-22
 updatedDate: 2026-01-09
 tags: ["java-net","ftpclient","connect","login","printworkingdirectory","changeworkingdirectory"]
 slug: java/redes/acceder-a-un-directorio-de-un-ftp-con-java
-author: Víctor Cuervo
 type: doc
 topic: java
 id: 4fb37dc0-4154-48ec-aa2d-feb4f9c070cf
+author: Víctor Cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/net/ftp/CambiarDirectorioFTP.java
 ---
 

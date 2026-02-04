@@ -5,10 +5,10 @@ date: 2021-10-15
 updatedDate: 2026-01-08
 tags: ["Java Básicos"]
 slug: java/bucles/factorial-de-un-numero-en-texto
-author: victor_cuervo
 type: doc
 topic: java
 id: bed9ad56-c97e-48ff-8a7f-94bc0702ada0
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/FactorialDeUnNumeroTexto.java
 ---
 

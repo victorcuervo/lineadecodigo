@@ -5,10 +5,10 @@ date: 2012-03-06
 updatedDate: 2026-01-18
 tags: ["textarea","spellcheck"]
 slug: html/formularios/activar-el-corrector-ortografico-con-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 5513dbc8-656b-46d6-8e38-816cf75db05d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/corrector-ortografico.html
 ---
 

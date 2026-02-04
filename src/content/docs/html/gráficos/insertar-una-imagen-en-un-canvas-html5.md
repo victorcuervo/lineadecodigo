@@ -5,10 +5,10 @@ date: 2012-09-06
 updatedDate: 2026-01-24
 tags: ["canvas","getcontext","image","drawimage"]
 slug: html/graficos/insertar-una-imagen-en-un-canvas-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 53e362c6-2913-4b54-898b-8d8ca8b13de3
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas/insertar-imagen-a-canvas.html
 ---
 

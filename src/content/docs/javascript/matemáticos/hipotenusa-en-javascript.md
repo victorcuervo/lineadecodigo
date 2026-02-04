@@ -5,10 +5,10 @@ date: 2015-06-19
 updatedDate: 2026-01-11
 tags: ["pow","sqrt","hypot","polyfill","arguments","math"]
 slug: javascript/matematicos/hipotenusa-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 45552bd6-6e27-4ed4-bf3a-988a1a269041
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/matematicas/formulas.js
 ---
 

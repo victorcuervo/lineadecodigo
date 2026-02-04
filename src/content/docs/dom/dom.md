@@ -5,10 +5,10 @@ date: 2026-01-12
 updatedDate: 2026-01-12
 tags: []
 slug: dom
-author: victor_cuervo
 type: category
 topic: dom
 id: 2e5a9dfb-adca-80ab-89d3-d4b5180d01c7
+author: victor_cuervo
 ---
 
 El **DOM** (Document Object Model) o **Modelo de Objetos del Documento** es una representación en forma de árbol de la estructura de una página web que permite a los desarrolladores interactuar y manipular dinámicamente el contenido, la estructura y los estilos mediante [Javascript](https://www.manualweb.net/javascript/).

@@ -5,10 +5,10 @@ date: 2010-01-05
 updatedDate: 2026-01-09
 tags: ["string","char","charat","println"]
 slug: java/strings/obtener-un-caracter-de-una-cadena-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 416d851a-e1b4-4930-b0af-fe49d8997bbc
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ObtenerCaracterCadena.java
 ---
 

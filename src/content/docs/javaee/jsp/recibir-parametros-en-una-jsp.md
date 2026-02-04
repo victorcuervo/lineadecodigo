@@ -5,10 +5,10 @@ date: 2006-12-27
 updatedDate: 2026-01-09
 tags: ["jsp","servlet","servletrequest","getparameter"]
 slug: javaee/jsp/recibir-parametros-en-una-jsp
-author: victor_cuervo
 type: doc
 topic: javaee
 id: 398f7434-0157-468f-8caa-8b4dffcb55fb
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/webapp/sumar-datos.jsp
 ---
 

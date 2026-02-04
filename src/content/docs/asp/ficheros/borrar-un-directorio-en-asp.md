@@ -5,10 +5,10 @@ date: 2007-02-07
 updatedDate: 2026-01-06
 tags: ["filesystemobject","response","write","server","createobject"]
 slug: asp/ficheros/borrar-un-directorio-en-asp
-author: victor_cuervo
 type: doc
 topic: asp
 id: 2c8a9dfb-adca-81f6-b4b5-fc619589090c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/ficheros/borrar-directorio.asp
 ---
 

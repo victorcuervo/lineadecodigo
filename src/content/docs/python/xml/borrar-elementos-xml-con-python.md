@@ -5,10 +5,10 @@ date: 2024-02-18
 updatedDate: 2026-01-05
 tags: ["elementtree","parse","getroot","write"]
 slug: python/xml/borrar-elementos-xml-con-python
-author: victor_cuervo
 type: doc
 topic: python
 id: ac5a0959-d880-4dd0-b0ef-a74f3e42d30f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/xml/borrar-elementos-xml.py
 ---
 

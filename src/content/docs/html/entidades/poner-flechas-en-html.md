@@ -5,10 +5,10 @@ date: 2007-07-05
 updatedDate: 2026-01-08
 tags: ["entidades","flechas"]
 slug: html/entidades/poner-flechas-en-html
-author: victor_cuervo
 type: doc
 topic: html
 id: 5af54f70-9053-4639-af0d-8bd3c0102033
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/flechas-como-entidades.html
 ---
 

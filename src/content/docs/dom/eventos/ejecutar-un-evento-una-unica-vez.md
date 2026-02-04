@@ -5,10 +5,10 @@ date: 2023-10-31
 updatedDate: 2026-01-13
 tags: ["eventtarget","addeventlistener","event","handleevent","target","click"]
 slug: dom/eventos/ejecutar-un-evento-una-unica-vez
-author: victor_cuervo
 type: doc
 topic: dom
 id: ff80284e-eb9c-4b52-9370-c3fe6e828e3c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_dom/blob/main/eventos/evento-una-sola-vez.html
 ---
 

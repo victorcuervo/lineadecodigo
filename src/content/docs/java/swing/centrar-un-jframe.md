@@ -5,10 +5,10 @@ date: 2010-09-25
 updatedDate: 2026-01-09
 tags: ["jframe","setlocationrelativeto","window"]
 slug: java/swing/centrar-un-jframe
-author: victor_cuervo
 type: doc
 topic: java
 id: 8e216054-1fcf-432f-90a9-d22aa3c67231
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/swing/CentrarJFrame.java
 ---
 

@@ -5,10 +5,10 @@ date: 2012-10-13
 updatedDate: 2026-01-11
 tags: ["random","jframe","actionlistener","actionevent","java-swing","jbutton","joptionpane","jtextfiled","jlabel"]
 slug: java/swing/un-juego-sencillo-con-java-swing
-author: Feffo
 type: doc
 topic: java
 id: b8de5c8d-6155-4ac2-b01a-68402d5dc1ce
+author: Feffo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/swing/JuegoBasico.java
 ---
 

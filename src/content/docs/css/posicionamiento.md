@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/posicionamiento
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-80f2-8668-e93655ab202f
+author: victor_cuervo
 ---
 
 # Posicionamiento en CSS: control absoluto de los elementos

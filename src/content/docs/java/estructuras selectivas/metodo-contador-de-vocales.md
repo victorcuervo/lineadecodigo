@@ -5,10 +5,10 @@ date: 2015-09-10
 updatedDate: 2026-01-11
 tags: ["array","bucles","for","switch","metodo","string","tolowercase","charat"]
 slug: java/estructuras-selectivas/metodo-contador-de-vocales
-author: victor_cuervo
 type: doc
 topic: java
 id: 39e3ac03-5ec5-4d0e-aea4-f72ab11f2a1c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/ContadorDeVocales.java
 ---
 

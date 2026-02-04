@@ -5,10 +5,10 @@ date: 2009-01-15
 updatedDate: 2026-01-19
 tags: ["sub","subindice"]
 slug: html/texto/subindice-en-html
-author: victor_cuervo
 type: doc
 topic: html
 id: 3a4f64f6-3ae6-4cd7-bbc6-2163a75fe67e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/subindice.html
 ---
 

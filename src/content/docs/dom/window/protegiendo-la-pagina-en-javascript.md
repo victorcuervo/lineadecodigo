@@ -5,10 +5,10 @@ date: 2006-12-04
 updatedDate: 2026-01-06
 tags: ["window","alert","prompt"]
 slug: dom/window/protegiendo-la-pagina-en-javascript
-author: victor_cuervo
 type: doc
 topic: dom
 id: 2f022d8a-bb53-496d-8aac-ada53a0fee84
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/pagina-con-pwd.html
 ---
 

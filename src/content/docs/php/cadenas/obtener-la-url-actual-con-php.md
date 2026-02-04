@@ -5,10 +5,10 @@ date: 2013-01-21
 updatedDate: 2026-01-08
 tags: ["php_self","request_uri","server","server_name","url"]
 slug: php/cadenas/obtener-la-url-actual-con-php
-author: Dave Rndn
 type: doc
 topic: php
 id: 279c026d-a81b-4e10-8f36-4cc99673b9e7
+author: Dave Rndn
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/url/obtener-url.php
 ---
 

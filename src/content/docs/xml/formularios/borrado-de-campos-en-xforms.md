@@ -5,10 +5,10 @@ date: 2007-11-25
 updatedDate: 2026-01-24
 tags: ["form","input","label","model","trigger"]
 slug: xml/formularios/borrado-de-campos-en-xforms
-author: victor_cuervo
 type: doc
 topic: xml
 id: 2c8a9dfb-adca-817e-9558-d9e47db641e0
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_xforms/blob/master/borrado-de-campos.xhtml
 ---
 

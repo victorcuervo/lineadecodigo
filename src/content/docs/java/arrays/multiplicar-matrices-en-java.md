@@ -5,10 +5,10 @@ date: 2015-07-24
 updatedDate: 2026-01-11
 tags: ["matriz","bucles","for","exception","length","array"]
 slug: java/arrays/multiplicar-matrices-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 6f4f99ca-1377-4552-b006-16cf31813c4c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MultiplicarMatriz.java
 ---
 

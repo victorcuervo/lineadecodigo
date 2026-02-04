@@ -5,10 +5,10 @@ date: 2021-02-22
 updatedDate: 2026-01-09
 tags: ["twitter4j","showstatus","getuser","gettext"]
 slug: java/twitter/informacion-de-un-tweet-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 2c8a9dfb-adca-816d-a11b-c6414fd7017f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/twitter/InformacionTweet.java
 ---
 

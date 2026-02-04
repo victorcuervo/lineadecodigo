@@ -5,10 +5,10 @@ date: 2008-01-02
 updatedDate: 2026-01-12
 tags: ["window","event","getelementbyid","onclick"]
 slug: dom/eventos/saber-que-evento-se-ha-producido
-author: victor_cuervo
 type: doc
 topic: dom
 id: ee5e4dae-67d9-447d-8c97-8b0c33002321
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/eventos/conocer-que-evento-se-ha-lanzado.html
 ---
 

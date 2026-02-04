@@ -5,10 +5,10 @@ date: 2006-12-05
 updatedDate: 2026-01-07
 tags: ["background","form","option","select","imagenes"]
 slug: html/formularios/combos-con-imagenes
-author: victor_cuervo
 type: doc
 topic: html
 id: c466e612-1802-44df-bf40-d5ecacd8322d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/tree/master/lineadecodigo_html/formularios/combos-con-imagenes
 ---
 

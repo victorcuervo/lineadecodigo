@@ -5,10 +5,10 @@ date: 2012-01-03
 updatedDate: 2026-01-13
 tags: ["script","video","modernizr","canvas","cssanimations"]
 slug: javascript/librerias/modernizr-y-las-capacidades-html5-y-css3
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 2c8a9dfb-adca-81fa-8afd-ccb0b48c442b
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/apis/modernizr/cargar-modernizr.html
 ---
 

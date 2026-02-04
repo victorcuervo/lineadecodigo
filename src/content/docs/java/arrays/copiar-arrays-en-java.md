@@ -5,10 +5,10 @@ date: 2007-06-19
 updatedDate: 2026-01-11
 tags: ["arraycopy","exception","indexoutofboundsexception","array","bucles","for","nullpointerexception"]
 slug: java/arrays/copiar-arrays-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 5fcb0da1-3841-4cbf-b72b-853434bb9739
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/CopiarArrays.java
 ---
 

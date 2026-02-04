@@ -5,10 +5,10 @@ date: 2012-10-07
 updatedDate: 2026-01-24
 tags: ["HTML5 Microdata"]
 slug: html/semantica/definiendo-una-persona-con-microdata-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 2c8a9dfb-adca-818e-aeff-ead574955a43
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Microdata/persona.html
 ---
 

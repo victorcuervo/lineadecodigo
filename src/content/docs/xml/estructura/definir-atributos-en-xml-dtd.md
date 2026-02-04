@@ -5,10 +5,10 @@ date: 2014-02-12
 updatedDate: 2026-01-24
 tags: ["atributo","dtd","elemento"]
 slug: xml/estructura/definir-atributos-en-xml-dtd
-author: xhrist14n
 type: doc
 topic: xml
 id: 7924a8e7-ac32-44a6-9b8b-9905769037cd
+author: xhrist14n
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/dtd/atributo.dtd
 ---
 

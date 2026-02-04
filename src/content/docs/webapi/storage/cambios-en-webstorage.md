@@ -5,10 +5,10 @@ date: 2023-09-20
 updatedDate: 2026-01-10
 tags: ["localstorage","addeventlistener","storageevent"]
 slug: webapi/storage/cambios-en-webstorage
-author: victor_cuervo
 type: doc
 topic: webapi
 id: dfac2d2f-6d39-4b3b-a9a7-4376766b662a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/tree/master/WebStorage/cambios-webstorage
 ---
 

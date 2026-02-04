@@ -5,10 +5,10 @@ date: 2017-09-04
 updatedDate: 2026-02-01
 tags: ["array","for-of","for-in"]
 slug: typescript/arrays/recorrer-un-array-con-for-of-en-typescript
-author: victor_cuervo
 type: doc
 topic: typescript
 id: a74d6f6f-292e-4caf-8eb0-42f2fe88ded9
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/array/recorrer-array.ts
 ---
 

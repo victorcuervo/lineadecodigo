@@ -5,10 +5,10 @@ date: 2024-01-30
 updatedDate: 2026-01-05
 tags: ["elementtree","element","subelement","write"]
 slug: python/xml/crear-un-fichero-xml-con-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 4abedc09-165f-4618-8148-00f2513b8c7e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/xml/crear-xml.py
 ---
 

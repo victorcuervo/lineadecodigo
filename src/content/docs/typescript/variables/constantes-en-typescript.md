@@ -5,10 +5,10 @@ date: 2017-09-10
 updatedDate: 2026-02-01
 tags: ["const"]
 slug: typescript/variables/constantes-en-typescript
-author: victor_cuervo
 type: doc
 topic: typescript
 id: e027d866-6c71-4c99-a022-2fdf2b1e99be
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/basicos/constantes.ts
 ---
 

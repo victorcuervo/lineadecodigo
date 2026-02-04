@@ -5,10 +5,10 @@ date: 2015-08-08
 updatedDate: 2026-02-02
 tags: ["dl","dt","dd","class","dl-horizontal"]
 slug: bootstrap/listas/listas-de-definicion-horizontales-en-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: 2c8a9dfb-adca-8136-a8c6-e51ef25d1b4e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/listas/listas-definicion-horizontales.html
 ---
 

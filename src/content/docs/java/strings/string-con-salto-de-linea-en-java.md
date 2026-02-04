@@ -5,10 +5,10 @@ date: 2006-12-20
 updatedDate: 2026-01-09
 tags: ["string"]
 slug: java/strings/string-con-salto-de-linea-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 7139f411-fc13-43b2-af10-e9414ef489eb
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/SaltoDeLinea.java
 ---
 

@@ -5,10 +5,10 @@ date: 2013-03-04
 updatedDate: 2026-01-24
 tags: ["comentarios"]
 slug: xml/basicos/crear-comentarios-xml
-author: victor_cuervo
 type: doc
 topic: xml
 id: 074af143-8749-4842-92c6-527b21304ca7
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xml/basicos/comentarios.xml
 ---
 

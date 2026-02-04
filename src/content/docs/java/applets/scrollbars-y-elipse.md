@@ -5,10 +5,10 @@ date: 2008-01-23
 updatedDate: 2026-01-11
 tags: ["applet","awt","graphics","paint","init","ellipse","mousemotionlistener","adjustmentevent","adjustmentlistener","keylistener","mouselistener"]
 slug: java/applets/scrollbars-y-elipse
-author: victor_cuervo
 type: doc
 topic: java
 id: 696256b4-aa9b-4bd4-8fde-51f11742904a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/applet/ScrollbarElipse.java
 ---
 

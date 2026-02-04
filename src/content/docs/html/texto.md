@@ -5,10 +5,10 @@ date: 2026-01-18
 updatedDate: 2026-01-18
 tags: []
 slug: html/texto
-author: victor_cuervo
 type: doc
 topic: html
 id: 2eca9dfb-adca-80a5-84f7-d2cf790c3b5e
+author: victor_cuervo
 ---
 
 # Texto

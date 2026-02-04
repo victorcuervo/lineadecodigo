@@ -5,10 +5,10 @@ date: 2013-02-04
 updatedDate: 2026-01-09
 tags: ["hashmap","java-collection","password","string","java-util","exception","bases-de-datos","clase","java-security","encriptacion","digest","messagedigest"]
 slug: java/seguridad/criptografia-algoritmos-de-digestion-de-mensajes
-author: Feffo
 type: doc
 topic: java
 id: 61973911-cb0d-4b25-b57e-c8e49d9a4937
+author: Feffo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/crypto/Digestion.java
 ---
 

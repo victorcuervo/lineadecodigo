@@ -5,10 +5,10 @@ date: 2014-11-14
 updatedDate: 2026-01-10
 tags: ["java-collection","arraylist","size"]
 slug: java/colecciones/numero-de-elementos-en-un-arraylist
-author: victor_cuervo
 type: doc
 topic: java
 id: 186a7373-7df3-4471-8166-f53f2b6f4799
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/TamanioLista.java
 ---
 

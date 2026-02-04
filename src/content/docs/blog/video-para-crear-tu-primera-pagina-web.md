@@ -5,10 +5,11 @@ date: 2013-12-22
 updatedDate: 2026-01-20
 tags: ["video"]
 slug: blog/video-para-crear-tu-primera-pagina-web
-author: lineadecodigo
 type: blog
 topic: blog
 id: 2c8a9dfb-adca-819d-bdcf-df92e2cde726
+authors:
+  - lineadecodigo
 ---
 
 En este vídeo tutorial vamos a ver cómo puedes crear tu primera página web con el lenguaje [HTML](https://www.manualweb.net/html/).

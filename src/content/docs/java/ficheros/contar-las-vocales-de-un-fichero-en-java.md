@@ -5,10 +5,10 @@ date: 2013-01-15
 updatedDate: 2026-01-10
 tags: ["java-io","bufferedreader","file","filereader","system","garbage-collector"]
 slug: java/ficheros/contar-las-vocales-de-un-fichero-en-java
-author: xhrist14n
 type: doc
 topic: java
 id: 07ab4f13-f676-4b71-83ca-b54dad1c1c1a
+author: xhrist14n
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/io/ContarVocalesFichero.java
 ---
 

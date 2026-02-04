@@ -5,10 +5,10 @@ date: 2008-03-04
 updatedDate: 2026-01-08
 tags: ["applet","awt","graphics","paint","init","showstatus","eventos","mouseevent","mousemotionadapter","mousemotionlistener"]
 slug: java/applets/controlar-las-coordenadas-del-raton-en-un-applet
-author: victor_cuervo
 type: doc
 topic: java
 id: 2c8a9dfb-adca-8154-b550-cc6e67514809
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/applet/CoordenadasRaton.java
 ---
 

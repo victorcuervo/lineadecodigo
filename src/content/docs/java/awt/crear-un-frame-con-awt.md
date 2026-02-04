@@ -5,10 +5,10 @@ date: 2007-06-30
 updatedDate: 2026-01-11
 tags: ["frame","awt","setsize","setvisible"]
 slug: java/awt/crear-un-frame-con-awt
-author: victor_cuervo
 type: doc
 topic: java
 id: eb15155d-10ba-49c8-843b-970c50799fa4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/awt/MiFrame.java
 ---
 

@@ -5,10 +5,10 @@ date: 2015-07-29
 updatedDate: 2026-02-02
 tags: ["h1","h2","h3","h4","h5","h6"]
 slug: bootstrap/texto/encabezados-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: c041b872-f9e9-440c-9491-8a241db0bee6
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/encabezado.html
 ---
 

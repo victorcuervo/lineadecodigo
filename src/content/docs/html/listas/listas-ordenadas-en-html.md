@@ -5,10 +5,10 @@ date: 2013-12-15
 updatedDate: 2026-01-21
 tags: ["ol","li"]
 slug: html/listas/listas-ordenadas-en-html
-author: victor_cuervo
 type: doc
 topic: html
 id: 2c8a9dfb-adca-81cc-95e7-e147b929f156
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/listas/lista-ordenada.html
 ---
 

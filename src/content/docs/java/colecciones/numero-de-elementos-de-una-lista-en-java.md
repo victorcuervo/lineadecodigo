@@ -5,10 +5,10 @@ date: 2007-01-28
 updatedDate: 2026-01-09
 tags: ["java-collection","arraylist","list","size"]
 slug: java/colecciones/numero-de-elementos-de-una-lista-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 83a6cd46-8d5d-42e6-98d7-1a4a08d1f82e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/NumeroElementosLista.java
 ---
 

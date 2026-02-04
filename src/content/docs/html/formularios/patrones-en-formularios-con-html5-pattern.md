@@ -5,10 +5,10 @@ date: 2013-03-03
 updatedDate: 2026-01-19
 tags: ["input","required","form","pattern"]
 slug: html/formularios/patrones-en-formularios-con-html5-pattern
-author: victor_cuervo
 type: doc
 topic: html
 id: e04fb9c5-04b0-4fce-8bbb-2059b2c0eced
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/campo-con-patron.html
 ---
 

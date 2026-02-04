@@ -5,10 +5,10 @@ date: 2007-12-26
 updatedDate: 2026-01-07
 tags: ["circulo","fill","radio","style","circle"]
 slug: svg/figuras/dibujar-un-circulo-en-svg
-author: victor_cuervo
 type: doc
 topic: svg
 id: 2c8a9dfb-adca-81d6-8630-ced2ee1bdab5
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/figuras/dibujando-un-circulo.svg
 ---
 

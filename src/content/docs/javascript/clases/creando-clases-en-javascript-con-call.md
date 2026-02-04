@@ -5,10 +5,10 @@ date: 2010-12-14
 updatedDate: 2026-01-13
 tags: ["class","new","call","clase","objeto"]
 slug: javascript/clases/creando-clases-en-javascript-con-call
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 2c8a9dfb-adca-8159-8fe4-d1865cd07c0d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/multiples-constructores-call.js
 ---
 

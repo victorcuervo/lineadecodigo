@@ -5,10 +5,10 @@ date: 2013-08-02
 updatedDate: 2026-01-08
 tags: ["hashmap","java-collection","put","keys","keyset","clave-valor"]
 slug: java/colecciones/usar-una-hashtable-java
-author: Francisco Meza
 type: doc
 topic: java
 id: 298596fc-dac7-48dd-a0e1-0c07393abda2
+author: Francisco Meza
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/UsarHashMap.java
 ---
 

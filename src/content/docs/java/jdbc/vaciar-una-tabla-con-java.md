@@ -5,10 +5,10 @@ date: 2016-10-24
 updatedDate: 2026-01-11
 tags: ["preparedstatement","delete","where","truncate","sqlexception"]
 slug: java/jdbc/vaciar-una-tabla-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: b9b6ace2-c1b6-4b3e-a2a4-9bb87112342c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/VaciarTabla.java
 ---
 

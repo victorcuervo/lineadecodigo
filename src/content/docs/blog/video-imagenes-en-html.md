@@ -5,10 +5,11 @@ date: 2015-08-18
 updatedDate: 2026-01-20
 tags: ["video"]
 slug: blog/video-imagenes-en-html
-author: lineadecodigo
 type: blog
 topic: blog
 id: 3bb8f946-f7c5-422f-b8b6-3f57e70eccfa
+authors:
+  - lineadecodigo
 ---
 
 Vamos a empezar una **nueva serie de vídeos dentro de** [**Línea de Código**](http://lineadecodigo.com/) Estos nuevos vídeos serán _más naturales, directos, didácticos_ e intentarán transmitir de una _forma más personal_ los diferentes temas de programación. 

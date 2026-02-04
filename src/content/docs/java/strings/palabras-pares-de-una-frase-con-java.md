@@ -5,10 +5,10 @@ date: 2019-10-13
 updatedDate: 2026-01-11
 tags: ["stringtokenizer","pares","nextelement","string","hasmoreelements","nexttoken","hasmoretokens"]
 slug: java/strings/palabras-pares-de-una-frase-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 542eeade-c910-4c74-ad20-54652316cc82
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/PalabrasParesFrase.java
 ---
 

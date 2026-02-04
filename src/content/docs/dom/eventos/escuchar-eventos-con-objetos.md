@@ -5,10 +5,10 @@ date: 2024-01-21
 updatedDate: 2026-01-13
 tags: ["eventtarget","addeventlistener","event","handleevent","type","eventmanager"]
 slug: dom/eventos/escuchar-eventos-con-objetos
-author: victor_cuervo
 type: doc
 topic: dom
 id: e4ca05dc-aee9-4db3-8e1f-492e36166319
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_dom/blob/main/eventos/escuchar-evento-objeto.html
 ---
 

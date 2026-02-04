@@ -5,10 +5,10 @@ date: 2021-02-03
 updatedDate: 2026-01-13
 tags: ["bucle","foreach","array"]
 slug: javascript/bucles/bucle-foreach-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 4692c64e-ef06-4b39-a1b3-0bc7c53e39ed
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/foreach.js
 ---
 

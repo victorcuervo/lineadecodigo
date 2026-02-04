@@ -5,10 +5,10 @@ date: 2006-11-07
 updatedDate: 2026-01-05
 tags: ["document","write","script"]
 slug: javascript/basicos/hola-mundo-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: ab497e90-9501-4bca-8daf-399d7b16d0a6
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/hola-mundo-javascript.html
 ---
 

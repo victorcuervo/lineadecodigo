@@ -5,10 +5,10 @@ date: 2017-09-27
 updatedDate: 2026-01-12
 tags: ["objeto","unpacking","array"]
 slug: javascript/clases/unpacking-de-objetos-anidados-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 42ac5262-f9ec-4245-bf69-a83c0b86f8f8
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/unpacking-objetos-anidados.js
 ---
 

@@ -5,10 +5,10 @@ date: 2016-01-16
 updatedDate: 2026-01-17
 tags: ["hola-mundo","install","route"]
 slug: python/basicos/hola-mundo-con-python-flask
-author: victor_cuervo
 type: doc
 topic: python
 id: e853f8d3-00d0-47d3-96ab-f9538535fa03
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/holamundo.py
 ---
 

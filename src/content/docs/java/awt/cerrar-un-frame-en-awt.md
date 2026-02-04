@@ -5,10 +5,10 @@ date: 2007-12-16
 updatedDate: 2026-01-11
 tags: ["eventos","frame","awt","window","windowadapter","windowevent"]
 slug: java/awt/cerrar-un-frame-en-awt
-author: victor_cuervo
 type: doc
 topic: java
 id: b6fe6ac1-ba02-45b4-bccc-a7f4d8305559
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/awt/CerrarUnFrame.java
 ---
 

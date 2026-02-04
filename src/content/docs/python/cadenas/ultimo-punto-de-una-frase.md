@@ -5,10 +5,10 @@ date: 2023-10-17
 updatedDate: 2026-01-11
 tags: ["rfind","cadena"]
 slug: python/cadenas/ultimo-punto-de-una-frase
-author: victor_cuervo
 type: doc
 topic: python
 id: ca13bc06-c6e1-471d-9d3c-fcb3a7ade7c3
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/ultimo-punto-frase.py
 ---
 

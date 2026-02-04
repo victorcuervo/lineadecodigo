@@ -5,10 +5,10 @@ date: 2007-12-10
 updatedDate: 2026-01-08
 tags: ["string","touppercase","println"]
 slug: java/strings/convertir-una-cadena-a-mayusculas-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: f482c6c4-7560-4b9d-b759-7714f1879d2b
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ConvertirAMayusculas.java
 ---
 

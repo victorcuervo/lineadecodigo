@@ -5,10 +5,10 @@ date: 2007-10-31
 updatedDate: 2026-01-13
 tags: ["getelementbyid","window","settimeout","setinterval"]
 slug: javascript/navegador/ejecutar-cada-x-segundos-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 35753a75-0187-4d98-b8ec-638479ad4f24
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/timers/ejecutar-metodo-cada-x-segundos.html
 ---
 

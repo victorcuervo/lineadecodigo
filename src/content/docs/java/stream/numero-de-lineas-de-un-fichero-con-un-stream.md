@@ -5,10 +5,10 @@ date: 2015-09-13
 updatedDate: 2026-01-11
 tags: ["bufferedreader","filereader","stream","file","fichero","count","java-io","java-util","ioexception","filenotfoundexception"]
 slug: java/stream/numero-de-lineas-de-un-fichero-con-un-stream
-author: victor_cuervo
 type: doc
 topic: java
 id: 4bb92889-e946-41fd-afa0-7dbb58eb8798
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/NumeroDeFilasStream.java
 ---
 

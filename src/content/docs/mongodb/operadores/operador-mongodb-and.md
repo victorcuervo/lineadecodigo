@@ -5,10 +5,10 @@ date: 2014-02-03
 updatedDate: 2026-01-28
 tags: ["find","and"]
 slug: mongodb/operadores/operador-mongodb-and
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: b74a7a50-8482-4369-bfd9-e28d5eaac4ec
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/and.js
 ---
 

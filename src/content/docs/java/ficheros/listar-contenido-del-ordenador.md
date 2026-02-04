@@ -5,10 +5,10 @@ date: 2011-09-19
 updatedDate: 2026-01-08
 tags: ["java-io","file"]
 slug: java/ficheros/listar-contenido-del-ordenador
-author: victor_cuervo
 type: doc
 topic: java
 id: 2c8a9dfb-adca-8106-af1f-ebda5010051a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/ListarContenidoOrdenador.java
 ---
 

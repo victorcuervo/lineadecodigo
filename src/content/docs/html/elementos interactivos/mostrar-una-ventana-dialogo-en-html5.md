@@ -5,10 +5,10 @@ date: 2024-01-15
 updatedDate: 2026-01-06
 tags: ["dialog","HTML5 Básicos"]
 slug: html/elementos-interactivos/mostrar-una-ventana-dialogo-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: d5700bc9-a1df-4a98-a513-5bdb9bfb51f5
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/ventana-dialogo.html
 ---
 

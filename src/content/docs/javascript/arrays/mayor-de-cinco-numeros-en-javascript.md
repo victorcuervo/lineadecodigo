@@ -5,10 +5,10 @@ date: 2017-07-02
 updatedDate: 2026-01-11
 tags: ["array","for","if","console-log","numeros","mayor","bucles"]
 slug: javascript/arrays/mayor-de-cinco-numeros-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 5fcbcde4-0499-4736-9b78-f2b69cfe4285
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/mayor-cinco-numeros.js
 ---
 

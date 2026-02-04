@@ -5,10 +5,10 @@ date: 2015-11-22
 updatedDate: 2026-01-15
 tags: ["recursividad","listas","for-in","isinstance"]
 slug: python/listas/iterar-una-lista-de-forma-recursiva-con-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 30c78282-3f40-4be0-9196-eea9434b8b93
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/lista_recursiva.py
 ---
 

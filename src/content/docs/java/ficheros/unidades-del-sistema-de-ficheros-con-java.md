@@ -5,10 +5,10 @@ date: 2011-09-15
 updatedDate: 2026-01-09
 tags: ["file","array","for","println","java-io","bucles"]
 slug: java/ficheros/unidades-del-sistema-de-ficheros-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 2c8a9dfb-adca-81d2-bb72-ce5acc200c9a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/UnidadesSistemaFicheros.java
 ---
 

@@ -5,10 +5,10 @@ date: 2007-01-27
 updatedDate: 2026-01-09
 tags: ["java-collection","arraylist","iterator"]
 slug: java/colecciones/listar-una-lista-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: b312195c-03f6-4d50-a8a3-252d8281368f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/ListarLista.java
 ---
 

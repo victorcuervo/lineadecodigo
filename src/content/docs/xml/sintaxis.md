@@ -5,10 +5,10 @@ date: 2026-01-24
 updatedDate: 2026-01-24
 tags: []
 slug: xml/sintaxis
-author: victor_cuervo
 type: category
 topic: xml
 id: 2f2a9dfb-adca-802a-ac66-cf1069b2d21a
+author: victor_cuervo
 ---
 
 Un documento XML está compuesto por elementos delimitados por etiquetas de apertura y cierre. Estos elementos pueden contener texto, atributos u otros elementos, formando una estructura jerárquica en forma de árbol.

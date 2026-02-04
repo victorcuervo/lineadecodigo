@@ -5,10 +5,10 @@ date: 2007-02-04
 updatedDate: 2026-01-07
 tags: ["form","input","script","type","disable"]
 slug: prototype/formularios/deshabilitar-formulario-con-prototype
-author: victor_cuervo
 type: doc
 topic: prototype
 id: 2c8a9dfb-adca-814f-b424-eccb09abf39e
+author: victor_cuervo
 ---
 
 [Prototype](http://lineadecodigo.com/categoria/prototype/) es un FrameWork JavaScript que nos permite crear aplicaciones que usen JavaScript y el DOM de las páginas web de una forma muy sencilla. Una de las utilidades que nos ofrece es el objeto Form, mediante el cual podemos manipular el comportamiento de los formularios. Por ejemplo dehabilitar y habilitar el formulario.

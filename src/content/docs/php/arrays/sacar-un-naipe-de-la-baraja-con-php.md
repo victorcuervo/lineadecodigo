@@ -5,10 +5,10 @@ date: 2010-10-24
 updatedDate: 2026-01-07
 tags: ["array","naipe","array_rand"]
 slug: php/arrays/sacar-un-naipe-de-la-baraja-con-php
-author: Jose Sevilla
 type: doc
 topic: php
 id: 18e242b4-09e8-4ebe-a131-7cc651b8d08b
+author: Jose Sevilla
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/sacarnaipe.php
 ---
 

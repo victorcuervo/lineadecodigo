@@ -5,10 +5,10 @@ date: 2012-05-04
 updatedDate: 2026-01-08
 tags: ["java-io","file","isHidden"]
 slug: java/ficheros/listar-ficheros-ocultos-de-un-directorio-con-java
-author: Víctor Cuervo
 type: doc
 topic: java
 id: 2c8a9dfb-adca-8150-b3dd-e0a16dca83e6
+author: Víctor Cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/ListarFicherosOcultos.java
 ---
 

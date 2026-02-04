@@ -5,10 +5,10 @@ date: 2015-08-13
 updatedDate: 2026-01-05
 tags: ["factorial","bucles"]
 slug: javascript/bucles/factorial-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 887ccba4-6d6a-47ef-8204-fd8b985a4898
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/matematicas/factorial.js
 ---
 

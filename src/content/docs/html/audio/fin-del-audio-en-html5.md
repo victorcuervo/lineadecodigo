@@ -5,10 +5,10 @@ date: 2016-10-17
 updatedDate: 2026-01-21
 tags: ["audio","controls","ended"]
 slug: html/audio/fin-del-audio-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 0f1581b9-5ee0-461c-b7bd-ec73840330d6
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Audio/fin-musica.html
 ---
 

@@ -5,10 +5,10 @@ date: 2024-02-12
 updatedDate: 2026-01-05
 tags: ["open","for","print","os","exists","with","iobase","textiobase","rawiobase"]
 slug: python/ficheros/leer-ficheros-con-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 5cea5d16-6144-451a-aa19-9f2a90406acf
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/leer-fichero.py
 ---
 

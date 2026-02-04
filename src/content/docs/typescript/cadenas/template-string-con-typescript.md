@@ -5,10 +5,10 @@ date: 2017-09-02
 updatedDate: 2026-02-01
 tags: ["string","let","template"]
 slug: typescript/cadenas/template-string-con-typescript
-author: victor_cuervo
 type: doc
 topic: typescript
 id: 0d0a9ffb-f706-4fdc-93b5-5475075f0f45
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/basicos/template-string.ts
 ---
 

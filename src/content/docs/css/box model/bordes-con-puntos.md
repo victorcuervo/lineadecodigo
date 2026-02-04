@@ -5,10 +5,10 @@ date: 2008-03-31
 updatedDate: 2026-01-17
 tags: ["border-style","dotted"]
 slug: css/box-model/bordes-con-puntos
-author: victor_cuervo
 type: doc
 topic: css
 id: 5f9a8591-cb28-4fa7-9059-2c2153ea6441
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/bordes/borde-con-puntos.html
 ---
 

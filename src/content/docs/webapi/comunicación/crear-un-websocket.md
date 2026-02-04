@@ -5,10 +5,10 @@ date: 2010-12-20
 updatedDate: 2026-01-21
 tags: ["websocket","ws","open","send","close"]
 slug: webapi/comunicacion/crear-un-websocket
-author: victor_cuervo
 type: doc
 topic: webapi
 id: ade5b03a-b549-49e6-a827-591beedad121
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/WebSocket/crear-websocket/crear-websocket.html
 ---
 

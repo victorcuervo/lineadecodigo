@@ -5,10 +5,11 @@ date: 2013-08-30
 updatedDate: 2026-01-07
 tags: ["noticias-web"]
 slug: blog/las-10-bases-de-datos-mas-populares
-author: Edgar Ramirez
 type: blog
 topic: blog
 id: 2c8a9dfb-adca-81dd-a8ec-c29a38d74f94
+authors:
+  - Edgar Ramirez
 ---
 
 Hace un par de semanas publiqué en mi Blog una entrada sobre las diez bases de datos más populares. Este ranking que a continuación muestro me ha parecido sumamente interesante pues nos da una idea sobre que bases son más mencionadas en internet: 

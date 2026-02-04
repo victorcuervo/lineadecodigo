@@ -5,10 +5,10 @@ date: 2025-01-16
 updatedDate: 2026-01-07
 tags: ["PHP Clases"]
 slug: php/clases/clase-anonima-en-php
-author: victor_cuervo
 type: doc
 topic: php
 id: 1012420b-355d-4f0e-bbe3-a3f8a80e032e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/objetos/clase-anonima.php
 ---
 

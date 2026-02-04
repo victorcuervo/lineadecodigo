@@ -5,10 +5,10 @@ date: 2013-11-14
 updatedDate: 2026-01-28
 tags: ["find","ne"]
 slug: mongodb/consultas/mongodb-not-equal
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: e4fb7aa4-afd5-4eb8-b5ef-07f3704e67b0
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/notequal.js
 ---
 

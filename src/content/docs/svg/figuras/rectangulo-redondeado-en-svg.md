@@ -5,10 +5,10 @@ date: 2007-12-24
 updatedDate: 2026-01-08
 tags: ["circulo","rect","rectangulo","triangulo"]
 slug: svg/figuras/rectangulo-redondeado-en-svg
-author: victor_cuervo
 type: doc
 topic: svg
 id: aac31514-9cf9-4867-a8ef-c677a4b0186c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/figuras/rectangulo-esquinas-redondeadas.svg
 ---
 

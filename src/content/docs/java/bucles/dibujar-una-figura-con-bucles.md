@@ -5,10 +5,10 @@ date: 2009-04-23
 updatedDate: 2026-01-08
 tags: ["bucles","while","figura"]
 slug: java/bucles/dibujar-una-figura-con-bucles
-author: victor_cuervo
 type: doc
 topic: java
 id: be1ba878-e88b-496b-8dbb-d6f7eba148f4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/DibujandoUnaFigura_2.java
 ---
 

@@ -5,10 +5,10 @@ date: 2009-09-05
 updatedDate: 2026-01-24
 tags: ["xslt","xsl:template","xsl:value-of","xml","xsl:for-each","table","td"]
 slug: xml/transformacion/crear-una-tabla-a-partir-de-datos-xml
-author: victor_cuervo
 type: doc
 topic: xml
 id: 43306174-d8c1-49b3-a519-8ee0f6c7c83c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_xml/blob/master/xslt/crear-una-tabla/
 ---
 

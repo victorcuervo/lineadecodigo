@@ -5,10 +5,10 @@ date: 2012-07-14
 updatedDate: 2026-01-09
 tags: ["java-net","try-catch","exception","connect","socket"]
 slug: java/redes/comprobar-conexion-a-internet-con-java
-author: Christian Giménez
 type: doc
 topic: java
 id: 3fa1ad5d-0974-496f-a64c-60e9b6faf6ba
+author: Christian Giménez
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/net/ComprobarConexion.java
 ---
 

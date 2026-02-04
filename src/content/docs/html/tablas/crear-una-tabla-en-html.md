@@ -5,10 +5,10 @@ date: 2012-05-22
 updatedDate: 2026-01-21
 tags: ["table","td","tr"]
 slug: html/tablas/crear-una-tabla-en-html
-author: victor_cuervo
 type: doc
 topic: html
 id: 32a8ea1f-7bc3-41f0-b4c1-2e5938cdcef1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/tabla-en-html.html
 ---
 

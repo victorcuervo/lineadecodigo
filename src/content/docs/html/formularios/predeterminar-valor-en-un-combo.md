@@ -5,10 +5,10 @@ date: 2006-11-16
 updatedDate: 2026-01-06
 tags: ["form","select","option"]
 slug: html/formularios/predeterminar-valor-en-un-combo
-author: victor_cuervo
 type: doc
 topic: html
 id: 27f093a6-89cc-4c91-9344-18c030885df1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/formularios/predeterminar-valor-de-un-combo.html
 ---
 

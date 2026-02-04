@@ -5,10 +5,10 @@ date: 2021-12-06
 updatedDate: 2026-01-19
 tags: ["atributo","translate","p"]
 slug: html/documento/texto-no-traducible-con-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 13a2e973-ff76-4d92-8b2c-28a0dbbfb279
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/P%C3%A1gina/marcar-para-no-traducir.html
 ---
 

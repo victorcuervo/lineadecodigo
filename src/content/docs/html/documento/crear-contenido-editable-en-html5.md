@@ -5,10 +5,10 @@ date: 2012-02-28
 updatedDate: 2026-01-21
 tags: ["contenteditable","div"]
 slug: html/documento/crear-contenido-editable-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 163d4411-bad1-47db-aab7-cf1cb9cf8d43
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/contenido-editable.html
 ---
 

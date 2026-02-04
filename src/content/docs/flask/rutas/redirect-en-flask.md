@@ -5,10 +5,10 @@ date: 2016-03-27
 updatedDate: 2026-01-17
 tags: ["route","url_for","redirect"]
 slug: flask/rutas/redirect-en-flask
-author: victor_cuervo
 type: doc
 topic: flask
 id: e84470f9-0991-4da2-a64b-8d372bc8a8ea
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/redirect.py
 ---
 

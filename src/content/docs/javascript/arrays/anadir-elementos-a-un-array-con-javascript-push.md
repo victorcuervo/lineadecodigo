@@ -5,10 +5,10 @@ date: 2013-05-19
 updatedDate: 2026-01-12
 tags: ["array","push","bucles","for"]
 slug: javascript/arrays/anadir-elementos-a-un-array-con-javascript-push
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 7d52c423-72be-4722-8289-c63caa72d4d1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/array-push.js
 ---
 

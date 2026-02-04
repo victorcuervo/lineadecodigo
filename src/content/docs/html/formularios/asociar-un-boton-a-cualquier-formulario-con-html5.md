@@ -5,10 +5,10 @@ date: 2022-05-22
 updatedDate: 2026-01-23
 tags: ["button","form","formaction","formmethod"]
 slug: html/formularios/asociar-un-boton-a-cualquier-formulario-con-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 8d80fa23-1c4f-437f-bd24-24e3e6cd7dc8
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/asociar-boton-formulario.html
 ---
 

@@ -5,10 +5,10 @@ date: 2012-09-16
 updatedDate: 2026-01-11
 tags: ["file","fichero","close","java-io","lock","randomaccessfile","filechannel","filelock"]
 slug: java/ficheros/bloquear-un-fichero-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: c7ae1753-a4e1-49d1-ba46-10359fb51e2d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/BloquearFichero.java
 ---
 

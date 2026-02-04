@@ -5,10 +5,10 @@ date: 2019-10-14
 updatedDate: 2026-01-09
 tags: ["twitter","maven","api","properties","twitter4j","oauth","twitterfactory","verifycredentials"]
 slug: java/twitter/conectarse-a-twitter-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 4ccca489-7bba-4628-a422-afadec9f1f92
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/twitter/ConectarTwitter.java
 ---
 

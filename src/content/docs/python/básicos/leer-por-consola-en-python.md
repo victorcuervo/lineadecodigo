@@ -5,10 +5,10 @@ date: 2021-10-20
 updatedDate: 2026-01-15
 tags: ["print","input","int"]
 slug: python/basicos/leer-por-consola-en-python
-author: victor_cuervo
 type: doc
 topic: python
 id: cd83f127-903b-4914-b297-b8ec089886ad
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/leerconsola.py
 ---
 

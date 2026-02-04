@@ -5,10 +5,10 @@ date: 2016-10-04
 updatedDate: 2026-01-24
 tags: ["source","audio","type"]
 slug: html/audio/formatos-audio-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 66ae8035-d433-474c-9a7f-38785784fdda
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Audio/formatos-audio-html5.html
 ---
 

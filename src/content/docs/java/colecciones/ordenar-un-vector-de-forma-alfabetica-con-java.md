@@ -5,10 +5,10 @@ date: 2009-03-25
 updatedDate: 2026-01-10
 tags: ["java-collection","vector","comparable","string","java-util","comparator"]
 slug: java/colecciones/ordenar-un-vector-de-forma-alfabetica-con-java
-author: Víctor Cuervo
 type: doc
 topic: java
 id: 10396393-e605-4bb0-976a-0bf1763343e5
+author: Víctor Cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/OrdenarVectorAlfabeticamente.java
 ---
 

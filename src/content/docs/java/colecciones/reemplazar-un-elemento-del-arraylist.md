@@ -5,10 +5,10 @@ date: 2014-11-18
 updatedDate: 2026-01-11
 tags: ["Java Collection","Java Collection ArrayList","arraylist","iterator"]
 slug: java/colecciones/reemplazar-un-elemento-del-arraylist
-author: victor_cuervo
 type: doc
 topic: java
 id: 36e9f955-400e-4d0b-a69e-a11d5dc10cb7
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/ReemplazarElementoLista.java
 ---
 

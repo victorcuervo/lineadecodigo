@@ -5,10 +5,10 @@ date: 2013-10-17
 updatedDate: 2026-02-02
 tags: ["class","text-muted","text-primary","text-success","text-info","text-warning","text-danger"]
 slug: bootstrap/texto/texto-en-enfasis-con-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: 24e48532-09b7-406b-b68c-eea9c2152ed5
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/texto-en-enfasis.html
 ---
 

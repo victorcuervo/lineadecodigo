@@ -5,10 +5,10 @@ date: 2023-10-03
 updatedDate: 2026-01-05
 tags: ["template","createelement","queryselector","queryselectorall","clonenode","appendchild"]
 slug: html/semantica/crear-una-plantilla-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: eff9f1c3-bc91-47bf-8848-77063a5c521f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/template-html5.html
 ---
 

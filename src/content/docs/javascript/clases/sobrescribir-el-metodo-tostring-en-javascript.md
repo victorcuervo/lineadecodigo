@@ -5,10 +5,10 @@ date: 2010-09-29
 updatedDate: 2026-01-13
 tags: ["objetos","tostring","prototype"]
 slug: javascript/clases/sobrescribir-el-metodo-tostring-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 8dbce1bc-2bc4-4a76-b030-1d4b86915668
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/objeto-con-tostring.js
 ---
 

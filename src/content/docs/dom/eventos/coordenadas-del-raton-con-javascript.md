@@ -5,10 +5,10 @@ date: 2008-02-10
 updatedDate: 2026-01-12
 tags: ["getelementbyid","form","event","clientx","clienty"]
 slug: dom/eventos/coordenadas-del-raton-con-javascript
-author: victor_cuervo
 type: doc
 topic: dom
 id: 457122cf-7c1b-464e-8f06-123fa31e9bc6
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/raton/coordenadas-raton.html
 ---
 

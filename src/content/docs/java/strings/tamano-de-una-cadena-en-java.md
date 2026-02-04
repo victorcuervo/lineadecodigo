@@ -5,10 +5,10 @@ date: 2006-12-13
 updatedDate: 2026-01-09
 tags: ["string","length"]
 slug: java/strings/tamano-de-una-cadena-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: b8fe0fa3-e88e-4ab5-a6d4-11b9c2eabf30
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/TamanioCadena.java
 ---
 

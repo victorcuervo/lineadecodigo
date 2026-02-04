@@ -5,10 +5,10 @@ date: 2017-10-01
 updatedDate: 2026-01-08
 tags: ["email","mail"]
 slug: php/mail/email-a-multiples-destinatarios-con-php
-author: Víctor Cuervo
 type: doc
 topic: php
 id: 4f1f1147-ddc8-41b3-a7cc-f69501114c5b
+author: Víctor Cuervo
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/email/multiples-destinatarios.php
 ---
 

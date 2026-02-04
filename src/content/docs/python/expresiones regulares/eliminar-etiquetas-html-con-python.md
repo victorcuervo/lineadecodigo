@@ -5,10 +5,10 @@ date: 2023-10-14
 updatedDate: 2026-01-17
 tags: ["regexp","html","pattern"]
 slug: python/expresiones-regulares/eliminar-etiquetas-html-con-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 17e591da-0781-4aaf-99e3-6e3c63aaac72
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/eliminar-etiquetas-html.py
 ---
 

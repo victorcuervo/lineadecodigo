@@ -5,10 +5,10 @@ date: 2007-12-05
 updatedDate: 2026-01-07
 tags: ["font-family","font-size","font-style","color","text-decoration","text-align"]
 slug: css/texto/formato-de-texto-por-defecto-con-css
-author: victor_cuervo
 type: doc
 topic: css
 id: 5df33694-ab1c-4149-a4ed-215c30e16037
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/fuente-por-defecto.html
 ---
 

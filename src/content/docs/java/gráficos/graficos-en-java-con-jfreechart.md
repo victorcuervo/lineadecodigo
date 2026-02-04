@@ -5,10 +5,10 @@ date: 2012-05-29
 updatedDate: 2026-01-09
 tags: ["jfreechart","java-swing","jframe","jpanel"]
 slug: java/graficos/graficos-en-java-con-jfreechart
-author: Pablo Ruiz
 type: doc
 topic: java
 id: 573462f1-3701-424e-96b4-8ca91af6228b
+author: Pablo Ruiz
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/graficos/GraficosJFreeChart.java
 ---
 

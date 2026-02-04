@@ -5,10 +5,10 @@ date: 2025-01-22
 updatedDate: 2026-01-05
 tags: ["ficheros","os","listdir","exists"]
 slug: python/ficheros/listar-un-directorio-en-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 3afb432d-9140-412a-96f9-e10170bc22cb
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/listar-directorio.py
 ---
 

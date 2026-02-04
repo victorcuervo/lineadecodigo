@@ -5,10 +5,10 @@ date: 2010-05-29
 updatedDate: 2026-01-08
 tags: ["comentario","rem","script"]
 slug: vbscript/basicos/comentar-codigo-en-vbscript
-author: victor_cuervo
 type: doc
 topic: vbscript
 id: 87c521b9-1f04-4010-bf8a-934122eddc0d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_vbscript/blob/master/basicos/comentarios-vbscript.html
 ---
 

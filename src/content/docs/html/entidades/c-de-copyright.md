@@ -5,10 +5,10 @@ date: 2007-01-02
 updatedDate: 2026-01-07
 tags: ["HTML Entidades"]
 slug: html/entidades/c-de-copyright
-author: victor_cuervo
 type: doc
 topic: html
 id: 784985a7-cf8d-4311-9461-b99f8f763cdc
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/c-de-copyright.html
 ---
 

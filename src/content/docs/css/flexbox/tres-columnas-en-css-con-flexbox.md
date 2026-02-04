@@ -5,10 +5,10 @@ date: 2024-02-13
 updatedDate: 2026-01-10
 tags: ["flexbox","columnas","flex-direction","flex-warp","justify-content"]
 slug: css/flexbox/tres-columnas-en-css-con-flexbox
-author: victor_cuervo
 type: doc
 topic: css
 id: 38256535-38e0-4f77-abe1-45f378f881fb
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/capas/tres-columnas.html
 ---
 

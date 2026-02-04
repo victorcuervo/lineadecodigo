@@ -5,10 +5,10 @@ date: 2017-09-28
 updatedDate: 2026-02-01
 tags: ["interface","function"]
 slug: typescript/interfaces/interface-de-una-funcion-en-typescript
-author: victor_cuervo
 type: doc
 topic: typescript
 id: 392cccfa-13eb-462e-9980-5cb43aead409
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/interfaces/interface-funcion.ts
 ---
 

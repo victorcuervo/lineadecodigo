@@ -5,10 +5,10 @@ date: 2007-01-28
 updatedDate: 2026-01-07
 tags: ["excepcion"]
 slug: java/excepciones/javalangunsupportedclassversionerror
-author: victor_cuervo
 type: doc
 topic: java
 id: b50dfbb0-5b39-452c-a2df-d795b924de6f
+author: victor_cuervo
 ---
 
 Hará unos días me ha tocado modificar un código [Java](https://www.manualweb.net/java/) de hace unos años. Cuando uno todavía era programador (ahora la programación es un hobby para mí).

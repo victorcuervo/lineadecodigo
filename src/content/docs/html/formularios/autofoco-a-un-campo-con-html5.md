@@ -5,10 +5,10 @@ date: 2012-02-05
 updatedDate: 2026-01-21
 tags: ["input","form","focus"]
 slug: html/formularios/autofoco-a-un-campo-con-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: aa768deb-42d9-4c03-b33c-62ca84a97630
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/autofoco-a-un-campo.html
 ---
 

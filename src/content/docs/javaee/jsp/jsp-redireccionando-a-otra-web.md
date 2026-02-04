@@ -5,10 +5,10 @@ date: 2006-11-06
 updatedDate: 2026-01-06
 tags: ["jsp"]
 slug: javaee/jsp/jsp-redireccionando-a-otra-web
-author: victor_cuervo
 type: doc
 topic: javaee
 id: 70ec005d-f0f1-4f60-a7b7-d1ed4f5f2144
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/webapp/redirect.jsp
 ---
 

@@ -5,10 +5,10 @@ date: 2007-01-16
 updatedDate: 2026-01-12
 tags: ["validation","substring","regexp","modulo"]
 slug: javascript/expresiones-regulares/calculo-del-nif-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 000bf2bb-2f29-4f1a-a815-28e908d7e048
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/validaciones/calculo-del-nif-en-javascript.html
 ---
 

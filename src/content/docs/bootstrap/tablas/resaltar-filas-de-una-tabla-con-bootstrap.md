@@ -5,10 +5,10 @@ date: 2015-08-12
 updatedDate: 2026-02-02
 tags: ["table","class","table-hover"]
 slug: bootstrap/tablas/resaltar-filas-de-una-tabla-con-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: 199baedd-1501-48bd-8f89-b8937390bfcd
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/tablas/filas-resaltadas.html
 ---
 

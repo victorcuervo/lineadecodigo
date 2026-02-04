@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/box-model
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-80f4-8eeb-f97cf6b1af41
+author: victor_cuervo
 ---
 
 # El Box Model de CSS explicado en profundidad

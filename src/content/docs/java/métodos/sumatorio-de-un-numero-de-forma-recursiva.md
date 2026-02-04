@@ -5,10 +5,10 @@ date: 2007-06-23
 updatedDate: 2026-01-08
 tags: ["recursividad","bucles","while"]
 slug: java/metodos/sumatorio-de-un-numero-de-forma-recursiva
-author: victor_cuervo
 type: doc
 topic: java
 id: 799ce57a-0a3b-4954-b09d-2ba446581af8
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/SumatorioDeUnNumero.java
 ---
 

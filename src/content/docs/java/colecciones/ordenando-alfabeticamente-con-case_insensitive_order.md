@@ -5,10 +5,10 @@ date: 2010-01-04
 updatedDate: 2026-01-09
 tags: ["vector","string","comparator","sort","java-collection"]
 slug: java/colecciones/ordenando-alfabeticamente-con-caseinsensitiveorder
-author: victor_cuervo
 type: doc
 topic: java
 id: 2c8a9dfb-adca-8128-aa85-dbb7be9254bd
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/OrdenarVectorAlfabeticamente2.java
 ---
 

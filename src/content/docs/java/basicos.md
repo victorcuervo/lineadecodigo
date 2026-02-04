@@ -5,10 +5,10 @@ date: 2026-01-04
 updatedDate: 2026-01-10
 tags: []
 slug: java/basicos
-author: victor_cuervo
 type: category
 topic: java
 id: 2dea9dfb-adca-8062-883c-c29087d0a646
+author: victor_cuervo
 ---
 
 ## ¿Qué son los ejemplos Java Básicos?

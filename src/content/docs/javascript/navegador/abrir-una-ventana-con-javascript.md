@@ -5,10 +5,10 @@ date: 2009-01-03
 updatedDate: 2026-01-12
 tags: ["window","open","eventos","enlaces"]
 slug: javascript/navegador/abrir-una-ventana-con-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 51cf1020-21d8-4a15-9aac-98a347a1c344
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/ventanas/abrir-ventana.html
 ---
 

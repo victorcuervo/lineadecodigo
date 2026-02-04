@@ -5,10 +5,10 @@ date: 2013-01-30
 updatedDate: 2026-01-10
 tags: ["select","count","distinct"]
 slug: sql/funciones/contar-elementos-distintos-con-sql
-author: victor_cuervo
 type: doc
 topic: sql
 id: 8abe413c-8e85-43bf-bc1d-c514f4a17523
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_sql/blob/master/consultas/contar-elementos-distintos.sql
 ---
 

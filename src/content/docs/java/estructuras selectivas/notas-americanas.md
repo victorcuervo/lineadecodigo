@@ -5,10 +5,10 @@ date: 2007-04-09
 updatedDate: 2026-01-09
 tags: ["switch","do-while","while","inputstream","read","bucles","ascii","casting"]
 slug: java/estructuras-selectivas/notas-americanas
-author: victor_cuervo
 type: doc
 topic: java
 id: 2c8a9dfb-adca-81a3-8177-de334e9b4b54
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NotasAmericanas.java
 ---
 

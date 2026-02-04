@@ -5,10 +5,10 @@ date: 2012-01-31
 updatedDate: 2026-01-24
 tags: ["HTML Form Input","HTML5 Form","HTML5 Form Range","Javascript Eventos","Javascript Eventos addEventListener","Javascript DOM","DOM EventTarget","DOM EventTarget addEventListener","DOM Event preventDefault","HTML Form"]
 slug: html/formularios/elemento-rango-en-formularios-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: ce4ef2ca-33cc-4839-8df5-c2609d858a28
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/elemento-formulario-range.html
 ---
 

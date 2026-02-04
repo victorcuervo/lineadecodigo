@@ -5,10 +5,10 @@ date: 2013-11-08
 updatedDate: 2026-01-28
 tags: ["find","foreach"]
 slug: mongodb/cursores/cursor-foreach-en-mongodb
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: b3d983a4-ff5b-40ee-a31e-f7b14a98b948
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/cursorForEach.js
 ---
 

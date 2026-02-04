@@ -5,10 +5,10 @@ date: 2025-02-19
 updatedDate: 2026-01-18
 tags: ["img","onwheel","transform","scale","raton"]
 slug: html/imagenes/zoom-en-imagenes-con-el-raton-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 670313ef-27c1-4802-93c4-bab04bcfa3f4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Imagenes/zom-sobre-imagen.html
 ---
 

@@ -5,10 +5,11 @@ date: 2006-12-21
 updatedDate: 2026-01-07
 tags: ["menciones"]
 slug: blog/linea-de-codigo-un-poquito-mas-util
-author: lineadecodigo
 type: blog
 topic: blog
 id: 2c8a9dfb-adca-815e-bb69-fbc96e81e1b7
+authors:
+  - lineadecodigo
 ---
 
 Cuando empece a escribir Línea de Código no sabía si iba a ser algo útil o solo un blog más que se alberga en la blogosfera.

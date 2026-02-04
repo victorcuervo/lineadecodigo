@@ -5,10 +5,10 @@ date: 2015-06-06
 updatedDate: 2026-01-18
 tags: ["colspan","table","tr","td","th"]
 slug: html/tablas/agrupar-columnas-en-una-tabla-html
-author: victor_cuervo
 type: doc
 topic: html
 id: ff16a2ca-76a3-41f8-b227-5caa77391d20
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/agrupar-columnas.html
 ---
 

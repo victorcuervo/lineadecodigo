@@ -5,10 +5,10 @@ date: 2010-03-26
 updatedDate: 2026-01-07
 tags: ["session","timeout","abandon","response","write"]
 slug: asp/sesion/gestionando-el-timeout-de-sesion-en-asp
-author: Víctor Cuervo
 type: doc
 topic: asp
 id: 73860b07-9d6c-4375-8599-3659cdc0a520
+author: Víctor Cuervo
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/usuarios/time-out-sesion.asp
 ---
 

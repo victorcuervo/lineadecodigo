@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/texto
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-80f0-a08c-ec7042d6dd90
+author: victor_cuervo
 ---
 
 # Estilos de texto y tipografía en CSS

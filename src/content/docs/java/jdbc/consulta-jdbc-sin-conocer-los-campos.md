@@ -5,10 +5,10 @@ date: 2007-09-10
 updatedDate: 2026-01-11
 tags: ["mysql","bases-de-datos","consulta","SQL Select","resultset","drivermanager","preparedstatement","sqlexception","executequery","try-catch","connection","resultsetmetadata"]
 slug: java/jdbc/consulta-jdbc-sin-conocer-los-campos
-author: Víctor Cuervo
 type: doc
 topic: java
 id: 81ec4d63-e18b-4748-b6d5-e958b8f808fd
+author: Víctor Cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConsultarTablaSinConocerCampos.java
 ---
 

@@ -5,10 +5,10 @@ date: 2009-01-16
 updatedDate: 2026-01-09
 tags: ["pow","math","for"]
 slug: java/math/potencias-del-dos-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: da0117e5-626e-43bb-9986-c9d6c4268e34
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/PotenciasDelDos.java
 ---
 

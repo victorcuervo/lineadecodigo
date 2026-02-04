@@ -5,10 +5,10 @@ date: 2017-09-18
 updatedDate: 2026-02-01
 tags: ["array","let","variable"]
 slug: typescript/arrays/desestructurar-un-array-en-typescript
-author: victor_cuervo
 type: doc
 topic: typescript
 id: b7415263-8a92-4c4b-b026-f1200de55986
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/array/desestructurar-array.ts
 ---
 

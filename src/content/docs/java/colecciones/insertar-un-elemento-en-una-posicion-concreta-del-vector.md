@@ -5,10 +5,10 @@ date: 2009-01-19
 updatedDate: 2026-01-09
 tags: ["vector","add","java-collection"]
 slug: java/colecciones/insertar-un-elemento-en-una-posicion-concreta-del-vector
-author: victor_cuervo
 type: doc
 topic: java
 id: 3dda7cf4-e28f-45c6-a591-f704f54a28ae
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/InsertarElementoVectorPosicionConcreta.java
 ---
 

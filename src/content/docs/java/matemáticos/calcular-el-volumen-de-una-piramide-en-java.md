@@ -5,10 +5,10 @@ date: 2013-03-14
 updatedDate: 2026-01-11
 tags: ["interface","volumen","formula","math","piramide"]
 slug: java/matematicos/calcular-el-volumen-de-una-piramide-en-java
-author: ARIEL
 type: doc
 topic: java
 id: 7bd20679-02f4-4b78-b3ba-759786593b46
+author: ARIEL
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/VolumenPiramide.java
 ---
 

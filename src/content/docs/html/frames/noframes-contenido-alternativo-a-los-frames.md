@@ -5,10 +5,10 @@ date: 2006-12-14
 updatedDate: 2026-01-06
 tags: ["noframes","frame"]
 slug: html/frames/noframes-contenido-alternativo-a-los-frames
-author: victor_cuervo
 type: doc
 topic: html
 id: 2c5a9dfb-adca-8052-b3ed-ed7820bf3d51
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/tree/master/lineadecodigo_html/frames/noframes
 ---
 

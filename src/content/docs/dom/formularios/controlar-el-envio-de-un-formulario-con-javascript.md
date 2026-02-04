@@ -5,10 +5,10 @@ date: 2009-04-24
 updatedDate: 2026-01-12
 tags: ["form","onsubmit"]
 slug: dom/formularios/controlar-el-envio-de-un-formulario-con-javascript
-author: victor_cuervo
 type: doc
 topic: dom
 id: 1b2341d1-0eed-421c-b673-4265a5a9796d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/controlar-envio-formulario.html
 ---
 

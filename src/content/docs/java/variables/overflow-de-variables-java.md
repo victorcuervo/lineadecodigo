@@ -5,10 +5,10 @@ date: 2015-02-01
 updatedDate: 2026-01-11
 tags: ["variables","overflow","exception"]
 slug: java/variables/overflow-de-variables-java
-author: victor_cuervo
 type: doc
 topic: java
 id: fe284a3a-2ad4-4c8e-99ad-3d76d67ad7f1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/variables/DesbordarVariable.java
 ---
 

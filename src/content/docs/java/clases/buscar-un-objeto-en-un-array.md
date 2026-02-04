@@ -5,10 +5,10 @@ date: 2020-09-10
 updatedDate: 2026-01-09
 tags: ["array","object","java-util","list","equals","contains","aslist"]
 slug: java/clases/buscar-un-objeto-en-un-array
-author: victor_cuervo
 type: doc
 topic: java
 id: 735fc7bc-8d93-43b6-80f8-bf03726431f8
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/BuscarEnArrayObjetos.java
 ---
 

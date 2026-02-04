@@ -5,10 +5,10 @@ date: 2007-08-02
 updatedDate: 2026-01-12
 tags: ["event","target","onmousedown","tagname"]
 slug: dom/eventos/que-elemento-fue-pulsado
-author: victor_cuervo
 type: doc
 topic: dom
 id: 942a83c0-d349-4084-a9b7-5707266ca50c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/eventos/detectar-que-elemento-fue-selecionado.html
 ---
 

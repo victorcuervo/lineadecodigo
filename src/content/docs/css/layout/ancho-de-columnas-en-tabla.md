@@ -5,10 +5,10 @@ date: 2015-06-22
 updatedDate: 2026-01-18
 tags: ["table","td","tr","nth-child","first-child","width"]
 slug: css/layout/ancho-de-columnas-en-tabla
-author: victor_cuervo
 type: doc
 topic: css
 id: 9875394d-8ea8-4c7d-9077-b3f4c87ea0fb
+author: victor_cuervo
 download: https://lineadecodigo.com/wp-content/uploads/2025/01/ancho-columnas-tabla.webp
 ---
 

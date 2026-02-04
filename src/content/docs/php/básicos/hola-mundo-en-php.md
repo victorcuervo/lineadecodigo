@@ -5,10 +5,10 @@ date: 2009-09-20
 updatedDate: 2026-01-08
 tags: ["hola-mundo"]
 slug: php/basicos/hola-mundo-en-php
-author: victor_cuervo
 type: doc
 topic: php
 id: 980ec2d6-6a5e-47bb-9f6a-386452ceb467
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/hola-mundo.php
 ---
 

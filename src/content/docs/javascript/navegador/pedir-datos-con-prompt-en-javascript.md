@@ -5,10 +5,10 @@ date: 2021-03-09
 updatedDate: 2026-01-12
 tags: ["window","prompt","parseint"]
 slug: javascript/navegador/pedir-datos-con-prompt-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: a78197e4-8b69-4b53-8bd8-b7dbb53b692e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/pedir-datos.js
 ---
 

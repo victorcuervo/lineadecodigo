@@ -5,10 +5,10 @@ date: 2023-10-06
 updatedDate: 2026-01-06
 tags: ["math","max","numeros"]
 slug: javascript/matematicos/mayor-de-dos-numeros-en-javascript-con-math
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 4eddf994-b0f5-4554-b8f2-20633fd042e1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/numeros/mayor-de-dos-numeros-math.js
 ---
 

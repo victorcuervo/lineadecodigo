@@ -5,10 +5,10 @@ date: 2016-10-19
 updatedDate: 2026-01-23
 tags: ["audio","controls","getelementbyid","math","random","play"]
 slug: html/audio/musica-aleatoria-con-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: a8c99d59-25a4-4141-b726-f018b2d9e06b
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Audio/musica-aleatoria.html
 ---
 

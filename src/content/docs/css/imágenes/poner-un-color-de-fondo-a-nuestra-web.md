@@ -5,10 +5,10 @@ date: 2007-12-07
 updatedDate: 2026-01-07
 tags: ["background","head","style"]
 slug: css/imagenes/poner-un-color-de-fondo-a-nuestra-web
-author: victor_cuervo
 type: doc
 topic: css
 id: 24a61e5c-2143-4764-afb7-49e47c7f7c90
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/colores/color-de-fondo-de-la-pagina.html
 ---
 

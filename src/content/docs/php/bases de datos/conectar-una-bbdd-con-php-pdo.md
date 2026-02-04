@@ -5,10 +5,10 @@ date: 2016-04-03
 updatedDate: 2026-01-08
 tags: ["pdo","getMessage","try-catch","pdoexception","getattribute"]
 slug: php/bases-de-datos/conectar-una-bbdd-con-php-pdo
-author: Víctor Cuervo
 type: doc
 topic: php
 id: 9314e14c-d789-4168-ab62-a85346771c4e
+author: Víctor Cuervo
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/bbdd/pdo/conectar_pdo.php
 ---
 

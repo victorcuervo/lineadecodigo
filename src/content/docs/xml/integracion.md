@@ -5,10 +5,10 @@ date: 2026-01-24
 updatedDate: 2026-01-24
 tags: []
 slug: xml/integracion
-author: victor_cuervo
 type: category
 topic: xml
 id: 2f2a9dfb-adca-807b-80ee-e34f910af060
+author: victor_cuervo
 ---
 
 **Objetivo:** Analizar el rol de XML en arquitecturas distribuidas.

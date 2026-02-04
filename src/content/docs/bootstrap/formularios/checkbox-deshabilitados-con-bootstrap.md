@@ -5,10 +5,10 @@ date: 2015-11-03
 updatedDate: 2026-02-02
 tags: ["checkbox","label","disabled","input"]
 slug: bootstrap/formularios/checkbox-deshabilitados-con-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: 653e4cd1-4351-471d-bcd4-8cb5cc1c4124
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/formularios/checkbox-deshabilitado.html
 ---
 

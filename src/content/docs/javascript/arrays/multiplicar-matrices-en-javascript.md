@@ -5,10 +5,10 @@ date: 2021-02-16
 updatedDate: 2026-01-12
 tags: ["array","matriz","multiplicar","fill","length","for"]
 slug: javascript/arrays/multiplicar-matrices-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: c38eb13c-becd-42d8-be34-d0f675813899
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/multiplicar-matrices.js
 ---
 

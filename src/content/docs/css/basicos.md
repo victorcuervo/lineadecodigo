@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/basicos
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-8047-83fa-dde1183b8729
+author: victor_cuervo
 ---
 
 # CSS Básico: fundamentos esenciales para dominar el estilo web

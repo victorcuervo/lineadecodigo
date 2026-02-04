@@ -5,10 +5,10 @@ date: 2017-09-13
 updatedDate: 2026-01-12
 tags: ["variables","swapping"]
 slug: javascript/variables/swapping-de-variables-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 67d0b680-1e2e-4324-a137-f2f8d51b07a8
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/swapping-variables.js
 ---
 

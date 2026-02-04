@@ -5,10 +5,10 @@ date: 2025-02-08
 updatedDate: 2026-01-21
 tags: ["video","onwaiting"]
 slug: html/video/cargas-inestables-de-videos-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: a1ae4731-2a2f-46e7-87c7-a8e42caaaea2
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/control-esperas-carga-video.html
 ---
 

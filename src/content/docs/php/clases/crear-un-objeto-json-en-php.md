@@ -5,10 +5,10 @@ date: 2013-05-15
 updatedDate: 2026-01-08
 tags: ["json","json_encode","stdclass","array"]
 slug: php/clases/crear-un-objeto-json-en-php
-author: victor_cuervo
 type: doc
 topic: php
 id: 9e1647fd-2376-4730-8e6e-c036fd159a36
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/json/crear-objeto-json.php
 ---
 

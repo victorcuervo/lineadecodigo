@@ -5,10 +5,10 @@ date: 2016-02-18
 updatedDate: 2026-01-09
 tags: ["while","division","bucles"]
 slug: java/matematicos/dividir-sin-dividir-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: d9cf3e33-5b6a-4b8a-ac72-7d206bb9a8bb
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/DividirSinDividir.java
 ---
 

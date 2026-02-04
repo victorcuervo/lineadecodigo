@@ -5,10 +5,10 @@ date: 2015-02-06
 updatedDate: 2026-01-09
 tags: ["variables","boolean","booleanvalue"]
 slug: java/variables/tipo-de-objeto-boolean
-author: victor_cuervo
 type: doc
 topic: java
 id: 7bedb31d-0016-47e7-a7a8-eaa42c33d8a4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/variables/TipoDatoBoolean.java
 ---
 

@@ -5,10 +5,10 @@ date: 2007-06-26
 updatedDate: 2026-01-07
 tags: ["text-decoration","underline"]
 slug: css/texto/subrayar-texto-en-css
-author: victor_cuervo
 type: doc
 topic: css
 id: 5280d15b-575a-4c39-af82-365f256cab56
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/subrayando-texto.html
 ---
 

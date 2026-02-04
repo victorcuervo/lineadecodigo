@@ -5,10 +5,10 @@ date: 2009-11-01
 updatedDate: 2026-01-11
 tags: ["string","format","cadena","formatter","java-util"]
 slug: java/strings/alinear-cadena-a-la-izquierda
-author: victor_cuervo
 type: doc
 topic: java
 id: 33dc7040-b892-4cf4-ab3c-d121109826e1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/AlinearAIzquierda.java
 ---
 

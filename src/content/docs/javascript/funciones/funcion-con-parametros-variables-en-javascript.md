@@ -5,10 +5,10 @@ date: 2010-09-06
 updatedDate: 2026-01-13
 tags: ["function","arguments"]
 slug: javascript/funciones/funcion-con-parametros-variables-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 5246ead5-284a-49cd-8f5f-fd992837dcd0
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/funcion-argumentos-variables.html
 ---
 

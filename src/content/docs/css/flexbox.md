@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/flexbox
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-8012-8999-fbffff56ea53
+author: victor_cuervo
 ---
 
 # Flexbox en CSS: diseño unidimensional moderno

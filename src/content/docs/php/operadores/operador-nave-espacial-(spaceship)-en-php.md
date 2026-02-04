@@ -5,10 +5,10 @@ date: 2025-01-14
 updatedDate: 2026-01-07
 tags: ["operadores"]
 slug: php/operadores/operador-nave-espacial-spaceship-en-php
-author: victor_cuervo
 type: doc
 topic: php
 id: ecbb5df0-09b3-4281-bb01-1ea1793db869
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/operador-nave-espacial.php
 ---
 

@@ -5,10 +5,10 @@ date: 2021-09-28
 updatedDate: 2026-01-11
 tags: ["constantes","const","try-catch"]
 slug: javascript/basicos/constantes-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 89349214-84b3-429b-99c1-693cf193dcbd
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/constante-javascript.js
 ---
 

@@ -5,10 +5,10 @@ date: 2012-02-01
 updatedDate: 2026-01-06
 tags: ["formulario","datalist","input","option"]
 slug: html/formularios/datalist-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 2c8a9dfb-adca-81dd-a232-df2d0b1025f4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/data-list.html
 ---
 

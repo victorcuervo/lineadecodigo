@@ -5,10 +5,10 @@ date: 2021-03-01
 updatedDate: 2026-01-17
 tags: ["lista","deque","collections","rotate"]
 slug: python/listas/rotar-listas-con-collections-en-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 25a53ad8-1830-4c13-817d-9d4aa3ed1771
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/rotar-lista-collections.py
 ---
 

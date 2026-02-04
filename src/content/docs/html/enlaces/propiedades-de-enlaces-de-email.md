@@ -5,10 +5,10 @@ date: 2007-03-24
 updatedDate: 2026-01-07
 tags: ["enlaces","a","mailto","subject","bcc","cc","body"]
 slug: html/enlaces/propiedades-de-enlaces-de-email
-author: victor_cuervo
 type: doc
 topic: html
 id: 5e8bee2a-b486-41a5-a4dd-0e3b50873bf3
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/propiedades-enlaces-email.html
 ---
 

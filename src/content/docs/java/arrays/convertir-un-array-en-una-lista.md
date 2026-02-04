@@ -5,10 +5,10 @@ date: 2007-06-29
 updatedDate: 2026-01-08
 tags: ["list","array","arraylist","aslist","java-collection"]
 slug: java/arrays/convertir-un-array-en-una-lista
-author: victor_cuervo
 type: doc
 topic: java
 id: 6c1f343d-cf75-476c-96ef-260c5d7aa2b9
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/Array2List.java
 ---
 

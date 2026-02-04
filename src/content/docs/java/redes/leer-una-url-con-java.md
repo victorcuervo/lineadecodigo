@@ -5,10 +5,10 @@ date: 2007-08-27
 updatedDate: 2026-01-11
 tags: ["url","inputstream","bufferedreader","ioexception","string","try-catch","java-io","java-net","malformedurlexception"]
 slug: java/redes/leer-una-url-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 6aabbcbf-29ec-459c-8e93-4f13d90a97e4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/net/LeerURL.java
 ---
 

@@ -5,10 +5,10 @@ date: 2010-09-03
 updatedDate: 2026-01-11
 tags: ["function","objeto","clase","metodo"]
 slug: javascript/clases/crear-un-objeto-con-metodos-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 2df3f81a-3a58-49ee-9789-d1067cfafb40
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/objeto-rectangulo.js
 ---
 

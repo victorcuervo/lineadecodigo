@@ -5,10 +5,10 @@ date: 2017-09-23
 updatedDate: 2026-01-13
 tags: ["unpacking","propiedades","objetos","console"]
 slug: javascript/clases/unpacking-de-objetos-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 2c8a9dfb-adca-81cd-ab81-c58e403a158d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/objetos/unpacking-objetos.js
 ---
 

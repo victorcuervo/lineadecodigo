@@ -5,10 +5,10 @@ date: 2013-06-17
 updatedDate: 2026-01-28
 tags: ["db","dropdatabase"]
 slug: mongodb/consultas/borrar-una-base-de-datos-en-mongodb
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: 825d3410-ffbf-448e-bf0d-5e59ee621652
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-basicos/borrar-db.js
 ---
 

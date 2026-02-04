@@ -5,10 +5,10 @@ date: 2010-03-23
 updatedDate: 2026-01-09
 tags: ["email","array","string","bucles","for-each"]
 slug: java/strings/detectar-emails-que-finalicen-en-com
-author: victor_cuervo
 type: doc
 topic: java
 id: 2c8a9dfb-adca-81f4-9fb1-cd83e2b0b94b
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/EmailsAcabadosEnDotCom.java
 ---
 

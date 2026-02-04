@@ -5,10 +5,10 @@ date: 2015-06-02
 updatedDate: 2026-01-19
 tags: ["table","tr","td","th","caption"]
 slug: html/tablas/titulo-en-tabla-html
-author: victor_cuervo
 type: doc
 topic: html
 id: f2061f8d-bd4a-4e37-8ab7-8eb1981f62ba
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/titulo-tabla.html
 ---
 

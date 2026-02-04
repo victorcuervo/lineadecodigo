@@ -5,10 +5,10 @@ date: 2015-11-15
 updatedDate: 2026-01-14
 tags: ["print","variables","hola-mundo"]
 slug: python/basicos/hola-mundo-en-python
-author: victor_cuervo
 type: doc
 topic: python
 id: c6f85f39-6e48-454c-81b1-427ca1aae2d3
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/holamundo.py
 ---
 

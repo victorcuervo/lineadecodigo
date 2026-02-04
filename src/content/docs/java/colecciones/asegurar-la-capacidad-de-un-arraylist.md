@@ -5,10 +5,10 @@ date: 2021-10-11
 updatedDate: 2026-01-09
 tags: ["java-collection","arraylist","size","ensurecapacity"]
 slug: java/colecciones/asegurar-la-capacidad-de-un-arraylist
-author: victor_cuervo
 type: doc
 topic: java
 id: c41ce70c-233f-4414-bf2b-db8c7ba23399
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/AsegurarCapacidadArrayList.java
 ---
 

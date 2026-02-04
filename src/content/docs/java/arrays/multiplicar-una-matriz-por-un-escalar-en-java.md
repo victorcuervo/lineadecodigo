@@ -5,10 +5,10 @@ date: 2015-07-26
 updatedDate: 2026-01-11
 tags: ["matriz","for","array","bucles"]
 slug: java/arrays/multiplicar-una-matriz-por-un-escalar-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: c1532083-3dfe-4a78-bde9-48841a587560
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/matriz/MatrizPorEscalar.java
 ---
 

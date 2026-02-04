@@ -5,10 +5,10 @@ date: 2019-01-21
 updatedDate: 2026-01-24
 tags: ["email","input","formulario","validation"]
 slug: html/formularios/input-email-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 93f10405-9275-4422-a66f-8f41e73378c9
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/input-email.html
 ---
 

@@ -5,10 +5,10 @@ date: 2018-09-25
 updatedDate: 2026-01-19
 tags: ["section","article","h1"]
 slug: html/semantica/subsecciones-implicitas-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 2c8a9dfb-adca-81d8-b092-e94fa5169ce9
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/subseccion-implicita.html
 ---
 

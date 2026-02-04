@@ -5,10 +5,10 @@ date: 2019-01-16
 updatedDate: 2026-01-24
 tags: ["a","href","tel"]
 slug: html/enlaces/enlaces-a-telefonos
-author: victor_cuervo
 type: doc
 topic: html
 id: 3197a05d-681b-411f-9f89-359e5a0114f4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/enlace-telefono.html
 ---
 

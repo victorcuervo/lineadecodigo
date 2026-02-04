@@ -5,10 +5,10 @@ date: 2013-11-12
 updatedDate: 2026-01-29
 tags: ["db","find"]
 slug: mongodb/consultas/filtrar-datos-en-mongodb
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: e7d344cc-7a02-43c3-8c3d-874665391420
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/filtrarDatos.js
 video: jMxAMRRI0Ww
 videoDate: 2015-09-19

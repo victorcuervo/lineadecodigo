@@ -5,10 +5,10 @@ date: 2007-01-15
 updatedDate: 2026-01-07
 tags: ["enlaces","text-decoration","overline","underline","style"]
 slug: css/texto/enlaces-subrayados-arriba-y-abajo
-author: victor_cuervo
 type: doc
 topic: css
 id: dfaad443-5ff3-4663-93d3-dab9b8a16415
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/enlaces/enlaces-subarayados-arriba-y-abajo.html
 ---
 

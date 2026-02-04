@@ -5,10 +5,10 @@ date: 2017-09-21
 updatedDate: 2026-01-11
 tags: ["url","regexp","array"]
 slug: javascript/expresiones-regulares/extraer-partes-de-una-url-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 6e38ee0d-95ce-4060-813d-42e42beea3fc
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/regexp/extraer-url.js
 ---
 

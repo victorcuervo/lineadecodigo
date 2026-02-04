@@ -5,10 +5,10 @@ date: 2015-06-11
 updatedDate: 2026-01-17
 tags: ["border","table","border-collapse","separate","collapse"]
 slug: css/box-model/colapsar-bordes-en-una-tabla-html
-author: victor_cuervo
 type: doc
 topic: css
 id: 805550fa-246d-44a4-8b77-47ab5943d635
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-border-collapse.html
 ---
 

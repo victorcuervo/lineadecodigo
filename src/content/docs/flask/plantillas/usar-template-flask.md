@@ -5,10 +5,10 @@ date: 2016-03-13
 updatedDate: 2026-01-17
 tags: ["template","render_template"]
 slug: flask/plantillas/usar-template-flask
-author: victor_cuervo
 type: doc
 topic: flask
 id: fd270f01-1434-409a-9da0-592642ccef13
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/template.py
 ---
 

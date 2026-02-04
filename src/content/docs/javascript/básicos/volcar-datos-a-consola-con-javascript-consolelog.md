@@ -5,10 +5,10 @@ date: 2013-05-18
 updatedDate: 2026-01-12
 tags: ["console-log","chrome","firefox","firebug"]
 slug: javascript/basicos/volcar-datos-a-consola-con-javascript-consolelog
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 721c6ce1-ea0c-4669-93f1-38e96cb96a8c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/console-log.html
 ---
 

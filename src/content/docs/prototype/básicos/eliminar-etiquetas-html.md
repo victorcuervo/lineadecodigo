@@ -5,10 +5,10 @@ date: 2007-02-20
 updatedDate: 2026-01-07
 tags: ["input","form","striptags","$F","textarea"]
 slug: prototype/basicos/eliminar-etiquetas-html
-author: victor_cuervo
 type: doc
 topic: prototype
 id: 5c04fe49-6818-4607-aba7-e02c1d8ac03c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_prototype/blob/master/basico/eliminar-etiquetas-html.html
 ---
 

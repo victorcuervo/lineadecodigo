@@ -5,10 +5,10 @@ date: 2024-02-02
 updatedDate: 2026-01-21
 tags: ["promise","reject","preventdefault","unhandledrejection"]
 slug: javascript/promesas/gestionar-promesas-rechazadas
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 1a8966d1-7fad-490e-b1b6-50e7e280b109
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Promesas/gestionar-promesas-rechazadas.html
 ---
 

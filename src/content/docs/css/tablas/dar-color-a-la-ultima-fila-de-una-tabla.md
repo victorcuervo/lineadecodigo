@@ -5,10 +5,10 @@ date: 2015-07-30
 updatedDate: 2026-01-18
 tags: ["last-child","table","tfoot","tr","background-color","color"]
 slug: css/tablas/dar-color-a-la-ultima-fila-de-una-tabla
-author: victor_cuervo
 type: doc
 topic: css
 id: ca4ddacd-e3c6-4125-9514-3bb38227269d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-color-footer.html
 ---
 

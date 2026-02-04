@@ -5,10 +5,10 @@ date: 2015-06-12
 updatedDate: 2026-01-18
 tags: ["tabla","background-color","empty-cells","hide"]
 slug: css/layout/ocultar-celdas-vacias
-author: victor_cuervo
 type: doc
 topic: css
 id: c031c8f7-f4cb-43e7-ae2c-c2d3f8f0a393
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/ocultar-celdas-vacias.html
 ---
 

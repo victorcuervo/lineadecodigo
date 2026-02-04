@@ -5,10 +5,10 @@ date: 2020-03-21
 updatedDate: 2026-01-07
 tags: ["echo","cadena"]
 slug: php/cadenas/saltos-de-linea-en-php
-author: victor_cuervo
 type: doc
 topic: php
 id: 20292f02-8192-4d6d-8edd-896996a1e6cd
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/basico/cadenas/salto-linea.php
 ---
 

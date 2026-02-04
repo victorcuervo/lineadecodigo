@@ -5,10 +5,10 @@ date: 2018-10-27
 updatedDate: 2026-01-21
 tags: ["header"]
 slug: html/semantica/cabecera-de-documento-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: d37e0529-58fd-4e61-8fce-54159fc1fcf2
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/cabecera-documento.html
 ---
 

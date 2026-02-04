@@ -5,10 +5,10 @@ date: 2013-11-02
 updatedDate: 2026-01-28
 tags: ["cursor","find","db","printjson"]
 slug: mongodb/consultas/consultas-con-mongodb-find
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: 53d20627-f2bd-4957-aeeb-d464893ea69c
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/find.js
 ---
 

@@ -5,10 +5,10 @@ date: 2017-09-05
 updatedDate: 2026-02-01
 tags: ["array","tupla"]
 slug: typescript/arrays/tupla-en-typescript
-author: victor_cuervo
 type: doc
 topic: typescript
 id: 154183f3-8fb9-446b-9e4a-447f5b887bfd
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_typescript/blob/master/basicos/tupla.ts
 ---
 

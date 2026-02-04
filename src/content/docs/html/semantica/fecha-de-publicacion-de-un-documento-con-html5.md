@@ -5,10 +5,10 @@ date: 2012-10-16
 updatedDate: 2026-01-24
 tags: ["time","pubdate","datetime"]
 slug: html/semantica/fecha-de-publicacion-de-un-documento-con-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 53dc1a75-41c8-4f2c-9ccc-52f0282ebb2b
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/fecha-publicacion-documento.html
 ---
 

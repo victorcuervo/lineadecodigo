@@ -5,10 +5,10 @@ date: 2007-06-28
 updatedDate: 2026-01-12
 tags: ["document","write"]
 slug: javascript/cadenas/escribir-texto-con-formato-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 8bd38143-74da-41ab-828d-571b8f44cf9a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/cadenas/texto-con-formato-en-javascript.html
 ---
 

@@ -5,10 +5,10 @@ date: 2006-11-11
 updatedDate: 2026-01-06
 tags: ["servlet","init","servletconfig"]
 slug: javaee/servlet/leer-parametros-de-inicializacion-de-un-servlet
-author: victor_cuervo
 type: doc
 topic: javaee
 id: 2c4a9dfb-adca-8096-8e47-e236ef4d04ee
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/java/com/lineadecodigo/javaee/servlet/ParametrosInicio.java
 ---
 

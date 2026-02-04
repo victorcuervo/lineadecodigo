@@ -5,10 +5,10 @@ date: 2020-11-21
 updatedDate: 2026-01-09
 tags: ["json","jackson","objectmapper","writevalueasstring"]
 slug: java/json/convertir-un-objeto-a-json-con-jackson
-author: victor_cuervo
 type: doc
 topic: java
 id: 1054dc44-4c71-40bd-a14a-57b7f2af3062
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/json/ObjetoJSONJackson.java
 ---
 

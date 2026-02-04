@@ -5,10 +5,10 @@ date: 2016-11-12
 updatedDate: 2026-01-10
 tags: ["java-swing","actionevent","actionlistener","jbutton","jframe","jlabel"]
 slug: java/swing/detectar-boton-pulsado-con-java-swing
-author: victor_cuervo
 type: doc
 topic: java
 id: 09027638-51bf-47c3-ae44-3657732a6722
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/swing/BotonPulsado.java
 ---
 

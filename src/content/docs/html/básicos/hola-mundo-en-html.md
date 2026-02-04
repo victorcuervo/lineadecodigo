@@ -5,10 +5,10 @@ date: 2013-12-19
 updatedDate: 2026-01-05
 tags: ["hola-mundo","body","head","meta","h1"]
 slug: html/basicos/hola-mundo-en-html
-author: victor_cuervo
 type: doc
 topic: html
 id: 6a5af342-63a3-4b2e-948a-1b5de923095d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/basicos/holamundo.html
 ---
 

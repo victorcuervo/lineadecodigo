@@ -5,10 +5,10 @@ date: 2006-11-21
 updatedDate: 2026-01-06
 tags: ["a","enlaces"]
 slug: html/enlaces/pagina-web-para-descargar-archivos
-author: victor_cuervo
 type: doc
 topic: html
 id: a34b703b-7366-424d-a1fe-96c1fa0d93f5
+author: victor_cuervo
 download: http://lineadecodigo.com/wp-content/uploads/2007/07/pagina-web-para-descargar-archivos.html
 ---
 

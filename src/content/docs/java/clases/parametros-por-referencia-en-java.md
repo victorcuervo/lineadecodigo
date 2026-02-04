@@ -5,10 +5,10 @@ date: 2015-09-09
 updatedDate: 2026-01-09
 tags: ["metodo","parametros","clase"]
 slug: java/clases/parametros-por-referencia-en-java
-author: Víctor Cuervo
 type: doc
 topic: java
 id: a083f659-2025-4d97-bf68-ffe03ad8cbad
+author: Víctor Cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ParametrosReferencia.java
 ---
 

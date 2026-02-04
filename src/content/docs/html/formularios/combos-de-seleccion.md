@@ -5,10 +5,10 @@ date: 2006-11-02
 updatedDate: 2026-01-06
 tags: ["select","option","form","selected"]
 slug: html/formularios/combos-de-seleccion
-author: victor_cuervo
 type: doc
 topic: html
 id: a70cfe76-0961-472e-b6b8-71632121e16d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/formularios/combos-de-seleccion.html
 ---
 

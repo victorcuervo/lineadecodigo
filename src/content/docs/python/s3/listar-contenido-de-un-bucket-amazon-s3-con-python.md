@@ -5,10 +5,10 @@ date: 2016-01-28
 updatedDate: 2026-01-17
 tags: ["tinys3","bucket","list"]
 slug: python/s3/listar-contenido-de-un-bucket-amazon-s3-con-python
-author: victor_cuervo
 type: doc
 topic: python
 id: f248ce9d-04f2-433b-952a-b65470aceaa7
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/tinys3/listar_bucket_s3.py
 ---
 

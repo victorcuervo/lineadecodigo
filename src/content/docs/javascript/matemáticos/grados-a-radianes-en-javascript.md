@@ -5,10 +5,10 @@ date: 2023-09-18
 updatedDate: 2026-01-05
 tags: ["math","sin","pi"]
 slug: javascript/matematicos/grados-a-radianes-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 3cfa65e7-9941-4b7a-94b0-cea2b64731e4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/matematicas/deg2Rad.js
 ---
 

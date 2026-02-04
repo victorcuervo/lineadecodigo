@@ -5,10 +5,10 @@ date: 2016-03-23
 updatedDate: 2026-01-06
 tags: ["error","abort","401"]
 slug: flask/errores/paginas-de-error-en-flask
-author: victor_cuervo
 type: doc
 topic: flask
 id: 2c8a9dfb-adca-8159-b8df-c6cea7f0fa8d
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/error.py
 ---
 

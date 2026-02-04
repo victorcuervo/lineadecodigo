@@ -5,10 +5,10 @@ date: 2006-12-18
 updatedDate: 2026-01-06
 tags: ["operadores","pares"]
 slug: java/numeros/numeros-pares-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: b61f851f-5319-41e4-a9cb-d8102d8867f9
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroPar.java
 ---
 

@@ -5,10 +5,10 @@ date: 2013-10-13
 updatedDate: 2026-01-10
 tags: ["texto","text-left","text-center","text-right"]
 slug: bootstrap/texto/alinear-texto-con-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: db4337ad-2641-4b51-9fa1-8ac048dc4d0a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/alinear-texto.html
 ---
 

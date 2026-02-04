@@ -5,10 +5,10 @@ date: 2020-03-31
 updatedDate: 2026-01-17
 tags: ["sup","font-size"]
 slug: css/texto/estilo-a-un-superindice
-author: victor_cuervo
 type: doc
 topic: css
 id: 523a5632-9126-49b8-8a20-8b1f01b40e88
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/texto/formato-superindice.html
 ---
 

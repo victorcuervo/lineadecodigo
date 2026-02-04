@@ -5,10 +5,10 @@ date: 2011-09-25
 updatedDate: 2026-01-10
 tags: ["java-io","bufferedwriter","fileoutputstream","ioexception","outputstream","iso","latin1","write","close"]
 slug: java/ficheros/escribir-un-fichero-iso-latin-1
-author: victor_cuervo
 type: doc
 topic: java
 id: 2c8a9dfb-adca-81cb-b437-cd8de7397137
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/encoding/EscribirFicheroISO1.java
 ---
 

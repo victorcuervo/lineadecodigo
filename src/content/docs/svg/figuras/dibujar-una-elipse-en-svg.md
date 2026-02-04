@@ -5,10 +5,10 @@ date: 2008-01-11
 updatedDate: 2026-01-07
 tags: ["fill","elipse","ellipse"]
 slug: svg/figuras/dibujar-una-elipse-en-svg
-author: victor_cuervo
 type: doc
 topic: svg
 id: 2c8a9dfb-adca-8194-b9cb-d4bd50c511f8
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/figuras/dibujar-una-elipse.svg
 ---
 

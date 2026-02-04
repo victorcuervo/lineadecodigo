@@ -5,10 +5,10 @@ date: 2026-01-24
 updatedDate: 2026-01-24
 tags: []
 slug: xml/procesamiento
-author: victor_cuervo
 type: category
 topic: xml
 id: 2f2a9dfb-adca-808c-920a-f9c7893f4a33
+author: victor_cuervo
 ---
 
 **Objetivo:** Manipular y consumir documentos XML desde aplicaciones.

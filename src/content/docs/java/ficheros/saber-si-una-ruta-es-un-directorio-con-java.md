@@ -5,10 +5,10 @@ date: 2009-02-01
 updatedDate: 2026-01-09
 tags: ["file","directorio","isdirectory"]
 slug: java/ficheros/saber-si-una-ruta-es-un-directorio-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: c52de193-e53f-47e2-a1d8-40fddadd61c5
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/EsUnDirectorio.java
 ---
 

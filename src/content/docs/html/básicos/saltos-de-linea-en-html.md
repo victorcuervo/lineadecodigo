@@ -5,10 +5,10 @@ date: 2006-11-29
 updatedDate: 2026-01-06
 tags: ["br"]
 slug: html/basicos/saltos-de-linea-en-html
-author: victor_cuervo
 type: doc
 topic: html
 id: 7abe0e38-37d5-48ac-9a0d-f0cb21ab8060
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/salto-de-linea.html
 ---
 

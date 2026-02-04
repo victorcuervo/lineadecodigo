@@ -5,10 +5,10 @@ date: 2018-10-23
 updatedDate: 2026-01-23
 tags: ["accesibilidad","nav","aria-labelledby"]
 slug: html/accesibilidad/navegacion-primaria-en-html5-accesible
-author: victor_cuervo
 type: doc
 topic: html
 id: 04ebcbd3-3201-4f1b-a0c1-95f0153895de
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Sem%C3%A1ntica/navegacion-primaria.html
 ---
 

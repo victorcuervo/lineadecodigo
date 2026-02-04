@@ -5,10 +5,10 @@ date: 2009-12-30
 updatedDate: 2026-01-24
 tags: ["count","xsl:value-of","xsl:for-each","xpath"]
 slug: xml/transformacion/numero-de-elementos-de-un-fichero-xml
-author: victor_cuervo
 type: doc
 topic: xml
 id: 1e79bf56-9741-421a-9acf-f808c651229a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_xml/tree/master/xslt/numero-de-elementos
 ---
 

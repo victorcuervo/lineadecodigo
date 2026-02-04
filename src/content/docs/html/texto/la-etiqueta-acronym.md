@@ -5,10 +5,10 @@ date: 2006-12-02
 updatedDate: 2026-01-06
 tags: ["acronym"]
 slug: html/texto/la-etiqueta-acronym
-author: victor_cuervo
 type: doc
 topic: html
 id: 2c5a9dfb-adca-800c-afc2-d4976375f3af
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/texto/acronimos-en-html.html
 ---
 

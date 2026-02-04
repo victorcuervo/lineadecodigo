@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/selectores-y-pseudoclases
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-8007-a953-f661b43ff99b
+author: victor_cuervo
 ---
 
 # Selectores CSS y pseudoclases: cómo apuntar con precisión a los elementos

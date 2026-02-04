@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/arquitectura
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-806e-9312-fa92470e7d92
+author: victor_cuervo
 ---
 
 # Arquitectura CSS: cómo estructurar estilos escalables y mantenibles

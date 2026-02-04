@@ -5,10 +5,10 @@ date: 2019-01-15
 updatedDate: 2026-01-19
 tags: ["video","getelementbyid","requestfullscreen"]
 slug: html/video/video-a-pantalla-completa
-author: victor_cuervo
 type: doc
 topic: html
 id: 7616d993-b062-4e4c-bb5d-cc3132e10a69
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Fullscreen%20API/video-pantalla-completa.html
 ---
 

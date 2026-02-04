@@ -5,10 +5,10 @@ date: 2009-01-17
 updatedDate: 2026-01-19
 tags: ["sup","superindice"]
 slug: html/texto/superindice-con-html
-author: victor_cuervo
 type: doc
 topic: html
 id: f83cfced-9694-4ec1-baee-e5f61f7378f2
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/texto/superindice.html
 ---
 

@@ -5,10 +5,10 @@ date: 2022-05-05
 updatedDate: 2026-01-21
 tags: ["iframe","frame","width","height"]
 slug: html/frames/crear-un-iframe
-author: victor_cuervo
 type: doc
 topic: html
 id: 160fe2d3-410f-4f9c-863b-b0311e285a27
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/frames/crear-iframe.html
 ---
 

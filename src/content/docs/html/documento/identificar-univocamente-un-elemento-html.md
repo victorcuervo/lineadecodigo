@@ -5,10 +5,10 @@ date: 2008-12-29
 updatedDate: 2026-01-24
 tags: ["div","img","id"]
 slug: html/documento/identificar-univocamente-un-elemento-html
-author: victor_cuervo
 type: doc
 topic: html
 id: 608898b1-cf78-40f4-b929-914059435999
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/basicos/identificar-univocamente.html
 ---
 

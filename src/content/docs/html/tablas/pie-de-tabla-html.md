@@ -5,10 +5,10 @@ date: 2015-06-04
 updatedDate: 2026-01-19
 tags: ["tfoot","table","thead","html","tr","td"]
 slug: html/tablas/pie-de-tabla-html
-author: victor_cuervo
 type: doc
 topic: html
 id: 83711615-0207-4a46-983e-4001b676dcc3
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/pie-de-tabla.html
 ---
 

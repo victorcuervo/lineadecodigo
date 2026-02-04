@@ -5,10 +5,10 @@ date: 2012-01-18
 updatedDate: 2026-01-11
 tags: ["array"]
 slug: javascript/arrays/inicializar-un-array-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 5bfc1670-3817-4f9b-8e9e-33831180afa5
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/inicializar-array.js
 ---
 

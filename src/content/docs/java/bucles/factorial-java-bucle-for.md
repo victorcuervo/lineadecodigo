@@ -5,10 +5,10 @@ date: 2017-10-07
 updatedDate: 2026-01-10
 tags: ["bucles","for"]
 slug: java/bucles/factorial-java-bucle-for
-author: victor_cuervo
 type: doc
 topic: java
 id: dcb11fb7-5c3a-41c9-a61b-a86410b07ede
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/FactorialDeUnNumeroFor.java
 ---
 

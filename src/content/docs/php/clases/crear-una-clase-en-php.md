@@ -5,10 +5,10 @@ date: 2023-05-21
 updatedDate: 2026-01-07
 tags: ["clase","atributos","getter","setter","class","objeto","public","private","protected","construct","function","new"]
 slug: php/clases/crear-una-clase-en-php
-author: victor_cuervo
 type: doc
 topic: php
 id: 030d4e24-c624-4206-ae7b-35a523116729
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/objetos/crear-clase.php
 ---
 

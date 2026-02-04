@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/layout
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-804f-8f91-f41cbc9a31b3
+author: victor_cuervo
 ---
 
 # Layout en CSS: estructurando la página

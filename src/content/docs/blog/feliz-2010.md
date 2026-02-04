@@ -5,10 +5,11 @@ date: 2010-01-01
 updatedDate: 2026-01-07
 tags: ["felicitacion"]
 slug: blog/feliz-2010
-author: lineadecodigo
 type: blog
 topic: blog
 id: 2c8a9dfb-adca-814a-ba4e-ee92b360d4c7
+authors:
+  - lineadecodigo
 ---
 
 Desde [Linea de Código](http://lineadecodigo.com/) os deseamos un...

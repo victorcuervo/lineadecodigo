@@ -5,10 +5,10 @@ date: 2015-02-03
 updatedDate: 2026-01-11
 tags: ["constantes","variables","integer","long","double"]
 slug: java/variables/valores-maximo-y-minimo-de-los-tipos-primitivos-java
-author: victor_cuervo
 type: doc
 topic: java
 id: e82931e1-38e3-4556-a849-d3b0f45da368
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/variables/ValoresMaxMin.java
 ---
 

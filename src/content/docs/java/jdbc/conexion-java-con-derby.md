@@ -5,10 +5,10 @@ date: 2016-10-15
 updatedDate: 2026-01-08
 tags: ["apache-derby","maven","preparedstatement","drivermanager","statement","resultset","executequery","executebatch","create","insert","jdbc"]
 slug: java/jdbc/conexion-java-con-derby
-author: victor_cuervo
 type: doc
 topic: java
 id: 2cf1677b-6147-4826-b53c-68d8f58b3b05
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConexionApacheDerby.java
 ---
 

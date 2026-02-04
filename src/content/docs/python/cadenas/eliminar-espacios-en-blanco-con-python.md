@@ -5,10 +5,10 @@ date: 2022-05-18
 updatedDate: 2026-01-06
 tags: ["strip","replace","split","join"]
 slug: python/cadenas/eliminar-espacios-en-blanco-con-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 693d9cfd-5a2e-4476-b912-c830ea4cf027
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/eliminar-espacios-blanco.py
 ---
 

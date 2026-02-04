@@ -5,10 +5,10 @@ date: 2006-12-28
 updatedDate: 2026-01-07
 tags: ["hola-mundo","text","font-family","font-size","fill"]
 slug: svg/basicos/hola-mundo-en-svg
-author: victor_cuervo
 type: doc
 topic: svg
 id: 2c8a9dfb-adca-81e5-ac15-e978d7531936
+author: victor_cuervo
 ---
 
 Resulta un poco extraño explicar un ejemplo de como hacer un "Hola Mundo" en un lenguaje destinado a los gráficos vectoriales. Pero es posible. Y es que nadie ha dicho que no haya texto dentro de los gráficos. Por ejemplo, imaginemos un mapa terrestre (ahora que está de moda el tema de [Google Earth](http://earth.google.com/)) con las localizaciones de las ciudades, pueblos y accidentes geográficos.

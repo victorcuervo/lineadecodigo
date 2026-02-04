@@ -5,10 +5,10 @@ date: 2015-06-23
 updatedDate: 2026-02-03
 tags: ["blockquote","footer","cite"]
 slug: bootstrap/texto/citas-en-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: 3e9537ea-edf5-4802-b3b5-582a137ab162
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/citas-bootstrap.html
 ---
 

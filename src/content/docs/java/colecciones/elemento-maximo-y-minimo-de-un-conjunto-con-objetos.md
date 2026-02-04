@@ -5,10 +5,10 @@ date: 2007-07-08
 updatedDate: 2026-01-08
 tags: ["java-collection","comparator","max","min","compare","equals","class"]
 slug: java/colecciones/elemento-maximo-y-minimo-de-un-conjunto-con-objetos
-author: victor_cuervo
 type: doc
 topic: java
 id: c51581ea-38fe-4565-bf7a-39cd339e9e1b
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/ElementoMaximoMinimoConjunto.java
 ---
 

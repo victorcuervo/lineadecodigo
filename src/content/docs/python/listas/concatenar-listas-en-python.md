@@ -5,10 +5,10 @@ date: 2015-11-20
 updatedDate: 2026-01-05
 tags: ["listas","iterable","len","extend"]
 slug: python/listas/concatenar-listas-en-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 5ed2accd-e897-4a12-b690-8193559a4d0a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/listas/concatenar_listas.py
 ---
 

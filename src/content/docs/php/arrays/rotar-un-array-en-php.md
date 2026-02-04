@@ -5,10 +5,10 @@ date: 2014-10-20
 updatedDate: 2026-01-08
 tags: ["array","for","array_shift","array_push"]
 slug: php/arrays/rotar-un-array-en-php
-author: victor_cuervo
 type: doc
 topic: php
 id: f62c4c88-41b7-47de-9ac4-c5807c7a87b6
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/arrays/rotar-array.php
 ---
 

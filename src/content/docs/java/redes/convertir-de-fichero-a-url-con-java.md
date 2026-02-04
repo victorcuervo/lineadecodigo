@@ -5,10 +5,10 @@ date: 2011-10-13
 updatedDate: 2026-01-09
 tags: ["file","url","try-catch","fichero","path","java-io","java-net","malformedurl"]
 slug: java/redes/convertir-de-fichero-a-url-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 5fa9b9dc-9112-4338-bcf0-25ad254062bd
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/ConvertirFicheroEnURL.java
 ---
 

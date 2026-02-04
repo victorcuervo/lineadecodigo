@@ -5,10 +5,10 @@ date: 2025-02-09
 updatedDate: 2026-01-05
 tags: ["video","onseek","currenttimemillis","source","getelementbyid"]
 slug: html/video/buscar-por-un-video-en-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 789d62d0-9653-4c9a-96c5-3d7015689f20
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Video/buscar-por-video.html
 ---
 

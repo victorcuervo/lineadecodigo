@@ -5,10 +5,10 @@ date: 2026-01-17
 updatedDate: 2026-01-17
 tags: []
 slug: css/transformaciones-y-animaciones
-author: victor_cuervo
 type: category
 topic: css
 id: 2eba9dfb-adca-80ad-b228-e5f80914f26b
+author: victor_cuervo
 ---
 
 # Transformaciones, transiciones y animaciones en CSS

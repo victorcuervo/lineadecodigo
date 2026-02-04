@@ -5,10 +5,10 @@ date: 2007-08-29
 updatedDate: 2026-01-21
 tags: ["embed","object"]
 slug: html/video/cargar-un-video-avi-asf-o-wmv-en-mi-pagina-web
-author: victor_cuervo
 type: doc
 topic: html
 id: 9376562d-61bc-4450-8a1d-c689258a99d6
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/tree/master/video-y-sonido/cargar-video
 ---
 

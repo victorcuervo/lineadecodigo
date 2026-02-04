@@ -5,10 +5,10 @@ date: 2015-02-02
 updatedDate: 2026-01-09
 tags: ["variables","char","byte","short","long","double","int","float"]
 slug: java/variables/tipos-primitivos-de-datos-en-java
-author: victor_cuervo
 type: doc
 topic: java
 id: b43b4bbd-0b0e-4d3d-a8af-149d41a703f8
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/variables/ValoresPorDefecto.java
 ---
 

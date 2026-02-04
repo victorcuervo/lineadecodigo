@@ -5,10 +5,10 @@ date: 2011-05-30
 updatedDate: 2026-01-08
 tags: ["scanner","if","nextint","println"]
 slug: java/numeros/mayor-de-dos-numeros
-author: victor_cuervo
 type: doc
 topic: java
 id: 0009f267-0f3d-4a12-b08f-ab6fd194e4bb
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/MayorDosNumeros.java
 ---
 

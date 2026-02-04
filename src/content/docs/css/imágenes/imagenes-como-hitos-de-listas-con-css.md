@@ -5,10 +5,10 @@ date: 2007-10-08
 updatedDate: 2026-01-07
 tags: ["list-style-image","lista","ul","ol","list-style-type","url"]
 slug: css/imagenes/imagenes-como-hitos-de-listas-con-css
-author: victor_cuervo
 type: doc
 topic: css
 id: 1c41ae53-b63c-4470-8354-95ab3b0d05bb
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_css/imagenes/imagenes-como-hitos-de-listas.html
 ---
 

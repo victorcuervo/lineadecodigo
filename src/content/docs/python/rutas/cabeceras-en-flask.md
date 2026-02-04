@@ -5,10 +5,10 @@ date: 2016-03-29
 updatedDate: 2026-01-17
 tags: ["response","http","cabeceras","make_response","headers"]
 slug: python/rutas/cabeceras-en-flask
-author: victor_cuervo
 type: doc
 topic: python
 id: 8571b965-437d-496d-a309-48a8223606b6
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/flask/cabeceras.py
 ---
 

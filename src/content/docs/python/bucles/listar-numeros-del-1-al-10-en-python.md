@@ -5,10 +5,10 @@ date: 2025-02-05
 updatedDate: 2026-01-05
 tags: ["bucles","while","for","range"]
 slug: python/bucles/listar-numeros-del-1-al-10-en-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 1fae69c0-2063-4a9b-af88-312785011fba
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/basicos/recorrer-numeros.py
 ---
 

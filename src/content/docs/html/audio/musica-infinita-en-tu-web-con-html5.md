@@ -5,10 +5,10 @@ date: 2012-05-20
 updatedDate: 2026-01-23
 tags: ["audio","autoplay","loop"]
 slug: html/audio/musica-infinita-en-tu-web-con-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 7e076feb-2f24-46e7-9a94-d2f77542452a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Audio/musica-infinita.html
 ---
 

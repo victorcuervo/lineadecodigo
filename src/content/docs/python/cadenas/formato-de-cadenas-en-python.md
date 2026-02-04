@@ -5,10 +5,10 @@ date: 2023-10-12
 updatedDate: 2026-01-06
 tags: ["operador-porcentaje","format"]
 slug: python/cadenas/formato-de-cadenas-en-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 24f69db4-b047-42f4-a6c5-732123fcd5bd
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/formato-cadenas.py
 ---
 

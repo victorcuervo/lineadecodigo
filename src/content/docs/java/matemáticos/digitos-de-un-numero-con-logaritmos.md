@@ -5,10 +5,10 @@ date: 2020-03-19
 updatedDate: 2026-01-11
 tags: ["math","log","logaritmo","digitos","numeros"]
 slug: java/matematicos/digitos-de-un-numero-con-logaritmos
-author: victor_cuervo
 type: doc
 topic: java
 id: e5ec770d-851e-4015-860a-bad0de954143
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/NumeroDigitosLogaritmo.java
 ---
 

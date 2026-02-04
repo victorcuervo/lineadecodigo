@@ -5,10 +5,10 @@ date: 2007-06-02
 updatedDate: 2026-01-13
 tags: ["screen","width","height","availablewidth","availableheight"]
 slug: javascript/navegador/resolucion-de-la-pantalla
-author: victor_cuervo
 type: doc
 topic: javascript
 id: af976270-961d-492d-91d5-32e7d2d6b4e6
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/resolucion-de-pantalla.html
 ---
 

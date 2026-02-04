@@ -5,10 +5,10 @@ date: 2013-10-11
 updatedDate: 2026-02-03
 tags: ["cursiva","em"]
 slug: bootstrap/texto/texto-en-cursiva-con-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: d56d6822-98a4-4743-bf5d-eaa710537daf
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/texto/texto-cursiva.html
 ---
 

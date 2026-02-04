@@ -5,10 +5,10 @@ date: 2022-05-02
 updatedDate: 2026-01-15
 tags: ["json","api","rest","http","url","requests","get"]
 slug: python/json/cargar-json-desde-una-url-con-python
-author: victor_cuervo
 type: doc
 topic: python
 id: da241bb7-cbc0-4fa2-9cc7-bbdeff2889a1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/json/cargar-json-url.py
 ---
 

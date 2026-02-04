@@ -5,10 +5,10 @@ date: 2026-01-04
 updatedDate: 2026-01-10
 tags: []
 slug: java
-author: victor_cuervo
 type: category
 topic: java
 id: 2dea9dfb-adca-8050-a06d-fc1d979b3ad5
+author: victor_cuervo
 ---
 
 La **programación en Java** nos permite crear una gran variedad de aplicaciones, desde desarrollos web y aplicaciones móviles hasta aplicaciones de servidor con acceso a datos.

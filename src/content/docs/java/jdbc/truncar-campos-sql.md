@@ -5,10 +5,10 @@ date: 2016-10-26
 updatedDate: 2026-01-09
 tags: ["jdbc","connection","resultset","statement","executequery","executeupdate","sqlexception","insert","select","exception"]
 slug: java/jdbc/truncar-campos-sql
-author: victor_cuervo
 type: doc
 topic: java
 id: 2b467955-d95b-44e4-970e-e7f4a71008ee
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/TruncarCampos.java
 ---
 

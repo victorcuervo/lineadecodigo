@@ -5,10 +5,10 @@ date: 2008-02-29
 updatedDate: 2026-01-12
 tags: ["innerhtml","href","target","enlaces","formulario","input","getelementbyid"]
 slug: dom/manipulacion/modificar-los-enlaces-con-javascript
-author: victor_cuervo
 type: doc
 topic: dom
 id: 5a9925b9-29dc-4c58-8615-f78c04e2dfb0
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/modificar-enlace.html
 ---
 

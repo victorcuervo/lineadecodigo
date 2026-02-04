@@ -5,10 +5,10 @@ date: 2015-06-18
 updatedDate: 2026-01-18
 tags: ["table","tr","td","img"]
 slug: html/tablas/tablas-html-con-imagenes
-author: victor_cuervo
 type: doc
 topic: html
 id: e5da0fe2-2895-443a-8211-078665f84985
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/tablas/imagen-en-tabla.html
 ---
 

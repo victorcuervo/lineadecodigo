@@ -5,10 +5,10 @@ date: 2008-01-12
 updatedDate: 2026-01-09
 tags: ["servlet","httpservletrequest","printwriter","httpservletresponse","doget","dopost","getremotehost","getremoteaddr"]
 slug: javaee/servlet/obtener-la-ip-que-invoca-al-servlet
-author: victor_cuervo
 type: doc
 topic: javaee
 id: f3992b38-da80-45b2-b89a-e8bef1a243a7
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/java/com/lineadecodigo/javaee/servlet/ObtenerIP.java
 ---
 

@@ -5,10 +5,10 @@ date: 2012-10-17
 updatedDate: 2026-01-21
 tags: ["microdata","geocoordinates","itemscope","itemtype","itemprop"]
 slug: html/semantica/microdata-para-una-geolocalizacion-con-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 2c8a9dfb-adca-812e-8b01-ee25d32fbaa6
+author: victor_cuervo
 download: http://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_web/WebContent/markup/HTML5/Microdata/geolocalizacion.html
 ---
 

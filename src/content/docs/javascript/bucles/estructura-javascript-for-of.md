@@ -5,10 +5,10 @@ date: 2013-05-17
 updatedDate: 2026-01-13
 tags: ["array","bucles","for-of","objeto"]
 slug: javascript/bucles/estructura-javascript-for-of
-author: victor_cuervo
 type: doc
 topic: javascript
 id: f930f5cb-4638-4d90-a229-eb7860fba002
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/for-of.html
 ---
 

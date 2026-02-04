@@ -5,10 +5,10 @@ date: 2014-02-02
 updatedDate: 2026-01-28
 tags: ["find","like","expresiones_regulares"]
 slug: mongodb/consultas/consultas-mongodb-like
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: 162e06f6-3109-498c-a324-ad8b0b9187d1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/like.js
 ---
 

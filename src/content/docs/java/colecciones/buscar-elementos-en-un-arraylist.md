@@ -5,10 +5,10 @@ date: 2021-10-13
 updatedDate: 2026-01-08
 tags: ["java-collection","arraylist","indexof"]
 slug: java/colecciones/buscar-elementos-en-un-arraylist
-author: victor_cuervo
 type: doc
 topic: java
 id: 334a1d5b-199d-4d0c-b828-5272a0383d62
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/BuscarElementoArrayList.java
 ---
 

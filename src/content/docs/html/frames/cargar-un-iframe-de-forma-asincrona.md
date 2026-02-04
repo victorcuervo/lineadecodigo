@@ -5,10 +5,10 @@ date: 2023-10-16
 updatedDate: 2026-01-05
 tags: ["iframe","asincrono"]
 slug: html/frames/cargar-un-iframe-de-forma-asincrona
-author: victor_cuervo
 type: doc
 topic: html
 id: 520e6ad6-f6dc-45f7-b27a-b715a7282abc
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/IFrame/cargar-iframe-diferido.html
 ---
 

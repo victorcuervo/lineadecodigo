@@ -5,10 +5,10 @@ date: 2016-01-23
 updatedDate: 2026-01-28
 tags: ["object","insert"]
 slug: mongodb/inserciones/insertar-documento-en-mongodb
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: f12aeb27-5380-444e-a47a-07e7a79cbf8e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_mongodb/blob/master/mongodb-crud/mongodb-insert/insert.js
 ---
 

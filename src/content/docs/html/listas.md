@@ -5,10 +5,10 @@ date: 2026-01-18
 updatedDate: 2026-01-18
 tags: []
 slug: html/listas
-author: victor_cuervo
 type: doc
 topic: html
 id: 2eca9dfb-adca-809f-976d-c2b38f6a6b5c
+author: victor_cuervo
 ---
 
 # Listas

@@ -5,10 +5,10 @@ date: 2012-08-29
 updatedDate: 2026-01-21
 tags: ["canvas","getelementbyid","modernizr"]
 slug: html/graficos/detectar-el-soporte-del-canvas-de-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 2c8a9dfb-adca-81ee-a666-fd89de9d7bd3
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas/comprobar-soporte-canvas.html
 ---
 

@@ -5,10 +5,10 @@ date: 2023-10-05
 updatedDate: 2026-01-21
 tags: ["hash","location","onhashchange"]
 slug: webapi/navegador/navegacion-spa-por-hash
-author: victor_cuervo
 type: doc
 topic: webapi
 id: 620132d7-c7a5-4f11-a2d7-24c9093457a6
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/P%C3%A1gina/controlar-navegacion-hash.html
 ---
 

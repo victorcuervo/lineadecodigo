@@ -5,10 +5,10 @@ date: 2013-11-04
 updatedDate: 2026-01-28
 tags: ["db","findone"]
 slug: mongodb/consultas/consultar-un-documento-con-mongodb-findone
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: 03aa5e5e-ed93-4eae-9223-355c6313230f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_mongodb/mongodb-crud/findOne.js
 ---
 

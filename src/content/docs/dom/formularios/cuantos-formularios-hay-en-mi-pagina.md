@@ -5,10 +5,10 @@ date: 2008-02-27
 updatedDate: 2026-01-13
 tags: ["form","forms"]
 slug: dom/formularios/cuantos-formularios-hay-en-mi-pagina
-author: victor_cuervo
 type: doc
 topic: dom
 id: 2c8a9dfb-adca-8192-a538-d6f886afe58b
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/numero-de-formularios.html
 ---
 

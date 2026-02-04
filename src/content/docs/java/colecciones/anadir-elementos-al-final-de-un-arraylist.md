@@ -5,10 +5,10 @@ date: 2014-10-22
 updatedDate: 2026-01-11
 tags: ["java-collection","arraylist","vector","add","addall"]
 slug: java/colecciones/anadir-elementos-al-final-de-un-arraylist
-author: victor_cuervo
 type: doc
 topic: java
 id: 7a475bad-71a3-4eb3-bc95-52f0162e8ded
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/AddElementosFinalLista.java
 ---
 

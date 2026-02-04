@@ -5,10 +5,10 @@ date: 2016-03-16
 updatedDate: 2026-01-09
 tags: ["string","stringbuilder","tolowercase","touppercase","character","charat","setchatat"]
 slug: java/strings/palabra-con-mayusculas-y-minusculas
-author: victor_cuervo
 type: doc
 topic: java
 id: 5595d272-f9f6-44d6-8601-8547e4bec4d1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/CadenaMayusMinuscAlternativos.java
 ---
 

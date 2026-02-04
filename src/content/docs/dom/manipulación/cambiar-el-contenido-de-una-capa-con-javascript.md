@@ -5,10 +5,10 @@ date: 2008-03-03
 updatedDate: 2026-01-13
 tags: ["div","getelementbyid","innerhtml","textarea","onclick"]
 slug: dom/manipulacion/cambiar-el-contenido-de-una-capa-con-javascript
-author: victor_cuervo
 type: doc
 topic: dom
 id: a3d969b6-cb11-46f9-89ac-9f4ed0a66204
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/cambiar-contenido-capa.html
 ---
 

@@ -5,10 +5,10 @@ date: 2006-11-03
 updatedDate: 2026-01-06
 tags: ["delete","jdbc","drivemanager","executeupdate","preparedstatement","sqlexception","where"]
 slug: java/jdbc/borrado-de-datos-con-jdbc
-author: victor_cuervo
 type: doc
 topic: java
 id: 1eb07fc2-e456-4805-8c56-dc0a465f3773
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/BorrarDatos.java
 ---
 

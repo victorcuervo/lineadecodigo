@@ -5,10 +5,10 @@ date: 2016-01-21
 updatedDate: 2026-01-28
 tags: ["db","update","push","each"]
 slug: mongodb/inserciones/anadir-n-elementos-a-un-array-en-mongodb
-author: victor_cuervo
 type: doc
 topic: mongodb
 id: fa3f5175-822f-452c-95df-0ee38167f553
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_mongodb/blob/master/mongodb-array/insertar-n-elementos-array.js
 ---
 

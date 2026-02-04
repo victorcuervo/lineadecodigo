@@ -5,10 +5,10 @@ date: 2009-01-02
 updatedDate: 2026-01-24
 tags: ["a","href","hreflang"]
 slug: html/enlaces/idioma-del-enlace-en-html
-author: victor_cuervo
 type: doc
 topic: html
 id: 2c8a9dfb-adca-81d0-ac8a-f3ad386e24b4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/idioma-del-enlace.html
 ---
 

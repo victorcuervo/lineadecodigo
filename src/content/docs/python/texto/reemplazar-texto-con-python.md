@@ -5,10 +5,10 @@ date: 2023-10-15
 updatedDate: 2026-01-05
 tags: ["replace"]
 slug: python/texto/reemplazar-texto-con-python
-author: victor_cuervo
 type: doc
 topic: python
 id: 494d2f6a-a06d-49c5-800d-d504fcb58762
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/cadenas/reemplazar-subcadena.py
 ---
 

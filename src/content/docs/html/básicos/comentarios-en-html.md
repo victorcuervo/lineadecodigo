@@ -5,10 +5,10 @@ date: 2006-12-09
 updatedDate: 2026-01-05
 tags: ["comentarios"]
 slug: html/basicos/comentarios-en-html
-author: victor_cuervo
 type: doc
 topic: html
 id: 2c5a9dfb-adca-8058-bc0a-ea9f79e1e878
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/basicos/comentarios-en-html.html
 ---
 

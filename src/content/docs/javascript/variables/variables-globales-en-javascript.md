@@ -5,10 +5,10 @@ date: 2021-09-27
 updatedDate: 2026-01-11
 tags: ["variables","var"]
 slug: javascript/variables/variables-globales-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 7321eb24-5dd1-4bcd-b737-df965449d08e
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/basicos/variable-global.js
 ---
 

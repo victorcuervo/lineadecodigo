@@ -5,10 +5,10 @@ date: 2016-10-23
 updatedDate: 2026-01-08
 tags: ["java-collection","arraylist","scanner"]
 slug: java/basicos/leer-numeros-por-teclado-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: f6f26303-b9d0-4dbf-b2a1-9f55ffb460bd
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/LeerNumerosConsola.java
 ---
 

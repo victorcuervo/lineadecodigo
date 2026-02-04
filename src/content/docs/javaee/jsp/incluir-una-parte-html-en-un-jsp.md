@@ -5,10 +5,10 @@ date: 2006-11-17
 updatedDate: 2026-01-06
 tags: ["jsp","include"]
 slug: javaee/jsp/incluir-una-parte-html-en-un-jsp
-author: victor_cuervo
 type: doc
 topic: javaee
 id: 2826d4ce-7a3b-4e52-b8c9-bbb84feb4ee8
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javaee/tree/master/src/main/webapp/include-jsp
 ---
 

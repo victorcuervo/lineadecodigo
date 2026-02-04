@@ -5,10 +5,10 @@ date: 2012-09-11
 updatedDate: 2026-01-24
 tags: ["canvas","image","todataurl"]
 slug: html/graficos/exportar-el-contenido-de-un-canvas-html5-a-una-imagen
-author: victor_cuervo
 type: doc
 topic: html
 id: 9959512a-726c-4c2b-a1d3-41b150aae605
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas/exportar-canvas-a-imagen.html
 ---
 

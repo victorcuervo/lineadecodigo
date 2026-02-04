@@ -5,10 +5,10 @@ date: 2007-01-11
 updatedDate: 2026-01-05
 tags: ["form","input","document","getelementbyid","eval"]
 slug: javascript/funciones/calculo-de-totales-y-subtotales-en-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: 91b244b9-afe0-4f29-8090-6a6e42a41b20
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/formularios/calculo-totales-subtotales.html
 ---
 

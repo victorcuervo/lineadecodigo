@@ -5,10 +5,10 @@ date: 2008-03-23
 updatedDate: 2026-01-12
 tags: ["window","open","close","settimeout"]
 slug: javascript/navegador/abrir-y-cerrar-una-ventana
-author: victor_cuervo
 type: doc
 topic: javascript
 id: df7ff69a-f285-4316-bd88-9130c82d2292
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/ventanas/abrir-y-cerrar-ventana.html
 ---
 

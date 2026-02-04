@@ -5,10 +5,10 @@ date: 2021-10-05
 updatedDate: 2026-01-09
 tags: ["jdbc","connection","mariadb","drivermanager","preparedstatement","resultset"]
 slug: java/jdbc/conectar-a-mariadb-con-java
-author: Víctor Cuervo
 type: doc
 topic: java
 id: 5ae84d19-cd9e-4db9-87f0-1d7029247fc4
+author: Víctor Cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConexionMariaDB.java
 ---
 

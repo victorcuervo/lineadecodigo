@@ -5,10 +5,10 @@ date: 2008-01-16
 updatedDate: 2026-01-08
 tags: ["calendar","gettime","dateformat","println"]
 slug: javaee/jsp/obtener-la-fecha-en-un-jsp
-author: victor_cuervo
 type: doc
 topic: javaee
 id: f1b98195-b9d1-446c-9836-14690f0b4774
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javaee/blob/master/src/main/webapp/obtener-fecha.jsp
 ---
 

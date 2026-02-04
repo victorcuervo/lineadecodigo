@@ -5,10 +5,10 @@ date: 2023-06-02
 updatedDate: 2026-01-13
 tags: ["eventtarget","addeventlistener","handleevent","clase","eventmanager","click","mousedown"]
 slug: dom/eventos/escuchar-eventos-con-clases
-author: victor_cuervo
 type: doc
 topic: dom
 id: 95bb034f-34e7-4d30-b711-2a6fc3793496
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_dom/blob/main/eventos/escuchar-evento-clase.html
 ---
 

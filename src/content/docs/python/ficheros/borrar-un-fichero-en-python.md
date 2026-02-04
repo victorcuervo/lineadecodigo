@@ -5,10 +5,10 @@ date: 2025-01-26
 updatedDate: 2026-01-05
 tags: ["try-except","os","exists","remove","filenotfounderror"]
 slug: python/ficheros/borrar-un-fichero-en-python
-author: victor_cuervo
 type: doc
 topic: python
 id: b56fc25d-d4d4-415f-bbd6-d984715f6931
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_python/blob/master/ficheros/borrar-fichero.py
 ---
 

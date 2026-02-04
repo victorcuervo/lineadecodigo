@@ -5,10 +5,10 @@ date: 2015-09-01
 updatedDate: 2026-01-09
 tags: ["java-collection","linkedlist","bufferedreader","java-io","filereader","iterator","readline"]
 slug: java/ficheros/leer-fichero-al-reves-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 48b727ee-e285-4b1f-93c5-ca2e2d41add1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/LeerFicheroAlReves.java
 ---
 

@@ -5,10 +5,10 @@ date: 2007-01-21
 updatedDate: 2026-01-07
 tags: ["a","enlaces","name","id"]
 slug: html/enlaces/enlace-a-una-parte-concreta-de-la-pagina
-author: victor_cuervo
 type: doc
 topic: html
 id: 4782f7de-4edd-4428-9c12-f9422d0a62ce
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/tree/master/enlaces/enlace-a-una-parte-concreta-de-la-pagina
 ---
 

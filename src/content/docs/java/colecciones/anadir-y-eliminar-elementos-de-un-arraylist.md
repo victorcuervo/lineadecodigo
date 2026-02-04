@@ -5,10 +5,10 @@ date: 2021-10-14
 updatedDate: 2026-01-08
 tags: ["java-collection","arraylist","bucles","while","add","do-while","remove","list","scanner","isempty"]
 slug: java/colecciones/anadir-y-eliminar-elementos-de-un-arraylist
-author: victor_cuervo
 type: doc
 topic: java
 id: 958e3ee6-88fc-485e-a5e3-d3a6900ba035
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/AddingDeletingElementsArrayList.java
 ---
 

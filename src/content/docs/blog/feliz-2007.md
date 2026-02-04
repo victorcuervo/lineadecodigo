@@ -5,10 +5,11 @@ date: 2006-12-31
 updatedDate: 2026-01-10
 tags: ["felicitacion"]
 slug: blog/feliz-2007
-author: lineadecodigo
 type: blog
 topic: blog
 id: 2c8a9dfb-adca-815f-a2ca-c19b34350e47
+authors:
+  - lineadecodigo
 ---
 
 Pues lo dicho... **¡¡¡ FELIZ 2007 ¡¡¡** Estos son momentos donde uno se para a pensar sobre lo que ha hecho el año pasado y sobre lo que va a hacer en el que se estrena. Son momentos para pensar en los buenos propósitos.

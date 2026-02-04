@@ -5,10 +5,10 @@ date: 2014-01-29
 updatedDate: 2026-01-12
 tags: ["location","hash"]
 slug: javascript/navegador/acceder-al-hash-de-la-url-con-javascript
-author: victor_cuervo
 type: doc
 topic: javascript
 id: ebc1aa7c-0bf7-4095-9b39-8a650c41a1e4
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/pagina/obtener-hash.html
 ---
 

@@ -5,10 +5,10 @@ date: 2006-11-04
 updatedDate: 2026-01-06
 tags: ["a","target","frame"]
 slug: html/frames/abrir-enlace-sobre-varios-frames
-author: victor_cuervo
 type: doc
 topic: html
 id: a0b521be-6fa5-4a7c-8249-6b29110671e1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/tree/master/lineadecodigo_html/enlaces/abrir-enlace-sobre-varios-frames
 ---
 

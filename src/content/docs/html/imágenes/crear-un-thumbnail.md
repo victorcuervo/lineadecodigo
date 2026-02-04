@@ -5,10 +5,10 @@ date: 2006-11-24
 updatedDate: 2026-01-06
 tags: ["imagenes","css","height","width","margin"]
 slug: html/imagenes/crear-un-thumbnail
-author: victor_cuervo
 type: doc
 topic: html
 id: 8005cbb2-afc6-4ec2-9f34-0c97ff4b544f
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/imagenes/crear-un-thumbnail.html
 ---
 

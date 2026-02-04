@@ -5,10 +5,10 @@ date: 2012-04-19
 updatedDate: 2026-01-21
 tags: ["form","autocomplete"]
 slug: html/formularios/autocompletar-formularios-con-html5
-author: victor_cuervo
 type: doc
 topic: html
 id: 119e1abe-4859-4ad0-b234-50af636d2705
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Formularios/autompletar-formulario.html
 ---
 

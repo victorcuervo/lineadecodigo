@@ -5,10 +5,10 @@ date: 2022-05-12
 updatedDate: 2026-01-08
 tags: ["java-collection","arraylist","size","trimetosize"]
 slug: java/colecciones/ajustar-la-capacidad-de-un-arraylist
-author: victor_cuervo
 type: doc
 topic: java
 id: a5d06f62-85a8-4d5b-8342-a4faec6e976a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/AjustarCapacidadArrayList.java
 ---
 

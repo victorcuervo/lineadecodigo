@@ -5,10 +5,10 @@ date: 2008-02-06
 updatedDate: 2026-01-11
 tags: ["file","write","close","exists","bufferedwriter","fileoutputstream","for","try-catch","ioexception","fichero","java-io","filewriter"]
 slug: java/ficheros/escribir-en-un-fichero-de-texto-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: 9c072725-880b-4095-862c-46281eb4d201
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/io/EscribirFicheroTexto.java
 ---
 

@@ -5,10 +5,10 @@ date: 2015-10-03
 updatedDate: 2026-02-02
 tags: ["form","form-group","form-inline","class"]
 slug: bootstrap/formularios/formulario-en-linea-con-bootstrap
-author: victor_cuervo
 type: doc
 topic: bootstrap
 id: 2c8a9dfb-adca-81fa-8f8e-ed2a8b7c31a9
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_bootstrap/blob/master/formularios/formulario-en-linea.html
 ---
 

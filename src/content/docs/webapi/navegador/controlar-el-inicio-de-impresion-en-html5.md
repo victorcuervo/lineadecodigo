@@ -5,10 +5,10 @@ date: 2023-10-07
 updatedDate: 2026-01-21
 tags: ["onbeforeprint","body"]
 slug: webapi/navegador/controlar-el-inicio-de-impresion-en-html5
-author: victor_cuervo
 type: doc
 topic: webapi
 id: 63d91025-3105-457a-a7a1-b531098295b1
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Impresi%C3%B3n/control-inicio-impresion.html
 ---
 

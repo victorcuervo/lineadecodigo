@@ -5,10 +5,10 @@ date: 2009-03-03
 updatedDate: 2026-01-08
 tags: ["array","bucles","for","if"]
 slug: java/arrays/numero-mayor-y-su-posicion
-author: victor_cuervo
 type: doc
 topic: java
 id: 50fd819f-a2a6-4820-84db-6aa608c93230
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/arrays/NumeroMayorPosicion.java
 ---
 

@@ -5,10 +5,10 @@ date: 2016-04-25
 updatedDate: 2026-01-11
 tags: ["html","a","href","try-catch","exception","jaunt"]
 slug: java/librerias/enlaces-de-una-web-con-java
-author: victor_cuervo
 type: doc
 topic: java
 id: abc63915-c825-43fd-9186-9cfe7d97d614
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/external/jaunt/ExtraerEnlaces.java
 ---
 

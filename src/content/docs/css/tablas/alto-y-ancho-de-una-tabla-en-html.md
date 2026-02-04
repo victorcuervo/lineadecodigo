@@ -5,10 +5,10 @@ date: 2015-06-24
 updatedDate: 2026-01-07
 tags: ["table","th","td","style","width","height","id"]
 slug: css/tablas/alto-y-ancho-de-una-tabla-en-html
-author: victor_cuervo
 type: doc
 topic: css
 id: 71eab17e-8bf3-4342-a513-af2b72b156c5
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/tablas/tabla-ancho-alto.html
 ---
 

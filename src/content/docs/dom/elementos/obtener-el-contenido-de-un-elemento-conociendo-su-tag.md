@@ -5,10 +5,10 @@ date: 2007-08-17
 updatedDate: 2026-01-13
 tags: ["getelementbyid","getelementsbytagname"]
 slug: dom/elementos/obtener-el-contenido-de-un-elemento-conociendo-su-tag
-author: victor_cuervo
 type: doc
 topic: dom
 id: 2c5a2c94-a39d-4d12-ac34-f0408385f87a
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/dom/obtener-el-contenido-de-un-elemento-por-su-tag.html
 ---
 
