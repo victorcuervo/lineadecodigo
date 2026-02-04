@@ -2,13 +2,13 @@
 title: "Ordenar un Vector de forma alfabética con Java"
 description: "Se explica cómo ordenar un Vector de forma alfabética con Java usando Comparator y métodos de comparación."
 date: 2009-03-25
-updatedDate: 2026-01-10
+updatedDate: 2026-02-04
 tags: ["java-collection","vector","comparable","string","java-util","comparator"]
 slug: java/colecciones/ordenar-un-vector-de-forma-alfabetica-con-java
 type: doc
 topic: java
 id: 10396393-e605-4bb0-976a-0bf1763343e5
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/OrdenarVectorAlfabeticamente.java
 ---
 

@@ -2,13 +2,13 @@
 title: "Área de un triangulo con Java"
 description: "Ejemplo sencillo que nos explica como podemos calcular el área de un triangulo con Java."
 date: 2007-02-11
-updatedDate: 2026-01-07
+updatedDate: 2026-02-04
 tags: ["Java Básicos"]
 slug: java/numeros/area-de-un-triangulo-con-java
 type: doc
 topic: java
 id: bacbf430-b750-4830-9a79-8a3cfbc6573c
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/AreaTriangulo.java
 ---
 

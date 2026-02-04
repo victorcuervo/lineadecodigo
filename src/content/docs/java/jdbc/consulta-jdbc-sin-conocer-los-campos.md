@@ -2,13 +2,13 @@
 title: "Consulta JDBC sin conocer los campos"
 description: "Cómo realizar una consulta JDBC sin conocer los campos y listar todo el contenido devuelto en el ResultSet."
 date: 2007-09-10
-updatedDate: 2026-01-11
+updatedDate: 2026-02-04
 tags: ["mysql","bases-de-datos","consulta","SQL Select","resultset","drivermanager","preparedstatement","sqlexception","executequery","try-catch","connection","resultsetmetadata"]
 slug: java/jdbc/consulta-jdbc-sin-conocer-los-campos
 type: doc
 topic: java
 id: 81ec4d63-e18b-4748-b6d5-e958b8f808fd
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/ConsultarTablaSinConocerCampos.java
 ---
 

@@ -2,13 +2,13 @@
 title: "Leer fichero ISO Latin 1"
 description: "Código fuente que nos explica cómo podemos leer fichero ISO Latin 1 en Java."
 date: 2011-09-16
-updatedDate: 2026-01-09
+updatedDate: 2026-02-04
 tags: ["bufferedreader","inputstreamreader","fileinputstream","encoding","iso","latin1","fichero","java-io","file"]
 slug: java/ficheros/leer-fichero-iso-latin-1
 type: doc
 topic: java
 id: 2c8a9dfb-adca-8135-a957-cc5b15112f98
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/encoding/LeerFicheroISO1.java
 ---
 

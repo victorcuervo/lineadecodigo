@@ -2,13 +2,13 @@
 title: "Parámetros por referencia en Java"
 description: "Explicando por qué parece que existe el paso de parámetros por referencia en Java cuando realmente todos los parámetros se pasan por valor."
 date: 2015-09-09
-updatedDate: 2026-01-09
+updatedDate: 2026-02-04
 tags: ["metodo","parametros","clase"]
 slug: java/clases/parametros-por-referencia-en-java
 type: doc
 topic: java
 id: a083f659-2025-4d97-bf68-ffe03ad8cbad
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/ParametrosReferencia.java
 ---
 

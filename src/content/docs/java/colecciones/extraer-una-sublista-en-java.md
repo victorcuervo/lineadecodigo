@@ -2,13 +2,13 @@
 title: "Extraer una sublista en Java"
 description: "Cómo utilizar el método .subList() de un ArrayLista para poder extraer una sublista en Java de elemento y almacenarlos en una nueva lista."
 date: 2021-10-25
-updatedDate: 2026-01-08
+updatedDate: 2026-02-04
 tags: ["java-collection","list","arraylist","sublist","iterator","size"]
 slug: java/colecciones/extraer-una-sublista-en-java
 type: doc
 topic: java
 id: eced210b-fe0f-46f0-89bc-085be10cddea
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/ExtraerSublista.java
 ---
 

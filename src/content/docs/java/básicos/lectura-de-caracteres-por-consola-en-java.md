@@ -2,13 +2,13 @@
 title: "Lectura de caracteres por consola en Java"
 description: "Uso de la clase System.in para poder realizar una lectura de caracteres por consola en Java."
 date: 2007-04-06
-updatedDate: 2026-01-11
+updatedDate: 2026-02-04
 tags: ["java-io","ioexception","java-system","read","ascii","casting","inputstream","while","bucles"]
 slug: java/basicos/lectura-de-caracteres-por-consola-en-java
 type: doc
 topic: java
 id: 7086dd24-a5c8-4786-b8f7-0835ef658515
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/LecturaDatosConsola.java
 ---
 

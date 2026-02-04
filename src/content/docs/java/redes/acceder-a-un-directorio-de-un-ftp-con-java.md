@@ -2,13 +2,13 @@
 title: "Acceder a un directorio de un FTP con Java"
 description: "Ejemplo de código fuente explicado para poder acceder a un directorio de un FTP con Java."
 date: 2012-03-22
-updatedDate: 2026-01-09
+updatedDate: 2026-02-04
 tags: ["java-net","ftpclient","connect","login","printworkingdirectory","changeworkingdirectory"]
 slug: java/redes/acceder-a-un-directorio-de-un-ftp-con-java
 type: doc
 topic: java
 id: 4fb37dc0-4154-48ec-aa2d-feb4f9c070cf
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/net/ftp/CambiarDirectorioFTP.java
 ---
 

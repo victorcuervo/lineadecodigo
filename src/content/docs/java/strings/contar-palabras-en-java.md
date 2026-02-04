@@ -2,13 +2,13 @@
 title: "Contar palabras en Java"
 description: "Uso de la clase StringTokenizer para contar palabras en Java."
 date: 2007-01-26
-updatedDate: 2026-01-08
+updatedDate: 2026-02-04
 tags: ["stringtokenizer","string","counttokens"]
 slug: java/strings/contar-palabras-en-java
 type: doc
 topic: java
 id: 3bcdbb3f-a8f0-4ebb-88bc-ed3c15a744ee
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/ContarPalabras.java
 ---
 

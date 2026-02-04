@@ -2,13 +2,13 @@
 title: "Imágenes con borde"
 description: "Cómo usar hojas de estilo CSS para tener imágenes con borde dentro de nuestras páginas web con los atributos border-style y border-width."
 date: 2007-06-04
-updatedDate: 2026-01-07
+updatedDate: 2026-02-04
 tags: ["imagenes","border","border-width","border-style"]
 slug: css/imagenes/imagenes-con-borde
 type: doc
 topic: css
 id: cd31c48e-aaf8-44bb-aae9-799a64fbc6c7
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_css/blob/master/imagenes/imagenes-con-borde.html
 ---
 

@@ -2,13 +2,13 @@
 title: "Recorrer un array en VBScript"
 description: "Este artículo explica cómo recorrer un array en VBScript utilizando un bucle for...next y la función UBound."
 date: 2010-11-10
-updatedDate: 2026-01-08
+updatedDate: 2026-02-04
 tags: ["array","for-next","recorrer","ubound"]
 slug: vbscript/arrays/recorrer-un-array-en-vbscript
 type: doc
 topic: vbscript
 id: 9e953049-aef5-4af2-8749-afdbfbf55682
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_vbscript/blob/master/arrays/recorrer-un-array.html
 ---
 

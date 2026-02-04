@@ -2,13 +2,13 @@
 title: "Calcular la hipotenusa con Java"
 description: "Uso de la clase Math para poder calcular la hipotenusa con Java."
 date: 2007-02-25
-updatedDate: 2026-01-08
+updatedDate: 2026-02-04
 tags: ["math","hipotenusa","sqrt","hypot","pow"]
 slug: java/math/calcular-la-hipotenusa-con-java
 type: doc
 topic: java
 id: d45d9450-8fa6-4c29-b56d-114d2d2790a1
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/Hipotenusa.java
 ---
 

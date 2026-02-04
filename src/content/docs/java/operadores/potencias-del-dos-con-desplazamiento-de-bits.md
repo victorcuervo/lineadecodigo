@@ -2,13 +2,13 @@
 title: "Potencias del dos con desplazamiento de bits"
 description: "Cómo poder calcular potencias del dos con desplazamiento de bits mediante Java."
 date: 2009-01-27
-updatedDate: 2026-01-08
+updatedDate: 2026-02-04
 tags: ["pow","bits","operadores"]
 slug: java/operadores/potencias-del-dos-con-desplazamiento-de-bits
 type: doc
 topic: java
 id: 156f0ee5-fc41-4b28-bf4c-36bb7a0837af
-author: Víctor Cuervo
+author: victor_cuervo
 download: http://code.google.com/p/lineadecodigo/source/browse/trunk/lineadecodigo_java/src/com/lineadecodigo/java/math/PotenciasDelDosConBits.java
 ---
 

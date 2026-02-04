@@ -2,13 +2,13 @@
 title: "Escribir un fichero UTF-8"
 description: "El artículo explica cómo escribir un fichero UTF-8 en Java utilizando OutputStream y BufferedWriter."
 date: 2011-10-12
-updatedDate: 2026-01-10
+updatedDate: 2026-02-04
 tags: ["java-io","bufferedreader","outputstream","ioexception","fileoutputstream","write","close","bufferedwriter"]
 slug: java/ficheros/escribir-un-fichero-utf-8
 type: doc
 topic: java
 id: 1ecc4dfc-73f9-4852-a851-8955a2db78dc
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/encoding/EscribirFicheroUTF8.java
 ---
 

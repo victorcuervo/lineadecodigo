@@ -2,13 +2,13 @@
 title: "Borrar un fichero con Java"
 description: "Código fuente explicado paso a paso para poder borrar un fichero con Java."
 date: 2008-02-26
-updatedDate: 2026-01-08
+updatedDate: 2026-02-04
 tags: ["file","delete"]
 slug: java/ficheros/borrar-un-fichero-con-java
 type: doc
 topic: java
 id: 48ea8571-2a79-43ab-b5cd-5cd90f3cb933
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/file/BorrarFichero.java
 ---
 

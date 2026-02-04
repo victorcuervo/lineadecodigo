@@ -2,13 +2,13 @@
 title: "Cargar combo desde BBDD con PHP PDO"
 description: "Se explica cómo cargar combo desde BBDD con PHP PDO utilizando una conexión y consultas a la base de datos."
 date: 2016-04-15
-updatedDate: 2026-01-08
+updatedDate: 2026-02-04
 tags: ["form","select","option","pdo","query","foreach"]
 slug: php/bases-de-datos/cargar-combo-desde-bbdd-con-php-pdo
 type: doc
 topic: php
 id: 65cd229f-469a-40b7-b9ba-9076ed4c4491
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/bbdd/pdo/cargar_combo_pdo.php
 ---
 

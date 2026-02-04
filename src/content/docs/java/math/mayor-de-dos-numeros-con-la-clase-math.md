@@ -2,13 +2,13 @@
 title: "Mayor de dos números con la clase Math"
 description: "Cálculo de cuál es el mayor de dos números con la clase Math de Java."
 date: 2012-10-19
-updatedDate: 2026-01-09
+updatedDate: 2026-02-04
 tags: ["max","scanner","nextint","math"]
 slug: java/math/mayor-de-dos-numeros-con-la-clase-math
 type: doc
 topic: java
 id: 527a7bf7-734b-4689-b5fc-770ab0d636cc
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/math/MayorDosNumerosMath.java
 ---
 

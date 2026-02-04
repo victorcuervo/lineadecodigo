@@ -2,13 +2,13 @@
 title: "Email a múltiples destinatarios con PHP"
 description: "Se explica cómo enviar un email a múltiples destinatarios con PHP utilizando la función mail y separando correos con comas."
 date: 2017-10-01
-updatedDate: 2026-01-08
+updatedDate: 2026-02-04
 tags: ["email","mail"]
 slug: php/mail/email-a-multiples-destinatarios-con-php
 type: doc
 topic: php
 id: 4f1f1147-ddc8-41b3-a7cc-f69501114c5b
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_php/blob/master/email/multiples-destinatarios.php
 ---
 

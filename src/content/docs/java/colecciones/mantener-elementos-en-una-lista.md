@@ -2,13 +2,13 @@
 title: "Mantener elementos en una lista"
 description: "Cómo utilizar el método .retainAll() para poder mantener elementos en una lista en Java y eliminar aquellos elementos que no nos interesan."
 date: 2021-10-26
-updatedDate: 2026-01-08
+updatedDate: 2026-02-04
 tags: ["java-collection","arraylist","retainall","iterator"]
 slug: java/colecciones/mantener-elementos-en-una-lista
 type: doc
 topic: java
 id: f1ecb915-9d7a-4744-83e4-d3c26bc79801
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/MantenerElementosLista.java
 ---
 

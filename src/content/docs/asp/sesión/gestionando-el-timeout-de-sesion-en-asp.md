@@ -2,13 +2,13 @@
 title: "Gestionando el TimeOut de sesión en ASP"
 description: "Gestionando el TimeOut de sesión en ASP permite establecer y forzar el tiempo de sesión del usuario en la web."
 date: 2010-03-26
-updatedDate: 2026-01-07
+updatedDate: 2026-02-04
 tags: ["session","timeout","abandon","response","write"]
 slug: asp/sesion/gestionando-el-timeout-de-sesion-en-asp
 type: doc
 topic: asp
 id: 73860b07-9d6c-4375-8599-3659cdc0a520
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_asp/blob/master/usuarios/time-out-sesion.asp
 ---
 

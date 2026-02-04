@@ -2,13 +2,13 @@
 title: "Primer punto de la cadena con Java"
 description: "Uso del método indexOf para poder localizar el primer punto de la cadena con Java"
 date: 2015-06-21
-updatedDate: 2026-01-09
+updatedDate: 2026-02-04
 tags: ["string","substring","length","indexof"]
 slug: java/strings/primer-punto-de-la-cadena-con-java
 type: doc
 topic: java
 id: 4260cf0e-70d1-4daa-96a9-1527c2192057
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/string/BuscarPrimerPunto.java
 ---
 

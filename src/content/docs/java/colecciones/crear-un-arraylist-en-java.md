@@ -2,13 +2,13 @@
 title: "Crear un ArrayList en Java"
 description: "Análisis de las tres formas en las que se puede crear un ArrayList en Java."
 date: 2014-09-28
-updatedDate: 2026-01-10
+updatedDate: 2026-02-04
 tags: ["java-collection","arraylist","vector","add"]
 slug: java/colecciones/crear-un-arraylist-en-java
 type: doc
 topic: java
 id: 1a95f121-8ab2-4336-8bb6-2f9137d3e12a
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/util/collections/lista/CrearArrayList.java
 ---
 

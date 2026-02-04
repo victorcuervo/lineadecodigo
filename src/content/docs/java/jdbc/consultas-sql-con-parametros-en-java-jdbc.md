@@ -2,13 +2,13 @@
 title: "Consultas SQL con parametros en Java JDBC"
 description: "Cómo realizar consultas SQL con parametros en Java JDBC utilizando la clase PreparedStatement."
 date: 2007-08-01
-updatedDate: 2026-01-09
+updatedDate: 2026-02-04
 tags: ["jdbc","preparedstatement","select"]
 slug: java/jdbc/consultas-sql-con-parametros-en-java-jdbc
 type: doc
 topic: java
 id: 0a44055e-a1a1-409a-a7e4-774749bf47ad
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/jdbc/SentenciasConValores.java
 ---
 

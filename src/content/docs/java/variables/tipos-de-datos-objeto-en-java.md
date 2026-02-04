@@ -2,13 +2,13 @@
 title: "Tipos de datos objeto en Java"
 description: "Ejemplo que nos enseña como podemos convertir todos los tipos de datos objeto en java en tipos primitivos y viceversa."
 date: 2015-02-04
-updatedDate: 2026-01-09
+updatedDate: 2026-02-04
 tags: ["variables","float","boolean","integer","double","long","short","character"]
 slug: java/variables/tipos-de-datos-objeto-en-java
 type: doc
 topic: java
 id: 6772241d-41d5-488b-be22-2d5d10dad3d2
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/basico/variables/TiposDatoObjeto.java
 ---
 

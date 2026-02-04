@@ -2,13 +2,13 @@
 title: "Dibujar una línea en SVG"
 description: "Se explica cómo dibujar una línea en SVG utilizando coordenadas y atributos de color y ancho."
 date: 2007-12-30
-updatedDate: 2026-01-07
+updatedDate: 2026-02-04
 tags: ["line","stroke-width"]
 slug: svg/lineas/dibujar-una-linea-en-svg
 type: doc
 topic: svg
 id: 2c8a9dfb-adca-811b-9dbe-de3ed6621a68
-author: Víctor Cuervo
+author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_svg/blob/master/figuras/dibujar-una-linea.svg
 ---
 
