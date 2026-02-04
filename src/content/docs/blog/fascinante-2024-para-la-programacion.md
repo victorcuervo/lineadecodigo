@@ -2,7 +2,7 @@
 title: "Fascinante 2024 para la programación"
 description: "5 hitos que nos han ofrecido un fascinante 2024 para la programación. GenAI, Modelos IA Open Source, Algoritmos Criptográficos, Rust y Python."
 date: 2025-01-12
-updatedDate: 2026-01-24
+updatedDate: 2026-02-04
 tags: ["editorial"]
 slug: blog/fascinante-2024-para-la-programacion
 author: victor_cuervo
