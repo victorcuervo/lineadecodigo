@@ -254,11 +254,11 @@ async function resolveSyncedBlocks(mdblocks) {
 		if (download != null && download) lines.push(`download: ${download}`);
 
 		if (cover != null && cover && (type === 'blog')) lines.push(`cover:
-		alt: "Artículo sobre ${title}"
-		image: ${coverImage}`);
+	alt: "Artículo sobre ${title}"
+	image: ${coverImage}`);
 
 		if (cover != null && cover) lines.push(`socialImage: ${coverImage}
-		socialImageAlt: ${title}`);
+socialImageAlt: ${title}`);
 
 		if (video != null && video) lines.push(`video: ${video}`,`videoDate: ${videoDate}`);			
 	
