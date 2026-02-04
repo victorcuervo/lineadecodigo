@@ -261,6 +261,12 @@ async function resolveSyncedBlocks(mdblocks) {
 			`id: ${id}`
 		]
 
+		if (author != null && author)
+			if (type != 'blog')
+				lines.push(`author: ${author}`);
+			else
+				lines.push(`authors:
+	name: ${author}`);
 
 		if (download != null && download) lines.push(`download: ${download}`);
 
