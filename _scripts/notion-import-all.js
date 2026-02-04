@@ -243,19 +243,25 @@ async function resolveSyncedBlocks(mdblocks) {
 			`date: ${publishdate}`,
 			`updatedDate: ${updateddate}`,
 			`tags: ${JSON.stringify(tags)}`,
-			`slug: ${ruta}`,
-			`author: ${author}`,
+			`slug: ${ruta}`,			
 			`type: ${type}`,
 			`topic: ${cat.toLowerCase()}`,
 			`id: ${id}`
 		]
 
 
+		if (author != null && author)
+			if (type === 'blog')
+				{lines.push(`authors:
+  - ${author}`);}
+			else
+				{lines.push(`author: ${author}`);}
+
 		if (download != null && download) lines.push(`download: ${download}`);
 
 		if (cover != null && cover && (type === 'blog')) lines.push(`cover:
-	alt: "Artículo sobre ${title}"
-	image: ${coverImage}`);
+  alt: "Artículo sobre ${title}"
+  image: ${coverImage}`);
 
 		if (cover != null && cover) lines.push(`socialImage: ${coverImage}
 socialImageAlt: ${title}`);
