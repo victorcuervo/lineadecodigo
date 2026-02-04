@@ -1,0 +1,33 @@
+name: Notion Importer All
+
+on:
+  workflow_dispatch:
+
+jobs:
+  importer:
+    runs-on: ubuntu-latest
+    if: github.actor != 'importer-bot'
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+      - run: npm install
+
+      - run: node _scripts/notion-import-all.js
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          DATABASE_ID: ${{ secrets.DATABASE_ID }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+        with:
+          commit_message: Nuevos Elementos
+          branch: main
+          commit_user_name: importer-bot 🤖
+          commit_user_email: actions@github.com
+          commit_author: importer-bot 🤖 <actions@github.com>

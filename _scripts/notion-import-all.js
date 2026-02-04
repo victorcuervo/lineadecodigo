@@ -98,20 +98,10 @@ async function resolveSyncedBlocks(mdblocks) {
 			database_id: databaseId,
 			start_cursor: startCursor,
 			filter: {
-				and: [
-					{
-						property: "Status",
-						status: {
-							equals: "Published"
-						}
-					},
-					{
-						property: "Updated Date",
-						date: {
-							equals: moment().format("YYYY-MM-DD")
-						}
-					},				
-				]
+				property: "Status",
+				status: {
+					equals: "Published"
+				}
 			}
 		})
 
