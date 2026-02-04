@@ -9,6 +9,8 @@ author: victor_cuervo
 type: blog
 topic: blog
 id: 168a9dfb-adca-804a-8e09-cfed9c5931a6
+authors:
+	name: victor_cuervo
 cover:
 	alt: "Artículo sobre Fascinante 2024 para la programación"
 	image: ../../../assets/blog/covers/fascinante-2024.webp
