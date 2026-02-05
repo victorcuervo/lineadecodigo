@@ -9,7 +9,7 @@ type: blog
 topic: blog
 id: 2c8a9dfb-adca-817e-a2df-d8c8a35248ac
 authors:
-  - victor_cuervo
+  - lineadecodigo
 ---
 
 En este nuevo vídeo de Línea de código podemos ver cómo realizar consultas con filtros en [MongoDB](https://www.manualweb.net/mongodb/).

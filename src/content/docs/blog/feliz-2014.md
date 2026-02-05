@@ -9,7 +9,7 @@ type: blog
 topic: blog
 id: 2c8a9dfb-adca-81f1-ba7b-c61b8a0cb186
 authors:
-  - Víctor Cuervo
+  - lineadecodigo
 ---
 
 Un nuevo año y nuevos retos por delante. Desde [Línea de Código](http://lineadecodigo.com/) desear lo mejor para todos los que nos acompañáis día tras día. Que todos vuestros proyectos se cumplan... Disfrutemos juntos de este nuevo año.

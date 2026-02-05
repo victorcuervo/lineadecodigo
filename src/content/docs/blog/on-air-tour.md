@@ -9,7 +9,7 @@ type: blog
 topic: blog
 id: 2c8a9dfb-adca-8166-a1a1-e23a6505f7a8
 authors:
-  - victor_cuervo
+  - lineadecodigo
 ---
 
 El 31 de marzo de 2008 llega a Madrid el [on AIR Adobe Tur](http://onair.adobe.com/schedule/cities/madrid.php) de [Adobe](http://www.adobe.com/). El on AIR Tour es un evento donde expertos de Adobe enseñaran a crear aplicaciones AIR con Adobe Flex, HTML y JavaScript.

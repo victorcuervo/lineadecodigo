@@ -2,12 +2,12 @@
 title: "Recorrer un array en Javascript"
 description: "Código fuente que nos sirve para recorrer un array en Javascript mediante un bucle for que nos vaya mostrando cada elemento por pantalla."
 date: 2011-06-01
-updatedDate: 2026-02-04
-tags: ["document","document.write","bucles","for","array"]
+updatedDate: 2026-01-05
+tags: ["array","bucles","for"]
 slug: javascript/arrays/recorrer-un-array-en-javascript
 type: doc
 topic: javascript
-id: 0283f73c-ddcd-4a6e-a344-55e9d7aecf24
+id: c8215c7c-bb4c-4ae3-aa39-b9413f684d7d
 author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_javascript/blob/master/arrays/recorrer-array.js
 ---
@@ -26,11 +26,11 @@ Lo primero será definir el array....
 
 ```javascript
 // Sigo siendo original y utilizando números
-var a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+var a=[1,2,3,4,5,6,7,8,9,10];
 ```
 
 
-Para poder recorrer el array vamos a utilizar una [bucle iterativo de tipo for](https://manualweb.net/javascript/estructuras-repetitivas-javascript/#for). Para poder crear el bucle iterativo for necesitamos poner un límite de las iteraciones a ejecutar. Dicho límite nos lo dará el tamaño del array. El tamaño del array lo podemos obtener mediante la propiedad [`.length`](http://www.w3api.com/Javascript/Array/length/) del array.
+Para poder recorrer el array vamos a utilizar una[ bucle iterativo de tipo for](https://manualweb.net/javascript/estructuras-repetitivas-javascript/#for). Para poder crear el bucle iterativo for necesitamos poner un límite de las iteraciones a ejecutar. Dicho límite nos lo dará el tamaño del array. El tamaño del array lo podemos obtener mediante la propiedad [`.length`](http://www.w3api.com/Javascript/Array/length/) del array.
 
 
 Así nuestro [bucle for](https://manualweb.net/javascript/estructuras-repetitivas-javascript/#for) quedará de la siguiente forma:
@@ -56,8 +56,8 @@ Ya solo nos queda introducir esto en el bucle para tener todo el código que nos
 
 
 ```javascript
-for (x = 0; x < a.length; x++) {
-  document.write(a[x] + " ");
+for (x=0;x<a.length;x++){
+ document.write(a[x] + " ");
 }
 ```
 

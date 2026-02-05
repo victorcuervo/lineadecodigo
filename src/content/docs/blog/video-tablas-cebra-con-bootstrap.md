@@ -8,7 +8,7 @@ slug: blog/video-tablas-cebra-con-bootstrap
 type: doc
 topic: blog
 id: 2c8a9dfb-adca-811e-b49c-df334e1c2f81
-author: victor_cuervo
+author: lineadecodigo
 ---
 
 Ya veíamos en el artículo [tablas estilo cebra](http://lineadecodigo.com/bootstrap/tablas-estilo-cebra-con-bootstrap/) como podíamos construir una tabla estilo cebra con [Bootstrap](http://www.manualweb.net/bootstrap/). Pero hemos decidido hacer un vídeo todavía más didáctico.
