@@ -2,7 +2,7 @@
 title: "Aprende a Programar #02 De pixels a bucles"
 description: "Aprende a programar experiencias de vídeos HTML5, trucos con Python para archivos, impresión con CSS y ejemplo de WebSockets en Java EE."
 date: 2025-02-10
-updatedDate: 2026-02-04
+updatedDate: 2026-02-05
 tags: ["aprender"]
 slug: blog/aprende-a-programar-02-de-pixels-a-bucles
 type: blog
@@ -23,7 +23,7 @@ Esta semana ha estado repleta de contenido variado y útil para programadores de
 Los [artículos sobre HTML5](https://lineadecodigo.com/categoria/html5/) exploran cómo mejorar la interacción con vídeos, abordando txanto la búsqueda dentro de un vídeo como la gestión de cargas inestables. Por otro lado, los [artículos de Python](https://lineadecodigo.com/categoria/python/) ofrecen soluciones prácticas para la manipulación de archivos y el uso de estructuras de control. Además, se destaca un [artículo sobre CSS](https://lineadecodigo.com/categoria/css/) que explica cómo adaptar páginas web para su correcta impresión.
 
 
-## **Artículos de la semana**
+## Artículos de la semana
 
 
 ### **👨🏻‍💻** [Buscar por un vídeo en HTML5](https://lineadecodigo.com/html5/buscar-por-un-video-en-html5/)
