@@ -9,7 +9,7 @@ type: blog
 topic: blog
 id: 2c8a9dfb-adca-8111-afe1-e8d6098f28de
 authors:
-  - Víctor Cuervo
+  - lineadecodigo
 cover:
   alt: "Artículo sobre Feliz 2011"
   image: ../../../assets/blog/covers/happy-new-year-2011.png
