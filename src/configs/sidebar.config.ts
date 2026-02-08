@@ -1,9 +1,7 @@
 import { asp } from './lang/asp';
 import { bootstrap } from './lang/bootstrap';
-import { ceylon } from './lang/ceylon';
 import { css } from './lang/css';
 import { dart } from './lang/dart';
-import { dojo } from './lang/dojo';
 import { dom } from './lang/dom';
 import { emberjs } from './lang/emberjs';
 import { flask } from './lang/flask';
@@ -35,11 +33,9 @@ import { xml } from './lang/xml';
 
 export const sidebar = [
     asp,
-    bootstrap,
-    ceylon,
+    bootstrap,    
     css,
-    dart,
-    dojo,
+    dart,    
     dom,
     emberjs,
     flask,

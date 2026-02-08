@@ -5,7 +5,16 @@ export const google = {
     icon: 'seti:code-search',
     items: [
         {
-        label: 'Básicos',
-        autogenerate: { directory: 'google' },
-        }],
+            label: 'Maps',
+            autogenerate: { directory: 'google/maps' },
+        },
+        {
+            label: 'Chart',
+            autogenerate: { directory: 'google/chart' },
+        },
+        {
+            label: 'Chrome',
+            autogenerate: { directory: 'google/chrome' },
+        },
+    ],
 };

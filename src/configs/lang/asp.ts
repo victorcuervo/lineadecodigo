@@ -1,11 +1,11 @@
 export const asp = {
     label: 'ASP',
     link: '/asp/',
-    icon: 'puzzle',
+    icon: 'seti:windows',
     id: 'asp',
     items: [
         {
-        label: 'Básicos',
-        autogenerate: { directory: 'asp/básicos' },
+            label: 'Básicos',
+            autogenerate: { directory: 'asp/básicos' },
         }],
 };

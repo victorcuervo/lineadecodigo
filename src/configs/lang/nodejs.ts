@@ -1,11 +1,11 @@
 export const nodejs = {
     label: 'NodeJS',
     link: '/nodejs/',
-    icon: 'seti:nodejs',
+    icon: 'node',
     id: 'nodejs',
     items: [
         {
-        label: 'Básicos',
-        autogenerate: { directory: 'nodejs' },
+            label: 'Básicos',
+            autogenerate: { directory: 'nodejs' },
         }],
 };

@@ -1,7 +1,7 @@
 export const bootstrap = {
     label: 'Bootstrap',
     link: '/bootstrap/',
-    icon: 'puzzle',
+    icon: 'star',
     id: 'bootstrap',
     items: [
         {

@@ -5,7 +5,7 @@ export const groovy = {
     icon: 'seti:java',
     items: [
         {
-        label: 'Básicos',
-        autogenerate: { directory: 'groovy' },
+            label: 'Básicos',
+            autogenerate: { directory: 'groovy/basicos' },
         }],
 };
