@@ -40,12 +40,12 @@ const nombresSubcategorias = Object.keys(grupos).sort();
 
 <div class="article-list">
   <h2>Artículos en {titulo}</h2>
-  <p>Puedes consultar todos los artículos de {titulo} que tenemos en Línea de Código.</p>
+  <p>Puedes consultar todos los artículos de <strong>{titulo}</strong> que tenemos en <a href="/" title="Aprende a Programar">Línea de Código</a>.</p>
   <div class="accordion-grid">  
     {nombresSubcategorias.map(sub => (
       <>
         <div class="accordion">
-          <h3 class="accordion-header">{sub.charAt(0).toUpperCase() + sub.slice(1)}</h3>
+          <h3 class="accordion-header">{sub.replace(/-/g, ' ').split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')}</h3>
           <ul class="accordion-panel">
             {grupos[sub].map(doc => (
               <li>
@@ -61,8 +61,8 @@ const nombresSubcategorias = Object.keys(grupos).sort();
 
 
 <style>
-.article-list ul li a,
-.article-list ul li a:visited {
+.article-list a,
+.article-list a:visited {
   color: var(--sl-color-text-accent); 
 }
 
