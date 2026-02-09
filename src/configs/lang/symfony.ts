@@ -5,7 +5,7 @@ export const symfony = {
     id: 'symfony',
     items: [
         {
-        label: 'Básicos',
-        autogenerate: { directory: 'symfony' },
+            label: 'Básicos',
+            autogenerate: { directory: 'symfony/basicos' },
         }],
 };

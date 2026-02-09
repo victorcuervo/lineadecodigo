@@ -5,7 +5,7 @@ export const emberjs = {
     icon: 'seti:javascript',
     items: [
         {
-        label: 'Básicos',
-        autogenerate: { directory: 'emberjs' },
+            label: 'Básicos',
+            autogenerate: { directory: 'emberjs/basicos ' },
         }],
 };

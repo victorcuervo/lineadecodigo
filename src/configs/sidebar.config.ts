@@ -10,6 +10,7 @@ import { google } from './lang/google';
 import { groovy } from './lang/groovy';
 import { java } from './lang/java';
 import { javaee } from './lang/javaee';
+import { javame } from './lang/javame';
 import { javafx } from './lang/javafx';
 import { javascript } from './lang/javascript';
 import { jquery } from './lang/jquery';
@@ -44,6 +45,7 @@ export const sidebar = [
     groovy,
     java,
     javaee,
+    javame,
     javafx,
     javascript,
     jquery,
