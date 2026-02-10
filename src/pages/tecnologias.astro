@@ -1,0 +1,158 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { Card, CardGrid, LinkButton } from '@astrojs/starlight/components';
+---
+
+<StarlightPage frontmatter={{ title: 'Tecnologías', tableOfContents: false }} hasSidebar={false}>
+  
+<h2>Lenguajes</h2>
+<CardGrid>	
+	<Card title="ASP" icon="seti:html">
+		 ASP te introduce a la programación web en servidor, enseñándote lógica, rutas y manejo de datos mientras creas páginas dinámicas reales; da tu primer paso hoy.
+		<LinkButton href="/asp/" icon="external" iconPlacement="end">Aprende ASP</LinkButton>
+	</Card>
+	<Card title="Dart" icon="seti:dart">
+		 Dart te permite aprender a programar con sintaxis moderna y tipado claro mientras construyes apps rápidas para web y móviles; empieza a codificar hoy.<br>
+		<LinkButton href="/dart/" icon="external" iconPlacement="end">Aprende Dart</LinkButton>
+	</Card>
+	<Card title="Groovy" icon="seti:java">
+		 Groovy facilita aprender a programar sobre la JVM con código conciso y legible, combinando scripts y aplicaciones reales; empieza a experimentar ahora.
+		<LinkButton href="/groovy/" icon="external" iconPlacement="end">Aprende Groovy</LinkButton>
+	</Card>
+	<Card title="Java" icon="seti:java">
+		 Java te enseña fundamentos sólidos de programación orientada a objetos mientras creas software profesional multiplataforma; comienza tu camino hoy.<br>
+		<LinkButton href="/java/" icon="external" iconPlacement="end">Aprende Java</LinkButton>
+	</Card>
+	<Card title="PHP" icon="seti:php">
+		 PHP es perfecto para aprender a programar back-end creando sitios dinámicos con bases de datos mientras ves resultados inmediatos; empieza ahora.<br>
+		<LinkButton href="/php/" icon="external" iconPlacement="end">Aprende PHP</LinkButton>
+	</Card>
+	<Card title="Python" icon="seti:python">
+		 Python te introduce a la programación con sintaxis clara y poderosa, ideal para web, datos y automatización; escribe tu primer programa hoy.<br>
+		<LinkButton href="/python/" icon="external" iconPlacement="end">Aprende Python</LinkButton>
+	</Card>	
+	<Card title="Rust" icon="seti:rust">
+		 Rust te permite aprender a programar con foco en rendimiento y seguridad de memoria, construyendo software robusto desde el inicio; empieza ya.<br>
+		<LinkButton href="/rust/" icon="external" iconPlacement="end">Aprende Rust</LinkButton>
+	</Card>	
+	<Card title="TypeScript" icon="seti:typescript">
+		 TypeScript te enseña a programar JavaScript con tipos, ayudándote a pensar mejor tu código y evitar errores; empieza a tipar hoy.<br>
+		<LinkButton href="/typescript/" icon="external" iconPlacement="end">Aprende TypeScript</LinkButton>
+	</Card>
+	<Card title="VBScript" icon="seti:purescript">
+		VBScript te inicia en la lógica de programación con scripts sencillos para automatización y aplicaciones clásicas; da tu primer paso ahora.<br>
+		<LinkButton href="/vbscript/" icon="external" iconPlacement="end">Aprende VBScript</LinkButton>
+	</Card>
+</CardGrid>
+
+
+<h2>Web</h2>
+<CardGrid>	
+	<Card title="CSS" icon="seti:css">
+		CSS es ideal para iniciarte programando el diseño de la web, aprendiendo reglas, cajas y layouts mientras ves resultados inmediatos; empieza a crear ya.<br>
+		<LinkButton href="/css/" icon="external" iconPlacement="end">Aprende CSS</LinkButton>
+	</Card>
+	<Card title="DOM" icon="seti:html">
+		El DOM te enseña cómo los programas interactúan con la estructura de una página web; entenderlo es clave para programar en frontend.<br>
+		<LinkButton href="/dom/" icon="external" iconPlacement="end">Aprende DOM</LinkButton>
+	</Card>
+	<Card title="HTML" icon="seti:html">
+		HTML es tu puerta de entrada a la programación web: estructura contenido con etiquetas y sienta las bases para todo lo que vendrá después; empieza ya.<br>
+		<LinkButton href="/html/" icon="external" iconPlacement="end">Aprende HTML</LinkButton>
+	</Card>
+	<Card title="JavaScript" icon="seti:javascript">
+		JavaScript te inicia en la lógica de programación en el navegador, permitiéndote crear interactividad real desde el primer día; escribe tu primer script ya.<br>
+		 <LinkButton href="/javascript/" icon="external" iconPlacement="end">Aprende JavaScript</LinkButton>
+	</Card>
+	<Card title="SVG" icon="seti:svg">
+		SVG te permite aprender a programar gráficos vectoriales en la web con código, combinando diseño y lógica desde el inicio; prueba hoy.<br>
+		<LinkButton href="/svg/" icon="external" iconPlacement="end">Aprende SVG</LinkButton>
+	</Card>
+	<Card title="Web APIs" icon="puzzle">
+		Las Web APIs te enseñan a programar funcionalidades avanzadas en el navegador, desde geolocalización hasta almacenamiento; empieza a explorar hoy.<br>
+		<LinkButton href="/webapi/" icon="external" iconPlacement="end">Aprende Web APIs</LinkButton>
+	</Card>
+	<Card title="XML" icon="seti:xml">
+		XML te introduce a la estructuración de datos en programación, enseñándote jerarquías y formato interoperable; empieza a modelar datos ya.<br>
+		<LinkButton href="/xml/" icon="external" iconPlacement="end">Aprende XML</LinkButton>
+	</Card>
+</CardGrid>
+
+<h2>Frameworks</h2>
+<CardGrid>	
+
+	<Card title="Bootstrap" icon="star">
+		Bootstrap te permite aprender desarrollo web rápidamente construyendo interfaces responsivas con componentes listos para usar; diseña tu primera UI hoy.
+		<LinkButton href="/bootstrap/" icon="external" iconPlacement="end">Aprende Bootstrap</LinkButton>
+	</Card>
+	<Card title="Ember.js" icon="seti:javascript">
+		Ember.js te enseña a programar aplicaciones web estructuradas con buenas prácticas y arquitectura clara; construye tu primera app ahora.
+		<LinkButton href="/emberjs/" icon="external" iconPlacement="end">Aprende Ember.js</LinkButton>
+	</Card>
+	<Card title="Flask" icon="seti:python">
+		Flask es un framework perfecto para aprender back-end en Python creando APIs y webs ligeras paso a paso; lanza tu primer servidor hoy.<br>
+		<LinkButton href="/flask/" icon="external" iconPlacement="end">Aprende Flask</LinkButton>
+	</Card>
+	<Card title="jQuery" icon="seti:javascript">
+		jQuery te introduce a la manipulación del DOM con JavaScript de forma sencilla y práctica; empieza a interactuar con la web ya.<br>
+		<LinkButton href="/jquery/" icon="external" iconPlacement="end">Aprende jQuery</LinkButton>
+	</Card>
+	<Card title="ReactJS" icon="seti:react">
+		 React te enseña a programar interfaces modernas con componentes y estado mientras ves resultados en tiempo real; crea tu primer componente hoy.<br>
+		<LinkButton href="/reactjs/" icon="external" iconPlacement="end">Aprende ReactJS</LinkButton>
+	</Card>
+	<Card title="Symfony" icon="seti:php">
+		Symfony te forma en desarrollo profesional PHP con arquitectura limpia y patrones sólidos; empieza a construir aplicaciones reales ahora.<br>
+		<LinkButton href="/symfony/" icon="external" iconPlacement="end">Aprende Symfony</LinkButton>
+	</Card>
+	<Card title="Prototype" icon="seti:javascript">
+		Prototype te introduce a la programación web con JavaScript de forma sencilla, ayudándote a crear interactividad y efectos visuales; empieza a programar hoy.
+		<LinkButton href="/prototype/" icon="external" iconPlacement="end">Aprende Prototype</LinkButton>
+	</Card>
+	<Card title="JavaFX" icon="seti:java">
+		JavaFX te inicia en programación de interfaces gráficas en Java mientras construyes aplicaciones de escritorio funcionales; empieza ahora.<br>
+		<LinkButton href="/javafx/" icon="external" iconPlacement="end">Aprende JavaFX</LinkButton>
+	</Card>
+	<Card title="Java EE" icon="seti:java">
+		Java EE te enseña programación empresarial con servidores, APIs y arquitectura distribuida; da tu primer paso al mundo profesional hoy.<br>
+		<LinkButton href="/javaee/" icon="external" iconPlacement="end">Aprende Java EE</LinkButton>
+	</Card>
+	<Card title="Java ME" icon="seti:java">
+		Java ME te introduce a programar para dispositivos embebidos y móviles ligeros; aprende optimización desde el inicio y empieza ya.<br>
+		<LinkButton href="/javame/" icon="external" iconPlacement="end">Aprende Java ME</LinkButton>
+	</Card>
+	<Card title="Node.js" icon="node">
+		Node.js te introduce a programar JavaScript en el servidor, creando APIs y apps en tiempo real desde el primer día; empieza ahora.<br>
+		<LinkButton href="/nodejs/" icon="external" iconPlacement="end">Aprende Node.js</LinkButton>
+	</Card>
+</CardGrid>
+
+<h2>APIs</h2>
+<CardGrid>
+	<Card title="Google" icon="seti:code-search">
+		 Las Google APIs te permiten aprender a programar con servicios reales de Google, desde mapas hasta machine learning, llevando tus proyectos al mundo real; empieza ya.<br>
+		<LinkButton href="/google/" icon="external" iconPlacement="end">Aprende Google APIs</LinkButton>
+	</Card>	
+</CardGrid>
+
+<h2>Bases de Datos</h2>
+<CardGrid>	
+	<Card title="SQL" icon="seti:db">
+		SQL te enseña a programar consultas para crear, leer y analizar datos en bases de datos reales; empieza a manipular información hoy.<br>
+		<LinkButton href="/sql/" icon="external" iconPlacement="end">Aprende SQL</LinkButton>
+	</Card>
+	<Card title="MongoDB" icon="seti:db">
+		MongoDB te introduce a las bases de datos NoSQL con documentos JSON, enseñándote a modelar y consultar datos; empieza ahora.<br>
+		<LinkButton href="/mongodb/" icon="external" iconPlacement="end">Aprende MongoDB</LinkButton>
+	</Card>
+</CardGrid>
+
+<h2>CMS</h2>
+<CardGrid>	
+	<Card title="WordPress" icon="seti:notebook">
+		WordPress te permite aprender desarrollo web creando temas, plugins y sitios reales mientras avanzas gradualmente; construye tu primer proyecto hoy.
+		<LinkButton href="/wordpress/" icon="external" iconPlacement="end">Aprende WordPress</LinkButton>
+	</Card>
+</CardGrid>
+
+</StarlightPage>

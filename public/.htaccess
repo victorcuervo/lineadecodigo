@@ -10,6 +10,44 @@ RedirectMatch 301 /xslt/ /xml/
 RedirectMatch 301 /javascript/protegiendo-la-pagina-en-javascript/ /dom/protegiendo-la-pagina-en-javascript/
 RedirectMatch 301 /javascript/confirmar-datos-en-javascript /dom/confirmar-datos-en-javascript/
 RedirectMatch 301 /javascript/mostrar-avisos-en-javascript/ /dom/mostrar-avisos-en-javascript/
+RedirectMatch 301 /javascript/eliminar-elementos-de-una-pagina-con-javascript/ /dom/eliminar-elementos-de-una-pagina-con-javascript/
+RedirectMatch 301 /javascript/crear-elementos-html-con-javascript/ /dom/crear-elementos-html-con-javascript/
+RedirectMatch 301 /javascript/hacer-foco-en-un-campo-de-la-pagina-usando-javascript/ /dom/hacer-foco-en-un-campo-de-la-pagina-usando-javascript/
+RedirectMatch 301 /javascript/contar-checkbox-activos-con-javascript/ /dom/contar-checkbox-activos-con-javascript/
+RedirectMatch 301 /javascript/quitar-el-foco-de-un-elemento/ /dom/quitar-el-foco-de-un-elemento/
+RedirectMatch 301 /javascript/campos-obligatorios-en-javascript/ /dom/campos-obligatorios-en-javascript/
+RedirectMatch 301 /javascript/controlar-el-envio-de-un-formulario-con-javascript/ /dom/controlar-el-envio-de-un-formulario-con-javascript/
+RedirectMatch 301 /javascript/cambiar-el-tamano-de-la-imagen-de-forma-dinamica/ /dom/cambiar-el-tamano-de-la-imagen-de-forma-dinamica/
+RedirectMatch 301 /javascript/modificar-los-enlaces-con-javascript/ /dom/modificar-los-enlaces-con-javascript/
+RedirectMatch 301 /javascript/coordenadas-del-raton-con-javascript/ /dom/coordenadas-del-raton-con-javascript/
+RedirectMatch 301 /javascript/borrar-contenido-de-capa-en-javascript/ /dom/manipulación/borrar-contenido-de-capa-en-javascript/
+RedirectMatch 301 /javascript/que-elemento-fue-pulsado/ /dom/eventos/que-elemento-fue-pulsado/
+RedirectMatch 301 /javascript/insertar-codigo-html-en-una-pagina-web-insertadjacenthtml/ /dom/nodos/insertar-codigo-html-en-una-pagina-web-insertadjacenthtml/
+RedirectMatch 301 /javascript/crear-eventos-con-javascript/ /dom/eventos/crear-eventos-con-javascript/
+RedirectMatch 301 /javascript/saber-que-evento-se-ha-producido/ /dom/eventos/saber-que-evento-se-ha-producido/
+RedirectMatch 301 /javascript/numero-de-enlaces-del-documento/ /dom/elementos/numero-de-enlaces-del-documento/
+RedirectMatch 301 /javascript/generar-un-documento-html-mediante-javascript/ /dom/contenido/generar-un-documento-html-mediante-javascript/
+RedirectMatch 301 /javascript//documentgetelementbyid/ /dom/elementos/documentgetelementbyid/
+RedirectMatch 301 /javascript/cambiar-el-valor-de-un-radio-group-dinamicamente/ /dom/formularios/cambiar-el-valor-de-un-radio-group-dinamicamente/
+RedirectMatch 301 /javascript/getelementsbyname/ /dom/elementos/getelementsbyname/
+RedirectMatch 301 /javascript/usar-javascript-para-saber-que-boton-del-raton-fue-pulsado/ /dom/eventos/usar-javascript-para-saber-que-boton-del-raton-fue-pulsado/
+RedirectMatch 301 /javascript/obtener-el-contenido-de-un-elemento-conociendo-su-tag/ /dom/elementos/obtener-el-contenido-de-un-elemento-conociendo-su-tag/
+RedirectMatch 301 /javascript/acceder-a-una-clase-con-queryselector/ /dom/elementos/acceder-a-una-clase-con-queryselector/
+RedirectMatch 301 /javascript/checkbox-y-operadores-dinamicos/ /dom/formularios/checkbox-y-operadores-dinamicos/
+RedirectMatch 301 /javascript/calcular-el-numero-de-imagenes-con-javascript/ /dom/elementos/calcular-el-numero-de-imagenes-con-javascript/
+RedirectMatch 301 /javascript/cambiar-el-contenido-de-una-capa-con-javascript/ /dom/manipulación/cambiar-el-contenido-de-una-capa-con-javascript/
+RedirectMatch 301 /javascript/saber-si-la-tecla-shift-esta-pulsada-con-javascript/ /dom/eventos/saber-si-la-tecla-shift-esta-pulsada-con-javascript/
+RedirectMatch 301 /javascript/contar-caracteres-online/ /dom/formularios/contar-caracteres-online/
+RedirectMatch 301 /javascript/crear-estilos-css-online/ /dom/manipulacion/crear-estilos-css-online/
+
+# Javascript a WebAPI
+RedirectMatch 301 /javascript/volver-a-la-pagina-anterior/ /webapi/volver-a-la-pagina-anterior/
+
+# AJAX a Javascript
+RedirectMatch 301 /ajax/repaginar-datos-con-ajax/ /javascript/navegador/repaginar-datos-con-ajax/
+RedirectMatch 301 /ajax/obtener-cabeceras-con-xmlhttprequest/ /javascript/navegador/obtener-cabeceras-con-xmlhttprequest/
+RedirectMatch 301 /ajax/validar-usuario-usando-ajax/ /javascript/navegador/validar-usuario-usando-ajax/
+
 
 # Java a Java EE
 RedirectMatch 301 /java/servlet-que-devuelve-xml/  /javaee/servlet-que-devuelve-xml/
@@ -26,6 +64,14 @@ RedirectMatch 301 /java/timeout-de-sesion-en-un-servlet-por-codigo/ /javaee/time
 RedirectMatch 301 /java/obtener-la-ip-que-invoca-al-servlet/ /javaee/obtener-la-ip-que-invoca-al-servlet/
 RedirectMatch 301 /java/recibir-parametros-en-un-servlet/ /javaee/recibir-parametros-en-un-servlet/
 
+
+# Java a JavaFX
+RedirectMatch 301 /java/mi-primera-aplicacion-javafx/ /javafx/mi-primera-aplicacion-javafx/
+
+# Java renombrados
+RedirectMatch 301 /java/guia-completa-javamelody-monitoreo-de-aplicaciones-web/ /java/monitorizacion/monitoreo-de-aplicaciones-web-con-javamelody/
+
+
 # XSLT Que los he movido a XML
 RedirectMatch 301 /xslt/mi-primer-xslt/ /xml/mi-primer-xslt/
 RedirectMatch 301 /xslt/crear-una-tabla-a-partir-de-datos-xml/ /xml/crear-una-tabla-a-partir-de-datos-xml/
@@ -41,10 +87,169 @@ RedirectMatch 301 /html5/crear-una-plantilla-en-html5/ /html/crear-una-plantilla
 RedirectMatch 301 /html5/buscar-por-un-video-en-html5/ /html/buscar-por-un-video-en-html5/
 RedirectMatch 301 /html5/cortes-en-la-descarga-de-videos-html5/ /html/cortes-en-la-descarga-de-videos-html5/
 RedirectMatch 301 /html5/html5-doctype/ /html/html5-doctype/
+RedirectMatch 301 /html5/cargar-una-imagen-avif/ /html/cargar-una-imagen-avif/
+RedirectMatch 301 /html5/mostrar-una-ventana-dialogo-en-html5/ /html/mostrar-una-ventana-dialogo-en-html5/
+RedirectMatch 301 /html5/datalist-en-html5/ /html5/formularios/datalist-en-html5/
+RedirectMatch 301 /html5/modificando-propiedades-css-con-un-slider/ /html/modificando-propiedades-css-con-un-slider/
+RedirectMatch 301 /html5/tiempo-visualizado-del-video-en-html5/ /html/video/tiempo-visualizado-del-video-en-html5/
+RedirectMatch 301 /html5/tiempo-total-de-un-video-html5/ /html/video/tiempo-total-de-un-video-html5/
+RedirectMatch 301 /html5/texto-no-traducible-con-html5/ /html/documento/texto-no-traducible-con-html5/
+RedirectMatch 301 /html5/subsecciones-implicitas-en-html5/ /html/semantica/subsecciones-implicitas-en-html5/
+RedirectMatch 301 /html5/subsecciones-en-html5/ /html/semantica/subsecciones-en-html5/
+RedirectMatch 301 /html5/secciones-en-html5/ /html/semantica/secciones-en-html5/
+RedirectMatch 301 /html/popover-con-cierre-explicito-en-html5/ /html/semantica/popover-con-cierre-explicito-en-html5/
+RedirectMatch 301 /html5/poner-musica-en-tu-web-con-html5/ /html/audio/poner-musica-en-tu-web-con-html5/
+RedirectMatch 301 /html5/pie-de-pagina-de-un-articulo-html5/ /html/semantica/pie-de-pagina-de-un-articulo-html5/
+RedirectMatch 301 /html5/permitir-saltos-de-linea-en-palabras-con-html5/ /html/documento/permitir-saltos-de-linea-en-palabras-con-html5/
+RedirectMatch 301 /html5/patrones-en-formularios-con-html5-pattern/ /html/formularios/patrones-en-formularios-con-html5-pattern/
+RedirectMatch 301 /html5/parar-la-descarga-de-un-video-en-html5/ /html/video/parar-la-descarga-de-un-video-en-html5/
+RedirectMatch 301 /html5/microdata-para-una-geolocalizacion-con-html5/ /html/semantica/microdata-para-una-geolocalizacion-con-html5/
+RedirectMatch 301 /html5/mensajes-emergentes-con-popover-en-html5/ /html/semantica/mensajes-emergentes-con-popover-en-html5/
+RedirectMatch 301 /html5/dibujar-un-rectangulo-en-un-canvas-con-html5/ /html/graficos/dibujar-un-rectangulo-en-un-canvas-con-html5/
+RedirectMatch 301 /html5/detectar-el-soporte-del-canvas-de-html5/ /html/graficos/detectar-el-soporte-del-canvas-de-html5/
+RedirectMatch 301 /html5/formulario-en-ventana-dialogo-con-html5/ /html/formularios/formulario-en-ventana-dialogo-con-html5/
+RedirectMatch 301 /html5/descargar-una-imagen-de-un-mapa-de-imagenes/ /html/imagenes/descargar-una-imagen-de-un-mapa-de-imagenes/
+RedirectMatch 301 /html5/crear-un-canvas-en-html5/ /html/graficos/crear-un-canvas-en-html5/
+RedirectMatch 301 /html5/crear-contenido-editable-en-html5/ /html/documento/crear-contenido-editable-en-html5/
+RedirectMatch 301 /html5/controlar-un-error-de-carga-de-un-video-en-html5/ /html/video/controlar-un-error-de-carga-de-un-video-en-html5/
+RedirectMatch 301 /html5/controlar-el-cambio-de-idioma-en-html5/ /html/documento/controlar-el-cambio-de-idioma-en-html5/
+RedirectMatch 301 /html5/configurar-teclados-para-la-entrada-de-datos-en-html5/ /html/formularios/configurar-teclados-para-la-entrada-de-datos-en-html5/
+RedirectMatch 301 /html5/cargas-inestables-de-videos-en-html5/ /html/video/cargas-inestables-de-videos-en-html5/
+RedirectMatch 301 /html5/cargar-una-imagen-en-diferido-con-html5/ /html/imagenes/cargar-una-imagen-en-diferido-con-html5/
+RedirectMatch 301 /html5/cargar-un-video-en-html5/ /html/video/cargar-un-video-en-html5/
+RedirectMatch 301 /html5/cargar-un-video-de-diferentes-formatos-con-html5/ /html/video/cargar-un-video-de-diferentes-formatos-con-html5/
+RedirectMatch 301 /html5/cambios-de-volumen-en-videos-html5/ /html/video/cambios-de-volumen-en-videos-html5/
+RedirectMatch 301 /html5/cabecera-de-un-articulo-en-html5/ /html/semantica/cabecera-de-un-articulo-en-html5/
+RedirectMatch 301 /html5/cabecera-de-documento-en-html5/ /html/semantica/cabecera-de-documento-en-html5/
+RedirectMatch 301 /html5/boton-play-pause-con-audio-html5/ /html/audio/boton-play-pause-con-audio-html5/
+RedirectMatch 301 /html5/asociar-un-boton-a-cualquier-formulario-con-html5/ /html/formularios/asociar-un-boton-a-cualquier-formulario-con-html5/
+RedirectMatch 301 /html5/asociar-un-boton-a-cualquier-formulario-con-html5/ /html/formularios/asociar-un-boton-a-cualquier-formulario-con-html5/
+RedirectMatch 301 /html5/activar-el-corrector-ortografico-con-html5/ /html/formularios/activar-el-corrector-ortografico-con-html5/
+RedirectMatch 301 /html5/navegacion-primaria-en-html5-accesible/ /html/accesibilidad/navegacion-primaria-en-html5-accesible/
+RedirectMatch 301 /html5/musica-infinita-en-tu-web-con-html5/ /html/audio/musica-infinita-en-tu-web-con-html5/
+RedirectMatch 301 /html5/musica-aleatoria-con-html5/ /html/audio/musica-aleatoria-con-html5/
+RedirectMatch 301 /html5/limpiar-contenido-de-un-canvas-en-html5/ /html/graficos/limpiar-contenido-de-un-canvas-en-html5/
+RedirectMatch 301 /html5/insertar-una-imagen-en-un-canvas-html5/ /html/graficos/insertar-una-imagen-en-un-canvas-html5/
+RedirectMatch 301 /html5/insertar-texto-en-un-canvas-de-html5/ /html/graficos/insertar-texto-en-un-canvas-de-html5/
+RedirectMatch 301 /html5/input-email-en-html5/ /html/formularios/input-email-en-html5/
+RedirectMatch 301 /html5/iniciar-automaticamente-un-video-en-html5/ /html/video/iniciar-automaticamente-un-video-en-html5/
+RedirectMatch 301 /html5/formatos-audio-html5/ /html/audio/formatos-audio-html5/
+RedirectMatch 301 /html5/fechas-en-html5/ /html/semantica/fechas-en-html5/
+RedirectMatch 301 /html5/fecha-de-publicacion-de-un-documento-con-html5/ /html/semantica/fecha-de-publicacion-de-un-documento-con-html5/
+RedirectMatch 301 /html5/fecha-de-publicacion-de-un-documento-con-html5/ /html/semantica/fecha-de-publicacion-de-un-documento-con-html5/
+RedirectMatch 301 /html5/fecha-de-publicacion-de-un-articulo-en-html5/ /html/semantica/fecha-de-publicacion-de-un-articulo-en-html5/
+RedirectMatch 301 /html5/exportar-el-contenido-de-un-canvas-html5-a-una-imagen/ /html/graficos/exportar-el-contenido-de-un-canvas-html5-a-una-imagen/
+RedirectMatch 301 /html5/especificar-una-duracion-en-html5/ /html/semantica/especificar-una-duracion-en-html5/
+RedirectMatch 301 /html5/elemento-rango-en-formularios-html5/ /html/formularios/elemento-rango-en-formularios-html5/
+RedirectMatch 301 /html5/descargar-un-canvas-a-una-imagen-con-html5/ /html/graficos/descargar-un-canvas-a-una-imagen-con-html5/
+RedirectMatch 301 /html5/definiendo-una-persona-con-microdata-en-html5/ /html/semantica/definiendo-una-persona-con-microdata-en-html5/
+RedirectMatch 301 /html5/autofoco-a-un-campo-con-html5/ /html/formularios/autofoco-a-un-campo-con-html5/
+RedirectMatch 301 /html5/activar-el-corrector-ortografico-con-html5/ /html/formularios/activar-el-corrector-ortografico-con-html5
+RedirectMatch 301 /html5/autocompletar-formularios-con-html5/ /html/formularios/autocompletar-formularios-con-html5
+RedirectMatch 301 /html5/buscar-por-un-video-en-html5/ /html/video/buscar-por-un-video-en-html5
+RedirectMatch 301 /html5/cambios-de-volumen-en-videos-html5/ /html/video/cambios-de-volumen-en-videos-html5
+RedirectMatch 301 /html5/cargar-una-imagen-avif/ /html/imagenes/cargar-una-imagen-avif
+RedirectMatch 301 /html5/cargas-inestables-de-videos-en-html5/ /html/video/cargas-inestables-de-videos-en-html5
+RedirectMatch 301 /html5/crear-un-canvas-en-html5/ /html/graficos/crear-un-canvas-en-html5
+RedirectMatch 301 /html5/exportar-el-contenido-de-un-canvas-html5-a-una-imagen/ /html/graficos/exportar-el-contenido-de-un-canvas-html5-a-una-imagen
+RedirectMatch 301 /html5/fin-del-audio-en-html5/ /html/audio/fin-del-audio-en-html5
+RedirectMatch 301 /html5/formatos-audio-html5/ /html/audio/formatos-audio-html5
+RedirectMatch 301 /html5/input-color-en-html5/ /html/formularios/input-color-en-html5
+RedirectMatch 301 /html5/mostrar-una-ventana-dialogo-en-html5/ /html/elementos-interactivos/mostrar-una-ventana-dialogo-en-html5
+RedirectMatch 301 /html5/permitir-saltos-de-linea-en-palabras-con-html5/ /html/texto/permitir-saltos-de-linea-en-palabras-con-html5
+RedirectMatch 301 /html5/secciones-en-html5/ /html/semantica/secciones-en-html5
+RedirectMatch 301 /html5/video-a-pantalla-completa/ /html/video/video-a-pantalla-completa
+RedirectMatch 301 /html5/video-como-background-en-html5/ /html/video/video-como-background-en-html5
+RedirectMatch 301 /html5/video-en-bucle/ /html/video/video-en-bucle
+RedirectMatch 301 /html5/volumen-del-audio-con-html5/ /html/audio/volumen-del-audio-con-html5
+RedirectMatch 301 /html5/web-messaging-en-html5/ /html/comunicacion/web-messaging-en-html5
+RedirectMatch 301 /html5/zoom-en-imagenes-con-el-raton-en-html5/ /html/imagenes/zoom-en-imagenes-con-el-raton-en-html5
+RedirectMatch 301 /html5/navegaciones-en-html5/ /html/semantica/navegaciones-en-html5
 
 # Los HTML5 a WebAPI
 RedirectMatch 301 /html5/cambios-en-webstorage /webapi/cambios-en-webstorage/
+RedirectMatch 301 /html5/web-messaging-en-html5/ /webapi/comunicacion/web-messaging-en-html5/
+RedirectMatch 301 /html5/vaciar-la-local-storage-en-html5/ /webapi/almacenamiento/vaciar-la-local-storage-en-html5/
+RedirectMatch 301 /html5/saber-si-la-bateria-esta-cargando-con-html5/ /webapi/dispositivos/saber-si-la-bateria-esta-cargando-con-html5/
+RedirectMatch 301 /html5/reemplazar-un-estado-del-history-api/ /webapi/navegador/reemplazar-un-estado-del-history-api/
+RedirectMatch 301 /html5/online-y-offline-en-html5/ /webapi/navegador/online-y-offline-en-html5/
+RedirectMatch 301 /html5/navegacion-spa-por-hash/ /webapi/navegador/navegacion-spa-por-hash/
+RedirectMatch 301 /html5/enviar-mensaje-a-un-iframe/ /webapi/comunicacion/enviar-mensaje-a-un-iframe/
+RedirectMatch 301 /html5/documento-a-pantalla-completa-con-html5/ /webapi/integracion/documento-a-pantalla-completa-con-html5/
+RedirectMatch 301 /html5/fin-de-impresion-en-html5/ /webapi/navegador/fin-de-impresion-en-html5/
+RedirectMatch 301 /html5/crear-un-websocket/ /webapi/comunicacion/crear-un-websocket/
+RedirectMatch 301 /html5/controlar-el-inicio-de-impresion-en-html5/ /webapi/navegador/controlar-el-inicio-de-impresion-en-html5/
+RedirectMatch 301 /html5/acceder-a-la-cache-local-del-navegador-con-html5/ /webapi/almacenamiento/acceder-a-la-cache-local-del-navegador-con-html5/
+RedirectMatch 301 /html5/abandono-de-pagina-con-html5/ /webapi/rendimiento/abandono-de-pagina-con-html5/
+RedirectMatch 301 /html5/soporta-mi-navegador-la-cache-local-de-html5/ /webapi/almacenamiento/soporta-mi-navegador-la-cache-local-de-html5/
+RedirectMatch 301 /html5/modo-pantalla-completa/ /webapi/integracion/modo-pantalla-completa/
+RedirectMatch 301 /html5/listar-el-contenido-de-local-storage-en-html5/ /webapi/almacenamiento/listar-el-contenido-de-local-storage-en-html5/
+RedirectMatch 301 /html5/eliminar-un-elemento-de-local-storage-en-html5/ /webapi/almacenamiento/eliminar-un-elemento-de-local-storage-en-html5/
+RedirectMatch 301 /javascript/numero-de-elementos-del-historial/ /webapi/navegador/numero-de-elementos-del-historial/
+RedirectMatch 301 /html5/nivel-de-la-bateria-con-html5/ /webapi/dispositivos/nivel-de-la-bateria-con-html5/
+RedirectMatch 301 /html5/moverse-por-el-api-history/ /webapi/navegador/moverse-por-el-api-history/
+RedirectMatch 301 /javascript/forward-sobre-el-historial-de-navegacion/ /webapi/navegador/forward-sobre-el-historial-de-navegacion/
+RedirectMatch 301 /html5/geolocalizando-a-un-usuario-con-html5/ / webapi/dispositivos/geolocalizando-a-un-usuario-con-html5/
+RedirectMatch 301 /html5/geolocalizando-un-usuario-con-html5-en-google-maps/ /webapi/dispositivos/geolocalizando-un-usuario-con-html5-en-google-maps/
 
+# HTML5 a Javascript
+RedirectMatch 301 /html5/gestionar-promesas-rechazadas/ /javascript/promesas/gestionar-promesas-rechazadas/
+
+# Los Python a Flask
+RedirectMatch 301 /python/parametros-get-con-flask/ /flask/parametros-get-con-flask/
+RedirectMatch 301 /python/parametros-en-rutas-python-flask/ /flask/parametros-en-rutas-python-flask/
+RedirectMatch 301 /python/parametros-post-flask/ /flask/parametros-post-flask/
+RedirectMatch 301 /python/usar-template-flask/ /flask/plantillas/usar-template-flask/
+RedirectMatch 301 /python/templates-con-listas-en-flask/ /flask/plantillas/templates-con-listas-en-flask/
+RedirectMatch 301 /python/sesion-en-flask/ /flask/sesion/sesion-en-flask/
+RedirectMatch 301 /python/clave-de-sesion-flask/ /flask/sesion/clave-de-sesion-flask/
+RedirectMatch 301 /python/cerrar-sesion-en-flask/ /flask/sesion/cerrar-sesion-en-flask/
+RedirectMatch 301 /python/usar-estaticos-en-aplicacion-flask/ /flask/plantillas/usar-estaticos-en-aplicacion-flask/
+RedirectMatch 301 /python/urls-de-rutas-en-flask/ /flask/urls-de-rutas-en-flask/
+RedirectMatch 301 /python/cabeceras-en-flask/ /flask/rutas/cabeceras-en-flask/
+RedirectMatch 301 /python/logs-en-flask/ /flask/basicos/logs-en-flask/
+RedirectMatch 301 /python/redirect-en-flask/ /flask/rutas/redirect-en-flask/
+RedirectMatch 301 /python/hola-mundo-con-python-flask/ /flask/basicos/hola-mundo-con-python-flask/
+RedirectMatch 301 /python/parametros-python-flask-con-tipo/ /flask/rutas/parametros-python-flask-con-tipo/
+RedirectMatch 301 /python/pasar-un-path-en-python-flask/ /flask/rutas/pasar-un-path-en-python-flask/
+RedirectMatch 301 /python/depurar-una-aplicacion-flask/ /flask/basicos/depurar-una-aplicacion-flask/
+
+# Los XForms a XML
+RedirectMatch 301 /xforms/botones-con-imagenes-en-xforms/ /xml/xforms/botones-con-imagenes-en-xforms/
+RedirectMatch 301 /xforms/mi-primer-formulario-xforms/ /xml/xforms/mi-primer-formulario-xforms/
+RedirectMatch 301 /xforms/borrado-de-campos-en-xforms/ /xml/xforms/borrado-de-campos-en-xforms/
+
+
+# Al Blog
+RedirectMatch 301 /sql/las-10-bases-de-datos-mas-populares/ /blog/las-10-bases-de-datos-mas-populares/
+RedirectMatch 301 /java/video-recorrer-un-array-en-java/ /blog/video-recorrer-un-array-en-java/
+RedirectMatch 301 /java/5-ejemplos-de-arrays-en-java/ /blog/5-ejemplos-de-arrays-en-java/
+RedirectMatch 301 /javascript/video-controlar-eventos-en-javascript/ /blog/video-controlar-eventos-en-javascript/
+RedirectMatch 301 /html/video-sobre-doctype-y-el-validador-de-la-w3c/ /blog/video-sobre-doctype-y-el-validador-de-la-w3c/
+RedirectMatch 301 /html/video-sobre-como-insertar-imagenes-en-html/ /blog/video-sobre-como-insertar-imagenes-en-html/
+RedirectMatch 301 /html/video-sobre-como-crear-enlaces-en-html/ /blog/video-sobre-como-crear-enlaces-en-html/
+RedirectMatch 301 /html/video-para-crear-tu-primera-pagina-web/ /blog/video-para-crear-tu-primera-pagina-web/
+RedirectMatch 301 /html/video-insertar-imagen-en-un-canvas-html5/ /blog/video-insertar-imagen-en-un-canvas-html5/
+RedirectMatch 301 /html/video-imagenes-en-html/ /blog/video-imagenes-en-html/
+RedirectMatch 301 /mongodb/video-consultas-con-filtros-en-mongodb/ /blog/video-consultas-con-filtros-en-mongodb/
+RedirectMatch 301 /bootstrap/video-tablas-cebra-con-bootstrap/ /blog/video-tablas-cebra-con-bootstrap/
+
+
+# jQuery Mobile a jQuery
+RedirectMatch 301 /jquery-mobile/listas-ordenadas-con-jquery-mobile/ /jquery/mobile/listas-ordenadas-con-jquery-mobile/
+RedirectMatch 301 /jquery-mobile/listas-de-elementos-en-jquery-mobile/ /jquery/mobile/listas-de-elementos-en-jquery-mobile/
+# Faltan basatantes
+
+
+# Groovy renombrados
+RedirectMatch 301 /groovy/tutorial-groovy-8211-instalar-groovy/ /groovy/basicos/instalar-groovy/
+RedirectMatch 301 /groovy/groovy-un-vistazo-a-los-closures/ 
+
+
+
+# Resto al Blog
+RedirectMatch 301 /blog/aprende-a-programar-episodio-i/ /blog/aprende-a-programar-01-orden-en-el-caos-con-python/
+RedirectMatch 301 /blog/aprende-a-programar-episodio-ii/ /blog/aprende-a-programar-02-orden-en-el-caos-con-python/
 
 </IfModule>
 

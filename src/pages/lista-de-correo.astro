@@ -1,0 +1,29 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+---
+
+
+
+<StarlightPage frontmatter={{ title: 'Lista de Correo', tableOfContents: false }} hasSidebar={false} >
+   
+    <iframe class="wufoo-container"
+        src="https://lineadecodigo.wufoo.com/embed/z17bj2ru1sqfrve/" 
+        title="Formulario de contacto"
+        allow="geolocation"
+    >
+      Cargando formulario…
+    </iframe>
+
+    <style>
+      .wufoo-container {
+        width: 100%;
+        height: 1000px;
+        border: none;
+        display: block;
+        margin: 2rem 0;
+      }
+
+    </style>
+        
+    
+</StarlightPage>

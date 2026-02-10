@@ -5,7 +5,6 @@ import starlightSidebarTopics from 'starlight-sidebar-topics';
 import { sidebar as sidebarConfig } from './src/configs/sidebar.config'
 import starlightBlog from 'starlight-blog'
 
-
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://ldc.teoriaweb.com',	
@@ -72,5 +71,5 @@ export default defineConfig({
 			customCss: ['./src/styles/custom.css'],	
 			head: []		
 		}),
-	],
+	]
 });
