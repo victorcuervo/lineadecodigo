@@ -242,9 +242,8 @@ RedirectMatch 301 /jquery-mobile/listas-de-elementos-en-jquery-mobile/ /jquery/m
 
 
 # Groovy renombrados
-RedirectMatch 301 /groovy/tutorial-groovy-8211-instalar-groovy/ /groovy/basicos/instalar-groovy/
-RedirectMatch 301 /groovy/groovy-un-vistazo-a-los-closures/ 
-
+RedirectMatch 301 /groovy/tutorial-groovy-instalar-groovy/ /groovy/basicos/instalar-groovy/
+RedirectMatch 301 /groovy/groovy-un-vistazo-a-los-closures/ /groovy/basicos/un-vistazo-a-los-closures-en-groovy/
 
 
 # Resto al Blog
