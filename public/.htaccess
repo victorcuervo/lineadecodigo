@@ -189,7 +189,7 @@ RedirectMatch 301 /javascript/numero-de-elementos-del-historial/ /webapi/navegad
 RedirectMatch 301 /html5/nivel-de-la-bateria-con-html5/ /webapi/dispositivos/nivel-de-la-bateria-con-html5/
 RedirectMatch 301 /html5/moverse-por-el-api-history/ /webapi/navegador/moverse-por-el-api-history/
 RedirectMatch 301 /javascript/forward-sobre-el-historial-de-navegacion/ /webapi/navegador/forward-sobre-el-historial-de-navegacion/
-RedirectMatch 301 /html5/geolocalizando-a-un-usuario-con-html5/ / webapi/dispositivos/geolocalizando-a-un-usuario-con-html5/
+RedirectMatch 301 /html5/geolocalizando-a-un-usuario-con-html5/ /webapi/dispositivos/geolocalizando-a-un-usuario-con-html5/
 RedirectMatch 301 /html5/geolocalizando-un-usuario-con-html5-en-google-maps/ /webapi/dispositivos/geolocalizando-un-usuario-con-html5-en-google-maps/
 
 # HTML5 a Javascript
