@@ -2,7 +2,7 @@ export const flask = {
     label: 'Flask',
     link: '/flask/',
     id: 'flask',
-    icon: 'seti:javascript',
+    icon: 'seti:python',
     items: [
         {
             label: 'Fundamentos',

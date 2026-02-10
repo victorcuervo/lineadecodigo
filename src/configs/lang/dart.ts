@@ -5,7 +5,7 @@ export const dart = {
     icon: 'seti:dart',
     items: [
         {
-        label: 'Básicos',
-        autogenerate: { directory: 'dart' },
+            label: 'Básicos',
+            autogenerate: { directory: 'dart/básicos' },
         }],
 };

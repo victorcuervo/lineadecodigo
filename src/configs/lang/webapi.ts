@@ -1,7 +1,7 @@
 export const webapi = {
     label: 'WebAPI',
     link: '/webapi/',
-    icon: 'forward-slash',
+    icon: 'puzzle',
     id: 'webapi',
     items: [
         {
