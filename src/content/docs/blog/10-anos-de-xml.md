@@ -2,7 +2,7 @@
 title: "10 años de XML"
 description: "El 10 de febrero de 1998 se lanzó XML, que hoy se usa masivamente en tecnología y bases de datos."
 date: 2008-02-19
-updatedDate: 2026-01-10
+updatedDate: 2026-02-12
 tags: ["noticias-web"]
 slug: blog/10-anos-de-xml
 type: blog
