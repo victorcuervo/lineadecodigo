@@ -2,7 +2,7 @@
 title: "SOA World 2007"
 description: "Asiste al SOA World 2007 en San Francisco y descubre las últimas tendencias en Web 2.0 y SOA. ¡No te pierdas esta oportunidad única!"
 date: 2007-11-02
-updatedDate: 2026-02-05
+updatedDate: 2026-02-12
 tags: ["eventos"]
 slug: blog/soa-world-2007
 type: blog
@@ -35,5 +35,5 @@ En las sesiones se hablará sobre multitud de temas: mashups, SOA y la Web 2.0, 
 ## Inscripción
 
 
-El precio de un "Golden Pass" es de $1895. Puedes realizar tu inscripción en la [web de SOA World 2007](http://www.soaworld2007.com/).
+El precio de un "Golden Pass" es de $1895. Puedes realizar tu inscripción en la web de SOA World 2007.
 

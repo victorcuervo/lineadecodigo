@@ -2,7 +2,7 @@
 title: "Flask"
 description: ""
 date: 2026-01-06
-updatedDate: 2026-01-06
+updatedDate: 2026-02-12
 tags: []
 slug: flask
 type: category
@@ -30,5 +30,5 @@ if __name__ == "__main__":
 ```
 
 
-Simplemente ve a [http://localhost:5000/](http://localhost:5000/) para ver tu aplicación Flask en acción.
+Simplemente ve a http://localhost:5000/ para ver tu aplicación Flask en acción.
 

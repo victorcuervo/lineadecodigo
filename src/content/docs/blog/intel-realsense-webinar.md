@@ -2,7 +2,7 @@
 title: "Intel RealSense Webinar"
 description: "Intel organiza un webinar sobre proyectos de Intel RealSense el 14 de octubre, presentando aplicaciones innovadoras y talleres para desarrolladores."
 date: 2015-10-09
-updatedDate: 2026-01-08
+updatedDate: 2026-02-12
 tags: ["eventos"]
 slug: blog/intel-realsense-webinar
 type: blog
@@ -70,5 +70,5 @@ La segunda sesión presentará tres nuevas aplicaciones:
 
 Para asistir al webinar, sigue estos pasos:
 
-1. [Preinscríbete en Eventbrite](http://www.eventbrite.com/e/intel-realsensetm-webinar-tickets-18456523960?aff=medialdcw41)
-2. [Regístrate y accede al webinar](http://bit.ly/mlgxweek41)
+1. Preinscríbete en Eventbrite
+2. Regístrate y accede al webinar

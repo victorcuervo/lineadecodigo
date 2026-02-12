@@ -2,7 +2,7 @@
 title: "Premios TAW 2007"
 description: "Descubre los Premios TAW 2007 que reconocen la accesibilidad web en empresas y administraciones. ¡Inscríbete antes del 14 de octubre y destaca!"
 date: 2007-09-25
-updatedDate: 2026-02-05
+updatedDate: 2026-02-12
 tags: ["premios"]
 slug: blog/premios-taw-2007
 type: blog
@@ -51,7 +51,7 @@ Para empresas:
 ## Inscripción
 
 
-Se puede [rellenar el formulario de inscripción](http://www.tawdis.net/taw3/cms/es/premio/inscripcion.html) hasta el 14 de Octubre.
+Se puede rellenar el formulario de inscripción hasta el 14 de Octubre.
 
 
 _Vía: Accesibilidad, Usabilidad y Estandares Web_
