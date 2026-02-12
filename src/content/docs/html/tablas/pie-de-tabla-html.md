@@ -2,7 +2,7 @@
 title: "Pie de tabla HTML"
 description: "Aprende a crear un pie de tabla HTML con el elemento tfoot para resumir información de manera efectiva y organizada en tus tablas. ¡Hazlo ahora!"
 date: 2015-06-04
-updatedDate: 2026-01-19
+updatedDate: 2026-02-12
 tags: ["tfoot","table","thead","html","tr","td"]
 slug: html/tablas/pie-de-tabla-html
 type: doc
@@ -18,7 +18,7 @@ Ya hemos visto cómo podemos poner una cabecera a una tabla [HTML](http://www.ma
 ## Elemento tfoot para el pie de tabla
 
 
-Para poder crear un pie de tabla [HTML](http://www.manualweb.net/tutorial-html/) vamos a recurrir al agrupador `tfoot`. El [elemento tfoot](http://www.w3api.com/wiki/HTML:TFOOT) será el que agrupe a las filas que representen el pie de tabla [HTML](http://www.manualweb.net/tutorial-html/).
+Para poder crear un pie de tabla [HTML](http://www.manualweb.net/tutorial-html/) vamos a recurrir al agrupador [`tfoot`](http://www.w3api.com/HTML/tfoot/). El elemento [`tfoot`](http://www.w3api.com/HTML/tfoot/) será el que agrupe a las filas que representen el pie de tabla [HTML](http://www.manualweb.net/tutorial-html/).
 
 
 Lo primero será echar un vistazo a la tabla que queremos representar y ver como hacer el pie de tabla [HTML](http://www.manualweb.net/tutorial-html/).
@@ -49,10 +49,10 @@ El código [HTML](http://www.manualweb.net/tutorial-html/) que necesitamos es el
 ```
 
 
-Como podemos ver el [elemento tfoot](http://www.w3api.com/wiki/HTML:TFOOT) agrupa una fila definida por el [elemento tr](http://www.w3api.com/wiki/HTML:TR) y las [celdas td](http://www.w3api.com/wiki/HTML:TD). Con lo cual vemos que es sencillo modificar una tabla tipo.
+Como podemos ver el elemento [`tfoot`](http://www.w3api.com/HTML/tfoot/) agrupa una fila definida por el elemento [`tr`](http://www.w3api.com/HTML/tr/) y las celdas [`td`](http://www.w3api.com/HTML/td/). Con lo cual vemos que es sencillo modificar una tabla tipo.
 
 
-Pero hay que tener una cosa en cuenta. Y es que el elemento `tfoot` deberá de ir justo detrás del elemento `thead`. Es decir, la fila de sumatorios NO será la última de nuestro código, si no la segunda.
+Pero hay que tener una cosa en cuenta. Y es que el elemento [`tfoot`](http://www.w3api.com/HTML/tfoot/) deberá de ir justo detrás del elemento `thead`. Es decir, la fila de sumatorios NO será la última de nuestro código, si no la segunda.
 
 
 Así para tener un pie de tabla [HTML](http://www.manualweb.net/tutorial-html/) deberemos de codificar de la siguiente forma:

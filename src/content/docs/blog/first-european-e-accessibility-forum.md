@@ -2,7 +2,7 @@
 title: "First European e-Accessibility Forum"
 description: "El First European e-Accessibility Forum en París abordará temas de accesibilidad en línea y su impacto en la sociedad."
 date: 2007-01-12
-updatedDate: 2026-01-10
+updatedDate: 2026-02-12
 tags: ["eventos"]
 slug: blog/first-european-e-accessibility-forum
 type: blog
@@ -26,5 +26,5 @@ En este foro se trataran temas como:
 - Accesibilidad ayudando al negocio
 - ...
 
-A parte de gente del grupo [WAI/W3C](http://www.w3.org/WAI/) y representantes de la Unión Europea, participarán empresas como [Microsoft](http://www.microsoft.com/), [Yahoo!](http://www.yahoo.com/), [Adobe](http://www.adobe.com/),... Los precios oscilan entre 90€ para empresas y los 30€ para estudiantes.
+A parte de gente del grupo [WAI/W3C](http://www.w3.org/WAI/) y representantes de la Unión Europea, participarán empresas como [Microsoft](http://www.microsoft.com/), [Yahoo!](http://www.yahoo.com/), [Adobe](https://www.adobe.com/es/),... Los precios oscilan entre 90€ para empresas y los 30€ para estudiantes.
 

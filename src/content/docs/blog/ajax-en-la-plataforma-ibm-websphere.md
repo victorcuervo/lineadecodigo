@@ -2,7 +2,7 @@
 title: "AJAX en la Plataforma IBM WebSphere"
 description: "Descubre cómo AJAX transforma la plataforma IBM WebSphere con el Toolkit Dojo y aplicaciones prácticas para mejorar el desarrollo en J2EE."
 date: 2007-01-23
-updatedDate: 2026-02-04
+updatedDate: 2026-02-12
 tags: ["software"]
 slug: blog/ajax-en-la-plataforma-ibm-websphere
 type: blog
@@ -46,7 +46,7 @@ Además podemos encontrar una versión offline de la versión borrador del **"DO
 **Plataformas de cliente:** Internet Explorer 5.5/6 y Mozilla Firefox 1.5 (y superiores)
 
 
-[Puedes informarte del "Early Access Program" de AJAX](https://www14.software.ibm.com/iwm/web/cc/earlyprograms/websphere/ibmajaxw/)
+Puedes informarte del "Early Access Program" de AJAX
 
 
 **Vía:** [Ajaxian](http://ajaxian.com/archives/ajax-for-ibm-websphere-platform-early-program)

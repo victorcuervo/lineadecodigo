@@ -2,7 +2,7 @@
 title: "Fin del audio en HTML5"
 description: "Controla el fin del audio en HTML5 de manera sencilla y efectiva. Aprende a gestionar eventos y mejora la experiencia de usuario en tus proyectos web."
 date: 2016-10-17
-updatedDate: 2026-01-21
+updatedDate: 2026-02-12
 tags: ["audio","controls","ended"]
 slug: html/audio/fin-del-audio-en-html5
 type: doc
@@ -45,7 +45,7 @@ Lo siguiente será añadir algunos orígenes de canciones mediante el elemento s
 ## Obtener la referencia al elemento
 
 
-Ahora pasamos a codificar el contenido en Javascript. En este caso la idea es obtener una referencia al elemento de audio mediante su [id](https://www.w3api.com/HTMLDOM/HTMLDialogElement/returnValue/) y el método [.getElementById()](https://www.w3api.com/DOM/.getElementById())
+Ahora pasamos a codificar el contenido en Javascript. En este caso la idea es obtener una referencia al elemento de audio mediante su [`id`](https://www.w3api.com/HTML/id/) y el método [`.getElementById()`](https://www.w3api.com/DOM/Document/getElementById/)
 
 
 ```javascript
@@ -56,7 +56,7 @@ var reproductor = document.getElementById('reproductor');
 ## Controlar el evento ended
 
 
-Para controlar el fin del audio en [HTML5](https://www.manualweb.net/html5/) deberemos de manejar el evento `"ended"`. Así que nos valdremos del método `.addEventListener()`.
+Para controlar el fin del audio en [HTML5](https://www.manualweb.net/html5/) deberemos de manejar el evento `"ended"`. Así que nos valdremos del método [`.addEventListener()`](https://www.w3api.com/DOM/EventTarget/addEventListener/).
 
 
 ```javascript
@@ -66,7 +66,7 @@ reproductor.addEventListener("ended", function(){
 ```
 
 
-La función asociada al método [.addEventListener()](https://www.w3api.com/DOM/EventTarget/addEventListener) es la que nos sirve para poder asignar una funcionalidad. Por ejemplo la de mostrar un texto por pantalla.
+La función asociada al método [`.addEventListener()`](https://www.w3api.com/DOM/EventTarget/addEventListener) es la que nos sirve para poder asignar una funcionalidad. Por ejemplo la de mostrar un texto por pantalla.
 
 
 ```javascript

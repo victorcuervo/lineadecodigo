@@ -2,7 +2,7 @@
 title: "Vídeo Controlar eventos en Javascript"
 description: "El vídeo explica cómo controlar eventos en Javascript utilizando un botón y funciones como getElementById y addEventListener."
 date: 2016-04-08
-updatedDate: 2026-01-13
+updatedDate: 2026-02-12
 tags: ["video"]
 slug: blog/video-controlar-eventos-en-javascript
 type: blog
@@ -36,7 +36,7 @@ Luego se nos contará la diferencia entre tener el comportamiento y la estructur
 ## Funciones para manejar eventos
 
 
-Para acabar, entraremos en detalle en el uso de las funciones [.getElementById()](https://www.w3api.com/DOM/.getElementById()) y .addEventListener() que serán las que nos ayuden a manejar los eventos.
+Para acabar, entraremos en detalle en el uso de las funciones [`.getElementById()`](https://www.w3api.com/DOM/Document/getElementById/) y [`.addEventListener()`](https://www.w3api.com/DOM/EventTarget/addEventListener/) que serán las que nos ayuden a manejar los eventos.
 
 
 ```javascript
