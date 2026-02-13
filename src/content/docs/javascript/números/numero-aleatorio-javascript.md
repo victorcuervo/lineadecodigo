@@ -2,7 +2,7 @@
 title: "Número aleatorio Javascript"
 description: "Uso del método random para poder calcular un número aleatorio Javascript."
 date: 2015-06-17
-updatedDate: 2026-01-24
+updatedDate: 2026-02-13
 tags: ["math","random","parseint"]
 slug: javascript/numeros/numero-aleatorio-javascript
 type: doc
@@ -14,13 +14,13 @@ socialImage: ../../../../assets/javascript/covers/numero-aleatorio-javascript.we
 socialImageAlt: Número aleatorio Javascript
 ---
 
-En este ejemplo vamos a ver como podemos generar un número aleatorio [Javascript](https://www.manualweb.net/javascript/). Para ello nos vamos a apoyar sobre [la función random](https://www.w3api.com/Javascript/Math/ceil/.random()) del [objeto Math](https://www.w3api.com/Javascript/Math/ceil/).
+En este ejemplo vamos a ver como podemos generar un número aleatorio [Javascript](https://www.manualweb.net/javascript/). Para ello nos vamos a apoyar sobre [la función random](https://www.w3api.com/Javascript/Math/random/) del [objeto Math](https://www.w3api.com/Javascript/Math/).
 
 
 ## Generar número aleatorio
 
 
-La clase random del [objeto Math](https://www.w3api.com/Javascript/Math/ceil/) nos va a generar un número aleatorio entre 0.0 y 1.1. De esta forma, si lanzamos [el método Math.random()](https://www.w3api.com/Javascript/Math/ceil/.random()) diez veces:
+La clase random del [objeto Math](https://www.w3api.com/Javascript/Math/) nos va a generar un número aleatorio entre 0.0 y 1.1. De esta forma, si lanzamos [el método Math.random()](https://www.w3api.com/Javascript/Math/random/) diez veces:
 
 
 ```javascript

@@ -2,7 +2,7 @@
 title: "Obtener el título en WordPress"
 description: "Cómo manejar la función wp_title para obtener el título en WordPress de cualquier contenido y volcarlo sobre el elemento title de la página web."
 date: 2014-08-14
-updatedDate: 2026-02-09
+updatedDate: 2026-02-13
 tags: ["wp_title","bloginfo","title"]
 slug: wordpress/basicos/obtener-el-titulo-en-wordpress
 type: doc
@@ -12,13 +12,13 @@ author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_wordpress/blob/main/basicos/obtener-titulo-blog.php
 ---
 
-Una de las cosas que haremos cuando estemos construyendo un tema será obtener el título en [WordPress](https://lineadecodigo.com/categoria/wordpress/) de la entrada o página que estemos presentando.
+Una de las cosas que haremos cuando estemos construyendo un tema será obtener el título en [WordPress](https://lineadecodigo.com/wordpress/) de la entrada o página que estemos presentando.
 
 
 ### Descripción de la función wp_title()
 
 
-Para poder obtener el título en [WordPress](https://lineadecodigo.com/categoria/wordpress/) vamos apoyarnos en la función:
+Para poder obtener el título en [WordPress](https://lineadecodigo.com/wordpress/) vamos apoyarnos en la función:
 
 
 ```php
@@ -43,7 +43,7 @@ Si los vemos en detalle:
 ### Uso de la función wp_title() para obtener el título en WordPress
 
 
-De esta forma podemos obtener el título en [WordPress](https://lineadecodigo.com/categoria/wordpress/) de la siguiente forma:
+De esta forma podemos obtener el título en [WordPress](https://lineadecodigo.com/wordpress/) de la siguiente forma:
 
 
 ```php
@@ -79,7 +79,7 @@ Mi Página|Línea de Código
 ```
 
 
-El uso de esta función para obtener el título en [WordPress](http://www.manualweb.net/wordpress/) lo encontraremos principalmente en el archivo **header.php** al generar el elemento [`title`](https://w3api.com/HTML/title-elemento/), aunque podemos utilizarlo dónde queramos:
+El uso de esta función para obtener el título en [WordPress](https://lineadecodigo.com/wordpress/) lo encontraremos principalmente en el archivo **header.php** al generar el elemento [`title`](https://w3api.com/HTML/title-elemento/), aunque podemos utilizarlo dónde queramos:
 
 
 ```php
@@ -98,5 +98,5 @@ add_filter( 'wp_title', 'titulo_personalizado', 10, 2 );
 ```
 
 
-Pero esto será objeto de otro artículo. De momento, lo sencillo en este artículo, era saber cómo podemos obtener el título en [WordPress](https://lineadecodigo.com/categoria/wordpress/) e incrustarlo dentro de nuestros elementos [`title`](https://w3api.com/HTML/title-elemento/) en una página web.
+Pero esto será objeto de otro artículo. De momento, lo sencillo en este artículo, era saber cómo podemos obtener el título en [WordPress](https://lineadecodigo.com/wordpress/) e incrustarlo dentro de nuestros elementos [`title`](https://w3api.com/HTML/title-elemento/) en una página web.
 

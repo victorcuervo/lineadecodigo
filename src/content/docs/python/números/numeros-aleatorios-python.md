@@ -2,7 +2,7 @@
 title: "Números aleatorios Python"
 description: "Uso del objeto random para poder crear números aleatorios en Python, números enteros o números decimales entre dos límites identificados."
 date: 2017-06-05
-updatedDate: 2026-01-05
+updatedDate: 2026-02-13
 tags: ["random","randint","uniform"]
 slug: python/numeros/numeros-aleatorios-python
 type: doc
@@ -18,7 +18,7 @@ En este ejemplo vamos a ver un código muy sencillo, pero a la vez muy útil par
 Nos encontraremos en múltiples situaciones dónde deberemos de apoyarnos en la generación de números aleatorios en [Python](http://www.manualweb.net/python/), por ejemplo, para sacar un elemento o pregunta al azar de una colección o de una base de datos, para generar tiempos de espera diferentes entre acciones...
 
 
-Lo primero que tenemos que saber a la hora de trabajar con números aleatorios en [Python](http://www.manualweb.net/python/) es que vamos a trabajar con el módulo [`random`](https://www.w3api.com/Python/random/). Así que de esta librería importaremos varias funciones, como son [`randint()`](https://www.w3api.com/Python/random/randint/), [`uniform()`](https://www.w3api.com/Python/random/uniform/) y [`random()`](https://www.w3api.com/Python/random/random/).
+Lo primero que tenemos que saber a la hora de trabajar con números aleatorios en [Python](http://www.manualweb.net/python/) es que vamos a trabajar con el módulo [`random`](https://www.w3api.com/Python/random/). Así que de esta librería importaremos varias funciones, como son [`randint()`](https://www.w3api.com/Python/random/randint/), [`uniform()`](https://www.w3api.com/Python/random/uniform/) y [`random()`](https://www.w3api.com/Python/random/Random/).
 
 
 ```python
@@ -45,7 +45,7 @@ print uniform(0,10)
 ```
 
 
-Por último tenemos la función [`random()`](https://www.w3api.com/Python/random/random/). Esta es la función base para la generación de números aleatorios. Ya que genera números aleatorios entre el 0 y el 1.
+Por último tenemos la función [`random()`](https://www.w3api.com/Python/random/Random/). Esta es la función base para la generación de números aleatorios. Ya que genera números aleatorios entre el 0 y el 1.
 
 
 ```python
@@ -53,7 +53,7 @@ print random()
 ```
 
 
-Podemos utilizar [`random()`](https://www.w3api.com/Python/random/random/) para simular las otras dos opciones. Ya que para generar números aleatorios entre dos números deberemos de seguir la secuencia.
+Podemos utilizar [`random()`](https://www.w3api.com/Python/random/Random/) para simular las otras dos opciones. Ya que para generar números aleatorios entre dos números deberemos de seguir la secuencia.
 
 
 ```python

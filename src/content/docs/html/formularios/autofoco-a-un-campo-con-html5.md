@@ -2,7 +2,7 @@
 title: "Autofoco a un campo con HTML5"
 description: "Descubre cómo implementar autofoco a un campo en HTML5 de manera sencilla y efectiva, mejorando la experiencia del usuario en tus formularios."
 date: 2012-02-05
-updatedDate: 2026-01-21
+updatedDate: 2026-02-13
 tags: ["input","form","focus"]
 slug: html/formularios/autofoco-a-un-campo-con-html5
 type: doc
@@ -38,7 +38,7 @@ Lo primero será definir el formulario. En nuestro caso tendrá dos simples camp
 ## Aplicar el atributo autofocus
 
 
-Si lo que queremos es que el autofoco se realice sobre el campo [INPUT](https://www.w3api.com/HTML/input/) nombre, le añadiremos el atributo [autofocus](https://www.w3api.com/HTML/input/.autofocus). Quedándonos el siguiente código:
+Si lo que queremos es que el autofoco se realice sobre el campo [INPUT](https://www.w3api.com/HTML/input/) nombre, le añadiremos el atributo [autofocus](https://www.w3api.com/HTML/autofocus/). Quedándonos el siguiente código:
 
 
 ```html
@@ -52,7 +52,7 @@ Si lo que queremos es que el autofoco se realice sobre el campo [INPUT](https://
 ```
 
 
-> El atributo [autofocus](https://www.w3api.com/HTML/input/.autofocus) solo puede aplicarse sobre un único campo del formulario.
+> El atributo [`autofocus`](https://www.w3api.com/HTML/input/.autofocus) solo puede aplicarse sobre un único campo del formulario.
 
 
 ## Compatibilidad con navegadores

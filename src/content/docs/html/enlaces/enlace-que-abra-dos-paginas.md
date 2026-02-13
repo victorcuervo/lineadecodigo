@@ -2,7 +2,7 @@
 title: "Enlace que abra dos páginas"
 description: "Esta página explica cómo crear un enlace que abra dos páginas simultáneamente para mejorar la navegación del usuario."
 date: 2006-11-22
-updatedDate: 2026-01-06
+updatedDate: 2026-02-13
 tags: ["a","enlaces","window","open","onclick"]
 slug: html/enlaces/enlace-que-abra-dos-paginas
 type: doc
@@ -12,42 +12,73 @@ author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo/blob/master/lineadecodigo_html/enlaces/enlace-que-abre-dos-paginas.html
 ---
 
-Cuando estamos utilizando los enlaces [HTML](http://www.manualweb.net/tutorial-html/) dentro de una página web vemos que su comportamiento natural es el de abrir la página o parte en concreto de la página sobre alguno de los marcos del navegador (misma venta, ventana padre, algún frame,…). Mediante el lenguaje [HTML](http://www.manualweb.net/tutorial-html/) nos veremos limitados a este funcionamiento. Si queremos hacer otro tipo de cosas deberemos de utilizar el lenguaje de [Scripting](http://www.manualweb.net/tutorial-javascript/), [JavaScript](http://www.manualweb.net/tutorial-javascript/). Mediante este lenguaje podremos modificar las propiedades del navegador y modificar su comportamiento. Así, podremos llevar a cabo que cuando pinchemos en un enlace, este, abra dos URL de destino, en vez de una. Antes de empezar a explicar como hacer esto, cabe indicar que esta potencia tiene ciertas limitaciones. Ya que esto limitará la creación de páginas accesibles o destinadas a dispositivos que no interpreten el [JavaScript](http://www.manualweb.net/tutorial-javascript/). Como podría ser el caso de los móviles. Pongamonos manos a la obra. La idea inicial es abrir dos ventanas con dos URLs. Para ello lo primero que tenemos que saber es como se abre vía [JavaScript](http://www.manualweb.net/tutorial-javascript/) una ventana. Esto lo haremos mediante el objeto [window](http://w3api.com/wiki/DOM:Window) del DOM de los navegadores y su propiedad [.open()](http://w3api.com/wiki/DOM:Window.open()). Veamos la [línea de código](/):
+Cuando estamos utilizando enlaces [HTML](http://www.manualweb.net/tutorial-html/) dentro de una página web, su comportamiento natural es abrir la página (o una parte concreta) en el contexto actual del navegador.
+
+
+Mediante [HTML](https://lineadecodigo.com/html/) nos vemos limitados a este funcionamiento. Si queremos hacer otro tipo de cosas, debemos utilizar un lenguaje de _scripting_, como [JavaScript](https://lineadecodigo.com/javascript/).
+
+
+Con JavaScript podemos modificar el comportamiento del navegador. Por ejemplo, podemos hacer que, al pulsar un enlace, se abran **dos URL de destino** en lugar de una.
+
+
+## Limitaciones
+
+
+Antes de empezar, conviene indicar que esta técnica tiene limitaciones.
+
+
+En particular, reduce la accesibilidad y no funcionará en dispositivos o entornos que no interpreten [JavaScript](https://lineadecodigo.com/javascript/), como puede ser el caso de algunos móviles o navegadores con [JavaScript](https://lineadecodigo.com/javascript/) deshabilitado.
+
+
+## Abrir una ventana con window.open
+
+
+La idea inicial es abrir dos ventanas con dos URL. Para ello, lo primero que tenemos que saber es [cómo abrir una ventana vía JavaScript](https://lineadecodigo.com/javascript/abrir-una-ventana-con-javascript/).
+
+
+Esto lo haremos mediante el objeto [`window`](https://www.w3api.com/DOM/Window/) del DOM del navegador y su método [`.open()`](https://www.w3api.com/DOM/Window/open/).
+
+
+Veamos la línea de código:
 
 
 ```javascript
-window.open (url:string,nombreVentana:string,caracteristicas :string);
+window.open(url, nombreVentana, caracteristicas);
 ```
 
 
-A si que lo que haremos será crear una función que realice dos llamadas al método open. Dicha función recibirá como parámetro las dos URL que queramos abrir.
+## Crear una función que abra dos URL
+
+
+Lo que haremos será crear una función que realice dos llamadas al método `open`. Dicha función recibirá como parámetro las dos URL que queramos abrir.
 
 
 ```javascript
-function abrirEnlaces(url1,url2){
-  window.open(url1);
-  window.open(url2);
+function abrirEnlaces(url1, url2) {
+	window.open(url1);
+	window.open(url2);
 }
 ```
 
 
-La función será llamada cuando pulsemos en un enlace. Para controlar esta pulsación deberemos de basarnos en la gestión de eventos. El evento a capturar será el [evento onClick](http://w3api.com/wiki/HTML:Onclick) que reciba el enlace.
+## Llamar a la función desde un enlace
+
+
+La función será llamada cuando pulsemos en un enlace. Para controlar esta pulsación, debemos basarnos en la gestión de eventos.
+
+
+El evento a capturar será el evento [`onclick`](https://www.w3api.com/HTML/onclick/) del enlace.
 
 
 ```html
-<a onclick="abrirEnlaces('https://www.ayudaenlaweb.com','https://lineadecodigo.com');">
-Enlace que abre dos ventanas</a>
+<a href="#" onclick="abrirEnlaces('https://www.ayudaenlaweb.com', 'https://lineadecodigo.com');">
+	Enlace que abre dos ventanas
+</a>
 ```
 
 
-Lo que sucede es que antes de procesar el evento JavaScript, el navegador va a procesar el propio evento [HTML](http://www.manualweb.net/tutorial-html/) de la página. Es por ello que deberemos de deshabilitar este mecanismo indicando que la navegación del enlace [HTML](http://www.manualweb.net/tutorial-html/) es “#”. Esto significa que la navegación es el mismo sitio donde te encuentras.
+Antes de procesar el [JavaScript](https://lineadecodigo.com/javascript/), el navegador procesará el comportamiento por defecto del enlace HTML. Por ello, debemos deshabilitar la navegación normal del enlace indicando `href="#"`.
 
 
-Quedándonos la [línea de código](/) de la siguiente forma:
-
-
-```html
-<a href="#" onclick="abrirEnlaces('https://www.ayudaenlaweb.com','https://lineadecodigo.com')">;
-Enlace que abre dos ventanas</a>
-```
+Esto significa que el enlace no navega a otra página y se queda en el mismo sitio donde se encuentra el usuario.
 
