@@ -23,7 +23,7 @@ La forma habitual de trabajar con archivos y directorios es mediante `Scripting.
 [ASP](https://lineadecodigo.com/asp/) utiliza rutas físicas para acceder al disco. `Server.MapPath` convierte una ruta virtual de la aplicación, como `./datos`, en la ruta física correspondiente del servidor. Antes de operar conviene comprobar la existencia del recurso con `FileExists` o `FolderExists`, tanto para evitar errores como para decidir si debe crearse.
 
 
-## Características de Ficheros en ASP
+## Características de los ficheros en ASP
 
 - **Ejecución en el servidor:** el código accede al sistema de archivos con la identidad configurada para el sitio o el grupo de aplicaciones. Esa cuenta necesita permisos de lectura, escritura o borrado según la operación.
 - **Gestión conjunta de archivos y directorios:** `FileSystemObject` permite crear directorios, construir rutas con `BuildPath`, abrir archivos de texto y eliminar recursos sin recurrir a componentes externos.
@@ -33,7 +33,7 @@ La forma habitual de trabajar con archivos y directorios es mediante `Scripting.
 - **Codificación limitada:** `CreateTextFile` y `OpenTextFile` trabajan normalmente con texto ASCII o Unicode UTF-16. Si una aplicación necesita UTF-8, suele emplearse `ADODB.Stream` en lugar de `FileSystemObject`.
 - **Seguridad de las rutas:** una ruta no debe construirse directamente con datos recibidos del usuario. Sin validación, secuencias como `../` pueden permitir acceso fuera del directorio previsto.
 
-## ¿Por qué aprender Ficheros en ASP?
+## ¿Por qué aprender sobre ficheros en ASP?
 
 
 Conocer la gestión de ficheros permite resolver tareas que no necesitan una base de datos: generar registros sencillos, exportar resultados, leer plantillas de texto, almacenar archivos temporales o servir contenido creado por otros procesos.
