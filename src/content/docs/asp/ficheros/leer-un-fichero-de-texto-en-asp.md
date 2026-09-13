@@ -2,7 +2,7 @@
 title: "Leer un fichero de texto en ASP"
 description: "Aprende a leer un fichero de texto en ASP usando FileSystemObject: abre con OpenTextFile, localiza con Server.MapPath y lee el contenido con ReadAll."
 date: 2009-09-29
-updatedDate: 2026-09-11
+updatedDate: 2026-09-13
 tags: ["filesystemobject","opentextfile","server","mappath","readall"]
 slug: asp/ficheros/leer-un-fichero-de-texto-en-asp
 type: doc
