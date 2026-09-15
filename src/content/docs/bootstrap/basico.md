@@ -141,11 +141,11 @@ El siguiente documento utiliza Bootstrap 5.3 para crear una interfaz con dos col
 ```
 
 
-`container` centra el contenido y añade un ancho máximo según la pantalla. La combinación `row g-4` crea la fila y separa sus columnas. Cada sección ocupa las 12 columnas disponibles en pantallas pequeñas mediante `col-12`; `col-lg-5` y `col-lg-7` reparten el espacio cuando el viewport alcanza el punto de ruptura grande.
+Analizando el código vemos que la clase `container` centra el contenido y añade un ancho máximo según la pantalla. La combinación `row g-4` crea la fila y separa sus columnas. Cada sección ocupa las 12 columnas disponibles en pantallas pequeñas mediante `col-12`; `col-lg-5` y `col-lg-7` reparten el espacio cuando el viewport alcanza el punto de ruptura grande.
 
 
 La tarjeta agrupa visualmente el formulario. `form-label` y `form-control` aplican los estilos de Bootstrap sin eliminar atributos HTML como `for`, `id`, `name` y `required`, que conservan la relación entre controles y etiquetas y permiten la validación básica del navegador.
 
 
-La tabla mantiene elementos semánticos como `thead`, `tbody` y encabezados con `scope="col"`. El bloque `table-responsive` evita que sus columnas deformen la página en pantallas estrechas. Este ejemplo no carga el JavaScript de Bootstrap porque ninguno de los componentes utilizados necesita comportamiento interactivo del framework.
+La tabla mantiene elementos semánticos como `thead`, `tbody` y encabezados con `scope="col"`. El bloque `table-responsive` evita que sus columnas deformen la página en pantallas estrechas. Este ejemplo no carga el JavaScript de [Bootstrap](https://lineadecodigo.com/bootstrap/) porque ninguno de los componentes utilizados necesita comportamiento interactivo del framework.
 
