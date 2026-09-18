@@ -2,7 +2,7 @@
 title: "Tres Columnas en CSS con Flexbox"
 description: "Ejemplo para configurar nuestra página para que se puedan ver tres columnas en CSS con Flexbox mediante un contenedor y tres elementos."
 date: 2024-02-13
-updatedDate: 2026-01-10
+updatedDate: 2026-09-18
 tags: ["flexbox","columnas","flex-direction","flex-warp","justify-content"]
 slug: css/flexbox/tres-columnas-en-css-con-flexbox
 type: doc
