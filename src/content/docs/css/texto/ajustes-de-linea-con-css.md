@@ -2,7 +2,7 @@
 title: "Ajustes de línea con CSS"
 description: "Uso de las propiedades overflow-wrap y word-wrap para poder realizar ajustes de línea con CSS y evitar texto desbordado."
 date: 2024-02-17
-updatedDate: 2026-01-29
+updatedDate: 2026-09-18
 tags: ["width","overflow-wrap","word-wrap","class"]
 slug: css/texto/ajustes-de-linea-con-css
 type: doc
