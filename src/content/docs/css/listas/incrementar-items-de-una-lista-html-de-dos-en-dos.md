@@ -2,7 +2,7 @@
 title: "Incrementar items de una lista HTML de dos en dos"
 description: "Utilización de atributos CSS para incrementar items de una lista HTML de dos en dos."
 date: 2008-01-03
-updatedDate: 2026-01-24
+updatedDate: 2026-09-18
 tags: ["counter-increment","counter-reset"]
 slug: css/listas/incrementar-items-de-una-lista-html-de-dos-en-dos
 type: doc

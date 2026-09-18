@@ -2,7 +2,7 @@
 title: "Alinear texto en una tabla"
 description: "Aprende a alinear texto en una tabla HTML de manera efectiva usando CSS. Descubre cómo mejorar la presentación de tus tablas y destaca tu contenido."
 date: 2015-06-14
-updatedDate: 2026-01-18
+updatedDate: 2026-09-18
 tags: ["text-align","th","tr","nth-child"]
 slug: css/texto/alinear-texto-en-una-tabla
 type: doc

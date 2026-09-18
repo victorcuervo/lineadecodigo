@@ -2,7 +2,7 @@
 title: "Dar color a la última fila de una tabla"
 description: "Análisis de las diferentes formas que tenemos de dar color a la última fila de una tabla mediante el lenguaje CSS."
 date: 2015-07-30
-updatedDate: 2026-01-18
+updatedDate: 2026-09-18
 tags: ["last-child","table","tfoot","tr","background-color","color"]
 slug: css/tablas/dar-color-a-la-ultima-fila-de-una-tabla
 type: doc

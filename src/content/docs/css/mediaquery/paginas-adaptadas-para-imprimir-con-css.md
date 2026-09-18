@@ -2,7 +2,7 @@
 title: "Páginas adaptadas para imprimir con CSS"
 description: "Aprende a crear páginas adaptadas para imprimir con CSS y mejora la legibilidad y presentación de tus documentos. ¡Transforma la impresión en una experiencia óptima!"
 date: 2025-02-07
-updatedDate: 2026-01-17
+updatedDate: 2026-09-18
 tags: ["mediaquery","media","print","screen","display","filter","page-break-after"]
 slug: css/mediaquery/paginas-adaptadas-para-imprimir-con-css
 type: doc

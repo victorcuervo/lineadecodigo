@@ -2,7 +2,7 @@
 title: "Embeber fuentes en CSS3"
 description: "Cómo podemos utilizar nuestras propias fuentes al embeber fuentes en CSS3."
 date: 2012-01-15
-updatedDate: 2026-01-17
+updatedDate: 2026-09-18
 tags: ["font-family","font-face","css3","fuentes"]
 slug: css/texto/embeber-fuentes-en-css3
 type: doc

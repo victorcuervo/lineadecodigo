@@ -2,7 +2,7 @@
 title: "Color de una fila HTML"
 description: "Descubre cómo dar color de una fila HTML en tus tablas usando CSS y el pseudoelemento nth-child para resaltar información clave de manera efectiva."
 date: 2015-06-10
-updatedDate: 2026-01-18
+updatedDate: 2026-09-18
 tags: ["nth-child","tr","table","background-color","color"]
 slug: css/colores-y-fondos/color-de-una-fila-html
 type: doc

@@ -2,7 +2,7 @@
 title: "Alinear texto al centro con CSS"
 description: "Ejemplo que nos explica cómo podemos utilizar la propiedad text-align y su valor center para alinear texto al centro con CSS en una caja."
 date: 2007-03-29
-updatedDate: 2026-02-04
+updatedDate: 2026-09-18
 tags: ["text-align"]
 slug: css/texto/alinear-texto-al-centro-con-css
 type: doc
