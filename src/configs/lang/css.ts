@@ -13,28 +13,44 @@ export const css = {
             autogenerate: { directory: 'css/selectores-y-pseudoclases' },
         },
         {
+            label: 'Unidades y Medidas',
+            autogenerate: { directory: 'css/unidades y medidas' },
+        },
+        {
             label: 'Texto',
             autogenerate: { directory: 'css/texto' },
+        },
+        {
+            label: 'Colores y Fondos',
+            autogenerate: { directory: 'css/colores y fondos' },
+        },
+        {
+            label: 'Imágenes',
+            autogenerate: { directory: 'css/imágenes' },
         },
         {
             label: 'Listas',
             autogenerate: { directory: 'css/listas' },
         },
         {
-            label: 'Colores y Fondos',
-            autogenerate: { directory: 'css/colores-y-fondos' },        
+            label: 'Tablas',
+            autogenerate: { directory: 'css/tablas' },
         },
         {
-            label: 'Imágenes',
-            autogenerate: { directory: 'css/imágenes' },        
+            label: 'Formularios',
+            autogenerate: { directory: 'css/formularios' },
         },
         {
             label: 'Box Model',
             autogenerate: { directory: 'css/box-model' },
         },
         {
+            label: 'Overflow y Scroll',
+            autogenerate: { directory: 'css/overflow y scroll' },
+        },
+        {
             label: 'Posicionamiento',
-            autogenerate: { directory: 'css/posicionamiento' },        
+            autogenerate: { directory: 'css/posicionamiento' },
         },
         {
             label: 'Layout',
@@ -43,20 +59,15 @@ export const css = {
         {
             label: 'Flexbox',
             autogenerate: { directory: 'css/flexbox' },
-        },        
+        },
         {
             label: 'Grid',
             autogenerate: { directory: 'css/grid' },
         },
-            
         {
             label: 'Media Queries',
             autogenerate: { directory: 'css/mediaquery' },
         },
-        {
-            label: 'Unidades y Medidas',
-        autogenerate: { directory: 'css/unidades' },
-        },        
         {
             label: 'Transformaciones y Animaciones',
             autogenerate: { directory: 'css/transformaciones' },
@@ -72,10 +83,10 @@ export const css = {
         {
             label: 'Buenas Prácticas',
             autogenerate: { directory: 'css/buenas-practicas' },
-        },        
+        },
         {
             label: 'Arquitectura',
             autogenerate: { directory: 'css/arquitectura' },
-        },        
+        },
     ]
 };
