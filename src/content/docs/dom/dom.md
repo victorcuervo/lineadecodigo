@@ -1,98 +1,119 @@
 ---
 title: "DOM"
-description: "El DOM es una representación en árbol que permite manipular dinámicamente contenido y estructura de páginas web."
-date: 2026-01-12
-updatedDate: 2026-01-12
-tags: []
+description: "Comprende cómo el DOM representa una página, cómo modificar elementos con JavaScript y cómo responder a eventos mediante un ejemplo práctico."
+date: 2026-09-23
+updatedDate: 2026-09-23
+tags: ["javascript","elementos","eventos","manipulación"]
 slug: dom
 type: category
 topic: dom
-id: 2e5a9dfb-adca-80ab-89d3-d4b5180d01c7
+id: 22f7c335-239e-4a2f-8059-282b7ed0f68f
 author: victor_cuervo
 ---
 
-El **DOM** (Document Object Model) o **Modelo de Objetos del Documento** es una representación en forma de árbol de la estructura de una página web que permite a los desarrolladores interactuar y manipular dinámicamente el contenido, la estructura y los estilos mediante [Javascript](https://www.manualweb.net/javascript/).
+## ¿Qué es DOM?
 
 
-## ¿Qué es el DOM?
+El **DOM (Document Object Model)** es una interfaz de programación que representa un documento [HTML](https://lineadecodigo.com/html/) o [XML](https://lineadecodigo.com/xml/) como una estructura de objetos organizada en forma de árbol. El navegador construye esta representación al interpretar el documento y la expone para que lenguajes como [JavaScript](https://lineadecodigo.com/javascript/) puedan consultar y modificar su contenido, estructura y comportamiento.
 
 
-El DOM es una interfaz de programación que representa documentos [HTML](https://www.manualweb.net/html/) y XML como una estructura jerárquica de nodos. Cada elemento HTML se convierte en un nodo del DOM que puede ser accedido y modificado mediante código.
+Cada parte del documento se convierte en un **nodo**. El documento completo es un nodo `Document`; las etiquetas se representan mediante objetos `Element`; y el texto contenido en ellas se almacena en nodos de texto. Estos objetos mantienen relaciones de parentesco: un elemento puede tener un nodo padre, nodos hijos y nodos hermanos.
 
 
-Los navegadores web interpretan el código HTML y construyen automáticamente el DOM cuando cargan una página. Esta representación permite que Javascript pueda leer y modificar todos los elementos del documento de forma dinámica.
+Por ejemplo, un `<ul>` puede ser el padre de varios elementos `<li>`. JavaScript puede localizar ese `<ul>`, recorrer sus hijos, añadir otro `<li>` o eliminar uno existente. Cuando se modifica el árbol del DOM, el navegador actualiza la parte visible de la página afectada.
 
 
-## Estructura jerárquica del DOM
+El DOM no es el código [HTML](https://lineadecodigo.com/html/) original ni una característica exclusiva de JavaScript. Es un modelo normalizado mediante APIs web. [JavaScript](https://lineadecodigo.com/javascript/) es el lenguaje utilizado habitualmente en el navegador para trabajar con esas APIs a través de objetos como `document`, `Element` y `EventTarget`.
 
 
-El DOM organiza los elementos en una estructura de árbol donde:
+## Características de DOM
 
-- El **nodo raíz** es el documento completo
-- Los **elementos HTML** son nodos que pueden contener otros nodos
-- Los **atributos** son propiedades de los elementos
-- El **contenido de texto** son nodos hijos de los elementos
+- **Estructura jerárquica:** representa el documento como un árbol de nodos relacionados. Esta organización permite navegar desde un elemento hacia su padre, sus hijos o sus hermanos.
+- **Selección de elementos:** `document.querySelector()` obtiene el primer elemento que coincide con un selector [CSS](https://lineadecodigo.com/css/), mientras que `document.querySelectorAll()` devuelve una colección estática con todas las coincidencias. También existen métodos específicos como `getElementById()`.
+- **Manipulación del contenido:** propiedades como `textContent` permiten leer o sustituir texto. Para insertar contenido procedente del usuario suele ser preferible `textContent` frente a `innerHTML`, porque no interpreta la cadena como marcado [HTML](https://lineadecodigo.com/html/).
+- **Creación y eliminación de nodos:** `document.createElement()` crea elementos, `append()` o `appendChild()` los incorpora al árbol y `remove()` los elimina. Crear un objeto no lo hace visible hasta insertarlo en el documento.
+- **Gestión de atributos y clases:** `setAttribute()` modifica atributos, aunque propiedades específicas como `id`, `value` o `disabled` suelen resultar más directas. `classList` permite añadir, quitar, alternar y comprobar clases [CSS](https://lineadecodigo.com/css/).
+- **Sistema de eventos:** muchos objetos del DOM implementan `EventTarget`. Con `addEventListener()` se puede ejecutar una función cuando ocurre una interacción, como un clic, el envío de un formulario o la pulsación de una tecla. El objeto del evento contiene información sobre lo sucedido y su destino.
+- **DOM dinámico:** los cambios realizados con [JavaScript](https://lineadecodigo.com/javascript/) afectan al modelo que mantiene el navegador, pero no reescriben el archivo [HTML](https://lineadecodigo.com/html/) almacenado en el servidor. Al recargar la página, los cambios desaparecen si no se han guardado en algún sistema persistente.
+- **Disponibilidad condicionada por la carga:** un script solo puede seleccionar elementos que ya se hayan interpretado. Por eso suele colocarse al final de `body`, cargarse con `defer` o ejecutarse después del evento `DOMContentLoaded`.
 
-Por ejemplo, este código HTML:
+## ¿Por qué aprender DOM?
+
+
+Conocer el DOM permite convertir un documento estático en una interfaz que responde a las acciones del usuario. La validación de formularios, los menús desplegables, las pestañas, los cuadros de diálogo, los filtros y las listas que se actualizan sin recargar la página dependen de la consulta y manipulación de elementos.
+
+
+También ayuda a separar responsabilidades. [HTML](https://lineadecodigo.com/html/) define la estructura inicial, [CSS](https://lineadecodigo.com/css/) controla la presentación y JavaScript utiliza el DOM para aplicar cambios de estado. Por ejemplo, en lugar de establecer estilos en línea desde JavaScript, se puede añadir una clase con `classList` y dejar que CSS determine su apariencia.
+
+
+El modelo de eventos permite conectar la interfaz con la lógica de la aplicación. Un manejador registrado con `addEventListener()` puede leer los datos de un formulario, modificar elementos, solicitar información a un servidor o mostrar el resultado. Comprender conceptos como el elemento objetivo del evento, la propagación y `preventDefault()` facilita controlar interacciones más complejas sin mezclar lógica en atributos HTML.
+
+
+El DOM también es la base sobre la que trabajan muchas bibliotecas y frameworks de interfaz. Aunque herramientas como React, Vue o Angular abstraen parte de su manipulación, el navegador sigue mostrando un árbol de elementos. Entender ese árbol permite depurar problemas de selección, eventos, accesibilidad y rendimiento utilizando las herramientas de desarrollo.
+
+
+## Ejemplo de DOM
+
+
+El siguiente documento crea una lista de tareas. [JavaScript](https://lineadecodigo.com/javascript/) selecciona elementos existentes, escucha el envío del formulario, crea un nuevo nodo y lo incorpora al DOM.
 
 
 ```html
-<div id="contenedor">
-  <h1>Título</h1>
-  <p>Párrafo de texto</p>
-</div>
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Lista de tareas con DOM</title>
+</head>
+<body>
+  <h1>Mis tareas</h1>
+
+  <form id="formulario-tarea">
+    <label for="nueva-tarea">Nueva tarea</label>
+    <input id="nueva-tarea" type="text" required>
+    <button type="submit">Añadir</button>
+  </form>
+
+  <p id="contador">No hay tareas.</p>
+  <ul id="lista-tareas"></ul>
+
+  <script>
+    const formulario = document.querySelector("#formulario-tarea");
+    const campoTarea = document.querySelector("#nueva-tarea");
+    const listaTareas = document.querySelector("#lista-tareas");
+    const contador = document.querySelector("#contador");
+
+    formulario.addEventListener("submit", (evento) => {
+      evento.preventDefault();
+
+      const descripcion = campoTarea.value.trim();
+      if (descripcion === "") {
+        return;
+      }
+
+      const tarea = document.createElement("li");
+      tarea.textContent = descripcion;
+      listaTareas.append(tarea);
+
+      const total = listaTareas.children.length;
+      contador.textContent = total === 1
+        ? "Hay 1 tarea."
+        : `Hay ${total} tareas.`;
+
+      formulario.reset();
+      campoTarea.focus();
+    });
+  </script>
+</body>
+</html>
 ```
 
 
-Se convierte en una estructura DOM donde el `div` es el padre de `h1` y `p`, que son sus nodos hijos.
+La función `querySelector()` obtiene referencias a los cuatro elementos con los que trabaja el script. Estas referencias permiten modificar los objetos existentes sin buscarlos de nuevo en cada operación.
 
 
-## Manipulación del DOM con Javascript
+El evento `submit` se escucha en el formulario, no únicamente en el botón, por lo que el ejemplo funciona tanto al pulsar el botón como al enviar desde el teclado. `preventDefault()` evita la recarga que el navegador realizaría al enviar un formulario de forma convencional.
 
 
-El DOM proporciona métodos y propiedades para interactuar con los elementos de la página. Los más utilizados son:
-
-
-```javascript
-// Seleccionar elementos
-const elemento = document.getElementById("contenedor");
-const parrafos = document.getElementsByTagName("p");
-const items = document.querySelectorAll(".clase");
-
-// Modificar contenido
-elemento.textContent = "Nuevo texto";
-elemento.innerHTML = "<strong>Texto en negrita</strong>";
-
-// Modificar atributos
-elemento.setAttribute("class", "nuevo-estilo");
-[elemento.style](http://elemento.style/).color = "blue";
-```
-
-
-## Eventos del DOM
-
-
-El DOM también gestiona los eventos de usuario como clics, movimientos del ratón o pulsaciones de teclado:
-
-
-```javascript
-const boton = document.getElementById("miBoton");
-
-boton.addEventListener("click", function() {
-  alert("Has hecho clic en el botón");
-});
-```
-
-
-## Ventajas del uso del DOM
-
-- **Interactividad**: Permite crear páginas web dinámicas y reactivas
-- **Actualización sin recarga**: Modifica el contenido sin necesidad de recargar la página
-- **Accesibilidad programática**: Todos los elementos son accesibles mediante código
-- **Estandarización**: Es un estándar del W3C implementado en todos los navegadores modernos
-
-## Diferencia entre HTML y DOM
-
-
-Mientras que HTML es el código fuente estático que escribimos, el DOM es la representación en memoria que el navegador crea. El DOM puede ser modificado por Javascript, mientras que el HTML original permanece sin cambios.
+Después de validar el texto, `createElement("li")` crea un elemento que todavía está desconectado del documento. La asignación mediante `textContent` incorpora la descripción como texto y `append()` añade el nodo a la lista. Finalmente, el número de hijos de `ul` se utiliza para actualizar el contador visible. Cada envío modifica el árbol del DOM y el navegador refleja el cambio inmediatamente.
 
