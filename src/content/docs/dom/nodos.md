@@ -3,7 +3,7 @@ title: "Nodos"
 description: "Comprende cómo se organizan los nodos DOM, qué tipos existen, cómo recorrer la jerarquía del documento y cómo crear nodos con JavaScript mediante un ejemplo."
 date: 2026-09-23
 updatedDate: 2026-09-23
-tags: ["DOM Node","Javascript DOM Document","Javascript DOM Element","javascript","elementos"]
+tags: ["Javascript DOM Element","javascript","elementos"]
 slug: dom/nodos
 type: category
 topic: dom
