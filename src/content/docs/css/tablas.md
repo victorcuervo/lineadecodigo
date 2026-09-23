@@ -11,7 +11,7 @@ id: 3e3a9dfb-adca-8013-af07-c9d9d5643a19
 author: victor_cuervo
 ---
 
-## ¿Qué es Tablas CSS?
+## ¿Qué son las Tablas CSS?
 
 
 Las **tablas** [**CSS**](https://lineadecodigo.com/css/) son tablas de datos cuya presentación visual se controla mediante [hojas de estilo](https://lineadecodigo.com/css/). [CSS](https://lineadecodigo.com/css/) permite definir el ancho, los bordes, el espaciado, la alineación, los colores y el comportamiento responsive de las filas, columnas y celdas sin alterar los datos que contienen.
