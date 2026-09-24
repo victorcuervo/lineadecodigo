@@ -3,7 +3,7 @@ title: "Ventanas de información con imágenes en Google Maps"
 description: "Aprende a crear ventanas de información con imágenes en Google Maps usando InfoWindow, HTML y marcadores avanzados con un ejemplo actualizado y accesible."
 date: 2009-09-23
 updatedDate: 2026-09-24
-tags: ["google maps","gmap2","glatlng","openinfowindow"]
+tags: ["google maps","glatlng","openinfowindow"]
 slug: google/maps/ventanas-de-informacion-con-imagenes-en-google-maps
 type: doc
 topic: google
@@ -111,7 +111,7 @@ La propiedad `ariaLabel` proporciona un nombre accesible para la ventana. La ima
 ### Dar formato al contenido
 
 
-El contenido puede organizarse con [`CSS`](https://lineadecodigo.com/css/) para evitar que la imagen y el texto aparezcan desordenados dentro de la ventana:
+El contenido puede organizarse con [CSS](https://lineadecodigo.com/css/) para evitar que la imagen y el texto aparezcan desordenados dentro de la ventana:
 
 
 ```css
@@ -142,6 +142,3 @@ En este caso, la imagen se alinea a la izquierda y la lista fluye a su alrededor
 - Reutiliza una única instancia de `InfoWindow` si el mapa contiene muchos marcadores.
 - Restringe la clave de la `API` y supervisa su uso desde Google Cloud Console.
 - Valida cualquier contenido dinámico antes de incorporarlo al `DOM`.
-
-Con esta actualización, la ventana de información mantiene el objetivo del ejemplo original —mostrar una imagen y contenido estructurado sobre un mapa—, pero utiliza las clases y patrones actuales de [Google Maps](https://lineadecodigo.com/google/maps/) JavaScript API.
-
