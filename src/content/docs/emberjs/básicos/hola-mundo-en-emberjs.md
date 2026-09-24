@@ -2,7 +2,7 @@
 title: "Hola Mundo en EmberJS"
 description: "Aprende a crear tu primera aplicación Hola Mundo en EmberJS. Descubre cómo instalar ember-cli, crear rutas y plantillas para aplicaciones SPA."
 date: 2017-04-10
-updatedDate: 2026-02-09
+updatedDate: 2026-09-24
 tags: ["template","route","hola-mundo"]
 slug: emberjs/basicos/hola-mundo-en-emberjs
 type: doc
@@ -15,7 +15,7 @@ download: https://github.com/victorcuervo/lineadecodigo_emberjs/blob/master/app/
 ## ¿Qué es EmberJS?
 
 
-[EmberJS](https://www.manualweb.net/emberjs/) es un framework [Javascript](https://www.manualweb.net/javascript/) que nos permite crear aplicaciones SPA de una forma muy sencilla utilizando un patrón MVC. En este caso vamos a crear un Hola Mundo en [EmberJS](https://www.manualweb.net/emberjs/) para tomar contacto con el framework. En posteriores artículos iremos publicando más ejemplos sobre el uso de [EmberJS](https://www.manualweb.net/emberjs/).
+Si queremos hacer nuestro primero Hola Mundo en EmberJS lo primero que tenemos que conocer es qué es Emberj. Así que [EmberJS](https://www.manualweb.net/emberjs/) es un framework [Javascript](https://www.manualweb.net/javascript/) que nos permite crear aplicaciones SPA de una forma muy sencilla utilizando un patrón MVC. En este caso vamos a crear un Hola Mundo en [EmberJS](https://www.manualweb.net/emberjs/) para tomar contacto con el framework. En posteriores artículos iremos publicando más ejemplos sobre el uso de [EmberJS](https://www.manualweb.net/emberjs/).
 
 
 ## Instalando ember-cli
@@ -72,7 +72,7 @@ ember s
 ```
 
 
-Y si cargamos la URL [http://localhost:4200/](http://localhost:4200/) veremos ejecutándose la aplicación.
+Y si cargamos la URL http://localhost:4200/ veremos ejecutándose la aplicación.
 
 
 ## Creando una ruta
@@ -111,5 +111,5 @@ outlet
 ```
 
 
-Ahora solo tendremos que ir a la ruta [http://localhost:4200/hola-mundo/](http://localhost:4200/hola-mundo/) y veremos nuestro Hola Mundo en [EmberJS](https://www.manualweb.net/emberjs/) ejecutándose.
+Ahora solo tendremos que ir a la ruta http://localhost:4200/hola-mundo/ y veremos nuestro **Hola Mundo en EmberJS** ejecutándose.
 
