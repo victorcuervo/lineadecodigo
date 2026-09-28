@@ -3,7 +3,7 @@ title: "Definiendo una persona con microdata en HTML5"
 description: "Descubre cómo definir una persona con microdata en HTML5 para mejorar la semántica de tu web y optimizar su visibilidad en los buscadores."
 date: 2012-10-07
 updatedDate: 2026-09-28
-tags: ["HTML5 Microdata"]
+tags: []
 slug: html/semantica/definiendo-una-persona-con-microdata-en-html5
 type: doc
 topic: html
