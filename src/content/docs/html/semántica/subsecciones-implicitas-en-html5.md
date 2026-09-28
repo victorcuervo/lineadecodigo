@@ -2,7 +2,7 @@
 title: "Subsecciones implícitas en HTML5"
 description: "Descubre cómo las subsecciones implícitas en HTML5 afectan la estructura semántica de tu documento y optimiza tu código para mejorar su organización."
 date: 2018-09-25
-updatedDate: 2026-01-19
+updatedDate: 2026-09-28
 tags: ["section","article","h1"]
 slug: html/semantica/subsecciones-implicitas-en-html5
 type: doc
