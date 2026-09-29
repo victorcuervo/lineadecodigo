@@ -2,7 +2,7 @@
 title: "Insertar una imagen en un canvas HTML5"
 description: "Aprende a insertar una imagen en un canvas HTML5 de manera sencilla y efectiva. Sigue nuestros pasos y transforma tus gráficos web con facilidad."
 date: 2012-09-06
-updatedDate: 2026-01-24
+updatedDate: 2026-09-29
 tags: ["canvas","getcontext","image","drawimage"]
 slug: html/graficos/insertar-una-imagen-en-un-canvas-html5
 type: doc
@@ -10,6 +10,8 @@ topic: html
 id: 53e362c6-2913-4b54-898b-8d8ca8b13de3
 author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas/insertar-imagen-a-canvas.html
+video: kC3bmcaS6bw
+videoDate: 2016-03-25
 ---
 
 Una de las cosas que podemos hacer con un [CANVAS](https://www.w3api.com/HTML/canvas/) de [HTML5](https://www.manualweb.net/html5/) es insertar una imagen dentro de él. Para ello lo primero que vamos a hacer es crear un elemento [CANVAS](https://www.w3api.com/HTML/canvas/).
