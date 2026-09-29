@@ -15,7 +15,7 @@ download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basico
 Un **menú contextual** es un conjunto de acciones asociado a una zona concreta de una página. Suele aparecer cuando el usuario pulsa el botón derecho del ratón, utiliza la tecla de menú contextual o ejecuta una combinación equivalente desde el teclado.
 
 
-El artículo original proponía crear un menú contextual en HTML5 mediante `<menu type="context">`, elementos `<menuitem>` y el atributo `contextmenu`. Ese mecanismo llegó a tener soporte experimental en versiones antiguas de Firefox, pero en la plataforma web actual esas características son obsoletas y no deben utilizarse en proyectos nuevos.
+El artículo original proponía **crear un menú contextual en HTML5** mediante `<menu type="context">`, elementos `<menuitem>` y el atributo `contextmenu`. Ese mecanismo llegó a tener soporte experimental en versiones antiguas de Firefox, pero en la plataforma web actual esas características son obsoletas y no deben utilizarse en proyectos nuevos.
 
 
 La alternativa moderna consiste en escuchar el evento `contextmenu` con [JavaScript](https://lineadecodigo.com/javascript/), cancelar el menú predeterminado mediante `preventDefault()` y mostrar un componente propio construido con elementos HTML compatibles.
