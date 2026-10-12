@@ -46,7 +46,7 @@ Esta opción tiene dos inconvenientes:
 Veámos como quedaría este código con nuestra imagen:
 
 
-![](http://lineadecodigo.com/wp-content/uploads/2006/12/lineadecodigo.jpg)
+![](../../../../assets/html/images/lineadecodigo.jpg)
 
 
 La seguna opción, y más recomendable, es utilizar algún software de manejo de imágenes para reducirlas. De esta forma la imágen que se visualiza ocupará menos y por consiguiente se tardará menos en cargar.
