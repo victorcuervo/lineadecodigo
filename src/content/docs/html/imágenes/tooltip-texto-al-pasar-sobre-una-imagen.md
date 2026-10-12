@@ -40,7 +40,7 @@ Lo bueno del [atributo title](http://w3api.com/wiki/HTML:Title) es que lo podemo
 Y veamos el resultado, pasa sobre la imagen…
 
 
-![](../../../../assets/html/images/lineadecodigo.miniatura.jpg)
+![](http://lineadecodigo.com/wp-content/uploads/2006/12/lineadecodigo.miniatura.jpg)
 
 
 Veamos el comportamiento de algunos navegadores:
