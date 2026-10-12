@@ -52,5 +52,5 @@ Hay que indicar que hemos utilizado otros atributos. El primero es el alto y anc
 Y ya está. Ya tenemos nuestro combo con imágenes. El cual, en [FireFox](http://www.getfirefox.com/), nos quedará de la siguiente manera:
 
 
-![](http://lineadecodigo.com/wp-content/uploads/2006/12/comboconimagenes.jpg)
+![](../../../../assets/html/images/comboconimagenes.jpg)
 
