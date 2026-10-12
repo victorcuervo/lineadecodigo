@@ -62,11 +62,11 @@ Por otro lado el elemento [BLOCKQUOTE](http://www.w3api.com/wiki/HTML:BLOCKQUOTE
 Uno de los problemas que nos encontramos con el elemento [BLOCKQUOTE](http://www.w3api.com/wiki/HTML:BLOCKQUOTE) es que históricamente ha sido utilizado para identar texto. Sobre todo antes de que apareciesen las hojas de estilo. Es por ello que los agentes no insertan comillas. De una forma u otra hay que asegurar la compatibilidad. En estos casos podemos apoyarnos en las hojas de estilos [CSS](http://www.manualweb.net/css/) para corregir este “defecto”.
 
 
-![](http://lineadecodigo.com/wp-content/uploads/2006/12/quote_firefox.miniatura.jpg)
+![](../../../../assets/html/images/quote_firefox.miniatura.jpg)
 
 
-![](http://lineadecodigo.com/wp-content/uploads/2006/12/quote_ie.miniatura.jpg)
+![](../../../../assets/html/images/quote_ie.miniatura.jpg)
 
 
-![](http://lineadecodigo.com/wp-content/uploads/2006/12/quote_opera.miniatura.jpg)
+![](../../../../assets/html/images/quote_opera.miniatura.jpg)
 

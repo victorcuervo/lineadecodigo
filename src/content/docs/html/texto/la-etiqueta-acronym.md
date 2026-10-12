@@ -46,5 +46,5 @@ Y cual es el resultado en el navegador. Pues sencillo, nos muestra un tooltip co
 Veamos como queda en Internet Explorer 6.01, Firefox 1.5 y Opera 8
 
 
-![](http://lineadecodigo.com/wp-content/uploads/2006/12/acronym.miniatura.jpg)
+![](../../../../assets/html/images/acronym.miniatura.jpg)
 
