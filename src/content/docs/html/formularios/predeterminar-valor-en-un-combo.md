@@ -31,7 +31,7 @@ Cuando estamos poniendo un combo en nuestra página web nos ayudaremos de las et
 En la página web veríamos el siguiente efecto: Si queremos que salga marcada una opción por defecto, deberemos de utilizar el [atributo SELECTED](http://w3api.com/wiki/HTML:Selected) sobre la etiqueta [OPTION](http://w3api.com/wiki/HTML:OPTION) que contenga el valor por defecto. Así, si queremos que salga Paris como opción por defecto, deberemos de tener el siguiente código:
 
 
-![](../../../../assets/html/images/combouno.jpg)
+![](http://lineadecodigo.com/wp-content/uploads/2006/12/combouno.jpg)
 
 
 ```html
@@ -50,5 +50,5 @@ En la página web veríamos el siguiente efecto: Si queremos que salga marcada u
 Y se nos producirá el siguiente efecto:
 
 
-![](../../../../assets/html/images/combodos.jpg)
+![](http://lineadecodigo.com/wp-content/uploads/2006/12/combodos.jpg)
 
