@@ -2,7 +2,7 @@
 title: "Tres Frames"
 description: "Crea una página con tres frames utilizando HTML y aprende a estructurar contenido de forma efectiva. Descubre cómo optimizar tu diseño web con esta técnica."
 date: 2007-03-24
-updatedDate: 2026-01-19
+updatedDate: 2026-10-12
 tags: ["frame","frameset","rows","cols","noframes"]
 slug: html/frames/tres-frames
 type: doc

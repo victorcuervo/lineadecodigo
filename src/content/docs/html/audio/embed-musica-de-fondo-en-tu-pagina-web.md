@@ -2,7 +2,7 @@
 title: "Embed - Música de fondo en tu página web"
 description: "Descubre cómo añadir música de fondo en tu página web utilizando el elemento embed y sus atributos. Mejora la experiencia del usuario con este recurso técnico."
 date: 2007-03-24
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["embed","autostart","bgsound"]
 slug: html/audio/embed-musica-de-fondo-en-tu-pagina-web
 type: doc

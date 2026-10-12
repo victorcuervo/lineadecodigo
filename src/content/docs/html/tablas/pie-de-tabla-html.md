@@ -2,7 +2,7 @@
 title: "Pie de tabla HTML"
 description: "Aprende a crear un pie de tabla HTML con el elemento tfoot para resumir información de manera efectiva y organizada en tus tablas. ¡Hazlo ahora!"
 date: 2015-06-04
-updatedDate: 2026-02-12
+updatedDate: 2026-10-12
 tags: ["tfoot","table","thead","html","tr","td"]
 slug: html/tablas/pie-de-tabla-html
 type: doc

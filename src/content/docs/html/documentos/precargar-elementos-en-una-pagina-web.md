@@ -2,7 +2,7 @@
 title: "Precargar elementos en una página web"
 description: "Precargar elementos en una página web con prefetch, preload y preconnect: aprende cuándo usar cada técnica sin desperdiciar datos ni ancho de banda."
 date: 2010-12-21
-updatedDate: 2026-09-29
+updatedDate: 2026-10-12
 tags: ["link","rendimiento","http","url","html5","api"]
 slug: html/documentos/precargar-elementos-en-una-pagina-web
 type: doc

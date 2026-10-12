@@ -2,7 +2,7 @@
 title: "Título en tabla HTML"
 description: "Aprende a añadir un título en tabla HTML fácilmente utilizando el elemento caption para mejorar la accesibilidad y la comprensión de tus datos. ¡Descubre cómo hacerlo!"
 date: 2015-06-02
-updatedDate: 2026-01-19
+updatedDate: 2026-10-12
 tags: ["table","tr","td","th","caption"]
 slug: html/tablas/titulo-en-tabla-html
 type: doc

@@ -2,7 +2,7 @@
 title: "Icono en la barra de navegación"
 description: "Icono en la barra de navegación: aprende a configurar un favicon con HTML, formatos ICO, PNG y SVG, tamaños, rutas y soluciones para la caché."
 date: 2007-03-11
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["html","icono","link"]
 slug: html/documentos/icono-en-la-barra-de-navegacion
 type: doc

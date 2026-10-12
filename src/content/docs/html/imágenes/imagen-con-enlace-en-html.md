@@ -2,7 +2,7 @@
 title: "Imagen con enlace en HTML"
 description: "Como crear una imagen con enlace en HTML para que al pinchar nos lleve a otra página web mediante los elementos HTML img y anchor o a."
 date: 2010-02-02
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["imagenes","enlaces","href","alt"]
 slug: html/imagenes/imagen-con-enlace-en-html
 type: doc

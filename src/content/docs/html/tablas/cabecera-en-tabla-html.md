@@ -2,7 +2,7 @@
 title: "Cabecera en tabla HTML"
 description: "Ejemplo que nos enseña a utilizar los elementos th y thead para poder definir una cabecera en tabla html"
 date: 2015-06-01
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["thead","th","td","table"]
 slug: html/tablas/cabecera-en-tabla-html
 type: doc

@@ -2,8 +2,8 @@
 title: "Elemento rango en formularios HTML5"
 description: ""
 date: 2012-01-31
-updatedDate: 2026-01-24
-tags: ["HTML Form Input","HTML5 Form","HTML5 Form Range","Javascript Eventos","Javascript Eventos addEventListener","Javascript DOM","DOM EventTarget","DOM EventTarget addEventListener","DOM Event preventDefault","HTML Form"]
+updatedDate: 2026-10-12
+tags: ["Javascript Eventos","Javascript Eventos addEventListener","Javascript DOM"]
 slug: html/formularios/elemento-rango-en-formularios-html5
 type: doc
 topic: html

@@ -2,7 +2,7 @@
 title: "Tablas HTML con borde"
 description: "Pasos a realizar para poder tener Tablas HTML con borde en nuestra página web mediante el atributo border de Cascading Style Sheets (CSS)."
 date: 2012-05-24
-updatedDate: 2026-01-10
+updatedDate: 2026-10-12
 tags: ["table","td","border","css"]
 slug: html/tablas/tablas-html-con-borde
 type: doc

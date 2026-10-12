@@ -2,7 +2,7 @@
 title: "Patrones en formularios con HTML5 pattern"
 description: "Aprende a implementar patrones en formularios con HTML5 pattern para validar entradas de usuario de manera efectiva y mejorar la experiencia en tus proyectos web."
 date: 2013-03-03
-updatedDate: 2026-01-19
+updatedDate: 2026-10-12
 tags: ["input","required","form","pattern"]
 slug: html/formularios/patrones-en-formularios-con-html5-pattern
 type: doc

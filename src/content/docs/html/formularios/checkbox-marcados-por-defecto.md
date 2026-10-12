@@ -2,7 +2,7 @@
 title: "Checkbox marcados por defecto"
 description: "Ejemplo que nos explica como tener los checkbox marcados por defecto en un formulario dentro de una página web."
 date: 2006-12-18
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["input","checkbox","label","checked"]
 slug: html/formularios/checkbox-marcados-por-defecto
 type: doc

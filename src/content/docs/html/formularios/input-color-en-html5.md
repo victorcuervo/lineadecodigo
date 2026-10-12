@@ -2,7 +2,7 @@
 title: "Input Color en HTML5"
 description: "Descubre cómo utilizar el input color en HTML5 para ofrecer a los usuarios una experiencia intuitiva al elegir colores desde una paleta. ¡Mejora tus formularios hoy!"
 date: 2019-02-19
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["input","color","form"]
 slug: html/formularios/input-color-en-html5
 type: doc

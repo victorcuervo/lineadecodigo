@@ -2,7 +2,7 @@
 title: "Crear un polígono en Canvas HTML5"
 description: "Crear un polígono en Canvas HTML5 paso a paso: define sus vértices, recorre las coordenadas con JavaScript y aplica contorno y relleno con un ejemplo completo."
 date: 2021-02-25
-updatedDate: 2026-09-29
+updatedDate: 2026-10-12
 tags: ["canvas","path","line","stroke","array"]
 slug: html/graficos/crear-un-poligono-en-canvas-html5
 type: doc

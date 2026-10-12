@@ -2,7 +2,7 @@
 title: "Agrupar columnas en una tabla HTML"
 description: "Utilización del atributo colspan para agrupar columnas en una tabla HTML de una forma sencilla y contado paso a paso."
 date: 2015-06-06
-updatedDate: 2026-01-18
+updatedDate: 2026-10-12
 tags: ["colspan","table","tr","td","th"]
 slug: html/tablas/agrupar-columnas-en-una-tabla-html
 type: doc

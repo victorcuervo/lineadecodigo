@@ -2,7 +2,7 @@
 title: "Especificar una duración en HTML5"
 description: "Descubre cómo especificar una duración en HTML5 utilizando el elemento time y los atributos adecuados para eventos, películas y más. ¡Optimiza tu código ahora!"
 date: 2012-10-11
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["datetime","time","periodo"]
 slug: html/semantica/especificar-una-duracion-en-html5
 type: doc

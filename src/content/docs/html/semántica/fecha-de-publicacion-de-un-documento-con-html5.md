@@ -2,7 +2,7 @@
 title: "Fecha de publicación de un documento con HTML5"
 description: "Aprende a insertar fechas en documentos HTML5 utilizando el elemento time y el atributo pubdate para señalar la fecha de publicación de manera efectiva."
 date: 2012-10-16
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["time","pubdate","datetime"]
 slug: html/semantica/fecha-de-publicacion-de-un-documento-con-html5
 type: doc

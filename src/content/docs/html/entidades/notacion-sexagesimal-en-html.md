@@ -2,7 +2,7 @@
 title: "Notación sexagesimal en HTML"
 description: "Descubre cómo utilizar la notación sexagesimal en HTML con entidades para representar grados, minutos y segundos de forma precisa y atractiva para tus páginas web."
 date: 2007-12-31
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["prime","sexagesimal"]
 slug: html/entidades/notacion-sexagesimal-en-html
 type: doc

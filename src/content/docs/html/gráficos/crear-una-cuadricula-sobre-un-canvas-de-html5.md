@@ -2,7 +2,7 @@
 title: "Crear una cuadrícula sobre un canvas de HTML5"
 description: "Crear una cuadrícula sobre un canvas de HTML5 paso a paso: dibuja líneas con JavaScript y personaliza sus dimensiones, color, grosor y separación."
 date: 2012-08-31
-updatedDate: 2026-09-29
+updatedDate: 2026-10-12
 tags: ["canvas","line","stroke","width","height"]
 slug: html/graficos/crear-una-cuadricula-sobre-un-canvas-de-html5
 type: doc

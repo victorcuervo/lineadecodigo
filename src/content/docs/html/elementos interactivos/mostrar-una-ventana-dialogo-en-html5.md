@@ -2,8 +2,8 @@
 title: "Mostrar una ventana dialogo en HTML5"
 description: "Ejemplo de cómo se puede gestionar el elemento dialog y poder mostrar una ventana dialogo en HTML5 mediante Javascript."
 date: 2024-01-15
-updatedDate: 2026-01-06
-tags: ["dialog","HTML5 Básicos"]
+updatedDate: 2026-10-12
+tags: ["dialog"]
 slug: html/elementos-interactivos/mostrar-una-ventana-dialogo-en-html5
 type: doc
 topic: html

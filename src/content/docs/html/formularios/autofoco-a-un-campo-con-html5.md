@@ -2,7 +2,7 @@
 title: "Autofoco a un campo con HTML5"
 description: "Descubre cómo implementar autofoco a un campo en HTML5 de manera sencilla y efectiva, mejorando la experiencia del usuario en tus formularios."
 date: 2012-02-05
-updatedDate: 2026-02-13
+updatedDate: 2026-10-12
 tags: ["input","form","focus"]
 slug: html/formularios/autofoco-a-un-campo-con-html5
 type: doc

@@ -2,7 +2,7 @@
 title: "Formulario en Ventana Dialogo con HTML5"
 description: "Descubre cómo implementar un formulario en ventana diálogo con HTML5 para mejorar la experiencia del usuario y captar su atención de manera efectiva."
 date: 2023-10-30
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["form","dialog","showmodal"]
 slug: html/formularios/formulario-en-ventana-dialogo-con-html5
 type: doc

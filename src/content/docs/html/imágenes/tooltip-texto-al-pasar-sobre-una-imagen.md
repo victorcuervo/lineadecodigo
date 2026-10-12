@@ -2,7 +2,7 @@
 title: "Tooltip, texto al pasar sobre una imágen"
 description: "Cómo crear un tooltip para que aparezca texto al pasar sobre una imágen"
 date: 2006-11-18
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["imagenes","texto","tooltip"]
 slug: html/imagenes/tooltip-texto-al-pasar-sobre-una-imagen
 type: doc

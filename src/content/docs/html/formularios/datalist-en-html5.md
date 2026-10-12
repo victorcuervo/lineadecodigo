@@ -2,7 +2,7 @@
 title: "DataList en HTML5"
 description: "Un DataList en HTML5 permite definir opciones predefinidas para elementos input, mejorando la experiencia del usuario."
 date: 2012-02-01
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["formulario","datalist","input","option"]
 slug: html/formularios/datalist-en-html5
 type: doc

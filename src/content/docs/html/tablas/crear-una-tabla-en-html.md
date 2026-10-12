@@ -2,7 +2,7 @@
 title: "Crear una tabla en HTML"
 description: "Aprende a crear una tabla en HTML de manera sencilla y efectiva. Conoce los elementos clave que necesitas para organizar tus datos de forma clara y atractiva."
 date: 2012-05-22
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["table","td","tr"]
 slug: html/tablas/crear-una-tabla-en-html
 type: doc

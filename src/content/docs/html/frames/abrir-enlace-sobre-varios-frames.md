@@ -2,7 +2,7 @@
 title: "Abrir enlace sobre varios frames"
 description: "Ejemplo de página HTML en la que podemos abrir enlace sobre varios frames de tal manera que se cargue la nueva página eliminando todos los frames."
 date: 2006-11-04
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["a","target","frame"]
 slug: html/frames/abrir-enlace-sobre-varios-frames
 type: doc

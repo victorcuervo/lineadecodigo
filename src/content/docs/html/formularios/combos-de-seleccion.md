@@ -2,7 +2,7 @@
 title: "Combos de selección"
 description: "Cómo montar un formularios con combos de selección en HTML para que nos permita elegir una de las opciones, así como marcar una preferente."
 date: 2006-11-02
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["select","option","form","selected"]
 slug: html/formularios/combos-de-seleccion
 type: doc

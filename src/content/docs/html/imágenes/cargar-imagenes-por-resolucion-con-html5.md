@@ -2,7 +2,7 @@
 title: "Cargar imágenes por resolución con HTML5"
 description: "Aprende a cargar imágenes por resolución con HTML5 usando el elemento picture y media queries para crear aplicaciones web responsive y optimizadas."
 date: 2021-02-11
-updatedDate: 2026-02-10
+updatedDate: 2026-10-12
 tags: ["picture","source","srcset","media"]
 slug: html/imagenes/cargar-imagenes-por-resolucion-con-html5
 type: doc

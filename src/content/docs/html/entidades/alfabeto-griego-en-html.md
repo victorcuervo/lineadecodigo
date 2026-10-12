@@ -2,7 +2,7 @@
 title: "Alfabeto griego en HTML"
 description: "Manejo de las entidades para poder utilizar el alfabeto griego en HTML."
 date: 2007-07-01
-updatedDate: 2026-01-08
+updatedDate: 2026-10-12
 tags: ["entidades","alfabeto-griego"]
 slug: html/entidades/alfabeto-griego-en-html
 type: doc

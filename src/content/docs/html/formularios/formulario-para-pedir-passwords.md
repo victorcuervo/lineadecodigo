@@ -2,7 +2,7 @@
 title: "Formulario para pedir passwords"
 description: "Explicación de cómo crear un Formulario para pedir passwords en HTML mediante un campo de entrada de texto de tipo password."
 date: 2006-11-13
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["form","input","password"]
 slug: html/formularios/formulario-para-pedir-passwords
 type: doc

@@ -2,7 +2,7 @@
 title: "Secciones en HTML5"
 description: "Para definir secciones en HTML 5 tenemos el elemento section. Este elemento nos permite definir tnantas secciones como necesitemos en nuestro documento."
 date: 2018-09-23
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["section"]
 slug: html/semantica/secciones-en-html5
 type: doc

@@ -2,7 +2,7 @@
 title: "Resultado de un formulario en ventana nueva"
 description: "Descubre cómo abrir el resultado de un formulario en ventana nueva utilizando el atributo target en HTML. Mantén tu página original intacta y mejora la experiencia del usuario."
 date: 2007-09-04
-updatedDate: 2026-01-19
+updatedDate: 2026-10-12
 tags: ["form","target","_blank"]
 slug: html/formularios/resultado-de-un-formulario-en-ventana-nueva
 type: doc

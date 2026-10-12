@@ -2,7 +2,7 @@
 title: "Volumen del Audio con HTML5"
 description: "Descubre cómo controlar el volumen del audio con HTML5 utilizando un slider y JavaScript. Aprende a implementar esta funcionalidad de manera sencilla y efectiva."
 date: 2016-10-21
-updatedDate: 2026-01-19
+updatedDate: 2026-10-12
 tags: ["addeventlistener","getelementbyid","range","volume"]
 slug: html/audio/volumen-del-audio-con-html5
 type: doc

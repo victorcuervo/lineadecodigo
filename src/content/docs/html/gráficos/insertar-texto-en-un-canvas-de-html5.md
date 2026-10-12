@@ -2,7 +2,7 @@
 title: "Insertar texto en un Canvas de HTML5"
 description: "Aprende a insertar texto en un Canvas de HTML5 con un formato personalizado y efectos. Descubre cómo hacerlo y mejora tus proyectos web de forma efectiva."
 date: 2012-07-11
-updatedDate: 2026-01-24
+updatedDate: 2026-10-12
 tags: ["canvas","getcontext","filltext","font"]
 slug: html/graficos/insertar-texto-en-un-canvas-de-html5
 type: doc

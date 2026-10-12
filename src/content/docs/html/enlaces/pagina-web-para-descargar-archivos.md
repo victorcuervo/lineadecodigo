@@ -2,7 +2,7 @@
 title: "Página web para descargar archivos"
 description: "Página web para descargar archivos que permite acceder a diferentes enlaces de manera sencilla y eficiente."
 date: 2006-11-21
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["a","enlaces"]
 slug: html/enlaces/pagina-web-para-descargar-archivos
 type: doc

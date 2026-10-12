@@ -2,7 +2,7 @@
 title: "Descargar imagen con HTML5"
 description: "Descargar imagen con HTML5: utiliza el atributo download en enlaces, define el nombre del archivo y conoce sus límites de origen y compatibilidad."
 date: 2020-03-23
-updatedDate: 2026-09-29
+updatedDate: 2026-10-12
 tags: ["a","href","img","imagenes","descargar","download"]
 slug: html/imagenes/descargar-imagen-con-html5
 type: doc

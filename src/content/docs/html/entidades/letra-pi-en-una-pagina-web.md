@@ -2,7 +2,7 @@
 title: "Letra PI en una página web"
 description: "Podremos poner una letra PI en una página web si sabemos utilizar las entidades en HTML."
 date: 2006-12-01
-updatedDate: 2026-01-07
+updatedDate: 2026-10-12
 tags: ["entidades","pi"]
 slug: html/entidades/letra-pi-en-una-pagina-web
 type: doc

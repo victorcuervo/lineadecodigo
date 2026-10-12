@@ -2,7 +2,7 @@
 title: "Puntos suspensivos en HTML"
 description: "Utilizar las entidades para poder poner puntos suspensivos en HTML."
 date: 2007-07-09
-updatedDate: 2026-01-08
+updatedDate: 2026-10-12
 tags: ["entidades","puntos-suspensivos","hellip"]
 slug: html/entidades/puntos-suspensivos-en-html
 type: doc

@@ -2,7 +2,7 @@
 title: "Hipervinculos - enlazar dos páginas web"
 description: "Ejemplo básico de HTML que nos enseña a enlazar dos páginas web. Base con la que funciona Internet y que son conocidos como hipervínculos."
 date: 2006-11-06
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["a","href","target","title","type"]
 slug: html/enlaces/hipervinculos-enlazar-dos-paginas-web
 type: doc
@@ -10,6 +10,8 @@ topic: html
 id: 24b3045d-32fa-4f90-a9aa-9bb00c57275b
 author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/enlaces/enlazar-dos-paginas.html
+video: TumSNGO4nJQ
+videoDate: 2013-12-09
 ---
 
 Uno de los principios sobre los que se sustenta la WWW es el enlazado de documentos. Así que vamos a aprender a enlazar dos páginas web. Esto se basa en el concepto de Hipertexto, que viene a decir algo así como presentar documentos que puedan bifurcarse o ejecutarse cuando sea solicitado. Esta definición se data en 1963 por **el sociólogo Theodore Holm Nelson**, mucho antes de que naciese la WWW.

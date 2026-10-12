@@ -2,7 +2,7 @@
 title: "Listas ordenadas en HTML"
 description: "Aprende a crear listas ordenadas en HTML de manera sencilla y efectiva. Descubre cómo estructurar elementos con OL y LI para mejorar la presentación de tus datos."
 date: 2013-12-15
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["ol","li"]
 slug: html/listas/listas-ordenadas-en-html
 type: doc

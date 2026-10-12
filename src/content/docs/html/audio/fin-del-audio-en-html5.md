@@ -2,7 +2,7 @@
 title: "Fin del audio en HTML5"
 description: "Controla el fin del audio en HTML5 de manera sencilla y efectiva. Aprende a gestionar eventos y mejora la experiencia de usuario en tus proyectos web."
 date: 2016-10-17
-updatedDate: 2026-02-12
+updatedDate: 2026-10-12
 tags: ["audio","controls","ended"]
 slug: html/audio/fin-del-audio-en-html5
 type: doc

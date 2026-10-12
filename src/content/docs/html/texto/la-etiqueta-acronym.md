@@ -2,7 +2,7 @@
 title: "La etiqueta acronym"
 description: "La etiqueta acronym nos permite insertar acrónimos de una forma sencilla en una página web."
 date: 2006-12-02
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["acronym"]
 slug: html/texto/la-etiqueta-acronym
 type: doc

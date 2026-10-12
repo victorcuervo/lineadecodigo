@@ -2,7 +2,7 @@
 title: "Activar el corrector ortográfico con HTML5"
 description: "Descubre cómo activar el corrector ortográfico con HTML5 y controla esta función en tus formularios. Mejora la experiencia del usuario y potencia tu web."
 date: 2012-03-06
-updatedDate: 2026-01-18
+updatedDate: 2026-10-12
 tags: ["textarea","spellcheck"]
 slug: html/formularios/activar-el-corrector-ortografico-con-html5
 type: doc

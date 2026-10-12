@@ -2,7 +2,7 @@
 title: "Utilizar la ñ en HTML"
 description: "Cómo tenemos que codificar nuestra página web para poder utilizar la ñ en HTML mediante entidades HTML o gestionando el código de charset."
 date: 2010-01-25
-updatedDate: 2026-01-05
+updatedDate: 2026-10-12
 tags: ["entidades","letra-ñ"]
 slug: html/entidades/utilizar-la-n-en-html
 type: doc

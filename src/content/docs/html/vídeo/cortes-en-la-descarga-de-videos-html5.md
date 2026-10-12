@@ -2,7 +2,7 @@
 title: "Cortes en la descarga de vídeos HTML5"
 description: "Cómo gestionar el evento onsuspend para poder controlar cortes en la descarga de vídeo HTML5 y poder gestionar la información hacía el usuario."
 date: 2025-02-20
-updatedDate: 2026-01-05
+updatedDate: 2026-10-12
 tags: ["video","onsuspend","source","addeventlistener"]
 slug: html/video/cortes-en-la-descarga-de-videos-html5
 type: doc

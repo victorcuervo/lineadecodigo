@@ -2,7 +2,7 @@
 title: "Cargar una imagen AVIF"
 description: "Cómo utilizar los elementos picture y source de HTML5 para poder cargar una imagen AVIF y tener un fallback más tradicional."
 date: 2023-10-10
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["picture","source","avif"]
 slug: html/imagenes/cargar-una-imagen-avif
 type: doc

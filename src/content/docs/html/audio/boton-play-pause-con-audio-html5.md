@@ -2,7 +2,7 @@
 title: "Botón play pause con audio HTML5"
 description: "Aprende a crear un botón play pause con audio HTML5 que permite reproducir y detener música de manera sencilla y efectiva en tu web. ¡Descúbrelo ya!"
 date: 2015-07-14
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["audio","play","pause"]
 slug: html/audio/boton-play-pause-con-audio-html5
 type: doc

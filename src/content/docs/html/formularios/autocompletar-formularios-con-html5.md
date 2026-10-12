@@ -2,7 +2,7 @@
 title: "Autocompletar formularios con HTML5"
 description: "Descubre cómo autocompletar formularios con HTML5 para mejorar la experiencia del usuario. Controla el autocompletado activando o desactivando este útil atributo."
 date: 2012-04-19
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["form","autocomplete"]
 slug: html/formularios/autocompletar-formularios-con-html5
 type: doc

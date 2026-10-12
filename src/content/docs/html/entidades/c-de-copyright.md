@@ -2,8 +2,8 @@
 title: "c de copyright"
 description: "Cómo utilizar una entidad HTML para poder poner una c de copyright en los pie de página de nuestras web de una forma sencilla y rápida."
 date: 2007-01-02
-updatedDate: 2026-01-07
-tags: ["HTML Entidades"]
+updatedDate: 2026-10-12
+tags: []
 slug: html/entidades/c-de-copyright
 type: doc
 topic: html

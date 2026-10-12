@@ -2,7 +2,7 @@
 title: "Dibujar un triángulo en HTML5"
 description: "Dibujar un triángulo en HTML5 paso a paso con Canvas: crea la ruta con moveTo y lineTo, añade relleno y borde, y evita los errores habituales."
 date: 2021-02-15
-updatedDate: 2026-09-29
+updatedDate: 2026-10-12
 tags: ["canvas","triangulo","line","stroke","fill","getcontext"]
 slug: html/graficos/dibujar-un-triangulo-en-html5
 type: doc

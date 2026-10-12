@@ -2,7 +2,7 @@
 title: "Subsecciones en HTML5"
 description: "Descubre cómo crear subsecciones en HTML5 anidando elementos section para mejorar la estructura de tus documentos y facilitar la accesibilidad y organización."
 date: 2018-09-24
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["section","h1"]
 slug: html/semantica/subsecciones-en-html5
 type: doc

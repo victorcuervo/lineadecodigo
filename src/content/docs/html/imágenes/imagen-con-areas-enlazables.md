@@ -2,7 +2,7 @@
 title: "Imagen con áreas enlazables"
 description: "Código que nos enseña como podemos crear una Imagen con áreas enlazables de tal manera que cada área tenga un enlace diferente."
 date: 2010-09-24
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["map","usemap","shape","coords","image"]
 slug: html/imagenes/imagen-con-areas-enlazables
 type: doc

@@ -2,7 +2,7 @@
 title: "Insertar gráfico SVG en HTML5"
 description: "Guía sobre cómo insertar gráficos SVG en HTML5, destacando sus beneficios y métodos de implementación."
 date: 2025-12-12
-updatedDate: 2026-01-07
+updatedDate: 2026-10-12
 tags: ["svg","img","object","embed","imagenes"]
 slug: html/imagenes/insertar-grafico-svg-en-html5
 type: doc

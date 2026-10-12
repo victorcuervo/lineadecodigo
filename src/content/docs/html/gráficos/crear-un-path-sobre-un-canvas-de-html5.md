@@ -2,7 +2,7 @@
 title: "Crear un Path sobre un Canvas de HTML5"
 description: "Crear un Path sobre un Canvas de HTML5: aprende a iniciar rutas, trazar líneas y arcos, aplicar estilos y dibujarlas con stroke o fill paso a paso."
 date: 2012-07-30
-updatedDate: 2026-09-29
+updatedDate: 2026-10-12
 tags: ["canvas","path","getcontext","stroke","line"]
 slug: html/graficos/crear-un-path-sobre-un-canvas-de-html5
 type: doc

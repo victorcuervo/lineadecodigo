@@ -2,7 +2,7 @@
 title: "Enlaces a Teléfonos"
 description: "Descubre cómo crear enlaces a teléfonos con el protocolo tel y mejora la interacción de tus páginas web con los dispositivos. ¡Haz que tus usuarios se conecten fácilmente!"
 date: 2019-01-16
-updatedDate: 2026-01-24
+updatedDate: 2026-10-12
 tags: ["a","href","tel"]
 slug: html/enlaces/enlaces-a-telefonos
 type: doc

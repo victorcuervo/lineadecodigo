@@ -2,7 +2,7 @@
 title: "Navegaciones en HTML5"
 description: "Descubre cómo crear navegaciones en HTML5 de forma sencilla utilizando el elemento nav, ideal para agrupar enlaces y mejorar la estructura de tu sitio web."
 date: 2018-09-26
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["nav","header"]
 slug: html/semantica/navegaciones-en-html5
 type: doc

@@ -2,7 +2,7 @@
 title: "Input email en HTML5"
 description: "Aprende a insertar un input email en HTML5 para gestionar fácilmente correos electrónicos en formularios, simplificando la validación sin Javascript."
 date: 2019-01-21
-updatedDate: 2026-01-24
+updatedDate: 2026-10-12
 tags: ["email","input","formulario","validation"]
 slug: html/formularios/input-email-en-html5
 type: doc

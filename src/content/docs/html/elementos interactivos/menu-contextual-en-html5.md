@@ -2,7 +2,7 @@
 title: "Menú Contextual en HTML5"
 description: "Menú contextual en HTML5: crea una alternativa moderna con JavaScript, controla el clic derecho y añade opciones accesibles mediante teclado."
 date: 2012-02-14
-updatedDate: 2026-09-29
+updatedDate: 2026-10-12
 tags: ["html5","preventdefault","addeventlistener","accesibilidad","mouse","keyboard"]
 slug: html/elementos-interactivos/menu-contextual-en-html5
 type: doc

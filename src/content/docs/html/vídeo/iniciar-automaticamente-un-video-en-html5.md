@@ -2,7 +2,7 @@
 title: "Iniciar automáticamente un vídeo en HTML5"
 description: "Aprende a iniciar automáticamente un vídeo en HTML5 con técnicas sencillas que mejorarán la experiencia del usuario en tu sitio web. ¡No te lo pierdas!"
 date: 2012-01-16
-updatedDate: 2026-01-24
+updatedDate: 2026-10-12
 tags: ["video","play","autoplay"]
 slug: html/video/iniciar-automaticamente-un-video-en-html5
 type: doc

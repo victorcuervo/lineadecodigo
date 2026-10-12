@@ -2,7 +2,7 @@
 title: "Comentarios en HTML"
 description: "Los comentarios en HTML explican el código, mejoran la colaboración y deben usarse con moderación para optimizar el tiempo de carga."
 date: 2006-12-09
-updatedDate: 2026-01-05
+updatedDate: 2026-10-12
 tags: ["comentarios"]
 slug: html/basicos/comentarios-en-html
 type: doc

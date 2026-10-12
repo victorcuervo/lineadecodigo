@@ -2,7 +2,7 @@
 title: "Poner flechas en HTML"
 description: "Uso de las entidades para poder poner flechas en HTML."
 date: 2007-07-05
-updatedDate: 2026-01-08
+updatedDate: 2026-10-12
 tags: ["entidades","flechas"]
 slug: html/entidades/poner-flechas-en-html
 type: doc

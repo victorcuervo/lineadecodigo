@@ -2,7 +2,7 @@
 title: "Detectar el soporte del Canvas de HTML5"
 description: "Descubre cómo detectar el soporte del Canvas de HTML5 en tu navegador usando Modernizr o propiedades del DOM. Asegúrate de que tu desarrollo sea compatible."
 date: 2012-08-29
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["canvas","getelementbyid","modernizr"]
 slug: html/graficos/detectar-el-soporte-del-canvas-de-html5
 type: doc

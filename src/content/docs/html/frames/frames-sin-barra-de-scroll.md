@@ -2,7 +2,7 @@
 title: "Frames sin barra de scroll"
 description: ""
 date: 2006-12-06
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["frame","scrollbar","scrolling","frameset"]
 slug: html/frames/frames-sin-barra-de-scroll
 type: doc

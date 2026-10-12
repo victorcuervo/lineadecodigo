@@ -2,7 +2,7 @@
 title: "Alto y ancho de una imagen con HTML"
 description: "Manejo de los atributos width y height para poder configurar el alto y ancho de una imagen con HTML dentro de nuestra página web."
 date: 2007-12-03
-updatedDate: 2026-01-05
+updatedDate: 2026-10-12
 tags: ["imagenes","img","width","height"]
 slug: html/imagenes/alto-y-ancho-de-una-imagen-con-html
 type: doc
@@ -10,6 +10,8 @@ topic: html
 id: f3a0ed41-fe08-4004-a1fd-db4da5417ff9
 author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/imagenes/alto-ancho-imagen.html
+video: ou-UwtE7fuk
+videoDate: 2015-08-14
 ---
 
 Cuando aprendemos a escribir lenguaje [HTML](https://www.manualweb.net/html/) para crear nuestras páginas web aguantaremos poco creando páginas web con solo texto y estaremos deseosos de insertarle alguna imagen para darlas colorido.

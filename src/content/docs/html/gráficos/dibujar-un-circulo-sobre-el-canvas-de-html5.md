@@ -2,7 +2,7 @@
 title: "Dibujar un círculo sobre el canvas de HTML5"
 description: "Dibujar un círculo sobre el CANVAS de HTML5 paso a paso: utiliza arc con radianes, aplica relleno y borde, y aprende a crear arcos completos."
 date: 2012-08-03
-updatedDate: 2026-09-29
+updatedDate: 2026-10-12
 tags: ["canvas","circle","circulo","radio","fill","stroke"]
 slug: html/graficos/dibujar-un-circulo-sobre-el-canvas-de-html5
 type: doc

@@ -2,7 +2,7 @@
 title: "Buscar por un vídeo en HTML5"
 description: "Cómo utilizar el evento onseeking para poder controlar el buscar por un vídeo en HTML5 y volcar el segundo al que se ha desplazado el usuario."
 date: 2025-02-09
-updatedDate: 2026-01-05
+updatedDate: 2026-10-12
 tags: ["video","onseek","currenttimemillis","source","getelementbyid"]
 slug: html/video/buscar-por-un-video-en-html5
 type: doc

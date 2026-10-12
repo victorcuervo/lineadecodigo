@@ -2,7 +2,7 @@
 title: "Navegación primaria en HTML5 accesible"
 description: "Para poder crear una navegación primaria en HTML5 accesible deberemos de apoyarnos en elemento nav y en su atributo aria-labelledby para darle un texto."
 date: 2018-10-23
-updatedDate: 2026-01-23
+updatedDate: 2026-10-12
 tags: ["accesibilidad","nav","aria-labelledby"]
 slug: html/accesibilidad/navegacion-primaria-en-html5-accesible
 type: doc

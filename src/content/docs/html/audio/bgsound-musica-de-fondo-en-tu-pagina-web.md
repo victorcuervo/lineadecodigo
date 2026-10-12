@@ -2,7 +2,7 @@
 title: "BGSound - Música de fondo en tu página web"
 description: "Descubre cómo utilizar el atributo BGSound para añadir música de fondo en tu página web y revive la nostalgia de la era dorada de Internet con melodías inolvidables."
 date: 2007-03-18
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["bgsound"]
 slug: html/audio/bgsound-musica-de-fondo-en-tu-pagina-web
 type: doc

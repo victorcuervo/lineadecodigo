@@ -2,7 +2,7 @@
 title: "Deshabilitar un botón en HTML"
 description: "Cómo utilizar el atributo disabled sobre un elemento button o input para poder deshabilitar un botón en HTML y así no poder interactuar."
 date: 2024-01-18
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["input","button","disabled"]
 slug: html/formularios/deshabilitar-un-boton-en-html
 type: doc

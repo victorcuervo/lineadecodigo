@@ -2,7 +2,7 @@
 title: "Abrir enlace en una nueva ventana"
 description: "Cómo configurar un elemento a o anchor para poder abrir enlace en una nueva ventana utilizando el valor _blank es su atributo target."
 date: 2006-12-22
-updatedDate: 2026-01-05
+updatedDate: 2026-10-12
 tags: ["link","a","target","_blank"]
 slug: html/enlaces/abrir-enlace-en-una-nueva-ventana
 type: doc

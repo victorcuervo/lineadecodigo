@@ -2,7 +2,7 @@
 title: "Poner título a una página web"
 description: "Poner título a una página web: aprende a usar la etiqueta title de HTML, dónde colocarla y cómo crear títulos claros, accesibles y útiles para SEO."
 date: 2009-04-25
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["html","title","head"]
 slug: html/documentos/poner-titulo-a-una-pagina-web
 type: doc

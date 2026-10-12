@@ -2,7 +2,7 @@
 title: "Ir al principio y al final de una página web"
 description: "Crear enlaces internos de la página para ir al principio y al final de una página web."
 date: 2006-11-10
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: []
 slug: html/enlaces/ir-al-principio-y-al-final-de-una-pagina-web
 type: doc

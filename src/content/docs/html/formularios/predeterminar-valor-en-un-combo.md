@@ -2,7 +2,7 @@
 title: "Predeterminar valor en un combo"
 description: "Cómo construir un formulario en HTML en el que puedas predeterminar valor en un combo."
 date: 2006-11-16
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["form","select","option"]
 slug: html/formularios/predeterminar-valor-en-un-combo
 type: doc

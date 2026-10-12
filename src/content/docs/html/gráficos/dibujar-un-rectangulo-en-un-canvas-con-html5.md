@@ -2,7 +2,7 @@
 title: "Dibujar un rectángulo en un Canvas con HTML5"
 description: "Aprende a dibujar un rectángulo en un Canvas con HTML5 y sorpréndete con las posibilidades que ofrece esta tecnología. ¡No te lo pierdas!"
 date: 2012-06-30
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["canvas","getelementbyid","getcontext","fillrect"]
 slug: html/graficos/dibujar-un-rectangulo-en-un-canvas-con-html5
 type: doc

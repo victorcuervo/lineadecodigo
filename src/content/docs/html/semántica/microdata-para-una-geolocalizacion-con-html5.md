@@ -2,7 +2,7 @@
 title: "Microdata para una geolocalización con HTML5"
 description: "Aprende a utilizar microdata para una geolocalización efectiva en HTML5 y mejora la semántica de tu página, facilitando así su integración con mapas y servicios."
 date: 2012-10-17
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["microdata","geocoordinates","itemscope","itemtype","itemprop"]
 slug: html/semantica/microdata-para-una-geolocalizacion-con-html5
 type: doc

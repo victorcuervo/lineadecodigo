@@ -2,7 +2,7 @@
 title: "Subíndice en HTML"
 description: "Descubre cómo utilizar el elemento SUB en HTML para crear subíndices de manera sencilla y efectiva, ideal para fórmulas químicas y notación matemática."
 date: 2009-01-15
-updatedDate: 2026-01-19
+updatedDate: 2026-10-12
 tags: ["sub","subindice"]
 slug: html/texto/subindice-en-html
 type: doc

@@ -2,7 +2,7 @@
 title: "Saltos de línea en HTML"
 description: "Una de las primeras cosas que deberemos de aprender en nuestras páginas web es crear saltos de línea en HTML."
 date: 2006-11-29
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["br"]
 slug: html/basicos/saltos-de-linea-en-html
 type: doc

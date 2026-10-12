@@ -2,7 +2,7 @@
 title: "Poner citas en HTML"
 description: "Mediante el elemento cite podremos poner citas en HTML de una forma sencilla y con un gran resultado"
 date: 2006-12-19
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["blockquote","q","cite"]
 slug: html/texto/poner-citas-en-html
 type: doc

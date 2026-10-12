@@ -2,7 +2,7 @@
 title: "Fecha de publicación de un artículo en HTML5"
 description: "Descubre cómo identificar la fecha de publicación de un artículo en HTML5 utilizando el elemento time y el atributo pubdate para mejorar la semántica de tus documentos."
 date: 2012-10-18
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["time","datetime","article","header"]
 slug: html/semantica/fecha-de-publicacion-de-un-articulo-en-html5
 type: doc

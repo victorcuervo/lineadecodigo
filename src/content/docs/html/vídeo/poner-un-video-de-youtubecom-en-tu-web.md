@@ -2,7 +2,7 @@
 title: "Poner un vídeo de youtube.com en tu web"
 description: "Analizar el código de HTML que deberemos de utilizar para poner un vídeo de youtube en tu web."
 date: 2007-07-16
-updatedDate: 2026-01-07
+updatedDate: 2026-10-12
 tags: ["youtube","object","embed","param"]
 slug: html/video/poner-un-video-de-youtubecom-en-tu-web
 type: doc

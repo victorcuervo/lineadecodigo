@@ -2,7 +2,7 @@
 title: "Cargar una imagen en diferido con HTML5"
 description: "Aprende a cargar una imagen en diferido con HTML5 utilizando el atributo loading. Optimiza la velocidad de tu página y mejora la experiencia del usuario."
 date: 2022-05-09
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["img","loading","lazy"]
 slug: html/imagenes/cargar-una-imagen-en-diferido-con-html5
 type: doc

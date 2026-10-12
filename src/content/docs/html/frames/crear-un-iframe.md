@@ -2,7 +2,7 @@
 title: "Crear un iframe"
 description: "Aprende a crear un iframe en HTML y optimiza la carga de contenido externo en tu página web para mejorar la experiencia del usuario y la accesibilidad."
 date: 2022-05-05
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["iframe","frame","width","height"]
 slug: html/frames/crear-un-iframe
 type: doc

@@ -2,7 +2,7 @@
 title: "Propiedades de enlaces de email"
 description: "Como manejar un enlace en HTML para poder modificar las propiedades de enlaces de email."
 date: 2007-03-24
-updatedDate: 2026-01-07
+updatedDate: 2026-10-12
 tags: ["enlaces","a","mailto","subject","bcc","cc","body"]
 slug: html/enlaces/propiedades-de-enlaces-de-email
 type: doc

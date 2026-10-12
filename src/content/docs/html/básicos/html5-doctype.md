@@ -2,7 +2,7 @@
 title: "HTML5 doctype"
 description: "Explicación para saber un poco más sobre qué es el HTML5 Doctype, para qué sirve, la historia de los doctypes y que pasa si no lo usamos."
 date: 2025-02-22
-updatedDate: 2026-01-05
+updatedDate: 2026-10-12
 tags: ["doctype","quircks","html5"]
 slug: html/basicos/html5-doctype
 type: doc
@@ -10,6 +10,8 @@ topic: html
 id: 4d58661a-ea81-4a5d-924b-2f24b3db4b84
 author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Basicos/doctype.html
+video: LcREIsDbrEo
+videoDate: 2012-12-25
 ---
 
 Una de las preguntas que me hace la gente cuando realiza desarrollo web es relativa al HTML5 doctype y los doctypes existentes. Preguntas, por ejemplo, sobre ¿cuál es el doctype en [HTML5](https://www.manualweb.net/html5/)? ¿Para qué sirve el doctype? ¿qué usos se hace el [navegador web](https://www.ayudaenlaweb.com/navegadores/que-es-un-navegador/) sobre el doctype?

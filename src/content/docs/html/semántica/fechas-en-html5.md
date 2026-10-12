@@ -2,7 +2,7 @@
 title: "Fechas en HTML5"
 description: "Aprende a usar el elemento time en HTML5 para añadir fechas a tus páginas web. Mejora la semántica y la accesibilidad de tu contenido con este sencillo método."
 date: 2012-10-09
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["time","datetime","iso8601","gtm","utc"]
 slug: html/semantica/fechas-en-html5
 type: doc

@@ -2,7 +2,7 @@
 title: "Definir columnas en una tabla HTML"
 description: "Pasos que tenemos que dar para poder definir columnas en una tabla HTML mediante los elementos col y colspan."
 date: 2023-10-04
-updatedDate: 2026-01-10
+updatedDate: 2026-10-12
 tags: ["col","th","td","table","colspan"]
 slug: html/tablas/definir-columnas-en-una-tabla-html
 type: doc

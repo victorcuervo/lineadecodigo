@@ -2,7 +2,7 @@
 title: "Combos con imágenes"
 description: "Cómo crear combos con imágenes en formularios HTML usando CSS para un mejor diseño visual."
 date: 2006-12-05
-updatedDate: 2026-01-07
+updatedDate: 2026-10-12
 tags: ["background","form","option","select","imagenes"]
 slug: html/formularios/combos-con-imagenes
 type: doc

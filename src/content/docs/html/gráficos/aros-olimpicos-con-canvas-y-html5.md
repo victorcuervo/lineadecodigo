@@ -2,7 +2,7 @@
 title: "Aros Olímpicos con Canvas y HTML5"
 description: "Aros Olímpicos con Canvas y HTML5: aprende a dibujar los cinco aros con JavaScript, colores, trazos y arcos que simulan su efecto entrelazado."
 date: 2012-08-05
-updatedDate: 2026-09-29
+updatedDate: 2026-10-12
 tags: ["html5","canvas","getcontext","stroke"]
 slug: html/graficos/aros-olimpicos-con-canvas-y-html5
 type: doc

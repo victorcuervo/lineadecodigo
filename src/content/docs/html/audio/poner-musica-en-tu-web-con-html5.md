@@ -2,7 +2,7 @@
 title: "Poner música en tu web con HTML5"
 description: "Aprende a poner música en tu web con HTML5 usando el elemento AUDIO y sus controles. Descubre formatos compatibles y mejora tu sitio hoy mismo."
 date: 2012-05-16
-updatedDate: 2026-01-19
+updatedDate: 2026-10-12
 tags: ["audio","formatos","mpeg","ogg","acc"]
 slug: html/audio/poner-musica-en-tu-web-con-html5
 type: doc

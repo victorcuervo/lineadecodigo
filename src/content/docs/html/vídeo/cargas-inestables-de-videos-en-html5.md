@@ -2,7 +2,7 @@
 title: "Cargas inestables de vídeos en HTML5"
 description: "Controla cargas inestables de vídeos en HTML5 y mejora la experiencia del usuario al evitar problemas de reproducción con soluciones simples y efectivas."
 date: 2025-02-08
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["video","onwaiting"]
 slug: html/video/cargas-inestables-de-videos-en-html5
 type: doc

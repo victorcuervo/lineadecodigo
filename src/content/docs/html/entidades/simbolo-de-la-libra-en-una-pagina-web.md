@@ -2,8 +2,8 @@
 title: "Símbolo de la libra en una página web"
 description: ""
 date: 2007-06-03
-updatedDate: 2026-01-07
-tags: ["HTML Entidades"]
+updatedDate: 2026-10-12
+tags: []
 slug: html/entidades/simbolo-de-la-libra-en-una-pagina-web
 type: doc
 topic: html

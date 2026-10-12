@@ -2,7 +2,7 @@
 title: "Poner bullets en HTML"
 description: "Aprende a manipular las entidades para poder poner bullets en HTML."
 date: 2007-07-31
-updatedDate: 2026-01-19
+updatedDate: 2026-10-12
 tags: ["lista","ul","li","bullet","bull","entidades"]
 slug: html/listas/poner-bullets-en-html
 type: doc

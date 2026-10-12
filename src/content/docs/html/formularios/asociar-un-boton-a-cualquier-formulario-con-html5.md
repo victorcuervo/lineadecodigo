@@ -2,7 +2,7 @@
 title: "Asociar un botón a cualquier formulario con HTML5"
 description: "Descubre cómo asociar un botón a cualquier formulario con HTML5 y optimiza la funcionalidad de tus formularios con atributos como formaction y formmethod."
 date: 2022-05-22
-updatedDate: 2026-01-23
+updatedDate: 2026-10-12
 tags: ["button","form","formaction","formmethod"]
 slug: html/formularios/asociar-un-boton-a-cualquier-formulario-con-html5
 type: doc

@@ -2,7 +2,7 @@
 title: "Dibujar líneas en Canvas con HTML5"
 description: "Dibujar líneas en Canvas con HTML5 paso a paso: crea rutas con moveTo y lineTo, aplica color, grosor y extremos, y mejora la nitidez del trazo."
 date: 2012-06-04
-updatedDate: 2026-09-29
+updatedDate: 2026-10-12
 tags: ["canvas","line","stroke","style","width"]
 slug: html/graficos/dibujar-lineas-en-canvas-con-html5
 type: doc

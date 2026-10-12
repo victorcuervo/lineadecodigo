@@ -2,7 +2,7 @@
 title: "Raíz cuadrada en HTML"
 description: "Aprende a insertar una raíz cuadrada en HTML utilizando entidades. Con un simple código, podrás mostrar fórmulas matemáticas de forma correcta y efectiva."
 date: 2010-10-08
-updatedDate: 2026-01-19
+updatedDate: 2026-10-12
 tags: ["entidades","raiz-cuadrada"]
 slug: html/entidades/raiz-cuadrada-en-html
 type: doc

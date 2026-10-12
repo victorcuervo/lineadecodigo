@@ -2,7 +2,7 @@
 title: "Texto en negrita con HTML"
 description: "Explicación del uso del elemento b y el elemento strong en HTML 4.01 para poder poner texto en negrita con HTML."
 date: 2009-08-01
-updatedDate: 2026-01-05
+updatedDate: 2026-10-12
 tags: ["texto","negrita","b","strong"]
 slug: html/texto/texto-en-negrita-con-html
 type: doc

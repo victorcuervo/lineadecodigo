@@ -2,7 +2,7 @@
 title: "Agrupar filas en una tabla html"
 description: "Aprende a agrupar filas en una tabla HTML utilizando el atributo rowspan para crear estructuras más organizadas y complejas que mejoren la presentación de tus datos."
 date: 2015-06-05
-updatedDate: 2026-01-23
+updatedDate: 2026-10-12
 tags: ["table","tr","td","colspan"]
 slug: html/tablas/agrupar-filas-en-una-tabla-html
 type: doc

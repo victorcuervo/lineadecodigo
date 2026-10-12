@@ -2,7 +2,7 @@
 title: "Insertar una imagen en un canvas HTML5"
 description: "Aprende a insertar una imagen en un canvas HTML5 de manera sencilla y efectiva. Sigue nuestros pasos y transforma tus gráficos web con facilidad."
 date: 2012-09-06
-updatedDate: 2026-09-29
+updatedDate: 2026-10-12
 tags: ["canvas","getcontext","image","drawimage"]
 slug: html/graficos/insertar-una-imagen-en-un-canvas-html5
 type: doc

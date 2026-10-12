@@ -2,7 +2,7 @@
 title: "Fondo de pantalla estático en hi5.com"
 description: "Aprende a configurar un fondo de pantalla estático en Hi5 utilizando HTML y CSS para personalizar tu perfil y destacar visualmente tu página."
 date: 2007-06-02
-updatedDate: 2026-01-24
+updatedDate: 2026-10-12
 tags: ["hi5","background-repeat","background-attachment","background-image"]
 slug: html/imagenes/fondo-de-pantalla-estatico-en-hi5com
 type: doc

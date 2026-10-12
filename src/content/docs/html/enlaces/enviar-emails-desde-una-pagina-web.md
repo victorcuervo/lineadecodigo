@@ -2,7 +2,7 @@
 title: "Enviar emails desde una página web"
 description: "Descubre cómo enviar emails desde una página web utilizando formularios HTML. Aprende a configurar tus enlaces y a recibir opiniones de manera sencilla y efectiva."
 date: 2009-02-27
-updatedDate: 2026-01-24
+updatedDate: 2026-10-12
 tags: ["mailto","form","action","email"]
 slug: html/enlaces/enviar-emails-desde-una-pagina-web
 type: doc

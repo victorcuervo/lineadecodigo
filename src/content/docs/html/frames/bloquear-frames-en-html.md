@@ -2,7 +2,7 @@
 title: "Bloquear frames en HTML"
 description: "Descubre cómo bloquear frames en HTML utilizando el atributo NORESIZE para mantener el diseño de tu página intacto y mejorar la experiencia del usuario."
 date: 2008-02-11
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["frame","frameset","frameborder","noresize"]
 slug: html/frames/bloquear-frames-en-html
 type: doc

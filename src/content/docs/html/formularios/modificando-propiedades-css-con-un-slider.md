@@ -2,7 +2,7 @@
 title: "Modificando propiedades CSS con un Slider"
 description: "Descubre cómo modificar propiedades CSS con un slider y transforma tu diseño web de manera dinámica. ¡Haz que tu página sea interactiva y atractiva!"
 date: 2012-02-23
-updatedDate: 2026-01-17
+updatedDate: 2026-10-12
 tags: ["form","range","css","style","border-radius"]
 slug: html/formularios/modificando-propiedades-css-con-un-slider
 type: doc

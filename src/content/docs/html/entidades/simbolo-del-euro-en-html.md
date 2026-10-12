@@ -2,8 +2,8 @@
 title: "Símbolo del Euro en HTML"
 description: "Como manejar entidades para poder insertar un símbolo del Euro en HTML."
 date: 2007-02-03
-updatedDate: 2026-02-04
-tags: ["HTML Entidades"]
+updatedDate: 2026-10-12
+tags: []
 slug: html/entidades/simbolo-del-euro-en-html
 type: doc
 topic: html

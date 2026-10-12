@@ -2,7 +2,7 @@
 title: "Crear una plantilla en HTML5"
 description: "Ejemplo que nos enseña a crear una plantilla en HTML5 para poder rellenar el contenido de una tabla utilizando código Javascript."
 date: 2023-10-03
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["template","createelement","queryselector","queryselectorall","clonenode","appendchild"]
 slug: html/semantica/crear-una-plantilla-en-html5
 type: doc

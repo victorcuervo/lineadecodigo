@@ -2,7 +2,7 @@
 title: "Abreviaturas en HTML"
 description: "Descubre cómo utilizar la etiqueta ABBR en HTML para crear abreviaturas efectivas y mejorar la accesibilidad de tu contenido web. ¡Optimiza tu sitio ahora!"
 date: 2007-02-26
-updatedDate: 2026-01-23
+updatedDate: 2026-10-12
 tags: ["abbr"]
 slug: html/texto/abreviaturas-en-html
 type: doc

@@ -2,7 +2,7 @@
 title: "Música aleatoria con HTML5"
 description: "Descubre cómo implementar música aleatoria con HTML5 en tu página web. Aprende a crear un reproductor dinámico y ofrece una experiencia auditiva única a tus usuarios."
 date: 2016-10-19
-updatedDate: 2026-01-23
+updatedDate: 2026-10-12
 tags: ["audio","controls","getelementbyid","math","random","play"]
 slug: html/audio/musica-aleatoria-con-html5
 type: doc

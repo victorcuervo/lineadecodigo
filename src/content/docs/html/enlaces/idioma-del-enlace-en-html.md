@@ -2,7 +2,7 @@
 title: "Idioma del enlace en HTML"
 description: "Aprende a configurar el idioma del enlace en HTML utilizando el atributo hreflang para mejorar la accesibilidad y el SEO de tus páginas web."
 date: 2009-01-02
-updatedDate: 2026-01-24
+updatedDate: 2026-10-12
 tags: ["a","href","hreflang"]
 slug: html/enlaces/idioma-del-enlace-en-html
 type: doc

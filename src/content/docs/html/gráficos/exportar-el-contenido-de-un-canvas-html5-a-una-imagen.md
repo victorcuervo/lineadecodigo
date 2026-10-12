@@ -2,7 +2,7 @@
 title: "Exportar el contenido de un Canvas HTML5 a una imagen"
 description: "Aprende a exportar el contenido de un Canvas HTML5 a una imagen en formatos PNG y JPEG, mejorando tus habilidades gráficas y la interactividad de tus proyectos."
 date: 2012-09-11
-updatedDate: 2026-01-24
+updatedDate: 2026-10-12
 tags: ["canvas","image","todataurl"]
 slug: html/graficos/exportar-el-contenido-de-un-canvas-html5-a-una-imagen
 type: doc

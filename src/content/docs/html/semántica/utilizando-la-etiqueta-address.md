@@ -2,7 +2,7 @@
 title: "Utilizando la etiqueta ADDRESS"
 description: "Utilizando la etiqueta ADDRESS: aprende a marcar datos de contacto en HTML con semántica correcta, ejemplos prácticos y buenas prácticas actuales."
 date: 2010-09-08
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["html","address","semantica"]
 slug: html/semantica/utilizando-la-etiqueta-address
 type: doc

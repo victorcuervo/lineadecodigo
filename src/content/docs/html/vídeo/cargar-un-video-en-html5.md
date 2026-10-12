@@ -2,7 +2,7 @@
 title: "Cargar un vídeo en HTML5"
 description: "Aprende a cargar un vídeo en HTML5 de manera sencilla y estandarizada, garantizando compatibilidad y funcionalidad para tus proyectos web. ¡Descubre cómo ahora!"
 date: 2012-01-10
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["video","source","type"]
 slug: html/video/cargar-un-video-en-html5
 type: doc

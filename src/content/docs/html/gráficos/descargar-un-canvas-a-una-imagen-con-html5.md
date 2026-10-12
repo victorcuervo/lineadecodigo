@@ -2,7 +2,7 @@
 title: "Descargar un Canvas a una imagen con HTML5"
 description: "Aprende a descargar un Canvas a una imagen con HTML5 utilizando un simple código. Convierte tu contenido en imágenes fácilmente y mejora tu proyecto web."
 date: 2012-09-28
-updatedDate: 2026-01-24
+updatedDate: 2026-10-12
 tags: ["canvas","todataurl","image"]
 slug: html/graficos/descargar-un-canvas-a-una-imagen-con-html5
 type: doc

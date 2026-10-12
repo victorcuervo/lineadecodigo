@@ -2,7 +2,7 @@
 title: "Formatos Audio HTML5"
 description: "Conoce los formatos audio HTML5 y aprende a insertarlos en tu web para asegurar compatibilidad. Mejora tu contenido y ofrece una mejor experiencia a tus usuarios."
 date: 2016-10-04
-updatedDate: 2026-01-24
+updatedDate: 2026-10-12
 tags: ["source","audio","type"]
 slug: html/audio/formatos-audio-html5
 type: doc

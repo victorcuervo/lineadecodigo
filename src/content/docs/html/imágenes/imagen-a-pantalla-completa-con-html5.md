@@ -2,7 +2,7 @@
 title: "Imagen a pantalla completa con HTML5"
 description: "Imagen a pantalla completa con HTML5: utiliza requestFullscreen, controla la salida y gestiona eventos para crear galerías accesibles y modernas."
 date: 2019-01-17
-updatedDate: 2026-09-29
+updatedDate: 2026-10-12
 tags: ["fullscreen","requestfullscreen","fullscreenchange","img","image"]
 slug: html/imagenes/imagen-a-pantalla-completa-con-html5
 type: doc

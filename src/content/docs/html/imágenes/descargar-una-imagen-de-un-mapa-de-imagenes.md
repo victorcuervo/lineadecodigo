@@ -2,7 +2,7 @@
 title: "Descargar una imagen de un mapa de imágenes"
 description: "Descubre cómo descargar una imagen de un mapa de imágenes en HTML5 y optimiza tus galerías para una experiencia eficiente y fluida en dispositivos móviles."
 date: 2025-02-25
-updatedDate: 2026-02-13
+updatedDate: 2026-10-12
 tags: ["img","map","donwload"]
 slug: html/imagenes/descargar-una-imagen-de-un-mapa-de-imagenes
 type: doc

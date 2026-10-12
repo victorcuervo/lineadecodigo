@@ -2,7 +2,7 @@
 title: "Crear un Canvas en HTML5"
 description: "Aprende a crear un Canvas en HTML5 y dibujar gráficos fácilmente. Esta guía te ayudará a gestionar visualmente tus proyectos con eficacia y creatividad."
 date: 2012-02-07
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["canvas","fillrect","fillstyle","getcontext"]
 slug: html/graficos/crear-un-canvas-en-html5
 type: doc

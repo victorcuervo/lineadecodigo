@@ -2,7 +2,7 @@
 title: "Pie de página de un artículo HTML5"
 description: "El elemento footer nos ayuda a definir un pie de página de un artículo HTML5 en el cual insertar información como el autor o la fecha de publicación."
 date: 2018-10-30
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["footer","header","article","time"]
 slug: html/semantica/pie-de-pagina-de-un-articulo-html5
 type: doc

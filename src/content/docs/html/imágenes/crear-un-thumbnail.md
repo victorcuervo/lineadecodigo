@@ -2,7 +2,7 @@
 title: "Crear un thumbnail"
 description: "Un thumbnail reduce el tamaño de la imagen para mejorar la carga y visualización en páginas web."
 date: 2006-11-24
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["imagenes","css","height","width","margin"]
 slug: html/imagenes/crear-un-thumbnail
 type: doc

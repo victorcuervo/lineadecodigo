@@ -2,7 +2,7 @@
 title: "Superíndice con HTML"
 description: "Aprende a usar el superíndice con HTML y mejora la presentación de fórmulas, medidas y referencias en tu web de manera sencilla y efectiva."
 date: 2009-01-17
-updatedDate: 2026-01-19
+updatedDate: 2026-10-12
 tags: ["sup","superindice"]
 slug: html/texto/superindice-con-html
 type: doc

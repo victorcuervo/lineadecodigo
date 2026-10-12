@@ -2,7 +2,7 @@
 title: "Listas desordenadas en HTML"
 description: "Descubre cómo crear listas desordenadas en HTML y personaliza las viñetas a tu gusto. Aprende a estructurar tus listas y mejora tu web de manera efectiva."
 date: 2013-12-17
-updatedDate: 2026-01-23
+updatedDate: 2026-10-12
 tags: ["ul","listas","li"]
 slug: html/listas/listas-desordenadas-en-html
 type: doc

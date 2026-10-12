@@ -2,7 +2,7 @@
 title: "Combo que soporte múltiples selecciones en HTML"
 description: "Combo que soporte múltiples selecciones en HTML: aprende a usar select, option y multiple con ejemplos, envío de datos y buenas prácticas accesibles."
 date: 2009-08-09
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["form","option","select","multiple"]
 slug: html/formularios/combo-que-soporte-multiples-selecciones-en-html
 type: doc

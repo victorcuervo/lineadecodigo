@@ -2,7 +2,7 @@
 title: "Mostrar elementos HTML"
 description: "Como manipular las entidades para que podamos mostrar elementos HTML sin que se lleguen a ejecutar."
 date: 2007-07-19
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: []
 slug: html/entidades/mostrar-elementos-html
 type: doc

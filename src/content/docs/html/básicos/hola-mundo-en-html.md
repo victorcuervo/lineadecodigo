@@ -2,7 +2,7 @@
 title: "Hola Mundo en HTML"
 description: "Descripción de cómo realizar mi primer programa Hola Mundo en HTML detallado paso a paso para poder ser creado en un editor de texto."
 date: 2013-12-19
-updatedDate: 2026-01-05
+updatedDate: 2026-10-12
 tags: ["hola-mundo","body","head","meta","h1"]
 slug: html/basicos/hola-mundo-en-html
 type: doc
@@ -10,6 +10,8 @@ topic: html
 id: 6a5af342-63a3-4b2e-948a-1b5de923095d
 author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_html/blob/master/basicos/holamundo.html
+video: gCK_sDaoxiA
+videoDate: 2013-12-16
 ---
 
 Revisando todos los artículos de [Línea de Código](https://lineadecodigo.com/) hemos caído que no teníamos uno sobre Hola Mundo en [HTML](https://www.manualweb.net/html/). Y eso no podíamos dejarlo pasar. En este artículo sobre Hola Mundo en [HTML](https://www.manualweb.net/html/) vamos a ver cómo crear nuestra primera página web [HTML](https://www.manualweb.net/html/).

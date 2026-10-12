@@ -2,7 +2,7 @@
 title: "Tablas HTML con imágenes"
 description: "Descubre cómo crear tablas HTML con imágenes de manera sencilla y efectiva, mejorando la presentación de tus datos y cautivando a tus visitantes."
 date: 2015-06-18
-updatedDate: 2026-01-18
+updatedDate: 2026-10-12
 tags: ["table","tr","td","img"]
 slug: html/tablas/tablas-html-con-imagenes
 type: doc

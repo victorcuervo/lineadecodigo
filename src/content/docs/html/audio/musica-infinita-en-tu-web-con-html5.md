@@ -2,7 +2,7 @@
 title: "Música infinita en tu web con HTML5"
 description: "Descubre cómo implementar música infinita en tu web con HTML5 de manera sencilla usando los atributos autoplay y loop para crear una experiencia envolvente."
 date: 2012-05-20
-updatedDate: 2026-01-23
+updatedDate: 2026-10-12
 tags: ["audio","autoplay","loop"]
 slug: html/audio/musica-infinita-en-tu-web-con-html5
 type: doc

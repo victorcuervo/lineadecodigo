@@ -2,7 +2,7 @@
 title: "Limpiar contenido de un Canvas en HTML5"
 description: "Aprende a limpiar el contenido de un Canvas en HTML5 de manera sencilla y efectiva para que puedas empezar de nuevo tus proyectos gráficos sin complicaciones."
 date: 2012-08-27
-updatedDate: 2026-01-23
+updatedDate: 2026-10-12
 tags: ["canvas","width","addeventlistener","button","stroke"]
 slug: html/graficos/limpiar-contenido-de-un-canvas-en-html5
 type: doc

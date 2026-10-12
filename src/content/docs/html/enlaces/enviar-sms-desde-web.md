@@ -2,7 +2,7 @@
 title: "Enviar SMS desde Web"
 description: "Descubre cómo enviar SMS desde Web con un simple enlace HTML y permite que tus usuarios te contacten fácilmente. ¡Implementa esta función y mejora tu comunicación!"
 date: 2019-01-18
-updatedDate: 2026-01-24
+updatedDate: 2026-10-12
 tags: ["a","href","sms"]
 slug: html/enlaces/enviar-sms-desde-web
 type: doc

@@ -2,7 +2,7 @@
 title: "Configurar teclados para la entrada de datos en HTML5"
 description: "El nuevo atributo autocapitalize nos permite configurar teclados para la entrada de datos en HTML5 y fijar como funcionarán las mayúsculas"
 date: 2021-10-09
-updatedDate: 2026-01-21
+updatedDate: 2026-10-12
 tags: ["form","input","autocapitalize"]
 slug: html/formularios/configurar-teclados-para-la-entrada-de-datos-en-html5
 type: doc

@@ -2,7 +2,7 @@
 title: "Frames sin bordes"
 description: "Cómo deberemos de configurar nuestra página web para que tengamos frames sin bordes."
 date: 2006-11-28
-updatedDate: 2026-01-06
+updatedDate: 2026-10-12
 tags: ["frame","frameset","frameborder"]
 slug: html/frames/frames-sin-bordes
 type: doc

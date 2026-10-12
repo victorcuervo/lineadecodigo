@@ -2,7 +2,7 @@
 title: "Eje de coordenadas en Canvas HTML5"
 description: "Eje de coordenadas en Canvas HTML5 paso a paso: crea una cuadrícula, dibuja los ejes X e Y y añade etiquetas numéricas para representar gráficos."
 date: 2021-02-24
-updatedDate: 2026-09-29
+updatedDate: 2026-10-12
 tags: ["canvas","grid","x","y","line","getcontext"]
 slug: html/graficos/eje-de-coordenadas-en-canvas-html5
 type: doc

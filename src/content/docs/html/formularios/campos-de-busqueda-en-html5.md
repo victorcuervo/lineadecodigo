@@ -2,7 +2,7 @@
 title: "Campos de búsqueda en HTML5"
 description: "Campos de búsqueda en HTML5: aprende a usar input type search, crear un formulario accesible y configurar etiquetas, validación y envío mediante GET."
 date: 2019-03-25
-updatedDate: 2026-09-29
+updatedDate: 2026-10-12
 tags: ["html5","form","input","required","get"]
 slug: html/formularios/campos-de-busqueda-en-html5
 type: doc

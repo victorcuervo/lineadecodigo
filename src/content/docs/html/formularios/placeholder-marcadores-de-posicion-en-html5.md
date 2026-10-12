@@ -2,7 +2,7 @@
 title: "Placeholder - Marcadores de posición en HTML5"
 description: "Placeholder: marcadores de posición en HTML5 para orientar formularios con ejemplos claros, etiquetas accesibles, estilos y validación correcta."
 date: 2011-01-12
-updatedDate: 2026-09-29
+updatedDate: 2026-10-12
 tags: ["placeholder","input","label","formularios","html5","aria"]
 slug: html/formularios/placeholder-marcadores-de-posicion-en-html5
 type: doc

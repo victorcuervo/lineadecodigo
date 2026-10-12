@@ -2,7 +2,7 @@
 title: "Vídeo en bucle"
 description: "Ejemplo que explica cómo crear un vídeo en bucle utilizando código HTML5 y el atributo loop dentro del elemento video."
 date: 2025-04-23
-updatedDate: 2026-01-05
+updatedDate: 2026-10-12
 tags: ["video","loop"]
 slug: html/video/video-en-bucle
 type: doc

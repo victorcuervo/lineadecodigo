@@ -2,7 +2,7 @@
 title: "Cabecera de un artículo en HTML5"
 description: "Descubre cómo crear la cabecera de un artículo en HTML5 de forma efectiva y semántica, incorporando título y subtítulo para atraer a tus lectores."
 date: 2018-10-28
-updatedDate: 2026-09-28
+updatedDate: 2026-10-12
 tags: ["header","article"]
 slug: html/semantica/cabecera-de-un-articulo-en-html5
 type: doc

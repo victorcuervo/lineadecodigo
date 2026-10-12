@@ -2,7 +2,7 @@
 title: "Enlace que abra dos páginas"
 description: "Esta página explica cómo crear un enlace que abra dos páginas simultáneamente para mejorar la navegación del usuario."
 date: 2006-11-22
-updatedDate: 2026-02-13
+updatedDate: 2026-10-12
 tags: ["a","enlaces","window","open","onclick"]
 slug: html/enlaces/enlace-que-abra-dos-paginas
 type: doc

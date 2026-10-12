@@ -2,7 +2,7 @@
 title: "Listas de definiciones en HTML"
 description: "Descubre cómo crear listas de definiciones en HTML para estructurar términos y sus definiciones de manera efectiva y atractiva, mejorando la presentación de tu contenido."
 date: 2013-12-21
-updatedDate: 2026-01-23
+updatedDate: 2026-10-12
 tags: ["dl","dt","dd","glosario","diccionario"]
 slug: html/listas/listas-de-definiciones-en-html
 type: doc
