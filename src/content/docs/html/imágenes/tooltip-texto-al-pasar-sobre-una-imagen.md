@@ -46,5 +46,5 @@ Y veamos el resultado, pasa sobre la imagen…
 Veamos el comportamiento de algunos navegadores:
 
 
-![](../../../../assets/html/images/title_navegadores.miniatura.jpg)
+![](http://lineadecodigo.com/wp-content/uploads/2006/12/title_navegadores.miniatura.jpg)
 

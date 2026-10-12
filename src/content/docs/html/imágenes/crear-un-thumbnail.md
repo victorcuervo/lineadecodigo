@@ -46,7 +46,7 @@ Esta opción tiene dos inconvenientes:
 Veámos como quedaría este código con nuestra imagen:
 
 
-![](../../../../assets/html/images/lineadecodigo.jpg)
+![](http://lineadecodigo.com/wp-content/uploads/2006/12/lineadecodigo.jpg)
 
 
 La seguna opción, y más recomendable, es utilizar algún software de manejo de imágenes para reducirlas. De esta forma la imágen que se visualiza ocupará menos y por consiguiente se tardará menos en cargar.
@@ -68,7 +68,7 @@ Veamos como quedaría nuestra [línea de código](/):
 WordPress nos permite el aplicar una redución a la imágen que estamos subiendo a nuestro blog. Este es un claro ejemplo de utilización de un software para reduccir la imágen. Veamos como quedaría:
 
 
-![](../../../../assets/html/images/lineadecodigo.miniatura.jpg)
+![](http://lineadecodigo.com/wp-content/uploads/2006/12/lineadecodigo.miniatura.jpg)
 
 
 La imagen que se está cargando en esta página es lineadecodigo.miniatura.jpg, mientras que si pulsamos sobre el thumbnail veremos la imágen original lineadecodigo.jpg
