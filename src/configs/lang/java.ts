@@ -6,7 +6,7 @@ export const java = {
     items: [
         {
             label: 'Básicos',							
-            autogenerate: { directory: 'java/basicos' },
+            autogenerate: { directory: 'java/básicos' },
         },
         {
             label: 'Variables', 

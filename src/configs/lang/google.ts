@@ -9,8 +9,8 @@ export const google = {
             autogenerate: { directory: 'google/maps' },
         },
         {
-            label: 'Chart',
-            autogenerate: { directory: 'google/chart' },
+            label: 'Charts',
+            autogenerate: { directory: 'google/charts' },
         },
         {
             label: 'Chrome',

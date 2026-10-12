@@ -45,6 +45,10 @@ export const css = {
             autogenerate: { directory: 'css/box-model' },
         },
         {
+            label: 'Bordes',
+            autogenerate: { directory: 'css/bordes' },
+        },
+        {
             label: 'Overflow y Scroll',
             autogenerate: { directory: 'css/overflow y scroll' },
         },

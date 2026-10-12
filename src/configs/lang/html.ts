@@ -14,7 +14,7 @@ export const html = {
         },
         {
             label: 'Semántica',
-            autogenerate: { directory: 'html/semantica' },
+            autogenerate: { directory: 'html/semántica' },
         },
         {
             label: 'Texto',
@@ -25,20 +25,20 @@ export const html = {
             autogenerate: { directory: 'html/listas' },
         },
         {
-            label: 'Contenedores',
-            autogenerate: { directory: 'html/contenedores' },
-        },
-        {
             label: 'Enlaces',
             autogenerate: { directory: 'html/enlaces' },
         },
         {
             label: 'Imágenes',
-            autogenerate: { directory: 'html/imagenes' },
+            autogenerate: { directory: 'html/imágenes' },
         },
         {
             label: 'Formularios',
             autogenerate: { directory: 'html/formularios' },
+        },
+        {
+            label: 'Elementos Interactivos',
+            autogenerate: { directory: 'html/elementos interactivos' },
         },
         {
             label: 'Tablas',
@@ -50,23 +50,24 @@ export const html = {
         },
         {
             label: 'Gráficos',
-            autogenerate: { directory: 'html/graficos' },
+            autogenerate: { directory: 'html/gráficos' },
         },
         {
             label: 'Audio',
             autogenerate: { directory: 'html/audio' },
-        },        
+        },
         {
             label: 'Vídeo',
-            autogenerate: { directory: 'html/video' },
+            autogenerate: { directory: 'html/vídeo' },
         },
         {
             label: 'Entidades',
             autogenerate: { directory: 'html/entidades' },
         },
         {
-            label: 'Accessibilidad',
-            autogenerate: { directory: 'html/accessibilidad' },
-        },        
+            label: 'Accesibilidad',
+            autogenerate: { directory: 'html/accesibilidad' },
+        },
     ],
 };
+

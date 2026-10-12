@@ -6,7 +6,7 @@ export const python = {
     items: [
         {
             label: 'Básicos',
-            autogenerate: { directory: 'python/basicos' },
+            autogenerate: { directory: 'python/básicos' },
         },
         {
             label: 'Cadenas',

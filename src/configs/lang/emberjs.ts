@@ -6,6 +6,7 @@ export const emberjs = {
     items: [
         {
             label: 'Básicos',
-            autogenerate: { directory: 'emberjs/basicos ' },
-        }],
+            autogenerate: { directory: 'emberjs/básicos' },
+        }
+    ],
 };
