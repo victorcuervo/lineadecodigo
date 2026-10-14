@@ -3,7 +3,7 @@ title: "Vídeo"
 description: "Integra vídeo HTML con controles nativos, formatos compatibles y subtítulos. Comprende source, poster, preload y autoplay con un ejemplo accesible."
 date: 2026-10-14
 updatedDate: 2026-10-14
-tags: ["html","video","source","controls","accesibilidad"]
+tags: ["video","source","controls"]
 slug: html/video
 type: category
 topic: html
