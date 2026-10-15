@@ -2,7 +2,7 @@
 title: "Aros Olímpicos con Canvas y HTML5"
 description: "Aros Olímpicos con Canvas y HTML5: aprende a dibujar los cinco aros con JavaScript, colores, trazos y arcos que simulan su efecto entrelazado."
 date: 2012-08-05
-updatedDate: 2026-10-12
+updatedDate: 2026-10-15
 tags: ["html5","canvas","getcontext","stroke"]
 slug: html/graficos/aros-olimpicos-con-canvas-y-html5
 type: doc
@@ -15,7 +15,7 @@ download: https://github.com/victorcuervo/lineadecodigo_html5/blob/master/Canvas
 Durante los Juegos Olímpicos de Londres 2012, y después de explicar cómo dibujar círculos en HTML5, surgió la idea de utilizar el elemento `<canvas>` para recrear los cinco aros olímpicos. El ejemplo sigue siendo una forma práctica de aprender a crear arcos, definir colores y controlar el grosor de los trazos mediante [JavaScript](https://lineadecodigo.com/javascript/).
 
 
-![Aros olímpicos dibujados con Canvas](http://lineadecodigo.com/wp-content/uploads/2012/08/arosolimpicos.png)
+![Aros olímpicos dibujados con Canvas](../../../../assets/html/images/arosolimpicos.png)
 
 
 ## Preparar el elemento Canvas
