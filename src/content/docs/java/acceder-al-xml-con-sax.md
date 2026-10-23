@@ -18,7 +18,7 @@ download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com
 `SAX` proporciona ese conjunto de eventos y nosotros decidimos qué realizar en cada uno de ellos.
 
 
-Cuando se invoca `parse()`, el parser llama a los métodos del manejador conforme recorre el documento. Entre los eventos habituales están `startElement()`, `characters()` y `endElement()`, que notifican, respectivamente, el inicio de una etiqueta, sus datos de texto y su cierre. El orden de estos eventos refleja el orden de la información en el documento `XML`.[[1]](https://docs.oracle.com/en/java/javase/21/docs/api/java.xml/org/xml/sax/ContentHandler.html)
+Cuando se invoca `parse()`, el parser llama a los métodos del manejador conforme recorre el documento. Entre los eventos habituales están `startElement()`, `characters()` y `endElement()`, que notifican, respectivamente, el inicio de una etiqueta, sus datos de texto y su cierre. El orden de estos eventos refleja el orden de la información en el documento `XML`.
 
 
 ## El evento characters()
@@ -59,7 +59,7 @@ Como el ejemplo usa `println`, cada fragmento recibido se muestra en una línea.
 ## Crear el Handler o Manejador
 
 
-Los eventos que queramos manejar se agrupan en un `Handler` o manejador. [`DefaultHandler`](http://w3api.com/wiki/Java:DefaultHandler) proporciona implementaciones predeterminadas para las interfaces principales de `SAX`, de modo que podemos sobrescribir solo los métodos que necesitemos.[[2]](https://docs.oracle.com/en/java/javase/21/docs/api/java.xml/org/xml/sax/helpers/DefaultHandler.html)
+Los eventos que queramos manejar se agrupan en un `Handler` o manejador. [`DefaultHandler`](http://w3api.com/wiki/Java:DefaultHandler) proporciona implementaciones predeterminadas para las interfaces principales de `SAX`, de modo que podemos sobrescribir solo los métodos que necesitemos.
 
 
 Así que crearemos un manejador que herede de `DefaultHandler`, en el que implementaremos la funcionalidad que nos interese para los eventos.
@@ -85,7 +85,7 @@ parser = factory.newSAXParser();
 ```
 
 
-Este patrón sigue siendo válido en las versiones actuales de [Java](https://lineadecodigo.com/java/). `SAXParserFactory.newInstance()` utiliza el mecanismo de búsqueda de proveedores de JAXP; desde [Java](https://lineadecodigo.com/java/) 9 también existe `newDefaultInstance()`, que selecciona la implementación integrada en el JDK. No es necesario cambiar el ejemplo original para utilizar `SAX`.[[3]](https://docs.oracle.com/en/java/javase/21/docs/api/java.xml/javax/xml/parsers/SAXParserFactory.html)
+Este patrón sigue siendo válido en las versiones actuales de [Java](https://lineadecodigo.com/java/). `SAXParserFactory.newInstance()` utiliza el mecanismo de búsqueda de proveedores de JAXP; desde [Java](https://lineadecodigo.com/java/) 9 también existe `newDefaultInstance()`, que selecciona la implementación integrada en el JDK. No es necesario cambiar el ejemplo original para utilizar `SAX`.
 
 
 ## Configurar el analizador
@@ -159,13 +159,13 @@ factory.setNamespaceAware(true);
 ```
 
 
-La configuración predeterminada de `SAXParserFactory` no activa el soporte de espacios de nombres. Al activarlo, los métodos como `startElement()` reciben información como el `URI` del espacio de nombres, el nombre local y el nombre cualificado; puedes usar esos datos para distinguir elementos con el mismo nombre local en distintos espacios de nombres.[[3]](https://docs.oracle.com/en/java/javase/21/docs/api/java.xml/javax/xml/parsers/SAXParserFactory.html)
+La configuración predeterminada de `SAXParserFactory` no activa el soporte de espacios de nombres. Al activarlo, los métodos como `startElement()` reciben información como el `URI` del espacio de nombres, el nombre local y el nombre cualificado; puedes usar esos datos para distinguir elementos con el mismo nombre local en distintos espacios de nombres.
 
 
 ## Seguridad al procesar XML no confiable
 
 
-Si el `XML` procede de usuarios o de otra fuente no confiable, define una política para las declaraciones `DOCTYPE` y las entidades externas. Una configuración insegura puede permitir ataques `XXE`, que expongan archivos locales o provoquen solicitudes a recursos externos. Los controles disponibles dependen del proveedor; si una opción de seguridad requerida no está soportada, no continúes el procesamiento como si se hubiera aplicado.[[4]](https://cheatsheetseries.owasp.org/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.html)
+Si el `XML` procede de usuarios o de otra fuente no confiable, define una política para las declaraciones `DOCTYPE` y las entidades externas. Una configuración insegura puede permitir ataques `XXE`, que expongan archivos locales o provoquen solicitudes a recursos externos. Los controles disponibles dependen del proveedor; si una opción de seguridad requerida no está soportada, no continúes el procesamiento como si se hubiera aplicado.
 
 
 En [Java](https://lineadecodigo.com/java/) 9 o posterior, con la implementación JAXP integrada, se puede rechazar `DOCTYPE` y activar el procesamiento seguro antes de crear el parser. El siguiente fragmento necesita `import javax.xml.XMLConstants;`:
@@ -179,5 +179,5 @@ SAXParser parser = factory.newSAXParser();
 ```
 
 
-Esta configuración rechaza documentos que incluyen `DOCTYPE`; no la uses sin adaptación si la aplicación necesita `DTD`. Si se utiliza otro proveedor, comprueba sus opciones de seguridad y falla de forma explícita cuando no pueda aplicar las protecciones requeridas.[[4]](https://cheatsheetseries.owasp.org/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.html)[[3]](https://docs.oracle.com/en/java/javase/21/docs/api/java.xml/javax/xml/parsers/SAXParserFactory.html)
+Esta configuración rechaza documentos que incluyen `DOCTYPE`; no la uses sin adaptación si la aplicación necesita `DTD`. Si se utiliza otro proveedor, comprueba sus opciones de seguridad y falla de forma explícita cuando no pueda aplicar las protecciones requeridas.
 
