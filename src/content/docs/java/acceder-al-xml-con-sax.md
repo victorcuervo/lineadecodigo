@@ -2,7 +2,7 @@
 title: "Acceder al XML con SAX"
 description: "Accede al XML con SAX en Java: crea un SAXParser, procesa eventos con DefaultHandler y lee el texto con characters(), con un ejemplo práctico y una nota de seguridad."
 date: 2010-04-17
-updatedDate: 2026-10-23
+updatedDate: 2026-10-24
 tags: ["parse","sax","defaulthandler","saxexception","xml"]
 slug: java/acceder-al-xml-con-sax
 type: doc
@@ -12,13 +12,13 @@ author: victor_cuervo
 download: https://github.com/victorcuervo/lineadecodigo_java/blob/master/src/com/lineadecodigo/java/xml/sax/MiPrimerSAX.java
 ---
 
-`SAX` es un parser que permite analizar documentos [`XML`](http://www.manualweb.net/xml/). Su característica principal es que está basado en eventos, como el inicio o el fin de una etiqueta y el contenido de una etiqueta.
+`SAX` es un parser que permite analizar documentos [XML](https://lineadecodigo.com/xml/). Su característica principal es que está basado en eventos, como el inicio o el fin de una etiqueta y el contenido de una etiqueta.
 
 
 `SAX` proporciona ese conjunto de eventos y nosotros decidimos qué realizar en cada uno de ellos.
 
 
-Cuando se invoca `parse()`, el parser llama a los métodos del manejador conforme recorre el documento. Entre los eventos habituales están `startElement()`, `characters()` y `endElement()`, que notifican, respectivamente, el inicio de una etiqueta, sus datos de texto y su cierre. El orden de estos eventos refleja el orden de la información en el documento `XML`.
+Cuando se invoca `parse()`, el parser llama a los métodos del manejador conforme recorre el documento. Entre los eventos habituales están `startElement()`, `characters()` y `endElement()`, que notifican, respectivamente, el inicio de una etiqueta, sus datos de texto y su cierre. El orden de estos eventos refleja el orden de la información en el documento [XML](https://lineadecodigo.com/xml/).
 
 
 ## El evento characters()
@@ -39,7 +39,7 @@ Este evento se dispara cuando el analizador encuentra contenido de texto. Los pa
 - `start`: la posición inicial del contenido válido dentro de `ch`.
 - `len`: el número de caracteres válidos a partir de `start`.
 
-El parser solo garantiza que los caracteres de una notificación ocupan el rango que empieza en `start` y tiene longitud `len`; no leas fuera de ese rango. Además, puede entregar el texto contiguo en varias llamadas a `characters()`, por lo que no debes asumir que una llamada contiene todo el texto de una etiqueta.[[1]](https://docs.oracle.com/en/java/javase/21/docs/api/java.xml/org/xml/sax/ContentHandler.html)
+El parser solo garantiza que los caracteres de una notificación ocupan el rango que empieza en `start` y tiene longitud `len`; no leas fuera de ese rango. Además, puede entregar el texto contiguo en varias llamadas a `characters()`, por lo que no debes asumir que una llamada contiene todo el texto de una etiqueta.
 
 
 Hay que tener en cuenta y gestionar adecuadamente la excepción [`SAXException`](http://w3api.com/wiki/Java:SAXException).
@@ -76,7 +76,7 @@ public class MiManejador extends DefaultHandler {}
 Una vez creado el manejador, deberemos crear una aplicación de consola normal en [Java](https://lineadecodigo.com/java/) que lo utilice para analizar el documento.
 
 
-Lo primero que necesitamos es el parser (analizador). Para ello instanciamos una factoría de parsers, a la que pediremos uno para analizar nuestro documento [`XML`](http://www.manualweb.net/xml/).
+Lo primero que necesitamos es el parser (analizador). Para ello instanciamos una factoría de parsers, a la que pediremos uno para analizar nuestro documento [XML](https://lineadecodigo.com/xml/).
 
 
 ```java
@@ -91,7 +91,7 @@ Este patrón sigue siendo válido en las versiones actuales de [Java](https://li
 ## Configurar el analizador
 
 
-A continuación, configuraremos el analizador indicándole cuál es el fichero que contiene el documento [`XML`](http://www.manualweb.net/xml/) y qué manejador hemos implementado para analizarlo.
+A continuación, configuraremos el analizador indicándole cuál es el fichero que contiene el documento [XML](https://lineadecodigo.com/xml/) y qué manejador hemos implementado para analizarlo.
 
 
 ```java
@@ -100,7 +100,7 @@ parser.parse(is, manejador);
 ```
 
 
-En este fragmento, `is` representa el flujo de entrada (`InputStream`) que contiene el documento. La apertura y el cierre del flujo dependen de cómo obtengas el `XML`; el ejemplo siguiente muestra una lectura desde un fichero.
+En este fragmento, `is` representa el flujo de entrada (`InputStream`) que contiene el documento. La apertura y el cierre del flujo dependen de cómo obtengas el [XML](https://lineadecodigo.com/xml/); el ejemplo siguiente muestra una lectura desde un fichero.
 
 
 ## Ejemplo completo: leer texto de un XML
@@ -165,7 +165,7 @@ La configuración predeterminada de `SAXParserFactory` no activa el soporte de e
 ## Seguridad al procesar XML no confiable
 
 
-Si el `XML` procede de usuarios o de otra fuente no confiable, define una política para las declaraciones `DOCTYPE` y las entidades externas. Una configuración insegura puede permitir ataques `XXE`, que expongan archivos locales o provoquen solicitudes a recursos externos. Los controles disponibles dependen del proveedor; si una opción de seguridad requerida no está soportada, no continúes el procesamiento como si se hubiera aplicado.
+Si el [XML](https://lineadecodigo.com/xml/) procede de usuarios o de otra fuente no confiable, define una política para las declaraciones `DOCTYPE` y las entidades externas. Una configuración insegura puede permitir ataques `XXE`, que expongan archivos locales o provoquen solicitudes a recursos externos. Los controles disponibles dependen del proveedor; si una opción de seguridad requerida no está soportada, no continúes el procesamiento como si se hubiera aplicado.
 
 
 En [Java](https://lineadecodigo.com/java/) 9 o posterior, con la implementación JAXP integrada, se puede rechazar `DOCTYPE` y activar el procesamiento seguro antes de crear el parser. El siguiente fragmento necesita `import javax.xml.XMLConstants;`:
