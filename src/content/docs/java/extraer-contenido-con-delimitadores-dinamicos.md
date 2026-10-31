@@ -3,7 +3,7 @@ title: "Extraer contenido con delimitadores dinámicos"
 description: "Aprende a extraer contenido con delimitadores dinámicos en Java usando expresiones regulares y split(), controlar campos vacíos y recorrer el resultado."
 date: 2010-05-30
 updatedDate: 2026-10-31
-tags: ["string","stringtokenizer","foreach","array"]
+tags: ["string","stringtokenizer","foreach","array","regexp"]
 slug: java/extraer-contenido-con-delimitadores-dinamicos
 type: doc
 topic: java
@@ -112,21 +112,6 @@ String[] items = datos.replaceFirst("^#[0-9]{2}", "")
 
 
 En este caso, el array conserva también el campo vacío posterior a `#03`. El parámetro `-1` indica que no se deben descartar las cadenas vacías finales.
-
-
-## `split()` frente a `StringTokenizer`
-
-
-[`StringTokenizer`](http://w3api.com/wiki/Java:StringTokenizer) sigue disponible, pero sus delimitadores se interpretan como caracteres individuales y no como una expresión regular. Es suficiente cuando se quiere separar por caracteres sencillos, como una coma o un espacio, pero no cuando el separador tiene un patrón como `#[0-9]{2}`.
-
-
-El método `split()` resulta más apropiado cuando:
-
-- El delimitador necesita una expresión regular.
-- El resultado se va a procesar como un array de `String`.
-- Es necesario controlar campos vacíos mediante el parámetro `limit`.
-
-Conviene validar el formato de entrada antes de procesarlo si los datos proceden de un archivo, una petición web o un usuario. Si faltan delimitadores, aparecen dígitos con una longitud distinta o hay texto inesperado, la expresión regular puede no producir el resultado esperado.
 
 
 Quisiéramos agradecer a [personas como Unai estos aportes tan gratificantes](http://lineadecodigo.com/java/extraer-contenido-separado-por-delimitadores-con-java/#49307) de contenido que ayudan a que todos podamos aprender un poco más.
