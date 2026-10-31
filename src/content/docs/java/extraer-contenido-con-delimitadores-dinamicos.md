@@ -3,7 +3,7 @@ title: "Extraer contenido con delimitadores dinámicos"
 description: "Aprende a extraer contenido con delimitadores dinámicos en Java usando expresiones regulares y split(), controlar campos vacíos y recorrer el resultado."
 date: 2010-05-30
 updatedDate: 2026-10-31
-tags: ["Java String","Java StringTokenizer","Java Util Regex","Java Bucles ForEach","Java Array","string","stringtokenizer"]
+tags: ["string","stringtokenizer","foreach","array"]
 slug: java/extraer-contenido-con-delimitadores-dinamicos
 type: doc
 topic: java
